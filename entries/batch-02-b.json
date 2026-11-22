@@ -242,7 +242,7 @@
     {
       "id": "tour-route",
       "title": "游线",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "造景",
       "period": "古代",
@@ -255,10 +255,23 @@
       ],
       "sources": [
         "wp-chinese-garden",
-        "wp-wayfinding"
+        "wp-wayfinding",
+        "suzhou-ylj-zhuozhengyuan",
+        "peopleapp-zhuozhengyuan"
       ],
       "needs_verification": false,
-      "pending_notes": ""
+      "pending_notes": "",
+      "sections": {
+        "原理": "游线把多个景点按时间与视线顺序串联，决定先看什么、何时转折、在哪里停留。",
+        "典型手法与适用条件": "以起景—发展—高潮—收束组织路径；适用于园林与展陈参观。",
+        "实例": "名称：拙政园；地点：中国苏州（东北街）；设计者：王献臣（文徵明参与设计，据传）；年份：明正德四年（1509 年）；全园分东、中、西三部分逐区展开游线。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "游线过长或重复会疲劳；导向不清会使游客逆行。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：若干景点被游线串联。",
+        "待核实": "暂无已知待核实项（面积等数据各源记载不一，正文不写死）。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polyline points='110,300 230,220 350,280 470,180 600,230 660,160' fill='none' stroke='var(--accent)' stroke-width='3'/><circle cx='230' cy='220' r='12' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='470' cy='180' r='12' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='150' fill='var(--ink)'>景点串联的游线</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     }
   ]
 }

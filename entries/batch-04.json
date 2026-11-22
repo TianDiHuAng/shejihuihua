@@ -152,20 +152,23 @@
       "sections": {
         "原理": "眩光来自视野内过亮的表面或直射光，降低视觉舒适度与识别能力。",
         "典型手法与适用条件": "通过遮阳、反射面控制与工位朝向避开高亮度光源；适用于长时间停留的室内空间。",
-        "实例": "名称：办公空间侧窗眩光控制；地点：待核实；设计者：待核实；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "实例": "名称：中国人民银行西宁中心支行综合办公楼；地点：中国西宁；设计者：待核实；年份：约 1990 年代建成，2020 年照明改造。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "只降低整体照度会牺牲任务可见度；窗面尺寸与遮阳构造需综合判断。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方视线示意：窗与工作位之间需避免直射。",
-        "待核实": "具体办公实例的照度与眩光指数待核实。"
+        "待核实": "照度 475lx 与 UGR 8–19 等数值仅单一来源，待补充独立来源；建筑面积记载不一。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='100' y='90' width='560' height='250' fill='none' stroke='var(--line)'/><rect x='140' y='120' width='120' height='160' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='270' y1='150' x2='560' y2='300' stroke='var(--accent)' stroke-width='3'/><circle cx='570' cy='305' r='18' fill='none' stroke='var(--accent)'/><text x='150' y='100' fill='var(--ink)'>窗</text><text x='580' y='280' fill='var(--ink)'>视线</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-daylighting-architecture",
-        "wp-architectural-lighting-design"
+        "wp-architectural-lighting-design",
+        "iea-pbc-xining",
+        "elicht-pbc-xining",
+        "heuvan-pbc-xining"
       ],
       "needs_verification": true,
-      "pending_notes": "办公实例的照度与眩光实测数据待补充独立来源。"
+      "pending_notes": "照度与 UGR 数值仅单一来源，待补充独立来源；面积记载不一。"
     }
   ]
 }

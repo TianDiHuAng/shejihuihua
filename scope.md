@@ -248,7 +248,7 @@
 | light-well | 天井 | 重要 | 古代 | 中国 | S11 |
 | sunken-atrium | 地下中庭 | 重要 | 20世纪 | 全球 | S1 |
 | level-change | 高差处理 | 核心 | 跨时期 | 全球 | S1 |
-| drainage | 排水 | 核心 | 20世纪 | 全球 | S1 |
+| drainage | 排水 | 核心 | 跨时期 | 全球 | S1 |
 | damp-proofing | 防潮 | 核心 | 20世纪 | 全球 | S1 |
 | safety-guarding | 安全防护 | 核心 | 20世纪 | 全球 | S1 |
 | sunken-accessibility | 下沉空间无障碍 | 核心 | 20世纪 | 全球 | S1 |

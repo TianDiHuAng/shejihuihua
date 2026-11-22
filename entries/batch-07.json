@@ -191,7 +191,7 @@
     {
       "id": "place-attachment",
       "title": "场所依恋",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
       "period": "当代",
@@ -204,8 +204,19 @@
         "wp-environmental-psychology",
         "wp-place-attachment"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "场所依恋指人与特定空间长期互动后形成的情感纽带，使人产生归属、认同与留恋。",
+        "典型手法与适用条件": "保留可辨识的地标与日常活动场所，支持社区记忆；适用于更新与社区设计。",
+        "实例": "名称：社区公共空间的场所依恋营造（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "大拆大建会切断情感联结；符号化复制难以替代真实记忆。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：场所与记忆、归属的联结。",
+        "待核实": "示例社区的研究者与年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='380' cy='200' r='80' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='350' y='205' fill='var(--ink)'>场所</text><line x1='300' y1='140' x2='200' y2='90' stroke='var(--muted)'/><line x1='460' y1='140' x2='560' y2='90' stroke='var(--muted)'/><text x='160' y='80' fill='var(--ink)'>记忆</text><text x='540' y='80' fill='var(--ink)'>归属</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     }
   ]
 }

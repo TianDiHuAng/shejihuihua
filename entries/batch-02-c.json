@@ -146,10 +146,10 @@
     {
       "id": "drainage",
       "title": "排水",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "下沉空间",
-      "period": "20世纪",
+      "period": "跨时期",
       "region": "全球",
       "definition": "引导雨水离开低处空间与铺装的组织方式。",
       "time_or_place": "20世纪、全球（参见来源）。",
@@ -159,10 +159,24 @@
       ],
       "sources": [
         "wp-architecture",
-        "wp-sunken-courtyard"
+        "wp-sunken-courtyard",
+        "gdkcsj-sysu-gym",
+        "sysu-gym-news",
+        "ytsjk-sysu-drainage"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "雨水排放工程参数待补充专业来源；建筑面积记载不一。",
+      "sections": {
+        "原理": "排水依靠坡度、沟槽与集水点，把雨水迅速引离低洼与铺装，避免积水与倒灌。",
+        "典型手法与适用条件": "设置找坡、明沟或暗管与雨水口；下沉空间尤需重点组织。",
+        "实例": "名称：中山大学珠海校区体育馆；地点：中国珠海；设计者：北京市建筑设计研究院股份有限公司；年份：2014–2015 年设计、2017 年投用。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "坡度不足或雨水口堵塞会积水；管径与重现期须按规范校核。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：坡向与集水点。",
+        "待核实": "雨水排放的工程参数（集水坑尺寸、重现期等）待补充专业来源；建筑面积各源记载不一。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='140' x2='680' y2='140' stroke='var(--ink)' stroke-width='2'/><polyline points='300,140 380,220 460,140' fill='none' stroke='var(--muted)' stroke-width='2'/><line x1='360' y1='220' x2='400' y2='300' stroke='var(--accent)' stroke-width='3'/><text x='330' y='110' fill='var(--ink)'>坡向与集水点</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "damp-proofing",

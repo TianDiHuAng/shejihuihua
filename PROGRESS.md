@@ -3,7 +3,7 @@
 - 项目：静态网站《绘画理论与建筑空间设计》
 - 启动时间：2026-11-22 14:57 Asia/Hong_Kong
 - 工作方式：无人值守，按 TASK_design.md 与 WORKFLOW.md 分阶段推进；决策写入 DECISIONS.md
-- 当前轮次：第 18 轮已完成（自动模式）；下一轮：第 19 轮
+- 当前轮次：第 19 轮已完成（自动模式）；下一轮：第 20 轮
 
 ## 阶段状态
 
@@ -13,7 +13,7 @@
 | 1 | 来源库 sources.json | 已完成 | data/sources.json（118 条，115 verified，link_ok 三态）、research/source_notes.md |
 | 2 | 校验器 tools/check.py | 已完成 | tools/check.py、tests/test_check.py（7/7 通过） |
 | 3 | 2 个 L2 样板 | 已完成 | entries/l2-samples.json（透视法、下沉庭院，含自绘 SVG） |
-| 4 | 条目累计 126 | 第 18 轮已完成 | 范围 237；已写 126（L1 38、L2 88）；来源 192；待核实 74 |
+| 4 | 条目累计 126 | 第 19 轮已完成 | 范围 237；已写 126（L1 31、L2 95）；来源 198；待核实 80 |
 | 5 | 总览页 / 索引 / 导航 / REPORT | 已完成 | site/（首页、40 条目页、索引、来源、覆盖报告）、REPORT.md |
 
 ## 本轮完成目标
@@ -26,7 +26,7 @@
 
 ## 下一轮起点
 
-阶段 4：按 BACKLOG 第 19 轮队列执行：补抽 3 条、复核 74 条待核实、升级剩余 38 条 L1→L2、处理 B4 的 6 个未答问题。
+阶段 4：按 BACKLOG 第 20 轮队列执行：补抽 4 条、复核 80 条待核实、升级剩余 31 条 L1→L2、处理 B4 的 6 个未答问题。
 本轮尚未写入 ALL_DONE；AUTONOMOUS.md 规定项目没有“做完”，只有饱和（SATURATION.json）。
 
 ## 变更日志
@@ -66,3 +66,4 @@
 - 2026-11-22 19:4x 第 16 轮自动模式：6 条跨主题重要 L1→L2（beaux-arts/plein-air/gestalt-organization-laws/color-psychology/environmental-psychology/lighting-design）；复核 63 条，six-principles 升级、perspective/sunken-courtyard 收窄；修 lighting-design 取源；抽检 2/3 合格+1 修复（累计 126，L2 75，来源 186）。
 - 2026-11-22 19:5x 第 17 轮自动模式：7 条升级（placemaking/space-syntax/pattern-language/biophilic-design/defensible-space-theory/functionalism-architecture + sunken-plaza L2）；复核 69 条，sunken-plaza 待核实澄清，3 项收窄因 URL 不精确延后；抽检 2/3 合格+1 澄清（累计 126，L2 82）。
 - 2026-11-22 20:0x 第 18 轮自动模式：6 条升级（simplification/hierarchy/color-contrast/framed-scenery/pedestrian-flow/material-texture）；framed-scenery、natural-ventilation 实例补双源（颐和园画中游/恭王府+翠郊院），opposed/leaked 补中国园林博物馆来源；material-texture 待核实扩写；抽检 2/3 合格+1 已修（累计 126，L2 88，来源 192）。
+- 2026-11-22 20:1x 第 19 轮自动模式：7 条升级（几何对称/视觉动势/引导线/节奏重复/场所依恋/游线/排水）；tour-route 用拙政园双源升级、drainage/glare 实例补双源，drainage 补专业来源并修 period；抽检 2/3 合格+1 已修（累计 126，L2 95，来源 198）。

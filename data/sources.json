@@ -2303,6 +2303,78 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；描述对景机制，并明确出现“漏景/漏窗”术语与定义"
+    },
+    {
+      "id": "gdkcsj-sysu-gym",
+      "title": "中山大学珠海校区体育馆 — 广东省工程勘察设计行业协会",
+      "author": "广东省工程勘察设计行业协会",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.gdkcsj.com/m/caseInfo.aspx?id=1487",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载设计单位北京市建筑设计研究院、2014–2015设计、2017投用"
+    },
+    {
+      "id": "sysu-gym-news",
+      "title": "中山大学珠海校区体育馆 — 中山大学新闻网",
+      "author": "中山大学",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.sysu.edu.cn/news/info/2171/587221.htm",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载体育馆建设与投用信息（转南都）"
+    },
+    {
+      "id": "iea-pbc-xining",
+      "title": "Retrofit of office lighting, People's Bank of China Xining — IEA SHC Task 61",
+      "author": "IEA SHC",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://ww.iea-shc.org/Data/Sites/1/publications/CN-Peoples-Bank-of-China.pdf",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载西宁中支办公楼照明改造，照度475lx、UGR 8–19"
+    },
+    {
+      "id": "elicht-pbc-xining",
+      "title": "中国人民银行西宁中心支行照明改造 — 云知光",
+      "author": "云知光",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.elicht.com/view/101733.html",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载该办公楼照明改造案例"
+    },
+    {
+      "id": "heuvan-pbc-xining",
+      "title": "中国人民银行西宁中心支行照明案例 — 恒亦明",
+      "author": "恒亦明",
+      "type": "官方机构",
+      "year": null,
+      "url": "http://www.heuvan.com/news_details.aspx?id=54",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载该办公楼照明案例"
+    },
+    {
+      "id": "ytsjk-sysu-drainage",
+      "title": "中山大学体育馆排水及管线综合设计分析 — 《给水排水》胡雪利",
+      "author": "胡雪利 / 给水排水",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.ytsjk.cn/Book/S-7-5738",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；含集水坑、重现期、下沉空间雨水排放、压力流提升等参数说明（体育馆具体参数单源保留待核实）"
     }
   ]
 }

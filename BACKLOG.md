@@ -25,13 +25,12 @@
 
 执行顺序：每完成一批运行 check.py 并 commit；抽检 10%（至少 3 个）另起子任务。
 
-## 下一轮队列（第 19 轮，按优先级）
+## 下一轮队列（第 20 轮，按优先级）
 
-1. 维持 25% 抽检；补抽 hierarchy/color-contrast/pedestrian-flow 闭环第18轮。
-2. 复核 74 条待核实（material-texture 机理待补源；sunken-plaza 顾如珍单源；glare IEA 单源）。
-3. 继续用现有来源升级剩余 38 条 L1→L2（写前相似度预检 <0.54）。
-4. `courtyard`/`tour-route` 等 L2 实例线索；处理 B4 的 6 个未答读者问题。
-5. 网络恢复后 canonical 复核镜像来源。
+1. 维持 25% 抽检；补抽 leading-lines/rhythm-repetition/place-attachment/tour-route 闭环本轮。
+2. 复核 80 条待核实（sunken-plaza 顾如珍单源、glare 数值单源、material-texture 机理）。
+3. 继续用现有来源升级剩余 31 条 L1→L2（写前相似度预检 <0.54；注意 period 与实例年代一致）。
+4. 处理 B4 的 6 个未答读者问题；网络恢复后 canonical 复核镜像来源。
 
 ## 已完成
 
@@ -53,3 +52,4 @@
 - 第 16 轮：6 条跨主题重要 L1→L2；six-principles 升级（异说并列）、perspective/sunken-courtyard 收窄；修 lighting-design 取源；抽检 2/3 合格+1 已修（L2 75）
 - 第 17 轮：7 条升级（placemaking/space-syntax/pattern-language/biophilic-design/defensible-space-theory/functionalism-architecture/sunken-plaza）；sunken-plaza 待核实澄清；复核 69 条（3 项收窄因 URL 不精确延后）
 - 第 18 轮：6 条升级（simplification/hierarchy/color-contrast/framed-scenery/pedestrian-flow/material-texture）；framed-scenery、natural-ventilation 实例补双源，opposed/leaked 补专门来源；material-texture 待核实扩写（L2 88）
+- 第 19 轮：7 条升级（geometry-symmetry/visual-movement/leading-lines/rhythm-repetition/place-attachment/tour-route/drainage）；tour-route 升级验证、drainage/glare 实例补双源（L2 95）

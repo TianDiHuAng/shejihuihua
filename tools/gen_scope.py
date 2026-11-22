@@ -151,7 +151,7 @@ earth-sheltered|覆土建筑|下沉空间|补充|20世纪|全球|S1
 light-well|天井|下沉空间|重要|古代|中国|S11
 sunken-atrium|地下中庭|下沉空间|重要|20世纪|全球|S1
 level-change|高差处理|下沉空间|核心|跨时期|全球|S1
-drainage|排水|下沉空间|核心|20世纪|全球|S1
+drainage|排水|下沉空间|核心|跨时期|全球|S1
 damp-proofing|防潮|下沉空间|核心|20世纪|全球|S1
 safety-guarding|安全防护|下沉空间|核心|20世纪|全球|S1
 sunken-accessibility|下沉空间无障碍|下沉空间|核心|20世纪|全球|S1
