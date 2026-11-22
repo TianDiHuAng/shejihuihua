@@ -25,12 +25,12 @@
 
 执行顺序：每完成一批运行 check.py 并 commit；抽检 10%（至少 3 个）另起子任务。
 
-## 下一轮队列（第 26 轮，按优先级）
+## 下一轮队列（第 27 轮，按优先级）
 
-1. 升级 5 条新增 L1→L2（rembrandt/tenebrism/plaza/atrium-architecture/exit-sign）。
-2. 维护专项（据体检）：批量去模板化 pending_notes；逐条判定/替换"泛论伞源"（wp-architecture/wp-architectural-style/wp-symmetry/wp-leading-line/wp-graphic-design/wp-visual-arts）；核心条目去骨架化+补具体实例。
-3. 维持 25% 抽检；复核 105 条待核实。
-4. 剩余 1 个读者问题（vestibule id 映射）核对。
+1. 维持 25% 抽检；补抽 tenebrism/plaza 闭环第26轮。
+2. 复核 108 条待核实（green-architecture 已升级；drainage 已收窄；glare/顾如珍单源）。
+3. 维护专项续做：为 12 条单源条目寻找真实第二来源（避免 wp-architecture/wp-symmetry/wp-leading-line 等伞源）；核心条目去骨架化+补具体实例。
+4. 核对剩余 1 个读者问题（vestibule id 映射）；评估"连续零缺口"计数。
 
 ## 已完成
 
@@ -59,3 +59,4 @@
 - 第 23 轮：7 条核心 L1→L2 收尾（东西透视/东西空间/防潮/安全防护/可持续/维特鲁威三原则/下沉无障碍）；**核心与重要条目全部 L2**；The Edge、Peavey Plaza 补双源；返工 3 条（东/西与无障碍引证）；仅余 6 条补充 L1
 - 第 24 轮：6 条补充 L1→L2（空间法则/黄金比/对角/S形/三角/框架构图）——**全库 126 条全部 L2（L1=0）**；spatial-organization（萨伏伊别墅）双源升级、green-architecture 评价数据补多源；返工构图类改为单源如实标注
 - 第 25 轮（体检轮）：体检 0 死链/0 重复/0 孤儿；B4 补齐 5 条新条目（伦勃朗光/暗绘/广场/中庭/疏散标识），读者未答问题 6→1；修 pedestrian-flow 死链、screened-scenery 单源披露；记录模板/伞源系统性问题
+- 第 26 轮：5 条新增 L1→L2（伦勃朗光/暗绘/广场/中庭/疏散标识），**全库 131 条全部 L2**；pending_notes 去模板化（63 同句→各异）；12 条伞源条目改单源如实标注；green-architecture（常州高新智汇中心）升级、drainage 收窄

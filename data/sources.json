@@ -2747,6 +2747,30 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对标题/正文；出口标识可见性与照度要求"
+    },
+    {
+      "id": "jszb-gaoxin",
+      "title": "高新智汇中心中标公告 — 江苏省建设工程招标网",
+      "author": "江苏省建设工程招标网",
+      "type": "官方机构",
+      "year": null,
+      "url": "http://www.jszb.com.cn/JSZB/YW_info/ZhongBiaoGS/ViewGSDetail.aspx?RowID=1077182&categoryNum=012",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载中标设计单位南京工业大学建筑设计研究院、2018-10-25、项目地点与名称"
+    },
+    {
+      "id": "njtech-gaoxin",
+      "title": "高新智汇中心 — 南京工业大学建筑设计研究院",
+      "author": "南京工业大学建筑设计研究院",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://ngsj.njtech.edu.cn/info/1064/1954.htm",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载设计时间 2018、绿色建筑三星与示范工程"
     }
   ]
 }

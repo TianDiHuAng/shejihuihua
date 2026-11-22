@@ -55,7 +55,7 @@
         "wp-urban-design"
       ],
       "needs_verification": true,
-      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "pending_notes": "「人行流线」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
       "sections": {
         "原理": "步行流线以人的通行与停留组织空间，关注安全、舒适与节点停顿，而非单纯通行效率。",
         "典型手法与适用条件": "区分快行与慢行、设置停留节点；适用于街道、广场与商业空间。",
@@ -183,21 +183,19 @@
         "damp-proofing"
       ],
       "sources": [
-        "wp-architecture",
-        "wp-sunken-courtyard",
+        "ytsjk-sysu-drainage",
         "gdkcsj-sysu-gym",
-        "sysu-gym-news",
-        "ytsjk-sysu-drainage"
+        "sysu-gym-news"
       ],
       "needs_verification": true,
-      "pending_notes": "雨水排放工程参数待补充专业来源；建筑面积记载不一。",
+      "pending_notes": "设计者与设计年单源、面积各源不一，待补充。",
       "sections": {
         "原理": "排水依靠坡度、沟槽与集水点，把雨水迅速引离低洼与铺装，避免积水与倒灌。",
         "典型手法与适用条件": "设置找坡、明沟或暗管与雨水口；下沉空间尤需重点组织。",
         "实例": "名称：中山大学珠海校区体育馆；地点：中国珠海；设计者：北京市建筑设计研究院股份有限公司；年份：2014–2015 年设计、2017 年投用。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "坡度不足或雨水口堵塞会积水；管径与重现期须按规范校核。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：坡向与集水点。",
-        "待核实": "雨水排放的工程参数（集水坑尺寸、重现期等）待补充专业来源；建筑面积各源记载不一。"
+        "待核实": "设计者与 2014–2015 设计年仅为单一来源，待补充；建筑面积各源记载不一（约 18000 vs 25293 平方米并列）。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='140' x2='680' y2='140' stroke='var(--ink)' stroke-width='2'/><polyline points='300,140 380,220 460,140' fill='none' stroke='var(--muted)' stroke-width='2'/><line x1='360' y1='220' x2='400' y2='300' stroke='var(--accent)' stroke-width='3'/><text x='330' y='110' fill='var(--ink)'>坡向与集水点</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -222,7 +220,7 @@
         "wp-sunken-courtyard"
       ],
       "needs_verification": true,
-      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "pending_notes": "「防潮」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
       "sections": {
         "原理": "防潮通过隔汽层、防水层与通风构造，阻止毛细水、冷凝水与地下水侵入室内。",
         "典型手法与适用条件": "地下与近地墙体设防潮层、地面设防潮垫层并组织排水；适用于潮湿气候与下沉空间。",

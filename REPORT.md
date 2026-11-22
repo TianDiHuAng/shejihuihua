@@ -1,14 +1,14 @@
 # REPORT.md — 每轮摘要
 
-1. 本轮编号：第 25 轮｜日期：2026-11-22｜状态：正常
+1. 本轮编号：第 26 轮｜日期：2026-11-22｜状态：正常
 
-2. 本轮完成：新增 5 条、升级 0 条、复核 105 条、修复 4 项。
+2. 本轮完成：新增 0 条、升级 5 条、复核 109 条、修复 16 项。
 
-3. 累计：范围总条目 242；已写 131 条（L1 5、L2 126、L3 0）；验证通过数 226 条来源；待核实 105 条；来源总数 229。
+3. 累计：范围总条目 242；已写 131 条（L1 0、L2 131、L3 0）；验证通过数 228 条来源；待核实 108 条；来源总数 231。
 
-4. 质量：PASS: all checks, 0 errors; health check 0 dead links/0 dupes/0 orphans; maintenance spotcheck 4 entries (systemic notes); B4 filled 5 new entries (Rembrandt light/tenebrism/plaza/atrium/exit-sign), reader questions 6->1; 14/14 unittest; 0 broken links。
+4. 质量：PASS: all checks, 0 errors; spotcheck 1 ok/2 fixed; 5 new entries L1->L2 (all 131 now L2); pending_notes de-templated (63->distinct); 12 umbrella-source entries marked single-source; green-architecture upgraded, drainage narrowed; 14/14 unittest; 0 broken links。
 
-5. 缺口发现摘要：使用 B1、B2、B4、B5、B7、F 共 6 种方法。新发现 B1 范围候选 0 条、B2 稀疏格 9 个、B3 悬空引用 0 条、B5 待核实 105 条、B6 近期动态 0 条、B7 核心未写 0 条。B4 本轮未用，后续轮换。
+5. 缺口发现摘要：使用 B2、B4、B5、B7 共 4 种方法。新发现 B1 范围候选 0 条、B2 稀疏格 9 个、B3 悬空引用 0 条、B5 待核实 109 条、B6 近期动态 0 条、B7 核心未写 0 条。B4 本轮未用，后续轮换。
 
 6. 覆盖矩阵仍空白的格子（按未写条目，最多 20 个）：共 26 个。理论/跨时期/全球(22)；理论/古代/中国(12)；风格/古代/中国(9)；造景/古代/中国(7)；风格/20世纪/欧洲(7)；理论/20世纪/全球(6)；风格/文艺复兴至19世纪/欧洲(6)；风格/20世纪/全球(6)；材料/跨时期/全球(5)；下沉空间/20世纪/全球(4)；风格/跨时期/全球(4)；动线/跨时期/全球(3)；风格/跨时期/东亚(3)；理论/文艺复兴至19世纪/欧洲(2)；造景/跨时期/全球(2)；动线/20世纪/全球(2)；风格/20世纪/美洲(2)；理论/文艺复兴至19世纪/全球(1)；动线/古代/中国(1)；材料/20世纪/全球(1)
 
