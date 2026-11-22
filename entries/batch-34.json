@@ -47,20 +47,22 @@
       "sections": {
         "原理": "以厚墙与墩柱承重并用半圆拱与筒拱，墙体承受大推力，故开窗受限、空间沉厚。",
         "典型手法与适用条件": "以半圆拱廊、筒拱与厚墩墙组织，小窗采光。",
-        "实例": "名称：罗曼式教堂（类型性描述）；地点与设计者不适用。看厚墙与半圆拱廊。",
+        "实例": "名称：杜伦大教堂（Durham Cathedral）；地点：英国杜伦；设计者：佚名（主教 William of St Calais 主持并可能参与设计）；年份：1093 年起建（约至 1133 年）。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "采光不足与墙体开裂是常见问题；需按规范加固。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：厚墙与半圆拱。",
-        "待核实": "风格核心特征主要依据单一权威条目（第二来源为泛论、未逐条互证）；「罗马风建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 220 300 L 220 180 Q 380 40 540 180 L 540 300' fill='none' stroke='var(--accent)' stroke-width='4'/><line x1='160' y1='300' x2='600' y2='300' stroke='var(--ink)' stroke-width='3'/><text x='250' y='350' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>罗马风建筑</text></svg>"
       ],
       "sources": [
         "wp-romanesque-architecture",
-        "wp-architectural-style"
+        "wp-architectural-style",
+        "durham-whs",
+        "durham-cathedral"
       ],
-      "needs_verification": true,
-      "pending_notes": "风格核心特征主要依据单一权威条目（第二来源为泛论、未逐条互证）；「罗马风建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "rococo",
@@ -77,20 +79,22 @@
       "sections": {
         "原理": "以不对称的卷草曲线、浅色与金饰营造轻盈私密的室内氛围。",
         "典型手法与适用条件": "用灰泥卷草、镜面与浅色墙面装饰室内。",
-        "实例": "名称：洛可可府邸沙龙（类型性描述）；地点与设计者不适用。看曲线与浅色如何显轻盈。",
+        "实例": "名称：阿玛琳堡（Amalienburg）；地点：德国慕尼黑宁芬堡宫苑；设计者：弗朗索瓦·德·屈维利耶（François Cuvilliés）；年份：1734–1739 年。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "装饰过密会繁琐；维护成本高。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：曲线装饰与浅色调。",
-        "待核实": "风格核心特征主要依据单一权威条目（第二来源为泛论、未逐条互证）；「洛可可建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='120' y1='300' x2='640' y2='300' stroke='var(--ink)' stroke-width='3'/><line x1='200' y1='300' x2='200' y2='150' stroke='var(--accent)' stroke-width='14'/><line x1='330' y1='300' x2='330' y2='150' stroke='var(--accent)' stroke-width='14'/><line x1='460' y1='300' x2='460' y2='150' stroke='var(--accent)' stroke-width='14'/><polygon points='160,150 330,70 500,150' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='250' y='350' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>洛可可建筑</text></svg>"
       ],
       "sources": [
         "wp-rococo",
-        "wp-architectural-style"
+        "wp-architectural-style",
+        "amalienburg-official",
+        "amalienburg-muenchen"
       ],
-      "needs_verification": true,
-      "pending_notes": "风格核心特征主要依据单一权威条目（第二来源为泛论、未逐条互证）；「洛可可建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "neoclassical",
@@ -107,20 +111,22 @@
       "sections": {
         "原理": "以古典柱式、三角山花与对称体量表达理性与秩序，装饰克制。",
         "典型手法与适用条件": "按古典范式组织立面与平面，减少装饰。",
-        "实例": "名称：新古典主义公共建筑（类型性描述）；地点与设计者不适用。看山花与柱式的秩序。",
+        "实例": "名称：巴黎先贤祠（Panthéon）；地点：法国巴黎第五区；设计者：雅克-热尔曼·苏夫洛（Jacques-Germain Soufflot）；年份：1764 年奠基、1790 年竣工。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "照搬古典易僵化；需结合功能与结构。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：三角山花与柱廊。",
-        "待核实": "风格核心特征主要依据单一权威条目（第二来源为泛论、未逐条互证）；「新古典主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='120' y1='300' x2='640' y2='300' stroke='var(--ink)' stroke-width='3'/><line x1='200' y1='300' x2='200' y2='150' stroke='var(--accent)' stroke-width='14'/><line x1='330' y1='300' x2='330' y2='150' stroke='var(--accent)' stroke-width='14'/><line x1='460' y1='300' x2='460' y2='150' stroke='var(--accent)' stroke-width='14'/><polygon points='160,150 330,70 500,150' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='250' y='350' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>新古典主义建筑</text></svg>"
       ],
       "sources": [
         "wp-neoclassical-architecture",
-        "wp-architectural-style"
+        "wp-architectural-style",
+        "pantheon-paris",
+        "pantheon-pop"
       ],
-      "needs_verification": true,
-      "pending_notes": "风格核心特征主要依据单一权威条目（第二来源为泛论、未逐条互证）；「新古典主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "art-nouveau",
@@ -137,20 +143,22 @@
       "sections": {
         "原理": "以流动的植物曲线与铁艺把结构、装饰与室内统一为整体艺术。",
         "典型手法与适用条件": "用铁艺曲线、彩玻璃与整体室内设计。",
-        "实例": "名称：新艺术风格住宅入口（类型性描述）；地点与设计者不适用。看铁艺曲线如何统摄装饰。",
+        "实例": "名称：塔塞爾公館（Hôtel Tassel）；地点：比利时布鲁塞尔；设计者：维克多·奥塔（Victor Horta）；年份：1893–1894 年。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "曲线装饰成本高、难维护；需与结构协调。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：植物曲线与铁艺。",
-        "待核实": "风格核心特征主要依据单一权威条目（第二来源为泛论、未逐条互证）；「新艺术运动」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='120' y1='300' x2='640' y2='300' stroke='var(--ink)' stroke-width='3'/><line x1='200' y1='300' x2='200' y2='150' stroke='var(--accent)' stroke-width='14'/><line x1='330' y1='300' x2='330' y2='150' stroke='var(--accent)' stroke-width='14'/><line x1='460' y1='300' x2='460' y2='150' stroke='var(--accent)' stroke-width='14'/><polygon points='160,150 330,70 500,150' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='250' y='350' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>新艺术运动</text></svg>"
       ],
       "sources": [
         "wp-art-nouveau",
-        "wp-architectural-style"
+        "wp-architectural-style",
+        "horta-theartstory",
+        "hotel-tassel-visitbrussels"
       ],
-      "needs_verification": true,
-      "pending_notes": "风格核心特征主要依据单一权威条目（第二来源为泛论、未逐条互证）；「新艺术运动」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "art-deco",
@@ -167,20 +175,22 @@
       "sections": {
         "原理": "以重复的几何母题、阶梯状体量与金属饰面表达现代性的华丽。",
         "典型手法与适用条件": "用几何图案、金属线条与流线体量装饰立面与室内。",
-        "实例": "名称：装饰艺术风格电影院门厅（类型性描述）；地点与设计者不适用。看几何母题与金属线条。",
+        "实例": "名称：克莱斯勒大厦（Chrysler Building）；地点：美国纽约曼哈顿；设计者：威廉·范艾伦（William Van Alen）；年份：1928–1930 年。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "奢华饰面维护成本高；易过时。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：几何母题与阶梯体量。",
-        "待核实": "风格核心特征主要依据单一权威条目（第二来源为泛论、未逐条互证）；「装饰艺术」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='120' width='480' height='180' fill='none' stroke='var(--accent)'/><line x1='260' y1='120' x2='260' y2='300' stroke='var(--muted)'/><line x1='380' y1='120' x2='380' y2='300' stroke='var(--muted)'/><line x1='500' y1='120' x2='500' y2='300' stroke='var(--muted)'/><line x1='140' y1='200' x2='620' y2='200' stroke='var(--muted)'/><text x='250' y='350' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>装饰艺术</text></svg>"
       ],
       "sources": [
         "wp-art-deco",
-        "wp-architectural-style"
+        "wp-architectural-style",
+        "chrysler-history",
+        "nyc-lpc-chrysler"
       ],
-      "needs_verification": true,
-      "pending_notes": "风格核心特征主要依据单一权威条目（第二来源为泛论、未逐条互证）；「装饰艺术」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "international-style",

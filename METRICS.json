@@ -954,6 +954,32 @@
         "B7_unwritten_entries": 0
       },
       "milestone": "ALL 246 scope entries written, all L2 (unwritten=0)"
+    },
+    {
+      "round": 39,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 6,
+      "reviews": 220,
+      "fixes": 5,
+      "pending_total": 214,
+      "check_result": "PASS: all checks, 0 errors; health check 0 dead links/0 dupes/0 orphans; spotcheck 2 pending/1 failed (raised-floor) -> reworked with general-engineering disclosure + african/latin umbrella disclosure; 6 style entries named instances (Durham/Amalienburg/Pantheon/RedHouse/HôtelTassel/Chrysler) upgraded; 14/14 unittest; 0 broken links",
+      "new_sources": 12,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B2",
+          "B4",
+          "B5",
+          "B7",
+          "F"
+        ],
+        "B2_sparse_cells": 5,
+        "B4_reader_questions_unanswered": 0,
+        "B5_pending_items": 220,
+        "B7_unwritten_entries": 0
+      },
+      "healthcheck": "0 broken,6 dead(unused mostly),0 dupes,0 orphans"
     }
   ]
 }
