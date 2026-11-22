@@ -1,0 +1,201 @@
+{
+  "unit_id": "batch-09",
+  "title": "第9轮读者问题与理论缺口 L2",
+  "entries": [
+    {
+      "id": "functional-zoning",
+      "title": "功能分区",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "把使用需求相近的空间集中组织的功能布局方法（术语定义待补直接来源）。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "以公共、服务、后勤三类区域组织平面；适用于运营流线复杂的公共建筑。",
+      "related": [
+        "spatial-organization"
+      ],
+      "sections": {
+        "原理": "功能分区把相近活动归并为连续区域，减少不同使用群体之间的交叉干扰。",
+        "典型手法与适用条件": "以公共、服务、后勤三类区域组织平面；适用于运营流线复杂的公共建筑。",
+        "常见错误与限制": "分区过细会降低灵活性；后勤尺寸与疏散要求须按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方分区概念图：公共区、服务区与后勤区。",
+        "实例": "名称：类型性实例（不指定具体项目）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "待核实": "实例的功能分区数据与设计者待补独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='80' width='600' height='240' fill='none' stroke='var(--line)'/><rect x='110' y='110' width='200' height='180' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='330' y='110' width='150' height='180' fill='none' stroke='var(--muted)'/><rect x='500' y='110' width='150' height='180' fill='none' stroke='var(--muted)'/><text x='140' y='100' fill='var(--ink)'>公共区</text><text x='340' y='100' fill='var(--ink)'>服务区</text><text x='510' y='100' fill='var(--ink)'>后勤区</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architecture",
+        "wp-interior-design"
+      ],
+      "needs_verification": true,
+      "pending_notes": "Architecture 与 Interior design 未直接给出“功能分区”术语定义；核心概念与实例数据均待补独立来源。"
+    },
+    {
+      "id": "gray-space",
+      "title": "灰空间",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "东亚",
+      "definition": "灰空间介于室内与室外之间，既遮风避雨又保持与外界的视觉连续。",
+      "time_or_place": "20世纪、东亚（参见来源）。",
+      "overview": "檐下、外廊与架空层可作气候缓冲区；适用于多雨或日照强烈地区。",
+      "related": [
+        "vestibule"
+      ],
+      "sections": {
+        "原理": "灰空间介于室内与室外之间，既遮风避雨又保持与外界的视觉连续。",
+        "典型手法与适用条件": "檐下、外廊与架空层可作气候缓冲区；适用于多雨或日照强烈地区。",
+        "常见错误与限制": "界定不清会导致领域感模糊；栏杆与地面防滑须按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方剖面概念图：檐下与廊道的中间性。",
+        "实例": "名称：类型性实例（不指定具体项目）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "待核实": "檐下与廊道实例的设计者与年代待补独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='300' x2='680' y2='300' stroke='var(--ink)' stroke-width='3'/><rect x='160' y='140' width='440' height='160' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='220' y='190' width='320' height='110' fill='none' stroke='var(--muted)'/><text x='250' y='125' fill='var(--ink)'>檐下 / 廊道：亦内亦外</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-loggia",
+        "wp-chinese-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "檐下与廊道实例的设计者与年代待补独立来源。"
+    },
+    {
+      "id": "parametric-architecture",
+      "title": "参数化建筑",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "当代",
+      "region": "全球",
+      "definition": "参数化建筑是以可变参数与算法关系生成建筑形态与构造的设计方法。",
+      "time_or_place": "当代、全球（参见来源）。",
+      "overview": "参数改变时，相关几何与构造随之更新，适合处理连续变体与复杂形态。",
+      "related": [
+        "green-architecture"
+      ],
+      "sections": {
+        "原理": "把设计意图写成参数之间的关系，算法据此生成形态；参数变化可在同一规则内得到不同结果。",
+        "典型手法与适用条件": "以脚本或可视化编程驱动表皮、结构与布局；适用于需要批量变体与复杂几何的设计任务。",
+        "常见错误与限制": "形式生成脱离建造条件会导致成本失控；结构尺寸与加工精度按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方形状序列示意：参数变化驱动的连续变体。",
+        "实例": "名称：类型性实例（不指定具体项目）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "待核实": "具体实例的设计者与建造数据待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='80' width='600' height='240' fill='none' stroke='var(--line)'/><circle cx='220' cy='200' r='70' fill='none' stroke='var(--accent)'/><circle cx='330' cy='200' r='70' fill='none' stroke='var(--accent)'/><circle cx='440' cy='200' r='70' fill='none' stroke='var(--accent)'/><circle cx='550' cy='200' r='70' fill='none' stroke='var(--accent)'/><text x='200' y='100' fill='var(--ink)'>参数驱动的形状序列</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-parametric-design",
+        "wp-parametric-architecture"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "place-spirit",
+      "title": "场所精神",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "欧洲",
+      "definition": "场所精神指空间因历史、材料与使用记忆而具有的独特气质，使人产生认同。",
+      "time_or_place": "20世纪、欧洲（参见来源）。",
+      "overview": "保留场所记忆、运用地域材料与尺度；适用于更新与景观设计。",
+      "related": [
+        "spatial-perception"
+      ],
+      "sections": {
+        "原理": "场所精神指空间因历史、材料与使用记忆而具有的独特气质，使人产生认同。",
+        "典型手法与适用条件": "保留场所记忆、运用地域材料与尺度；适用于更新与景观设计。",
+        "常见错误与限制": "符号堆砌会流于表面；改造中的结构安全按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方关系示意：场所、记忆与情感的联结。",
+        "实例": "名称：类型性实例（不指定具体项目）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "待核实": "具体场所的设计者与实测数据待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='100' y='100' width='560' height='220' fill='none' stroke='var(--line)'/><circle cx='380' cy='210' r='80' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='330' y='205' fill='var(--ink)'>场所</text><text x='180' y='150' fill='var(--muted)'>记忆</text><text x='540' y='150' fill='var(--muted)'>情感</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-environmental-psychology",
+        "wp-place-attachment",
+        "wp-sense-of-place",
+        "wp-genius-loci"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "spatial-perception",
+      "title": "空间感知",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "空间感知把视觉、身体尺度与运动线索整合为对距离、方向和围合的判断。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "用透视线索、材质变化与节点标识支持定向；适用于复杂公共空间。",
+      "related": [
+        "human-scale"
+      ],
+      "sections": {
+        "原理": "空间感知把视觉、身体尺度与运动线索整合为对距离、方向和围合的判断。",
+        "典型手法与适用条件": "用透视线索、材质变化与节点标识支持定向；适用于复杂公共空间。",
+        "常见错误与限制": "线索冲突会让人迷失；标识与疏散指引按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方视线示意图：观察者沿线索到达目标。",
+        "实例": "名称：类型性实例（不指定具体项目）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "待核实": "具体空间的感知实测数据待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='90' width='600' height='230' fill='none' stroke='var(--line)'/><circle cx='200' cy='210' r='30' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='235' y1='210' x2='540' y2='210' stroke='var(--accent)' stroke-width='2'/><polygon points='532,204 548,210 532,216' fill='var(--accent)'/><text x='520' y='170' fill='var(--ink)'>目标</text><text x='160' y='170' fill='var(--ink)'>观察者</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-visual-perception",
+        "wp-architecture",
+        "wp-spatial-cognition"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "enclosure",
+      "title": "围合",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "围合通过边界把空间从环境中划分出来，形成可识别的内部领域。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "院墙、廊道与建筑界面形成不同强度的围合；适用于居住与公共院落。",
+      "related": [
+        "openness"
+      ],
+      "sections": {
+        "原理": "围合通过边界把空间从环境中划分出来，形成可识别的内部领域。",
+        "典型手法与适用条件": "院墙、廊道与建筑界面形成不同强度的围合；适用于居住与公共院落。",
+        "常见错误与限制": "过度围合会闭塞；防火间距与疏散开口按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方平面概念图：边界与内部领域。",
+        "实例": "名称：类型性实例（不指定具体项目）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "待核实": "具体院落的设计者与年代待补独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='100' width='520' height='220' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='220' y='160' width='320' height='120' fill='var(--panel)' stroke='var(--muted)'/><text x='300' y='210' fill='var(--ink)'>内部领域</text><text x='150' y='85' fill='var(--ink)'>边界</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-architecture",
+        "wp-courtyard"
+      ],
+      "needs_verification": true,
+      "pending_notes": "具体院落的设计者与年代待补独立来源。"
+    }
+  ]
+}

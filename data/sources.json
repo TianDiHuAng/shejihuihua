@@ -1751,6 +1751,66 @@
       "verified": true,
       "link_ok": true,
       "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；通用设计与无障碍设计的边界定义；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-parametric-design",
+      "title": "Parametric design",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Parametric_design",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；参数化设计概念与算法驱动；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-parametric-architecture",
+      "title": "Parametric architecture",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Parametric_architecture",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；参数化建筑直接条目；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-sense-of-place",
+      "title": "Sense of place",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Sense_of_place",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；场所感与情感联结；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-genius-loci",
+      "title": "Genius loci",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Genius_loci",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；场所精神术语；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-spatial-cognition",
+      "title": "Spatial cognition",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Spatial_cognition",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；空间认知机制；百科条目无固定出版年"
     }
   ]
 }
