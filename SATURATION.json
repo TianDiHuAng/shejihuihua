@@ -655,6 +655,24 @@
         "unwritten_entries": 61
       },
       "note": "12 entries written (unwritten 73->61); sunken/material reworked honest"
+    },
+    {
+      "round": 36,
+      "date": "2026-11-23",
+      "zero_gap": false,
+      "methods_used": [
+        "B2",
+        "B4",
+        "B5",
+        "B7"
+      ],
+      "new_gaps": {
+        "sparse_cells": 5,
+        "reader_questions_unanswered": 0,
+        "pending_items": 171,
+        "unwritten_entries": 49
+      },
+      "note": "12 entries written (unwritten 61->49); disclosures + SVG fixed"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true"

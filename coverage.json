@@ -1309,11 +1309,11 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "thermal-comfort",
@@ -1361,11 +1361,11 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "sustainable-design",
@@ -1634,11 +1634,11 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "people-vehicle-separation",
@@ -1647,11 +1647,11 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "visitor-route",
@@ -1660,11 +1660,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "service-route",
@@ -1699,11 +1699,11 @@
       "tier": "重要",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "serial-route",
@@ -1712,11 +1712,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "radial-route",
@@ -1725,11 +1725,11 @@
       "tier": "补充",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "sunken-courtyard",
@@ -1907,11 +1907,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "skylight",
@@ -1920,11 +1920,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "daylight-factor",
@@ -1972,11 +1972,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "stack-ventilation",
@@ -1998,11 +1998,11 @@
       "tier": "补充",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "mixed-mode-ventilation",
