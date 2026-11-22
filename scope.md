@@ -1,0 +1,257 @@
+# scope.md — 《绘画理论与建筑空间设计》入选清单
+
+来源说明：S1–S12 为 research/outline_raw.md 中实际抓取成功的权威百科分类树（Wikipedia），
+取并集后补入任务文档 TASK_design.md 指定条目。每条标注层级与来源编号。
+
+总计 219 条：理论 106、风格 57、造景 17、
+动线 10、下沉空间 12、材料 17。
+层级分布：核心 49、重要 121、补充 49。
+
+## 理论（106 条）
+
+| id | 名称 | 层级 | 时期 | 地区 | 来源 |
+| --- | --- | --- | --- | --- | --- |
+| perspective | 透视法 | 核心 | 文艺复兴至19世纪 | 欧洲 | S1,S5 |
+| linear-perspective | 线性透视 | 核心 | 文艺复兴至19世纪 | 欧洲 | S5 |
+| one-point-perspective | 一点透视 | 重要 | 文艺复兴至19世纪 | 欧洲 | S5 |
+| two-point-perspective | 两点透视 | 重要 | 文艺复兴至19世纪 | 欧洲 | S5 |
+| three-point-perspective | 三点透视 | 重要 | 20世纪 | 欧洲 | S5 |
+| curvilinear-perspective | 曲线透视 | 补充 | 20世纪 | 全球 | S5 |
+| aerial-perspective | 空气透视 | 重要 | 文艺复兴至19世纪 | 欧洲 | S5 |
+| foreshortening | 缩短法 | 重要 | 文艺复兴至19世纪 | 欧洲 | S5 |
+| vanishing-point | 灭点 | 重要 | 文艺复兴至19世纪 | 欧洲 | S5 |
+| horizon-line | 视平线 | 重要 | 文艺复兴至19世纪 | 欧洲 | S5 |
+| scattered-perspective | 散点透视 | 核心 | 古代 | 中国 | S4 |
+| composition | 构图法则 | 核心 | 跨时期 | 全球 | S6 |
+| rule-of-thirds | 三分法 | 重要 | 跨时期 | 全球 | S6 |
+| rule-of-odds | 奇数法则 | 补充 | 跨时期 | 全球 | S6 |
+| rule-of-space | 空间法则 | 补充 | 跨时期 | 全球 | S6 |
+| simplification | 简化 | 重要 | 跨时期 | 全球 | S6 |
+| geometry-symmetry | 几何与对称 | 重要 | 跨时期 | 全球 | S6 |
+| visual-movement | 视觉动势 | 重要 | 跨时期 | 全球 | S6 |
+| leading-lines | 引导线 | 重要 | 跨时期 | 全球 | S6 |
+| figure-ground | 图底关系 | 重要 | 20世纪 | 全球 | S6 |
+| negative-space | 负空间 | 重要 | 20世纪 | 全球 | S6,S4 |
+| visual-center | 视觉中心 | 重要 | 跨时期 | 全球 | S6 |
+| balance | 均衡 | 核心 | 跨时期 | 全球 | S6 |
+| contrast-principle | 对比 | 重要 | 跨时期 | 全球 | S6 |
+| rhythm-repetition | 节奏与重复 | 重要 | 跨时期 | 全球 | S6 |
+| hierarchy | 主次层级 | 重要 | 跨时期 | 全球 | S6 |
+| proportion | 比例 | 核心 | 跨时期 | 全球 | S6 |
+| golden-ratio | 黄金分割 | 补充 | 跨时期 | 欧洲 | S6 |
+| diagonal-composition | 对角线构图 | 补充 | 跨时期 | 全球 | S6 |
+| s-curve-composition | S形构图 | 补充 | 跨时期 | 全球 | S6 |
+| triangular-composition | 三角形构图 | 补充 | 跨时期 | 全球 | S6 |
+| framing-composition | 框架式构图 | 补充 | 跨时期 | 全球 | S6,S3 |
+| color-theory | 色彩理论 | 核心 | 跨时期 | 全球 | S7 |
+| hue | 色相 | 重要 | 跨时期 | 全球 | S7 |
+| value | 明度 | 核心 | 跨时期 | 全球 | S6,S7 |
+| saturation | 纯度 | 重要 | 跨时期 | 全球 | S7 |
+| primary-colors | 三原色 | 重要 | 跨时期 | 全球 | S7 |
+| complementary-colors | 互补色 | 重要 | 跨时期 | 全球 | S7 |
+| color-contrast | 色彩对比 | 重要 | 跨时期 | 全球 | S7 |
+| warm-cool | 冷暖色 | 重要 | 跨时期 | 全球 | S7 |
+| color-harmony | 色彩和谐 | 重要 | 跨时期 | 全球 | S7 |
+| color-scheme | 配色方案 | 重要 | 跨时期 | 全球 | S7 |
+| color-symbolism | 色彩象征 | 补充 | 跨时期 | 全球 | S7 |
+| tints-shades | 色调与明暗层次 | 补充 | 跨时期 | 全球 | S7 |
+| split-primary | 分离原色调色 | 补充 | 跨时期 | 全球 | S7 |
+| chiaroscuro | 明暗法 | 核心 | 文艺复兴至19世纪 | 欧洲 | S5 |
+| light-shadow-modeling | 光影塑形 | 重要 | 文艺复兴至19世纪 | 欧洲 | S5 |
+| five-tones | 明暗五调子 | 重要 | 文艺复兴至19世纪 | 欧洲 | S5 |
+| highlight | 高光 | 补充 | 跨时期 | 全球 | S5 |
+| reflected-light | 反光 | 补充 | 跨时期 | 全球 | S5 |
+| cast-shadow | 投影 | 重要 | 跨时期 | 全球 | S5 |
+| core-shadow | 明暗交界线 | 补充 | 文艺复兴至19世纪 | 全球 | S5 |
+| front-light | 正面光 | 补充 | 跨时期 | 全球 | S9 |
+| side-light | 侧面光 | 重要 | 跨时期 | 全球 | S9 |
+| back-light | 逆光 | 重要 | 跨时期 | 全球 | S9 |
+| top-light | 顶光 | 补充 | 跨时期 | 全球 | S9 |
+| six-principles | 中国画六法 | 核心 | 古代 | 中国 | S4 |
+| qi-yun | 气韵生动 | 核心 | 古代 | 中国 | S4 |
+| bone-method | 骨法用笔 | 重要 | 古代 | 中国 | S4 |
+| likeness-form | 应物象形 | 重要 | 古代 | 中国 | S4 |
+| color-according-type | 随类赋彩 | 重要 | 古代 | 中国 | S4 |
+| composition-placement | 经营位置 | 重要 | 古代 | 中国 | S4 |
+| transmission-copy | 传移模写 | 补充 | 古代 | 中国 | S4 |
+| liubai | 留白 | 核心 | 古代 | 中国 | S4,S3 |
+| ink-wash | 水墨 | 重要 | 古代 | 中国 | S4 |
+| cunfa | 皴法 | 重要 | 古代 | 中国 | S4 |
+| gongbi | 工笔 | 重要 | 古代 | 中国 | S4 |
+| xieyi | 写意 | 重要 | 古代 | 中国 | S4 |
+| yijing | 意境 | 核心 | 古代 | 中国 | S4,S3 |
+| xu-shi | 虚实 | 重要 | 古代 | 中国 | S4,S3 |
+| landscape-painting | 山水画 | 重要 | 古代 | 中国 | S4 |
+| east-west-perspective-compare | 散点与焦点透视比较 | 核心 | 跨时期 | 全球 | S4,S5 |
+| east-west-space-compare | 留白与负空间比较 | 核心 | 跨时期 | 全球 | S3,S4,S6 |
+| east-west-color-compare | 中西色彩观比较 | 重要 | 跨时期 | 全球 | S4,S7 |
+| space-definition | 建筑空间定义 | 核心 | 跨时期 | 全球 | S1 |
+| place-spirit | 场所精神 | 重要 | 20世纪 | 欧洲 | S1 |
+| spatial-perception | 空间感知 | 重要 | 跨时期 | 全球 | S1 |
+| human-scale | 人体尺度 | 核心 | 跨时期 | 全球 | S1 |
+| monumental-scale | 纪念性尺度 | 重要 | 跨时期 | 全球 | S1 |
+| intimate-scale | 亲切尺度 | 重要 | 跨时期 | 全球 | S1 |
+| spatial-sequence | 空间序列 | 核心 | 跨时期 | 全球 | S1 |
+| axis | 轴线 | 重要 | 跨时期 | 全球 | S11 |
+| symmetry-layout | 对称布局 | 重要 | 古代 | 中国 | S11 |
+| enclosure | 围合 | 重要 | 跨时期 | 全球 | S11 |
+| openness | 开敞 | 重要 | 跨时期 | 全球 | S1 |
+| boundary | 边界 | 重要 | 跨时期 | 全球 | S1 |
+| node-path | 节点与路径 | 重要 | 跨时期 | 全球 | S1 |
+| transition-space | 过渡空间 | 核心 | 跨时期 | 全球 | S1 |
+| gray-space | 灰空间 | 重要 | 20世纪 | 东亚 | S1,S11 |
+| vestibule | 门厅 | 重要 | 跨时期 | 全球 | S1 |
+| corridor-space | 廊道空间 | 重要 | 跨时期 | 全球 | S1,S8 |
+| functional-zoning | 功能分区 | 重要 | 跨时期 | 全球 | S1 |
+| spatial-organization | 空间组织方式 | 核心 | 跨时期 | 全球 | S1 |
+| interior-exterior-transition | 室内外过渡 | 核心 | 跨时期 | 全球 | S1,S11,S12 |
+| eaves-space | 檐下空间 | 重要 | 古代 | 中国 | S11 |
+| raised-floor | 架空层 | 补充 | 20世纪 | 全球 | S1 |
+| courtyard | 庭院 | 核心 | 跨时期 | 全球 | S3,S11 |
+| opening-interface | 门窗洞口 | 重要 | 跨时期 | 全球 | S11 |
+| interface-permeability | 界面渗透 | 重要 | 20世纪 | 全球 | S1 |
+| view-corridor | 视线通廊 | 重要 | 跨时期 | 全球 | S3 |
+| visual-comfort | 视觉舒适度 | 重要 | 20世纪 | 全球 | S9 |
+| thermal-comfort | 热舒适度 | 重要 | 20世纪 | 全球 | S10 |
+| acoustic-environment | 声环境 | 补充 | 20世纪 | 全球 | S1 |
+| universal-design | 通用设计 | 重要 | 20世纪 | 全球 | S1 |
+| accessibility-design | 无障碍设计 | 重要 | 20世纪 | 全球 | S1 |
+| sustainable-design | 可持续设计 | 重要 | 20世纪 | 全球 | S1 |
+
+## 风格（57 条）
+
+| id | 名称 | 层级 | 时期 | 地区 | 来源 |
+| --- | --- | --- | --- | --- | --- |
+| ancient-greek | 古希腊建筑 | 重要 | 古代 | 欧洲 | S1,S2 |
+| ancient-roman | 古罗马建筑 | 重要 | 古代 | 欧洲 | S1,S2 |
+| byzantine | 拜占庭建筑 | 重要 | 中世纪 | 欧洲 | S1,S2 |
+| romanesque | 罗马风建筑 | 重要 | 中世纪 | 欧洲 | S1,S2 |
+| gothic | 哥特建筑 | 核心 | 中世纪 | 欧洲 | S1,S2 |
+| renaissance-style | 文艺复兴建筑 | 核心 | 文艺复兴至19世纪 | 欧洲 | S1,S2 |
+| baroque | 巴洛克建筑 | 重要 | 文艺复兴至19世纪 | 欧洲 | S1,S2 |
+| rococo | 洛可可建筑 | 重要 | 文艺复兴至19世纪 | 欧洲 | S1,S2 |
+| neoclassical | 新古典主义建筑 | 重要 | 文艺复兴至19世纪 | 欧洲 | S1,S2 |
+| romanticism-style | 浪漫主义建筑 | 补充 | 文艺复兴至19世纪 | 欧洲 | S1,S2 |
+| eclecticism | 折衷主义建筑 | 补充 | 文艺复兴至19世纪 | 全球 | S1,S2 |
+| revival-gothic | 哥特复兴 | 补充 | 文艺复兴至19世纪 | 欧洲 | S1,S2 |
+| revival-renaissance | 文艺复兴复兴 | 补充 | 文艺复兴至19世纪 | 欧洲 | S1,S2 |
+| arts-crafts | 工艺美术运动 | 重要 | 20世纪 | 欧洲 | S1,S2 |
+| art-nouveau | 新艺术运动 | 重要 | 20世纪 | 欧洲 | S1,S2 |
+| art-deco | 装饰艺术 | 重要 | 20世纪 | 全球 | S1,S2 |
+| modernism | 现代主义建筑 | 核心 | 20世纪 | 全球 | S1,S2 |
+| international-style | 国际风格 | 重要 | 20世纪 | 全球 | S1,S2 |
+| bauhaus | 包豪斯 | 核心 | 20世纪 | 欧洲 | S1,S2 |
+| de-stijl | 风格派 | 补充 | 20世纪 | 欧洲 | S1,S2 |
+| constructivism | 构成主义 | 重要 | 20世纪 | 欧洲 | S1,S2 |
+| futurism-style | 未来主义建筑 | 补充 | 20世纪 | 欧洲 | S1,S2 |
+| expressionism-style | 表现主义建筑 | 补充 | 20世纪 | 欧洲 | S1,S2 |
+| brutalism | 粗野主义 | 重要 | 20世纪 | 全球 | S1,S2 |
+| structuralism | 结构主义建筑 | 补充 | 20世纪 | 欧洲 | S1,S2 |
+| organic-architecture | 有机建筑 | 重要 | 20世纪 | 全球 | S1,S2 |
+| high-tech | 高技派 | 重要 | 20世纪 | 全球 | S1,S2 |
+| postmodernism | 后现代主义建筑 | 核心 | 20世纪 | 全球 | S1,S2 |
+| deconstructivism | 解构主义 | 重要 | 20世纪 | 全球 | S1,S2 |
+| minimalism-architecture | 极简主义建筑 | 重要 | 20世纪 | 全球 | S1,S2 |
+| critical-regionalism | 批判地域主义 | 重要 | 20世纪 | 全球 | S1,S2 |
+| parametric-architecture | 参数化建筑 | 重要 | 当代 | 全球 | S1,S2 |
+| green-architecture | 绿色建筑 | 核心 | 当代 | 全球 | S1 |
+| sustainable-architecture | 可持续建筑 | 核心 | 当代 | 全球 | S1 |
+| vernacular-architecture | 乡土建筑 | 重要 | 跨时期 | 全球 | S1,S11 |
+| chinese-architecture-style | 中国传统建筑 | 核心 | 古代 | 中国 | S1,S11 |
+| japanese-architecture | 日本建筑 | 重要 | 跨时期 | 东亚 | S1 |
+| korean-architecture | 韩国建筑 | 补充 | 跨时期 | 东亚 | S1 |
+| islamic-architecture | 伊斯兰建筑 | 重要 | 中世纪 | 伊斯兰/南亚 | S1 |
+| indian-architecture | 印度建筑 | 重要 | 古代 | 伊斯兰/南亚 | S1 |
+| southeast-asian-architecture | 东南亚建筑 | 补充 | 跨时期 | 东亚 | S1 |
+| african-architecture | 非洲建筑 | 补充 | 跨时期 | 全球 | S1 |
+| latin-american-colonial | 拉美殖民建筑 | 补充 | 文艺复兴至19世纪 | 美洲 | S1 |
+| brazilian-modernism | 巴西现代主义 | 补充 | 20世纪 | 美洲 | S1 |
+| mexican-modernism | 墨西哥现代主义 | 补充 | 20世纪 | 美洲 | S1 |
+| huizhou-style | 徽派建筑 | 重要 | 古代 | 中国 | S11 |
+| shanxi-style | 晋派建筑 | 补充 | 古代 | 中国 | S11 |
+| lingnan-style | 岭南建筑 | 补充 | 古代 | 中国 | S11 |
+| hokkien-style | 闽南建筑 | 补充 | 古代 | 中国 | S11 |
+| hakka-style | 客家建筑 | 补充 | 古代 | 中国 | S11 |
+| gan-style | 赣派建筑 | 补充 | 古代 | 中国 | S11 |
+| yaodong | 窑洞 | 补充 | 古代 | 中国 | S11 |
+| tibetan-architecture | 藏式建筑 | 补充 | 古代 | 中国 | S11 |
+| xinjiang-architecture | 新疆建筑 | 补充 | 古代 | 中国 | S11 |
+| imperial-architecture | 宫殿建筑 | 重要 | 古代 | 中国 | S11 |
+| religious-architecture | 宗教建筑 | 重要 | 跨时期 | 全球 | S11 |
+| urban-planning-style | 城市规划 | 补充 | 跨时期 | 全球 | S11 |
+
+## 造景（17 条）
+
+| id | 名称 | 层级 | 时期 | 地区 | 来源 |
+| --- | --- | --- | --- | --- | --- |
+| borrowed-scenery | 借景 | 核心 | 古代 | 中国 | S3 |
+| framed-scenery | 框景 | 核心 | 古代 | 中国 | S3 |
+| opposed-scenery | 对景 | 核心 | 古代 | 中国 | S3 |
+| screened-scenery | 障景 | 核心 | 古代 | 中国 | S3 |
+| winding-path | 曲径 | 核心 | 古代 | 中国 | S3 |
+| tour-route | 游线 | 核心 | 古代 | 中国 | S3 |
+| leaked-scenery | 漏景 | 重要 | 古代 | 中国 | S3 |
+| added-scenery | 添景 | 重要 | 古代 | 中国 | S3 |
+| side-scenery | 夹景 | 重要 | 古代 | 中国 | S3 |
+| suppressed-scenery | 抑景 | 重要 | 古代 | 中国 | S3 |
+| rockery | 叠石 | 重要 | 古代 | 中国 | S3 |
+| water-management | 理水 | 重要 | 古代 | 中国 | S3 |
+| planting-design | 植物配置 | 重要 | 跨时期 | 全球 | S12 |
+| garden-architecture | 园林建筑 | 重要 | 古代 | 中国 | S3 |
+| seasonal-scenery | 四季造景 | 重要 | 古代 | 中国 | S3 |
+| time-scenery | 时序造景 | 补充 | 古代 | 中国 | S3 |
+| rock-garden | 岩石园 | 补充 | 跨时期 | 全球 | S12 |
+
+## 动线（10 条）
+
+| id | 名称 | 层级 | 时期 | 地区 | 来源 |
+| --- | --- | --- | --- | --- | --- |
+| circulation | 动线设计 | 核心 | 跨时期 | 全球 | S8 |
+| pedestrian-flow | 人行流线 | 核心 | 跨时期 | 全球 | S8 |
+| vehicle-flow | 车行流线 | 重要 | 20世纪 | 全球 | S8 |
+| people-vehicle-separation | 人车分流 | 重要 | 20世纪 | 全球 | S8 |
+| visitor-route | 参观动线 | 重要 | 跨时期 | 全球 | S8 |
+| service-route | 服务动线 | 重要 | 跨时期 | 全球 | S8 |
+| evacuation-route | 疏散动线 | 核心 | 20世纪 | 全球 | S8 |
+| loop-route | 回游式动线 | 重要 | 古代 | 中国 | S3,S8 |
+| serial-route | 串联式动线 | 重要 | 跨时期 | 全球 | S8 |
+| radial-route | 放射式动线 | 补充 | 跨时期 | 全球 | S8 |
+
+## 下沉空间（12 条）
+
+| id | 名称 | 层级 | 时期 | 地区 | 来源 |
+| --- | --- | --- | --- | --- | --- |
+| sunken-courtyard | 下沉庭院 | 核心 | 跨时期 | 全球 | S1,S3 |
+| sunken-plaza | 下沉广场 | 核心 | 20世纪 | 全球 | S1 |
+| sunken-garden | 下沉花园 | 重要 | 20世纪 | 全球 | S3,S12 |
+| semi-sunken-space | 半下沉空间 | 重要 | 20世纪 | 全球 | S1 |
+| earth-sheltered | 覆土建筑 | 补充 | 20世纪 | 全球 | S1 |
+| light-well | 天井 | 重要 | 古代 | 中国 | S11 |
+| sunken-atrium | 地下中庭 | 重要 | 20世纪 | 全球 | S1 |
+| level-change | 高差处理 | 核心 | 跨时期 | 全球 | S1 |
+| drainage | 排水 | 核心 | 20世纪 | 全球 | S1 |
+| damp-proofing | 防潮 | 核心 | 20世纪 | 全球 | S1 |
+| safety-guarding | 安全防护 | 核心 | 20世纪 | 全球 | S1 |
+| sunken-accessibility | 下沉空间无障碍 | 核心 | 20世纪 | 全球 | S1 |
+
+## 材料（17 条）
+
+| id | 名称 | 层级 | 时期 | 地区 | 来源 |
+| --- | --- | --- | --- | --- | --- |
+| daylighting | 自然采光 | 核心 | 跨时期 | 全球 | S9 |
+| side-window-daylight | 侧窗采光 | 重要 | 跨时期 | 全球 | S9 |
+| skylight | 天窗采光 | 重要 | 跨时期 | 全球 | S9 |
+| daylight-factor | 采光系数 | 补充 | 20世纪 | 全球 | S9 |
+| glare | 眩光 | 重要 | 20世纪 | 全球 | S9 |
+| natural-ventilation | 自然通风 | 核心 | 跨时期 | 全球 | S10 |
+| wind-driven-ventilation | 风压通风 | 重要 | 跨时期 | 全球 | S10 |
+| stack-ventilation | 热压通风 | 重要 | 跨时期 | 全球 | S10 |
+| atrium-ventilation | 中庭通风 | 补充 | 20世纪 | 全球 | S10 |
+| mixed-mode-ventilation | 混合通风 | 重要 | 20世纪 | 全球 | S10 |
+| demand-controlled-ventilation | 需求控制通风 | 补充 | 20世纪 | 全球 | S10 |
+| material-texture | 材料质感 | 核心 | 跨时期 | 全球 | S1,S11 |
+| material-color | 材料色彩 | 重要 | 跨时期 | 全球 | S7,S11 |
+| material-durability | 材料耐久 | 重要 | 跨时期 | 全球 | S1 |
+| vernacular-material | 乡土材料 | 重要 | 跨时期 | 全球 | S11 |
+| transparent-material | 透明与半透明材料 | 重要 | 20世纪 | 全球 | S1 |
+| structural-material | 结构材料 | 重要 | 跨时期 | 全球 | S1 |

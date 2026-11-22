@@ -9,7 +9,7 @@
 
 | 阶段 | 内容 | 状态 | 产物 |
 | --- | --- | --- | --- |
-| 0 | 范围 scope / coverage / 覆盖矩阵 | 进行中 | scope.md、coverage.json、coverage-matrix.md |
+| 0 | 范围 scope / coverage / 覆盖矩阵 | 已完成 | scope.md（219 条）、coverage.json、coverage-matrix.md、research/outline_raw.md（S1–S12） |
 | 1 | 来源库 sources.json | 待开始（后台检索中） | data/sources.json、research/source_notes.md |
 | 2 | 校验器 tools/check.py | 待开始 | tools/check.py、tests/ |
 | 3 | 2 个 L2 样板 | 待开始 | entries/ 样板条目 |
