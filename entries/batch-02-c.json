@@ -1,0 +1,216 @@
+{
+  "unit_id": "batch-02-c",
+  "title": "第2轮核心 L1（3/4）",
+  "entries": [
+    {
+      "id": "circulation",
+      "title": "动线设计",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "动线",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "建筑与城市中人流、车流及服务流线的组织。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "动线设计把行为路径转化为空间秩序，影响效率与体验。",
+      "related": [
+        "pedestrian-flow"
+      ],
+      "sources": [
+        "wp-architecture",
+        "wp-wayfinding"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "pedestrian-flow",
+      "title": "人行流线",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "动线",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "以步行者移动与停留为核心组织的流线。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "步行流线关注安全、舒适与节点停顿，而非单纯通行效率。",
+      "related": [
+        "vehicle-flow"
+      ],
+      "sources": [
+        "wp-wayfinding",
+        "wp-plaza"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "evacuation-route",
+      "title": "疏散动线",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "动线",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "供紧急情况下人员疏散的路径组织。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "疏散动线强调清晰标识、足够宽度与避免瓶颈，设计须依当地规范。",
+      "related": [
+        "loop-route"
+      ],
+      "sources": [
+        "wp-exit-sign",
+        "wp-wayfinding"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "sunken-plaza",
+      "title": "下沉广场",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "下沉空间",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "地坪低于周边城市地面的公共广场。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "下沉广场借高差形成相对安静的聚集空间，同时带来排水与可达性要求。",
+      "related": [
+        "sunken-garden"
+      ],
+      "sources": [
+        "wp-sunken-courtyard",
+        "wp-plaza"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "level-change",
+      "title": "高差处理",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "下沉空间",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "通过台阶、坡道或高差组织空间转换的手法。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "高差既划分领域也制造视线变化，需要兼顾安全与无障碍。",
+      "related": [
+        "drainage"
+      ],
+      "sources": [
+        "wp-architecture",
+        "wp-sunken-courtyard"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "drainage",
+      "title": "排水",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "下沉空间",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "引导雨水离开低处空间与铺装的组织方式。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "下沉空间尤其依赖坡度、沟槽与集水点避免积水。",
+      "related": [
+        "damp-proofing"
+      ],
+      "sources": [
+        "wp-architecture",
+        "wp-sunken-courtyard"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "damp-proofing",
+      "title": "防潮",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "下沉空间",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "防止地下或近地空间受潮的构造措施。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "防潮关注毛细水、冷凝与地下水压力对材料和室内环境的影响。",
+      "related": [
+        "safety-guarding"
+      ],
+      "sources": [
+        "wp-building-material",
+        "wp-sunken-courtyard"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "safety-guarding",
+      "title": "安全防护",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "下沉空间",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "通过护栏、照明与视线管理降低高差风险的措施。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "低处空间需让人能预见边缘与台阶，避免跌坠和死角。",
+      "related": [
+        "sunken-accessibility"
+      ],
+      "sources": [
+        "wp-architecture",
+        "wp-exit-sign"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "daylighting",
+      "title": "自然采光",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "材料",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "利用天然光满足视觉与空间感受的设计。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "侧窗与天窗决定光线方向，采光与眩光需要一并考虑。",
+      "related": [
+        "side-window-daylight"
+      ],
+      "sources": [
+        "wp-daylighting",
+        "wp-architecture"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "natural-ventilation",
+      "title": "自然通风",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "材料",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "依靠风压与热压实现室内外空气交换的方式。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "自然通风受开口位置、朝向与气候影响，可与机械系统互补。",
+      "related": [
+        "wind-driven-ventilation"
+      ],
+      "sources": [
+        "wp-natural-ventilation",
+        "wp-ventilation-architecture"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    }
+  ]
+}
