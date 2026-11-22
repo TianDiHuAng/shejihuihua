@@ -1478,11 +1478,11 @@
       "tier": "重要",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "side-scenery",
@@ -1491,11 +1491,11 @@
       "tier": "重要",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "suppressed-scenery",
@@ -1504,11 +1504,11 @@
       "tier": "重要",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "rockery",
@@ -1517,11 +1517,11 @@
       "tier": "重要",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "water-management",
@@ -1543,11 +1543,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "garden-architecture",
@@ -1556,11 +1556,11 @@
       "tier": "重要",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "seasonal-scenery",
@@ -1569,11 +1569,11 @@
       "tier": "重要",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "time-scenery",
@@ -1762,13 +1762,13 @@
       "title": "下沉花园",
       "theme": "下沉空间",
       "tier": "重要",
-      "period": "20世纪",
+      "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "semi-sunken-space",
@@ -1777,11 +1777,11 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "earth-sheltered",
@@ -1816,11 +1816,11 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "level-change",
@@ -2050,11 +2050,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "material-durability",
@@ -2102,11 +2102,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "ancient-greek",

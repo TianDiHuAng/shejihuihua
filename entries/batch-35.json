@@ -1,0 +1,366 @@
+{
+  "unit_id": "batch-35",
+  "title": "第35轮造景/下沉/材料条目",
+  "entries": [
+    {
+      "id": "added-scenery",
+      "title": "添景",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "造景",
+      "period": "古代",
+      "region": "中国",
+      "definition": "添景是在主景之外补置树木、山石或建筑以丰富画面层次的手法。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "它让主体不孤立，以前后层次的补景增强纵深。",
+      "related": [],
+      "sections": {
+        "原理": "在主景周围补入次要景物，借前后遮挡与远近对比增加层次，使画面更完整。",
+        "典型手法与适用条件": "于前景或侧旁添置树石、亭台，控制主次与疏密。",
+        "实例": "名称：园林主景旁的添景树石（类型性描述）；地点与设计者不适用。看补景如何托出主景。",
+        "常见错误与限制": "添景过多会夺主；需控制体量与位置。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：主景与添景的前后层次。",
+        "待核实": "「添景」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='90' width='600' height='230' fill='none' stroke='var(--line)'/><circle cx='240' cy='200' r='34' fill='var(--accent-soft)' stroke='var(--accent)'/><path d='M 360 260 Q 460 160 600 250' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>添景</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-garden",
+        "wp-garden-design"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「添景」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "side-scenery",
+      "title": "夹景",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "造景",
+      "period": "古代",
+      "region": "中国",
+      "definition": "夹景是在视线两侧布置景物、把视线夹向远处主景的手法。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "两侧景物的夹峙把视线收束，突出尽端的主体。",
+      "related": [],
+      "sections": {
+        "原理": "两侧景物形成视觉边界，收窄视线通道，把注意力引向尽端主景。",
+        "典型手法与适用条件": "沿路径两侧列植树石或墙体，形成透视走廊。",
+        "实例": "名称：游径两侧的夹景树列（类型性描述）；地点与设计者不适用。看两侧景物如何收束视线。",
+        "常见错误与限制": "夹景过密会压抑；需留出通透。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：两侧夹景形成视线通道。",
+        "待核实": "「夹景」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='90' width='600' height='230' fill='none' stroke='var(--line)'/><circle cx='240' cy='200' r='34' fill='var(--accent-soft)' stroke='var(--accent)'/><path d='M 360 260 Q 460 160 600 250' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>夹景</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-garden",
+        "wp-garden-design"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「夹景」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "suppressed-scenery",
+      "title": "抑景",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "造景",
+      "period": "古代",
+      "region": "中国",
+      "definition": "抑景先在入口压低视野、再于转折之后放开，使主景在收放对比中显得开阔。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "它靠空间的收与放制造心理落差，多见于园林与展馆的入口序列。",
+      "related": [],
+      "sections": {
+        "原理": "通过入口的遮挡与转折压低预期，进入后豁然开朗，使主景更动人。",
+        "典型手法与适用条件": "在入口设障景或狭道，转折后再现主景。",
+        "实例": "名称：园林入口的先抑后扬（类型性描述）；地点与设计者不适用。看转折前后视野的对比。",
+        "常见错误与限制": "压抑过久会疲惫；转折需自然。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：遮挡—转折—放开。",
+        "待核实": "「抑景」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='90' width='600' height='230' fill='none' stroke='var(--line)'/><circle cx='240' cy='200' r='34' fill='var(--accent-soft)' stroke='var(--accent)'/><path d='M 360 260 Q 460 160 600 250' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>抑景</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-garden",
+        "wp-garden-design"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「抑景」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "rockery",
+      "title": "叠石",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "造景",
+      "period": "古代",
+      "region": "中国",
+      "definition": "叠石是以假山石堆叠模拟自然山峦的造园手法。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "叠石以石形与堆法营造峰、峦、洞、壑。",
+      "related": [],
+      "sections": {
+        "原理": "依石的瘦、透、漏、皱选石，按山势堆叠，模拟自然山岳的起伏与洞穴。",
+        "典型手法与适用条件": "选石、立意、堆叠，结合植物与水形成山景。",
+        "实例": "名称：园林假山（类型性描述）；地点与设计者不适用。看石形与堆法如何造出峰壑。",
+        "常见错误与限制": "堆叠失当会松散危险；需结构安全。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：石峰与洞壑的堆叠。",
+        "待核实": "「叠石」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='90' width='600' height='230' fill='none' stroke='var(--line)'/><circle cx='240' cy='200' r='34' fill='var(--accent-soft)' stroke='var(--accent)'/><path d='M 360 260 Q 460 160 600 250' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>叠石</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-garden",
+        "wp-garden-design"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「叠石」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "planting-design",
+      "title": "植物配置",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "造景",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "植物配置是按生态与观赏需求选配植物的设计工作。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "它兼顾季相、色彩、层次与养护。",
+      "related": [],
+      "sections": {
+        "原理": "按植物的高度、色相、花期与习性分层配置，形成四季可观的群落。",
+        "典型手法与适用条件": "以上中下三层搭配乔灌草，考虑季相与维护。",
+        "实例": "名称：园林乔灌草分层配置（类型性描述）；地点与设计者不适用。看季相与层次的搭配。",
+        "常见错误与限制": "忽视习性与养护会导致成活率低；需专业选种。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：乔木、灌木、地被的分层。",
+        "待核实": "「植物配置」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='90' width='600' height='230' fill='none' stroke='var(--line)'/><circle cx='240' cy='200' r='34' fill='var(--accent-soft)' stroke='var(--accent)'/><path d='M 360 260 Q 460 160 600 250' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>植物配置</text></svg>"
+      ],
+      "sources": [
+        "wp-garden-design",
+        "wp-landscape-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「植物配置」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "garden-architecture",
+      "title": "园林建筑",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "造景",
+      "period": "古代",
+      "region": "中国",
+      "definition": "园林建筑指园林中的亭、台、楼、榭等点景与观景建筑。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "园林建筑既是景点也是观景点，组织游线与视线。",
+      "related": [],
+      "sections": {
+        "原理": "亭榭等建筑置于景观点，既成景又供观景，串联游线与视线。",
+        "典型手法与适用条件": "依景设亭、临水建榭，控制体量与样式以融于自然。",
+        "实例": "名称：临水亭榭（类型性描述）；地点与设计者不适用。看亭榭如何兼作景点与观景处。",
+        "常见错误与限制": "体量过大将压景；需与山水协调。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：亭榭与水面、游线的关系。",
+        "待核实": "「园林建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='90' width='600' height='230' fill='none' stroke='var(--line)'/><circle cx='240' cy='200' r='34' fill='var(--accent-soft)' stroke='var(--accent)'/><path d='M 360 260 Q 460 160 600 250' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>园林建筑</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-garden",
+        "wp-garden-design"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「园林建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "seasonal-scenery",
+      "title": "四季造景",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "造景",
+      "period": "古代",
+      "region": "中国",
+      "definition": "四季造景指借助植物与景物的季相变化营造四时不同的景致。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "它以花木荣枯与气象变化使园林四季可观。",
+      "related": [],
+      "sections": {
+        "原理": "不同植物在不同季节呈现花、叶、果的变化，配合雨雪晴晦形成四时景致。",
+        "典型手法与适用条件": "按季相选配花木，设观景点题名以点景。",
+        "实例": "名称：四季花木的季相配置（类型性描述）；地点与设计者不适用。看春夏秋冬的景色变化。",
+        "常见错误与限制": "季相集中会他季萧条；需均衡配置。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：四时花木的季相更替。",
+        "待核实": "「四季造景」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='90' width='600' height='230' fill='none' stroke='var(--line)'/><circle cx='240' cy='200' r='34' fill='var(--accent-soft)' stroke='var(--accent)'/><path d='M 360 260 Q 460 160 600 250' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>四季造景</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-garden",
+        "wp-garden-design"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「四季造景」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "sunken-garden",
+      "title": "下沉花园",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "下沉空间",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "下沉花园把绿化放到低于街道的地坪上，用高差围出一方安静绿岛。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "植物与水面调节温湿，挡土与排水是必须做好的构造。",
+      "related": [],
+      "sections": {
+        "原理": "下沉庭院以低于周边地坪的围合形成相对安静的空间；挡土、排水与防潮的构造做法须按当地规范与专业设计确定。",
+        "典型手法与适用条件": "以台阶或坡道连接地面，结合挡土墙、绿化与排水沟组织；适用于需要安静绿地的场地。",
+        "实例": "名称：城市下沉花园（类型性描述）；地点与设计者不适用。看高差、绿化与排水的组合。",
+        "常见错误与限制": "排水、防潮与挡土处理不当会积水返潮或失稳；须由专业人员按规范设计。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：下沉花园的剖面与排水。",
+        "待核实": "下沉庭院的专门权威来源待补充（现引条目为存根），本页构造内容为一般性工程说明；具体实例的设计者与年代亦待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='60' y1='150' x2='700' y2='150' stroke='var(--ink)' stroke-width='2'/><polyline points='160,150 320,300 540,300 540,150' fill='none' stroke='var(--accent)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>下沉花园</text></svg>"
+      ],
+      "sources": [
+        "wp-sunken-courtyard",
+        "wp-garden-design"
+      ],
+      "needs_verification": true,
+      "pending_notes": "专门来源待补充；构造内容为一般性工程说明；实例待核实。"
+    },
+    {
+      "id": "semi-sunken-space",
+      "title": "半下沉空间",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "下沉空间",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "半下沉空间一侧落在地面之下获得私密，另一侧仍贴地开窗取光。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "错层布置让安静与采光兼得，常用于坡地住宅与山居。",
+      "related": [],
+      "sections": {
+        "原理": "一侧下沉获得安静与私密，另一侧仍可开窗采光，兼顾两者。",
+        "典型手法与适用条件": "沿坡地或错层布置，下沉侧设采光井，接地侧开窗。",
+        "实例": "名称：坡地半下沉住宅（类型性描述）；地点与设计者不适用。看两侧采光与私密的平衡。",
+        "常见错误与限制": "防潮与通风须专门处理；需按规范。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：半下沉空间的错层剖面。",
+        "待核实": "下沉/地下空间的专门权威来源偏少，构造做法为一般性工程说明，须按当地规范校核；「半下沉空间」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='60' y1='150' x2='700' y2='150' stroke='var(--ink)' stroke-width='2'/><polyline points='160,150 320,300 540,300 540,150' fill='none' stroke='var(--accent)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>半下沉空间</text></svg>"
+      ],
+      "sources": [
+        "wp-architecture",
+        "wp-sunken-courtyard"
+      ],
+      "needs_verification": true,
+      "pending_notes": "专门来源偏少、构造为一般性说明；「半下沉空间」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "sunken-atrium",
+      "title": "地下中庭",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "下沉空间",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "地下中庭贯通地下若干层，靠天窗或下沉庭院把光送到最深处。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "它同时承担采光、交通与公共活动，是地下空间的组织核心。",
+      "related": [],
+      "sections": {
+        "原理": "中庭贯通地下多层并通过天窗或下沉庭院引入天然光，改善地下环境。",
+        "典型手法与适用条件": "以天窗/下沉庭院采光，围绕中庭布置交通与公共功能。",
+        "实例": "名称：地下商业中庭（类型性描述）；地点与设计者不适用。看天窗如何把光引入地下。",
+        "常见错误与限制": "采光不足会阴暗；排烟与疏散须按规范。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：地下中庭与天窗采光。",
+        "待核实": "下沉/地下空间的专门权威来源偏少，构造做法为一般性工程说明，须按当地规范校核；「地下中庭」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='60' y1='150' x2='700' y2='150' stroke='var(--ink)' stroke-width='2'/><polyline points='160,150 320,300 540,300 540,150' fill='none' stroke='var(--accent)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>地下中庭</text></svg>"
+      ],
+      "sources": [
+        "wp-atrium-architecture",
+        "wp-sunken-courtyard"
+      ],
+      "needs_verification": true,
+      "pending_notes": "专门来源偏少、构造为一般性说明；「地下中庭」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "material-color",
+      "title": "材料色彩",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "材料",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "材料色彩指材料本身的固有色及其对空间氛围的影响。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "材料色与涂层色不同，受纹理与光照影响。",
+      "related": [],
+      "sections": {
+        "原理": "材料的呈现色受其固有颜色与光照条件影响：同一材料在不同光线下明度与冷暖会变化。",
+        "典型手法与适用条件": "依空间基调选择材料本色，尽量以材质自身颜色减少涂装，并以样板比对控制色差。",
+        "实例": "名称：清水混凝土的灰色基调（类型性描述）；地点与设计者不适用。看材质本色如何定调。",
+        "常见错误与限制": "忽略光照会色差失衡；需样板比对。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：不同材料的固有色与质感。",
+        "待核实": "“表面纹理对色彩感知的影响”缺直接权威来源，属一般性经验说明；具体实例的设计者与年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='130' width='220' height='140' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='400' y='130' width='220' height='140' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>材料色彩</text></svg>"
+      ],
+      "sources": [
+        "wp-color-theory",
+        "wp-building-material"
+      ],
+      "needs_verification": true,
+      "pending_notes": "纹理—色彩感知关系缺直接来源（一般性说明）；实例待核实。"
+    },
+    {
+      "id": "structural-material",
+      "title": "结构材料",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "材料",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "结构材料指承担荷载的主要材料，如石、木、砖、钢与混凝土。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "结构材料决定跨度、形态与建造方式。",
+      "related": [],
+      "sections": {
+        "原理": "不同结构材料的强度与受力方式不同，决定可实现的跨度与形态。",
+        "典型手法与适用条件": "按跨度与受力选材，木石受压、钢混可大跨。",
+        "实例": "名称：混凝土框架结构（类型性描述）；地点与设计者不适用。看材料如何决定柱网与跨度。",
+        "常见错误与限制": "选材不当影响安全与造价；须按规范。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：不同结构材料的受力方式。",
+        "待核实": "「结构材料」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='130' width='220' height='140' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='400' y='130' width='220' height='140' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>结构材料</text></svg>"
+      ],
+      "sources": [
+        "wp-building-material",
+        "wp-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「结构材料」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    }
+  ]
+}

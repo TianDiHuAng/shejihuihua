@@ -145,7 +145,7 @@ serial-route|串联式动线|动线|重要|跨时期|全球|S8
 radial-route|放射式动线|动线|补充|跨时期|全球|S8
 sunken-courtyard|下沉庭院|下沉空间|核心|跨时期|全球|S1,S3
 sunken-plaza|下沉广场|下沉空间|核心|20世纪|全球|S1
-sunken-garden|下沉花园|下沉空间|重要|20世纪|全球|S3,S12
+sunken-garden|下沉花园|下沉空间|重要|跨时期|全球|S3,S12
 semi-sunken-space|半下沉空间|下沉空间|重要|20世纪|全球|S1
 earth-sheltered|覆土建筑|下沉空间|补充|20世纪|全球|S1
 light-well|天井|下沉空间|重要|古代|中国|S11

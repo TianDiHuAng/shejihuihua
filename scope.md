@@ -250,7 +250,7 @@
 | --- | --- | --- | --- | --- | --- |
 | sunken-courtyard | 下沉庭院 | 核心 | 跨时期 | 全球 | S1,S3 |
 | sunken-plaza | 下沉广场 | 核心 | 20世纪 | 全球 | S1 |
-| sunken-garden | 下沉花园 | 重要 | 20世纪 | 全球 | S3,S12 |
+| sunken-garden | 下沉花园 | 重要 | 跨时期 | 全球 | S3,S12 |
 | semi-sunken-space | 半下沉空间 | 重要 | 20世纪 | 全球 | S1 |
 | earth-sheltered | 覆土建筑 | 补充 | 20世纪 | 全球 | S1 |
 | light-well | 天井 | 重要 | 古代 | 中国 | S11 |
