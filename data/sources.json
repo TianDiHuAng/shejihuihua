@@ -2471,6 +2471,78 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载阿尔瓦与艾诺·阿尔托 1933 年杰作、1929 年委托"
+    },
+    {
+      "id": "epfl-rolex",
+      "title": "Rolex Learning Center — EPFL",
+      "author": "EPFL",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.epfl.ch/campus/visitors/?p=198",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载劳力士学习中心无障碍、缓坡处理各类高差"
+    },
+    {
+      "id": "archdaily-rolex",
+      "title": "Rolex Learning Center / SANAA — ArchDaily",
+      "author": "ArchDaily",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.archdaily.com/53536/rolex-learning-center-sanaa",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载洛桑、SANAA、2010 年、可达性"
+    },
+    {
+      "id": "mur-qutong",
+      "title": "江南园林的曲径通幽 — 《现代城市研究》",
+      "author": "现代城市研究",
+      "type": "学术著作",
+      "year": null,
+      "url": "http://mur.cn/journals/2002/2/MUR-2002-2-bec33483a84dbb51ab3121f2c4d9f4e6.html",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；论述曲径通幽手法并以拙政园为例"
+    },
+    {
+      "id": "zhuangshi-qutong",
+      "title": "曲径通幽的入园模式 — 《装饰》2023(9)",
+      "author": "装饰",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://search.napstic.cn/literature/periodical/010zhuangshi202309018",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；论述曲径通幽的入园模式"
+    },
+    {
+      "id": "thepaper-zhuozheng",
+      "title": "拙政园 — 澎湃新闻",
+      "author": "澎湃新闻",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.thepaper.cn/newsDetail_forward_24383367",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记述拙政园历史与造景"
+    },
+    {
+      "id": "taiwan-zhuozheng",
+      "title": "拙政园 — 中国台湾网",
+      "author": "中国台湾网",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.taiwan.cn/zt/jlzt/jstwz/jxjs/jxjs/200911/t20091111_1138694.htm",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记述拙政园王献臣建园、文徵明参与设计"
     }
   ]
 }

@@ -5,7 +5,7 @@
     {
       "id": "transition-space",
       "title": "过渡空间",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "理论",
       "period": "跨时期",
@@ -20,13 +20,24 @@
         "wp-vestibule-architecture",
         "wp-loggia"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "过渡空间介于两处性质不同的空间之间，缓冲内外、公私或动静的突变。",
+        "典型手法与适用条件": "以门厅、廊道或檐下作为缓冲；适用于由公共转入私密、由室外转入室内的场合。",
+        "实例": "名称：门厅作为过渡空间（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "过渡缺失会让空间转换生硬；缓冲尺度与导向须与两侧匹配。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：夹在两室之间的过渡带。",
+        "待核实": "示例空间的设计者与年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='130' width='170' height='150' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='420' y='130' width='260' height='150' fill='none' stroke='var(--muted)'/><rect x='250' y='170' width='170' height='70' fill='none' stroke='var(--accent)' stroke-dasharray='8 5'/><text x='290' y='150' fill='var(--ink)'>过渡空间</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "spatial-organization",
       "title": "空间组织方式",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "理论",
       "period": "跨时期",
@@ -41,13 +52,24 @@
         "wp-architecture",
         "wp-architectural-theory"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "空间组织把功能、流线与空间单元组合成整体，常见串联、并列、集中与放射等方式。",
+        "典型手法与适用条件": "按使用关系选择组织方式，以中心或路径统摄单元；适用于各类建筑平面。",
+        "实例": "名称：集中式空间组织（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "组织方式与流线不匹配会混乱；单元尺度与出入口须校核。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：中心与群组的组织关系。",
+        "待核实": "示例平面的设计者与年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='150' width='120' height='110' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='100' width='120' height='110' fill='none' stroke='var(--muted)'/><rect x='320' y='250' width='120' height='110' fill='none' stroke='var(--muted)'/><rect x='520' y='150' width='120' height='110' fill='none' stroke='var(--accent)'/><line x1='240' y1='205' x2='320' y2='155' stroke='var(--muted)'/><line x1='240' y1='205' x2='320' y2='305' stroke='var(--muted)'/><line x1='440' y1='155' x2='520' y2='205' stroke='var(--muted)'/><line x1='440' y1='305' x2='520' y2='205' stroke='var(--muted)'/><text x='300' y='70' fill='var(--ink)'>中心与群组组织</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "interior-exterior-transition",
       "title": "室内外过渡",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "理论",
       "period": "跨时期",
@@ -62,8 +84,19 @@
         "wp-courtyard",
         "wp-loggia"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "室内外过渡通过庭院、廊道与可开启界面，让内外在空间、视线与气候上连续。",
+        "典型手法与适用条件": "以檐廊、庭院与落地窗柔化边界；适用于气候温和、强调景观的空间。",
+        "实例": "名称：庭院式内外过渡（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "界面过于通透会带来眩光与能耗问题；气密与水密须达标。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：室内向室外的连续过渡。",
+        "待核实": "示例空间的设计者与年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='150' width='300' height='140' fill='none' stroke='var(--accent)'/><rect x='380' y='150' width='300' height='140' fill='none' stroke='var(--muted)' stroke-dasharray='10 6'/><line x1='380' y1='110' x2='380' y2='330' stroke='var(--muted)'/><text x='150' y='120' fill='var(--ink)'>室内</text><text x='520' y='120' fill='var(--ink)'>室外</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "courtyard",
@@ -236,7 +269,7 @@
     {
       "id": "winding-path",
       "title": "曲径",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "造景",
       "period": "古代",
@@ -248,10 +281,26 @@
         "tour-route"
       ],
       "sources": [
-        "wp-chinese-garden"
+        "wp-chinese-garden",
+        "mur-qutong",
+        "zhuangshi-qutong",
+        "thepaper-zhuozheng",
+        "suzhou-ylj-zhuozhengyuan",
+        "taiwan-zhuozheng"
       ],
       "needs_verification": true,
-      "pending_notes": "仅见中国园林综合条目，待补充针对曲径的独立来源。"
+      "pending_notes": "文徵明参与设计为相传之说；游径具体段落设计与年代待考订。",
+      "sections": {
+        "原理": "曲径以曲折路线延长游览、变换视角，使有限场地产生多重画面并放慢行进。",
+        "典型手法与适用条件": "以折线、弧线与转折组织路径，配合障景与对景；适用于园林游线。",
+        "实例": "名称：拙政园；地点：中国苏州；设计者：园主王献臣（相传文徵明参与设计蓝图）；年份：始建于明正德四年（1509 年）。以曲折游径与折廊延长游程、变换视角。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "曲折过度会迷路、迂回过长令人疲惫；无障碍与排水须兼顾。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：曲折延长的游程。",
+        "待核实": "设计者“相传文徵明”为传说性表述，正文已注明；具体游径段落的设计与年代待考订。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 120 320 Q 260 220 220 160 T 400 120 Q 560 110 620 200' fill='none' stroke='var(--accent)' stroke-width='3'/><circle cx='120' cy='320' r='10' fill='var(--accent)'/><text x='300' y='260' fill='var(--ink)'>曲折延长游程</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "tour-route",

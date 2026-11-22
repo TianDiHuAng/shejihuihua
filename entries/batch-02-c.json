@@ -71,7 +71,7 @@
     {
       "id": "evacuation-route",
       "title": "疏散动线",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "动线",
       "period": "20世纪",
@@ -86,8 +86,19 @@
         "wp-exit-sign",
         "wp-wayfinding"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "疏散宽度/距离为一般性说明（按当地规范校核）；具名实例设计者与参数待核实。",
+      "sections": {
+        "原理": "疏散动线在紧急情况下把人员快速引向安全出口，强调清晰标识、足够宽度与避免瓶颈。",
+        "典型手法与适用条件": "设置连续疏散通道、出口与应急照明，控制疏散距离；按建筑类型与人数校核。",
+        "实例": "名称：公共建筑疏散路径（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "通道堆物或出口不足会造成拥堵；疏散宽度与距离须严格按规范执行。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：疏散方向与出口。",
+        "待核实": "疏散宽度、疏散距离等参数为一般性说明，须按当地消防规范与专业设计校核；具名实例的设计者与参数待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='90' width='600' height='230' fill='none' stroke='var(--line)'/><line x1='160' y1='200' x2='620' y2='200' stroke='var(--accent)' stroke-width='3'/><polygon points='612,194 632,200 612,206' fill='var(--accent)'/><circle cx='160' cy='200' r='14' fill='none' stroke='var(--muted)'/><text x='300' y='170' fill='var(--ink)'>疏散方向与出口</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "sunken-plaza",
@@ -126,7 +137,7 @@
     {
       "id": "level-change",
       "title": "高差处理",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "下沉空间",
       "period": "跨时期",
@@ -139,10 +150,23 @@
       ],
       "sources": [
         "wp-architecture",
-        "wp-sunken-courtyard"
+        "wp-sunken-courtyard",
+        "epfl-rolex",
+        "archdaily-rolex"
       ],
       "needs_verification": false,
-      "pending_notes": ""
+      "pending_notes": "",
+      "sections": {
+        "原理": "高差处理用台阶、坡道与平台组织空间转换，既划分领域也制造视线变化。",
+        "典型手法与适用条件": "以台阶分区、坡道保证无障碍；适用于场地高差与多层空间。",
+        "实例": "名称：劳力士学习中心（Rolex Learning Center）；地点：瑞士洛桑（EPFL 校园）；设计者：SANAA（妹岛和世与西泽立卫）；年份：2010 年。以缓坡与连续起伏地面处理高差，全馆无障碍可达。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "只设台阶会中断无障碍路径；踏步尺寸与扶手须按规范校核。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：台阶与坡道转换高差。",
+        "待核实": "暂无已知待核实项。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polyline points='100,260 260,260 260,180 420,180 420,260 620,260' fill='none' stroke='var(--accent)' stroke-width='3'/><polyline points='260,260 260,240 420,240 420,260' fill='none' stroke='var(--muted)' stroke-dasharray='5 4'/><text x='330' y='130' fill='var(--ink)'>台阶与坡道转换高差</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "drainage",
