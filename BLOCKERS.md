@@ -19,3 +19,9 @@
 - 本问题不影响本地知识库、校验与站点生成。
 
 - 2026-11-22：web_search 工具返回搜索端点配置错误；web_fetch 返回 fetch failed。改用 Python urllib + 浏览器 User-Agent 抓取权威站点，Wikipedia 页面返回 HTTP 200，来源核验流程继续。详见 DECISIONS.md D05。
+
+## 第 8 轮：GitHub 推送不可达（已跳过）
+
+- 连续 3 次 `git push origin master:main` 失败：`Recv failure: Connection was reset`；两次 `Failed to connect to github.com:443 after ~21s`。
+- 本地提交 `8bb83b9` 已完成，远端仍停留在 `09a899b`；按 AUTONOMOUS.md 第六节记录后跳过，下一轮网络恢复时补推。
+- 本问题不影响本地知识库、校验与站点生成。
