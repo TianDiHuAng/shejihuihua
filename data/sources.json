@@ -2219,6 +2219,18 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；记载静安寺广场设计者与1999年落成"
+    },
+    {
+      "id": "jfdaily-xiangshanbang",
+      "title": "香山帮与苏州园林营造 — 解放日报·上观新闻",
+      "author": "解放日报",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.jfdaily.com/wx/detail.do?id=1027626",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；记载苏州古典园林多由香山帮匠人集体营造、无具名建筑师"
     }
   ]
 }

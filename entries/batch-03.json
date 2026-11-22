@@ -37,7 +37,7 @@
     {
       "id": "beaux-arts",
       "title": "学院派建筑（布扎艺术）",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "风格",
       "period": "文艺复兴至19世纪",
@@ -50,8 +50,19 @@
         "wp-list-architectural-styles",
         "wp-history-of-architecture"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "学院派把古典柱式、对称轴线与纪念性体量系统化为可教授的设计法则，强调构图与装饰等级。",
+        "典型手法与适用条件": "公共建筑常以居中主厅、两翼对称和丰富装饰体现权威；适用于大型公共与交通建筑。",
+        "实例": "名称：学院派公共建筑（类型性描述）；地点：欧洲与美洲；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "重装饰轻功能易致使用不便；细部比例失当会显得浮夸。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：对称与纪念性轴线。",
+        "待核实": "所举实例的设计者与年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='200' width='520' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><polygon points='160,200 300,120 440,200' fill='none' stroke='var(--muted)'/><line x1='380' y1='120' x2='380' y2='80' stroke='var(--accent)'/><text x='260' y='70' fill='var(--ink)'>对称与纪念性轴线</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "vitruvian-triad",
@@ -77,7 +88,7 @@
     {
       "id": "plein-air",
       "title": "外光写生",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
       "period": "文艺复兴至19世纪",
@@ -90,8 +101,19 @@
         "wp-outline-of-painting",
         "wp-visual-arts"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "外光写生直接面对自然光作画，用现场观察取代室内恒定光，捕捉色彩的即时变化。",
+        "典型手法与适用条件": "便携颜料与户外画架使其普及；适合风景与光影题材，须快速记录以免光线改变。",
+        "实例": "名称：外光风景写生（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "光线变化快，久画易前后色调不一致；风沙与湿度影响颜料。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：户外自然光下的写生。",
+        "待核实": "具体写生作品与作者年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='300' x2='680' y2='300' stroke='var(--ink)' stroke-width='3'/><circle cx='620' cy='90' r='36' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='300' y='210' width='90' height='70' fill='none' stroke='var(--muted)'/><text x='540' y='150' fill='var(--ink)'>户外自然光</text><text x='310' y='190' fill='var(--ink)'>画架</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "sunken-accessibility",
