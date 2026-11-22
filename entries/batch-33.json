@@ -1,0 +1,366 @@
+{
+  "unit_id": "batch-33",
+  "title": "第33轮光影与配色条目",
+  "entries": [
+    {
+      "id": "light-shadow-modeling",
+      "title": "光影塑形",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "光影塑形指用受光与背光的明暗过渡表现物体的体积与转折。",
+      "time_or_place": "文艺复兴至19世纪、欧洲（参见来源）。",
+      "overview": "光线落在形体上形成亮部、暗部与过渡，体积因明暗梯度而被感知。",
+      "related": [],
+      "sections": {
+        "原理": "物体朝向光源的一面亮、背向的一面暗，中间以渐变过渡，视觉据此推断起伏。",
+        "典型手法与适用条件": "先定主光方向，再铺大块明暗，最后在明暗交界处压实、向亮部渐淡。",
+        "实例": "名称：单光源石膏像的明暗写生（类型性描述）；地点与作者不适用。看暗部如何随形体转折而变。",
+        "常见错误与限制": "光向不清会显得平；暗部一味加深会丢失转折。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：光向、受光面与暗部的分布。",
+        "待核实": "部分表述为绘画教学通用概括，专门来源待补充；「光影塑形」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chiaroscuro",
+        "wp-sfumato"
+      ],
+      "needs_verification": true,
+      "pending_notes": "部分表述为绘画教学通用概括，专门来源待补充；「光影塑形」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "five-tones",
+      "title": "明暗五调子",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "明暗五调子指高光、亮部、明暗交界线、反光与投影五个明暗层次。",
+      "time_or_place": "文艺复兴至19世纪、欧洲（参见来源）。",
+      "overview": "把连续明暗归纳为五档，便于观察与表现立体。",
+      "related": [],
+      "sections": {
+        "原理": "五调子是对连续明暗的简化分区，帮助稳定地判断亮暗关系而非逐点描摹。",
+        "典型手法与适用条件": "依次找出高光与投影，再定交界线，最后补亮部与反光，形成完整循环。",
+        "实例": "名称：球体五调子练习（类型性描述）；地点与作者不适用。观察交界线最实处与反光的最亮处。",
+        "常见错误与限制": "机械分档会板滞；五调子需服从整体光感。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：由高光到投影的五档。",
+        "待核实": "五调子的分档为绘画教学通用表述，专门权威来源待补充；「明暗五调子」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='160' width='90' height='100' fill='var(--panel)' stroke='var(--line)'/><rect x='210' y='160' width='90' height='100' fill='var(--accent-soft)' stroke='var(--line)'/><rect x='300' y='160' width='90' height='100' fill='var(--muted)'/><rect x='390' y='160' width='90' height='100' fill='var(--accent)'/><rect x='480' y='160' width='90' height='100' fill='var(--ink)'/><text x='150' y='130' fill='var(--ink)'>高光·亮部·交界·反光·投影</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chiaroscuro",
+        "wp-rembrandt-lighting"
+      ],
+      "needs_verification": true,
+      "pending_notes": "五调子的分档为绘画教学通用表述，专门权威来源待补充；「明暗五调子」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "cast-shadow",
+      "title": "投影",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "投影是物体遮挡光线后在承接面上留下的暗区。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "投影的形状与边缘虚实反映光源强弱、远近与物体形状。",
+      "related": [],
+      "sections": {
+        "原理": "光沿直线传播，被物体遮挡处形成阴影；光源越远越接近平行光，投影边缘越硬。",
+        "典型手法与适用条件": "依据光源方向确定投影落点，近处边缘实、远处边缘虚。",
+        "实例": "名称：静物在桌面上的投影（类型性描述）；地点与作者不适用。看投影如何暗示桌面与光源。",
+        "常见错误与限制": "投影方向与主光不一致会穿帮；投影过黑会失透明感。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：光源—物体—投影的几何关系。",
+        "待核实": "部分表述为绘画教学通用概括，专门来源待补充；「投影」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chiaroscuro",
+        "wp-tenebrism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "部分表述为绘画教学通用概括，专门来源待补充；「投影」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "highlight",
+      "title": "高光",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "高光是物体表面反射光源最亮的部位。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "高光提示材质与光源，位置随视点与光向移动。",
+      "related": [],
+      "sections": {
+        "原理": "光滑表面把光源近乎镜面地反射入眼，形成小而亮的高光；粗糙表面高光更弥散。",
+        "典型手法与适用条件": "按材质决定高光的锐利与大小，点在受光且朝向光源的凸起处。",
+        "实例": "名称：瓷器表面的点状高光（类型性描述）；地点与作者不适用。观察高光如何体现釉面。",
+        "常见错误与限制": "高光过多会显得油腻；位置错误会误导光源。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：受光凸起处的高光点。",
+        "待核实": "部分表述为绘画教学通用概括，专门来源待补充；「高光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chiaroscuro",
+        "wp-rembrandt-lighting"
+      ],
+      "needs_verification": true,
+      "pending_notes": "部分表述为绘画教学通用概括，专门来源待补充；「高光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "reflected-light",
+      "title": "反光",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "反光是暗部受环境反射光影响而出现的较亮区域。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "反光让暗部透气，避免死黑，并暗示周边环境。",
+      "related": [],
+      "sections": {
+        "原理": "光线被邻近物体或地面反射后进入暗部，使最暗处之外仍有一层微亮。",
+        "典型手法与适用条件": "在暗部靠近反光面的一侧提亮一点，保留交界线仍为最暗。",
+        "实例": "名称：衬布反射下的暗部（类型性描述）；地点与作者不适用。看暗部边缘的一线亮。",
+        "常见错误与限制": "反光亮过亮部会颠倒明暗；没有反光则暗部板结。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：暗部靠环境一侧的反光。",
+        "待核实": "部分表述为绘画教学通用概括，专门来源待补充；「反光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chiaroscuro",
+        "wp-sfumato"
+      ],
+      "needs_verification": true,
+      "pending_notes": "部分表述为绘画教学通用概括，专门来源待补充；「反光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "core-shadow",
+      "title": "明暗交界线",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "文艺复兴至19世纪",
+      "region": "全球",
+      "definition": "明暗交界线是受光面转向背光面时最暗的一条带。",
+      "time_or_place": "文艺复兴至19世纪、全球（参见来源）。",
+      "overview": "交界线是体积转折的关键，常比投影更暗更实。",
+      "related": [],
+      "sections": {
+        "原理": "形体在此处法线近乎垂直于光线，受光最少，因而最暗，是塑造体积的着力点。",
+        "典型手法与适用条件": "沿形体转折压实交界线，再向两端过渡，使体积立起来。",
+        "实例": "名称：圆柱体的交界线（类型性描述）；地点与作者不适用。看交界线随柱面如何纵向延伸。",
+        "常见错误与限制": "交界线位置画错会改变形体；过硬会显得生硬。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：受光面向暗部转折的最暗带。",
+        "待核实": "部分表述为绘画教学通用概括，专门来源待补充；「明暗交界线」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chiaroscuro",
+        "wp-tenebrism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "部分表述为绘画教学通用概括，专门来源待补充；「明暗交界线」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "front-light",
+      "title": "正面光",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "正面光把灯放在镜头同侧、朝主体直打，人脸与墙面均匀受光，影子被压到身后。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "画面平整明亮、细节清楚，但起伏被削弱，适合记录与柔和的人像。",
+      "related": [],
+      "sections": {
+        "原理": "光源与相机同向时阴影被推到背后，形体起伏被削弱，画面平整。",
+        "典型手法与适用条件": "用于需要清晰记录的场合；若要立体感可稍作侧移或加侧光。",
+        "实例": "名称：正面补光的证件照式人像（类型性描述）；地点与作者不适用。看鼻影几乎消失。",
+        "常见错误与限制": "全正面光会扁平呆板；易在背景留下硬影。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：光源与视线同向。",
+        "待核实": "「正面光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architectural-lighting-design",
+        "wp-daylighting-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「正面光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "side-light",
+      "title": "侧面光",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "侧面光从约九十度横向打来，凸处迎光、凹处落影，最能把表面质感拉出来。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "明暗各半、戏剧性强，适合表现纹理与体积，暗部需补光。",
+      "related": [],
+      "sections": {
+        "原理": "光线横向掠过表面，凸起迎光、凹陷背光，质感与起伏被放大。",
+        "典型手法与适用条件": "侧光下注意暗部补光比例，避免一半死黑。",
+        "实例": "名称：侧光下的砖墙质感（类型性描述）；地点与作者不适用。看灰缝的凹凸被拉出。",
+        "常见错误与限制": "暗部过重会失细节；需控制补光。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：光源来自一侧、明暗各半。",
+        "待核实": "「侧面光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='300' y='120' width='160' height='180' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='80' y1='210' x2='290' y2='210' stroke='var(--accent)' stroke-width='3'/><polygon points='282,202 300,210 282,218' fill='var(--accent)'/><text x='90' y='180' fill='var(--ink)'>侧向光源</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architectural-lighting-design",
+        "wp-daylighting-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「侧面光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "back-light",
+      "title": "逆光",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "逆光让光源躲在主体背后直射镜头，主体大半成影，边缘却镶出一条亮廓。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "轮廓光与剪影感强烈，氛围突出，曝光控制不好主体易全黑。",
+      "related": [],
+      "sections": {
+        "原理": "光源在主体之后，主体大面积处于阴影，边缘被照亮形成轮廓光。",
+        "典型手法与适用条件": "逆光下以剪影或轮廓光造型，必要时对主体补光避免死黑。",
+        "实例": "名称：逆光的窗边人物剪影（类型性描述）；地点与作者不适用。看发丝与肩线的亮边。",
+        "常见错误与限制": "曝光不当会主体全黑；眩光需控制。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：光源在主体背后。",
+        "待核实": "「逆光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architectural-lighting-design",
+        "wp-daylighting-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「逆光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "top-light",
+      "title": "顶光",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "顶光自头顶垂落，眼窝、鼻下与下颌依次落影，光线秩序自上而下。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "肃穆或压抑，适合展厅与戏剧场景；人像顶光需补光修饰。",
+      "related": [],
+      "sections": {
+        "原理": "光源自上而下，凸出部位受光、凹处落影，形成由上而下的明暗秩序。",
+        "典型手法与适用条件": "顶光适合展厅与戏剧性场景，人像需谨慎补光修饰眼窝阴影。",
+        "实例": "名称：天窗下的展厅顶光（类型性描述）；地点与作者不适用。看展台由上而下的照度梯度。",
+        "常见错误与限制": "人像顶光易显憔悴；需补光。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：光源自上而下。",
+        "待核实": "「顶光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architectural-lighting-design",
+        "wp-daylighting-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「顶光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "color-scheme",
+      "title": "配色方案",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "配色方案指按一定关系选定的主色、辅色与点缀色的组合。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "配色方案决定画面的统一与重点，可按单色、类比或互补组织。",
+      "related": [],
+      "sections": {
+        "原理": "以主色定基调、辅色做过渡、点缀色提亮，色相与明度的关系决定整体气质。",
+        "典型手法与适用条件": "先定主色与明度骨架，再加一两个辅色与少量点缀，控制总面积比例。",
+        "实例": "名称：以蓝为主色的室内配色（类型性描述）；地点与作者不适用。看主辅色的面积搭配。",
+        "常见错误与限制": "色相过多会杂乱；比例失衡会喧宾夺主。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：主色、辅色与点缀的配比。",
+        "待核实": "「配色方案」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='380' cy='200' r='120' fill='none' stroke='var(--accent)'/><circle cx='380' cy='80' r='28' fill='var(--accent-soft)' stroke='var(--muted)'/><circle cx='500' cy='260' r='28' fill='none' stroke='var(--muted)'/><circle cx='260' cy='260' r='28' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-color-theory",
+        "wp-color-wheel"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「配色方案」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "color-symbolism",
+      "title": "色彩象征",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "色彩象征指特定色彩在文化中被赋予的联想与含义。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "同一色彩在不同文化中含义不同，需结合语境理解。",
+      "related": [],
+      "sections": {
+        "原理": "色彩意义来自长期的文化约定与经验联想，具有地域与时代差异。",
+        "典型手法与适用条件": "依题材与文化语境选色，避免跨文化误读。",
+        "实例": "名称：红在中国语境中的喜庆含义（类型性描述）；地点与作者不适用。对比其他文化中的红色联想。",
+        "常见错误与限制": "脱离语境谈象征会牵强；跨文化易误读。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：色彩—文化联想的对应。",
+        "待核实": "「色彩象征」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='380' cy='200' r='120' fill='none' stroke='var(--accent)'/><circle cx='380' cy='80' r='28' fill='var(--accent-soft)' stroke='var(--muted)'/><circle cx='500' cy='260' r='28' fill='none' stroke='var(--muted)'/><circle cx='260' cy='260' r='28' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-color-theory",
+        "wp-theory-of-colours"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「色彩象征」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    }
+  ]
+}
