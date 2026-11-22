@@ -81,7 +81,7 @@
       "url": "https://en.wikipedia.org/wiki/Architectural_theory",
       "url2": null,
       "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
+      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null；第3轮复核：2026-11-22 HTTP 200，用于建筑理论大纲，已核验页面；用于维特鲁威三原则核对",
       "link_ok": true
     },
     {
@@ -597,7 +597,7 @@
       "url": "https://en.wikipedia.org/wiki/History_of_architecture",
       "url2": null,
       "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
+      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null；第3轮复核：2026-11-22 HTTP 200，用于建筑史大纲，已核验页面；用于风格序列比对",
       "link_ok": true
     },
     {
@@ -1415,6 +1415,78 @@
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
       "link_ok": true
+    },
+    {
+      "id": "wp-list-architectural-styles",
+      "title": "List of architectural styles",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/List_of_architectural_styles",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，访问于 2026-11-22；建筑风格分类清单，用于样式主义与学院派风格归属核对；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-outline-of-painting",
+      "title": "Outline of painting",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Outline_of_painting",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，访问于 2026-11-22；绘画大纲，用于外光写生与样式主义归属核对；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-visual-arts",
+      "title": "Visual arts",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Visual_arts",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，访问于 2026-11-22；视觉艺术总览，用于建筑理论与外光写生核对；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-mannerism",
+      "title": "Mannerism",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Mannerism",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，访问于 2026-11-22；样式主义直接条目，支撑风格定义与时期；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-daylighting-architecture",
+      "title": "Daylighting (architecture)",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Daylighting_(architecture)",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，访问于 2026-11-22；建筑采光直接条目，支撑侧窗、天窗与眩光；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-architectural-lighting-design",
+      "title": "Architectural lighting design",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Architectural_lighting",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，访问于 2026-11-22；建筑照明设计直接条目，支撑采光与照明术语；百科条目无固定出版年"
     }
   ]
 }

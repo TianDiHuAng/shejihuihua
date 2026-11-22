@@ -34,7 +34,7 @@ def main():
         f"（L1 {levels['L1']}、L2 {levels['L2']}、L3 {levels['L3']}）；"
         f"验证通过数 {verified} 条来源；待核实 {pending} 条；来源总数 {len(sources)}。",
         "",
-        "4. 质量：" + metrics["check_result"] + "。本轮抽检 4 条均合格，未触发整批返工；无回滚或降级批次。",
+        "4. 质量：" + metrics["check_result"] + "。",
         "",
         "5. 缺口发现摘要：使用 " + "、".join(gaps.get("methods_used", [])) + f" 共 {len(gaps.get('methods_used', []))} 种方法。"
         f"新发现 B1 范围候选 {gaps.get('B1_scope_candidates', 0)} 条、"

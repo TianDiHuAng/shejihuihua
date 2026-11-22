@@ -26,7 +26,7 @@
     {
       "id": "six-principles",
       "title": "中国画六法",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "理论",
       "period": "古代",
@@ -38,11 +38,21 @@
         "qi-yun"
       ],
       "sources": [
-        "wp-six-principles-chinese-painting",
-        "wp-xie-he"
+        "wp-six-principles-chinese-painting"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "谢赫条目为消歧义页；年代与版本流传待补充专门研究来源。",
+      "sections": {
+        "原理": "六法把绘画视为相互关联的系统：精神气韵、用笔力度、物象形态、色彩类别、位置经营与传承临摹共同决定作品品质。",
+        "典型手法与适用条件": "品评时先看整体气韵，再逐一检查用笔、象形、赋彩与经营位置；创作与临摹则把传移模写作为学习路径。",
+        "实例": "名称：谢赫《古画品录》相关体系；地点：古代中国；设计者：不适用；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "把六法理解为六个孤立技巧会丢失整体品评意图；以形似作为唯一标准会忽略气韵。画面尺幅与展示距离影响观看判断。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方六法关系示意图，仅表达框架关系。",
+        "待核实": "谢赫与《古画品录》的确切年代及版本流传待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='30' y='30' width='700' height='340' fill='none' stroke='var(--line)'/><circle cx='380' cy='200' r='70' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='345' y='195' fill='var(--ink)'>六法</text><text x='335' y='220' fill='var(--muted)'>品评框架</text><rect x='90' y='65' width='150' height='46' fill='none' stroke='var(--muted)'/><text x='105' y='95' fill='var(--ink)'>气韵生动</text><rect x='520' y='65' width='150' height='46' fill='none' stroke='var(--muted)'/><text x='535' y='95' fill='var(--ink)'>骨法用笔</text><rect x='90' y='290' width='150' height='46' fill='none' stroke='var(--muted)'/><text x='105' y='320' fill='var(--ink)'>应物象形</text><rect x='520' y='290' width='150' height='46' fill='none' stroke='var(--muted)'/><text x='535' y='320' fill='var(--ink)'>随类赋彩</text><text x='250' y='160' fill='var(--muted)'>经营位置</text><text x='470' y='160' fill='var(--muted)'>传移模写</text><text x='265' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "qi-yun",

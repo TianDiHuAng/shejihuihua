@@ -1,4 +1,5 @@
 """第2轮缺口发现：覆盖矩阵稀疏格、悬空引用、待核实清单、核心深度缺口。"""
+import argparse
 import json
 import re
 from collections import Counter
@@ -9,6 +10,10 @@ TODAY = "2026-11-22"
 
 
 def main():
+    parser = argparse.ArgumentParser(description="内部缺口发现")
+    parser.add_argument("--round", type=int, default=2)
+    args = parser.parse_args()
+    round_no = args.round
     coverage = json.loads((ROOT / "coverage.json").read_text(encoding="utf-8"))
     rows = coverage["entries"]
     written = {}
@@ -43,10 +48,10 @@ def main():
     important_unwritten = [r["id"] for r in rows if r["tier"] == "重要" and r["id"] not in written]
 
     lines = [
-        "# 缺口发现 — 第 2 轮",
+        f"# 缺口发现 — 第 {round_no} 轮",
         "",
         f"日期：{TODAY}",
-        "方法：B2 覆盖矩阵、B3 悬空引用、B5 待核实清单、B7 深度缺口。B1/B6 由外部子任务补充。",
+        "方法：B2 覆盖矩阵、B3 悬空引用、B5 待核实清单、B7 深度缺口。B1/B6/B4 由其他来源补充。",
         "",
         f"## B2 覆盖矩阵：空格 {len(empty)}，稀疏格（≤1 条）{len(sparse)}",
         "",
@@ -69,7 +74,7 @@ def main():
         "核心已写 L1（待升级）：" + "、".join(core_written_l1[:50]),
         "",
     ]
-    out = ROOT / "research" / "gaps-round02.md"
+    out = ROOT / "research" / f"gaps-round{round_no:02d}.md"
     out.write_text("\n".join(lines), encoding="utf-8")
     print(f"gaps: empty={len(empty)} sparse={len(sparse)} dangling={len(dangling)} pending={len(pending)} core_l1={len(core_l1)}")
 

@@ -1,0 +1,126 @@
+{
+  "unit_id": "batch-03",
+  "title": "第3轮 L1 条目",
+  "entries": [
+    {
+      "id": "mannerism",
+      "title": "样式主义（手法主义）建筑",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "文艺复兴晚期出现、以夸张比例与刻意变形显示技巧的建筑风格。",
+      "time_or_place": "文艺复兴晚期欧洲（参见来源）。",
+      "overview": "样式主义在古典规则内制造张力，常被视为从文艺复兴向巴洛克过渡的一环。",
+      "related": [
+        "beaux-arts"
+      ],
+      "sources": [
+        "wp-mannerism",
+        "wp-list-architectural-styles"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "beaux-arts",
+      "title": "学院派建筑（布扎艺术）",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "文艺复兴至19世纪",
+      "region": "全球",
+      "definition": "19 世纪学院体系下形成的建筑风格，强调古典对称、轴线与纪念性。",
+      "time_or_place": "文艺复兴至19世纪、全球（参见来源）。",
+      "overview": "学院派把古典范式系统化为可教授的设计方法，影响了公共建筑与城市轴线。",
+      "related": [],
+      "sources": [
+        "wp-list-architectural-styles",
+        "wp-history-of-architecture"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "vitruvian-triad",
+      "title": "维特鲁威三原则",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "古代",
+      "region": "欧洲",
+      "definition": "维特鲁威提出的坚固、实用与美观三项建筑原则。",
+      "time_or_place": "古代欧洲（参见来源）。",
+      "overview": "三原则把结构、功能与审美并列，成为后世建筑理论反复引用的基本框架。",
+      "related": [
+        "plein-air"
+      ],
+      "sources": [
+        "wp-architectural-theory",
+        "wp-visual-arts"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "plein-air",
+      "title": "外光写生",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "在户外直接面对自然光进行写生的绘画方法。",
+      "time_or_place": "文艺复兴至19世纪欧洲（参见来源）。",
+      "overview": "外光写生让色彩与明暗取自现场观察，成为色彩与光影理论的实践基础。",
+      "related": [],
+      "sources": [
+        "wp-outline-of-painting",
+        "wp-visual-arts"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "sunken-accessibility",
+      "title": "下沉空间无障碍",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "下沉空间",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "使低处空间对不同行动能力者均可到达并使用的设计。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "下沉空间若只设台阶会中断路径，坡道、平台与连续扶手是常见的应对方式。",
+      "related": [],
+      "sources": [
+        "wp-architecture",
+        "wp-exit-sign"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "chinese-architecture-style",
+      "title": "中国传统建筑",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "风格",
+      "period": "古代",
+      "region": "中国",
+      "definition": "中国传统建筑以木构框架、对称布局与院落组织为主要特征。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "木构体系与院落序列共同塑造了空间等级与礼制秩序，并因地域材料而呈现多样形态。",
+      "related": [
+        "japanese-architecture"
+      ],
+      "sources": [
+        "wp-chinese-architecture",
+        "wp-architectural-style"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    }
+  ]
+}

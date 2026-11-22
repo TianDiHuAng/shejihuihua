@@ -30,6 +30,28 @@
         "B6_recent_updates": 3,
         "B7_core_unwritten": 40
       }
+    },
+    {
+      "round": 3,
+      "date": "2026-11-22",
+      "new_entries": 6,
+      "upgrades": 5,
+      "reviews": 7,
+      "fixes": 3,
+      "pending_total": 13,
+      "check_result": "PASS: all checks, 0 errors; spotcheck 1 qualified / 1 pending / 2 failed -> full batch rework completed; 0 broken links",
+      "new_sources": 6,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": ["B1", "B2", "B3", "B4", "B5", "B6", "B7"],
+        "B1_scope_candidates": 0,
+        "B2_sparse_cells": 9,
+        "B3_dangling_refs": 0,
+        "B4_reader_questions_unanswered": 34,
+        "B5_pending_items": 8,
+        "B6_recent_updates": 3,
+        "B7_core_unwritten": 2
+      }
     }
   ]
 }

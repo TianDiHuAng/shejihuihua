@@ -229,6 +229,10 @@ xinjiang-architecture|新疆建筑|风格|补充|古代|中国|S11
 imperial-architecture|宫殿建筑|风格|重要|古代|中国|S11
 religious-architecture|宗教建筑|风格|重要|跨时期|全球|S11
 urban-planning-style|城市规划|风格|补充|跨时期|全球|S11
+mannerism|样式主义（手法主义）建筑|风格|重要|文艺复兴至19世纪|欧洲|N1,N3,N2
+beaux-arts|学院派建筑（布扎艺术）|风格|重要|文艺复兴至19世纪|全球|N1,N3
+vitruvian-triad|维特鲁威三原则|理论|核心|古代|欧洲|N4,N5
+plein-air|外光写生|理论|重要|文艺复兴至19世纪|欧洲|N2,N5
 """
 
 THEMES = ["理论", "风格", "造景", "动线", "下沉空间", "材料"]
@@ -270,7 +274,8 @@ def main():
         "# scope.md — 《绘画理论与建筑空间设计》入选清单",
         "",
         "来源说明：S1–S12 为 research/outline_raw.md 中实际抓取成功的权威百科分类树（Wikipedia），",
-        "取并集后补入任务文档 TASK_design.md 指定条目。每条标注层级与来源编号。",
+        "取并集后补入任务文档 TASK_design.md 指定条目。N1–N5 为第 3 轮新增的权威大纲页面（见 research/gaps-external-round02.md）。",
+        "每条标注层级与来源编号。",
         "",
         f"总计 {len(rows)} 条：理论 {counts['理论']}、风格 {counts['风格']}、造景 {counts['造景']}、",
         f"动线 {counts['动线']}、下沉空间 {counts['下沉空间']}、材料 {counts['材料']}。",
@@ -285,20 +290,30 @@ def main():
         scope.append("")
     (ROOT / "scope.md").write_text("\n".join(scope), encoding="utf-8")
 
+    cov_path = ROOT / "coverage.json"
+    existing = {}
+    if cov_path.exists():
+        old = json.loads(cov_path.read_text(encoding="utf-8"))
+        existing = {e["id"]: e for e in old.get("entries", [])}
+
+    def coverage_row(r):
+        row = {
+            "id": r["id"], "title": r["title"], "theme": r["theme"],
+            "tier": r["tier"], "period": r["period"], "region": r["region"],
+            "level": "L1", "status": "未开始", "source_count": len(r["sources"]),
+            "needs_verification_count": 0, "last_updated": TODAY,
+        }
+        if r["id"] in existing:
+            for key in ("level", "status", "source_count", "needs_verification_count", "last_updated"):
+                row[key] = existing[r["id"]].get(key, row[key])
+        return row
+
     coverage = {
         "updated": TODAY,
         "total": len(rows),
-        "entries": [
-            {
-                "id": r["id"], "title": r["title"], "theme": r["theme"],
-                "tier": r["tier"], "period": r["period"], "region": r["region"],
-                "level": "L1", "status": "未开始", "source_count": len(r["sources"]),
-                "needs_verification_count": 0, "last_updated": TODAY,
-            }
-            for r in rows
-        ],
+        "entries": [coverage_row(r) for r in rows],
     }
-    (ROOT / "coverage.json").write_text(json.dumps(coverage, ensure_ascii=False, indent=2), encoding="utf-8")
+    cov_path.write_text(json.dumps(coverage, ensure_ascii=False, indent=2), encoding="utf-8")
 
     matrix = [
         "# 覆盖矩阵 — 主题 × 时期 × 地区",
