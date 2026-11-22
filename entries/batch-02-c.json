@@ -206,7 +206,7 @@
     {
       "id": "damp-proofing",
       "title": "防潮",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "下沉空间",
       "period": "20世纪",
@@ -221,29 +221,51 @@
         "wp-building-material",
         "wp-sunken-courtyard"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "防潮通过隔汽层、防水层与通风构造，阻止毛细水、冷凝水与地下水侵入室内。",
+        "典型手法与适用条件": "地下与近地墙体设防潮层、地面设防潮垫层并组织排水；适用于潮湿气候与下沉空间。",
+        "实例": "名称：地下空间防潮构造（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "只做防水不做隔汽会导致冷凝；材料搭接与节点须按规范施工。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：墙体与地面的防潮层。",
+        "待核实": "示例构造做法与设计者待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='140' width='480' height='170' fill='none' stroke='var(--line)'/><line x1='140' y1='250' x2='620' y2='250' stroke='var(--accent)' stroke-width='4'/><text x='300' y='230' fill='var(--ink)'>防潮层</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "safety-guarding",
       "title": "安全防护",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "下沉空间",
       "period": "20世纪",
       "region": "全球",
-      "definition": "通过护栏、照明与视线管理降低高差风险的措施。",
+      "definition": "安全防护以护栏、照明与清晰的出口标识降低高差跌坠与死角风险，让人能预见边缘与疏散方向。",
       "time_or_place": "20世纪、全球（参见来源）。",
       "overview": "低处空间需让人能预见边缘与台阶，避免跌坠和死角。",
       "related": [
         "sunken-accessibility"
       ],
       "sources": [
-        "wp-architecture",
+        "wp-universal-design",
         "wp-exit-sign"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "防护做法（栏杆高度、照度）为一般性说明（按规范校核）；具名实例与设计者待核实。",
+      "sections": {
+        "原理": "安全防护以护栏、照明与视线管理降低高差跌坠与死角风险，让人能预见边缘。",
+        "典型手法与适用条件": "临空设防护栏杆、边缘加强照明与防滑铺装；适用于下沉空间、挑台与坡道。",
+        "实例": "名称：临空处防护栏杆（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "护栏高度不足或有可攀爬空隙会失效；照度与防滑须达标。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：临空护栏与照明。",
+        "待核实": "下沉与临空处防护的具体做法（栏杆高度、照度）为一般性说明，须按当地规范校核；具名实例与设计者待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='260' x2='680' y2='260' stroke='var(--ink)' stroke-width='2'/><line x1='300' y1='260' x2='300' y2='170' stroke='var(--accent)' stroke-width='4'/><line x1='300' y1='170' x2='460' y2='170' stroke='var(--accent)' stroke-width='4'/><line x1='300' y1='220' x2='460' y2='220' stroke='var(--muted)' stroke-width='2'/><text x='320' y='140' fill='var(--ink)'>临空护栏与照明</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "daylighting",

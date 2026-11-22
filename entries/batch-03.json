@@ -67,7 +67,7 @@
     {
       "id": "vitruvian-triad",
       "title": "维特鲁威三原则",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "理论",
       "period": "古代",
@@ -80,10 +80,23 @@
       ],
       "sources": [
         "wp-architectural-theory",
-        "wp-visual-arts"
+        "wp-visual-arts",
+        "wikisource-ten-books",
+        "cove-vitruvius"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "成书年代为约数（约公元前 30–15 年），译本依据 Morgan 1914，年代细节待考订。",
+      "sections": {
+        "原理": "维特鲁威三原则把坚固（结构可靠）、实用（功能合用）与美观（比例和谐）并列为建筑的基本要求。",
+        "典型手法与适用条件": "设计中同时权衡结构、功能与形式；适用于建筑评价与方案取舍。",
+        "实例": "名称：维特鲁威《建筑十书》所述三原则（类型性记载）；地点：古罗马；设计者：不适用；年份：不适用。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "三者失衡会顾此失彼；三原则是框架而非固定比例公式。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：坚固—实用—美观三角。",
+        "待核实": "英译依据 Morris Hicky Morgan（1914）译本；成书年代约为公元前 30–15 年，仍以约数表述。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='380,80 560,320 200,320' fill='none' stroke='var(--accent)' stroke-width='2'/><text x='360' y='140' fill='var(--ink)'>坚固</text><text x='220' y='300' fill='var(--ink)'>实用</text><text x='500' y='300' fill='var(--ink)'>美观</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "plein-air",
@@ -118,21 +131,34 @@
     {
       "id": "sunken-accessibility",
       "title": "下沉空间无障碍",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "下沉空间",
       "period": "20世纪",
       "region": "全球",
-      "definition": "使低处空间对不同行动能力者均可到达并使用的设计。",
+      "definition": "无障碍设计力求让不同行动能力者都能使用同一空间；在下沉空间等高差处，需以坡道等替代单纯台阶。",
       "time_or_place": "20世纪、全球（参见来源）。",
-      "overview": "下沉空间若只设台阶会中断路径，坡道、平台与连续扶手是常见的应对方式。",
+      "overview": "通过坡道、平台与连续扶手保持路径连续，避免高差中断无障碍通行。",
       "related": [],
       "sources": [
-        "wp-architecture",
-        "wp-exit-sign"
+        "wp-universal-design",
+        "wp-exit-sign",
+        "tclf-peavey-plaza",
+        "coen-peavey-plaza"
       ],
       "needs_verification": false,
-      "pending_notes": ""
+      "pending_notes": "",
+      "sections": {
+        "原理": "通用设计强调同一空间对多数人可直接使用；高差是主要障碍之一，需以坡道与平台化解。",
+        "典型手法与适用条件": "设置符合坡度的无障碍坡道与休息平台，避免台阶中断路径；适用于下沉庭院与广场。",
+        "实例": "名称：Peavey Plaza（明尼阿波利斯）；地点：美国明尼阿波利斯；设计者：M. Paul Friedberg（1975 原设计）、Coen+Partners（改造增设无障碍坡道）；年份：1975 年建成，改造后获 2023 年 ASLA 通用设计荣誉奖。以新增坡道提供无障碍通行。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "只设台阶会中断无障碍路径；坡长坡度与扶手高度须按当地规范执行。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：缓坡代替台阶。",
+        "待核实": "坡道坡度、扶手高度等具体参数为一般性说明，须按当地规范校核。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='60' y1='150' x2='700' y2='150' stroke='var(--ink)' stroke-width='2'/><polyline points='200,150 360,300 560,300' fill='none' stroke='var(--accent)' stroke-width='3'/><text x='380' y='330' fill='var(--ink)'>缓坡代替台阶</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "chinese-architecture-style",

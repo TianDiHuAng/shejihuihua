@@ -231,23 +231,36 @@
     {
       "id": "sustainable-architecture",
       "title": "可持续建筑",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "风格",
       "period": "当代",
       "region": "全球",
-      "definition": "兼顾生态、社会与经济长期性的建筑实践。",
+      "definition": "可持续建筑在项目全生命周期内同时考量生态影响、社会公平与经济可行，追求长期而非一次性的“绿色”。",
       "time_or_place": "当代、全球（参见来源）。",
-      "overview": "可持续建筑把全生命周期影响纳入设计判断。",
+      "overview": "与聚焦单项指标的绿色建筑不同，它强调从选址、建造到运营、拆解的整体权衡，并以被动策略为先。",
       "related": [
         "vernacular-architecture"
       ],
       "sources": [
         "wp-sustainable-architecture",
-        "wp-passive-solar-building-design"
+        "wp-passive-solar-building-design",
+        "breeam-the-edge",
+        "edge-tech-the-edge"
       ],
       "needs_verification": false,
-      "pending_notes": ""
+      "pending_notes": "",
+      "sections": {
+        "原理": "把建材生产、建造、使用与拆解各阶段的能耗与排放一并评估，避免把负担转移给后期或他处。",
+        "典型手法与适用条件": "优先被动式气候响应，其次高效设备与可再生供给，并保留可拆解与再利用的构造；适用于新建与深度改造。",
+        "实例": "名称：The Edge（阿姆斯特丹）；地点：荷兰阿姆斯特丹；设计者：PLP Architecture；年份：2014 年第四季度完工。获 BREEAM-NL Outstanding，评分各源记为约 98.3%–98.36%（并列不写死）。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "只贴标签、只算运行能耗会忽视隐含碳；评价必须按当地标准与实测核定。",
+        "一图": "见下方示意：全生命周期评估与被动优先的取舍。",
+        "待核实": "暂无已知待核实项（评分各源 98.3%–98.36% 已并列）。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='140' width='280' height='170' fill='none' stroke='var(--accent)'/><circle cx='560' cy='170' r='40' fill='none' stroke='var(--muted)'/><path d='M 540 260 Q 560 300 580 260' fill='none' stroke='var(--muted)'/><text x='150' y='110' fill='var(--ink)'>全生命周期与被动优先</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     }
   ]
 }

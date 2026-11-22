@@ -169,28 +169,39 @@
     {
       "id": "east-west-perspective-compare",
       "title": "散点与焦点透视比较",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "理论",
       "period": "跨时期",
       "region": "全球",
-      "definition": "散点透视与焦点透视在视点组织上的对照。",
+      "definition": "焦点透视把平行的纵深线汇聚到单一灭点；传统东亚绘画并不普遍采用焦点透视，长卷常以移动视点逐段组织画面（此比较项待补专门来源）。",
       "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "前者移动视点展开长卷，后者固定视点汇聚于灭点，二者服务于不同的观看方式。",
+      "overview": "比较时应看观者与画面的关系：一方固定单点凝视，另一方随卷移动观看；两种方式各有其空间逻辑。",
       "related": [
         "east-west-space-compare"
       ],
       "sources": [
         "wp-perspective-graphical",
-        "wp-chinese-painting"
+        "wp-reverse-perspective"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "“散点透视”概念与对应权威来源待补；比较性表述以来源为准，不写死。",
+      "sections": {
+        "原理": "焦点透视由灭点与视平线建立纵深；东亚长卷则让景物在连续段落中依次展开，观者边看边“移动”。",
+        "典型手法与适用条件": "用焦点透视营造纵深凝视，用移动视点展开长卷叙事；比较时避免以一方标准贬抑另一方。",
+        "实例": "名称：中国长卷与西方焦点透视绘画的对照（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "把东亚绘画的透视简单说成“错误透视”是误解；其空间逻辑需结合画幅与观看方式理解。",
+        "一图": "见下方对照：单视点与多视点。",
+        "待核实": "“散点透视”的概念界定与对应权威来源待补充；东亚绘画透视方式的表述应以来源为准。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='60' y='110' width='300' height='180' fill='none' stroke='var(--muted)'/><circle cx='210' cy='200' r='6' fill='var(--accent)'/><line x1='120' y1='280' x2='210' y2='200' stroke='var(--muted)'/><line x1='300' y1='280' x2='210' y2='200' stroke='var(--muted)'/><text x='120' y='90' fill='var(--ink)'>焦点透视（单视点）</text><rect x='420' y='110' width='280' height='180' fill='none' stroke='var(--accent)'/><circle cx='480' cy='200' r='12' fill='none' stroke='var(--muted)'/><circle cx='560' cy='200' r='12' fill='none' stroke='var(--muted)'/><circle cx='640' cy='200' r='12' fill='none' stroke='var(--muted)'/><text x='460' y='90' fill='var(--ink)'>散点透视（多视点）</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "east-west-space-compare",
       "title": "留白与负空间比较",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "理论",
       "period": "跨时期",
@@ -205,8 +216,19 @@
         "wp-chinese-garden",
         "wp-negative-space"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "留白以“无”参与意境，负空间以“底”塑造图形；两者都运用空白，但文化意图与读法不同。",
+        "典型手法与适用条件": "东方留白重气韵与想象，西方负空间重图底识别；可用于跨文化构图比较。",
+        "实例": "名称：水墨留白与平面负空间的对照（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "把留白等同于“没画完”会误读；负空间也非单纯空着。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方对照：留白与负空间。",
+        "待核实": "具体对照案例的出处待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='60' y='110' width='300' height='180' fill='none' stroke='var(--muted)'/><rect x='120' y='160' width='180' height='80' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='110' y='90' fill='var(--ink)'>留白（以无胜有）</text><rect x='420' y='110' width='280' height='180' fill='none' stroke='var(--accent)'/><circle cx='560' cy='200' r='46' fill='none' stroke='var(--muted)'/><text x='480' y='90' fill='var(--ink)'>负空间（主体之外的底）</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "space-definition",

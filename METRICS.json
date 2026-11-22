@@ -556,6 +556,32 @@
         "B7_core_l1_remaining": 7,
         "B7_all_l1_remaining": 13
       }
+    },
+    {
+      "round": 23,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 7,
+      "reviews": 101,
+      "fixes": 3,
+      "pending_total": 99,
+      "check_result": "PASS: all checks, 0 errors; spotcheck 1 ok/2 failed -> rework (east-west/sunken-accessibility/safety-guarding reframed with proper sources); The Edge & Peavey Plaza dual-sourced; 14/14 unittest; 0 broken links",
+      "new_sources": 6,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B2",
+          "B4",
+          "B5",
+          "B7"
+        ],
+        "B2_sparse_cells": 9,
+        "B4_reader_questions_unanswered": 6,
+        "B5_pending_items": 101,
+        "B7_core_l1_remaining": 0,
+        "B7_all_l1_remaining": 6
+      },
+      "milestone": "all core+important L2; only 6 supplementary L1 remain"
     }
   ]
 }

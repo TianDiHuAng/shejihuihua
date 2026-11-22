@@ -414,6 +414,25 @@
         "all_l1_remaining": 13
       },
       "note": "6 core upgrades; level-change/winding-path instance upgrades; core L1 left 7"
+    },
+    {
+      "round": 23,
+      "date": "2026-11-22",
+      "zero_gap": false,
+      "methods_used": [
+        "B2",
+        "B4",
+        "B5",
+        "B7"
+      ],
+      "new_gaps": {
+        "sparse_cells": 9,
+        "reader_questions_unanswered": 6,
+        "pending_items": 101,
+        "core_l1_remaining": 0,
+        "all_l1_remaining": 6
+      },
+      "note": "all core+important L2 (milestone); 7 core upgrades; The Edge/Peavey Plaza instance upgrades; spotcheck rework; only 6 supplementary L1 left"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true"

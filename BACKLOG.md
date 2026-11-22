@@ -25,12 +25,12 @@
 
 执行顺序：每完成一批运行 check.py 并 commit；抽检 10%（至少 3 个）另起子任务。
 
-## 下一轮队列（第 23 轮，按优先级）
+## 下一轮队列（第 24 轮，按优先级）
 
-1. 升级剩余 7 条核心 L1→L2：east-west-perspective-compare/east-west-space-compare/damp-proofing/safety-guarding/sustainable-architecture/vitruvian-triad/sunken-accessibility。
-2. 维持 25% 抽检；补抽 spatial-organization/interior-exterior-transition/level-change 闭环第22轮。
-3. 复核 94 条待核实（顾如珍/glare数值/green-architecture常州/spatial-organization Villa Savoye）。
-4. 收尾 6 条补充 L1；处理 B4 的 6 个未答读者问题。
+1. 收尾剩余 6 条补充 L1→L2（rule-of-space/golden-ratio/diagonal/s-curve/triangular/framing-composition）——完成后全库条目均 L2。
+2. 维持 25% 抽检；补抽 safety-guarding/sustainable-architecture/damp-proofing 闭环第23轮。
+3. 复核 99 条待核实（顾如珍/glare数值/green-architecture常州/spatial-organization）。
+4. 处理 B4 的 6 个未答读者问题；此时可评估是否进入"连续零缺口"计数。
 
 ## 已完成
 
@@ -56,3 +56,4 @@
 - 第 20 轮：体检（0 死链/0 重复/0 孤儿）；6 条升级（visual-center/contrast-principle/form-follows-function/curvilinear-perspective/courtyard/green-architecture），重要条目全部 L2；courtyard 三源、sunken-plaza 补 1999 第二源
 - 第 21 轮：6 条核心 L1→L2（气韵/留白/意境/空间定义/人体尺度/空间序列）；space-definition（巴塞罗那德国馆）、human-scale（帕伊米奥疗养院）补双源升级；返工修 qi-yun 年份、spatial-sequence 换古根海姆来源（核心 L1 余 13）
 - 第 22 轮：6 条核心 L1→L2（过渡空间/空间组织/室内外过渡/曲径/疏散动线/高差处理）；level-change（劳力士学习中心）、winding-path（拙政园）补双源升级（核心 L1 余 7）
+- 第 23 轮：7 条核心 L1→L2 收尾（东西透视/东西空间/防潮/安全防护/可持续/维特鲁威三原则/下沉无障碍）；**核心与重要条目全部 L2**；The Edge、Peavey Plaza 补双源；返工 3 条（东/西与无障碍引证）；仅余 6 条补充 L1

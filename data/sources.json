@@ -2543,6 +2543,78 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记述拙政园王献臣建园、文徵明参与设计"
+    },
+    {
+      "id": "breeam-the-edge",
+      "title": "The Edge, Amsterdam — BREEAM",
+      "author": "BRE Group / BREEAM",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://breeam.com/web/bre-group/case-studies/the-edge-amsterdam",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载 The Edge 阿姆斯特丹、BREEAM-NL Outstanding、约98.3%"
+    },
+    {
+      "id": "edge-tech-the-edge",
+      "title": "The Edge — EDGE",
+      "author": "EDGE Technologies",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://edge.tech/portfolio/the-edge",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载 The Edge 由 PLP Architecture 设计、2014 完工、能源正效益、98.36%"
+    },
+    {
+      "id": "tclf-peavey-plaza",
+      "title": "Peavey Plaza — The Cultural Landscape Foundation",
+      "author": "TCLF",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.tclf.org/peavey-plaza",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载 Peavey Plaza 1975 年 M. Paul Friedberg 设计、改造增设无障碍坡道、2023 ASLA 通用设计奖"
+    },
+    {
+      "id": "coen-peavey-plaza",
+      "title": "Peavey Plaza — Coen+Partners",
+      "author": "Coen+Partners",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.coenpartners.com/project/peavey-plaza/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载改造以 new ramps 提供无障碍通行"
+    },
+    {
+      "id": "wikisource-ten-books",
+      "title": "Ten Books on Architecture（Morris Hicky Morgan 英译，1914）— Wikisource",
+      "author": "Wikisource",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://en.wikisource.org/wiki/Ten_Books_on_Architecture",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；维特鲁威《建筑十书》Morgan 1914 英译本全文"
+    },
+    {
+      "id": "cove-vitruvius",
+      "title": "De architectura — COVE",
+      "author": "COVE",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://editions.covecollective.org/node/7431",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载成书约公元前 30–15 年（标注 Not Vetted）"
     }
   ]
 }

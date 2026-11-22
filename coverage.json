@@ -932,10 +932,10 @@
       "tier": "核心",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
+      "level": "L2",
       "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {
@@ -945,10 +945,10 @@
       "tier": "核心",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
+      "level": "L2",
       "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {
@@ -1855,10 +1855,10 @@
       "tier": "核心",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
+      "level": "L2",
       "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {
@@ -1868,10 +1868,10 @@
       "tier": "核心",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
+      "level": "L2",
       "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {
@@ -1881,9 +1881,9 @@
       "tier": "核心",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
+      "level": "L2",
       "status": "已写",
-      "source_count": 2,
+      "source_count": 4,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -2544,9 +2544,9 @@
       "tier": "核心",
       "period": "当代",
       "region": "全球",
-      "level": "L1",
+      "level": "L2",
       "status": "已写",
-      "source_count": 2,
+      "source_count": 4,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -2882,10 +2882,10 @@
       "tier": "核心",
       "period": "古代",
       "region": "欧洲",
-      "level": "L1",
+      "level": "L2",
       "status": "已写",
-      "source_count": 2,
-      "needs_verification_count": 0,
+      "source_count": 4,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {
