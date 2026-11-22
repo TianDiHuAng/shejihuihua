@@ -3047,6 +3047,54 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，经 owiki 镜像/独立站点实抓核对标题与正文，canonical 直连待复；可响应、可替换、有机生长的城市；中银胶囊塔"
+    },
+    {
+      "id": "wp-academic-art",
+      "title": "Academic art",
+      "author": "Wikipedia/机构",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Academic_art",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，经 owiki 镜像/独立站点实抓核对标题与正文，canonical 直连待复；欧洲学院体系下的绘画雕塑，系统化艺术教学"
+    },
+    {
+      "id": "artincontext-academic",
+      "title": "Academic Art — Art in Context",
+      "author": "Wikipedia/机构",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://artincontext.org/academic-art/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，经 owiki 镜像/独立站点实抓核对标题与正文，canonical 直连待复；学院派重视素描/解剖/构图/完成度与题材等级"
+    },
+    {
+      "id": "wp-classical-order",
+      "title": "Classical order",
+      "author": "Wikipedia/机构",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Classical_order",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，经 owiki 镜像/独立站点实抓核对标题与正文，canonical 直连待复；多立克/爱奥尼/科林斯三种希腊柱式"
+    },
+    {
+      "id": "designingbuildings-classical",
+      "title": "Classical architecture — Designing Buildings",
+      "author": "Wikipedia/机构",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Classical_architecture",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，经 owiki 镜像/独立站点实抓核对标题与正文，canonical 直连待复；希腊三柱式，罗马增塔司干与复合柱式"
     }
   ]
 }

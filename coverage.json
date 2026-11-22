@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-22",
-  "total": 244,
+  "total": 246,
   "entries": [
     {
       "id": "perspective",
@@ -3168,6 +3168,32 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "东亚",
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-22"
+    },
+    {
+      "id": "academic-art-theory",
+      "title": "学院派理论与素描教学",
+      "theme": "理论",
+      "tier": "重要",
+      "period": "文艺复兴至19世纪",
+      "region": "全球",
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-22"
+    },
+    {
+      "id": "classical-order",
+      "title": "古典柱式",
+      "theme": "理论",
+      "tier": "重要",
+      "period": "古代",
+      "region": "欧洲",
       "level": "L2",
       "status": "已写",
       "source_count": 2,
