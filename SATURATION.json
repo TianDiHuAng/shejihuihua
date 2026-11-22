@@ -1,6 +1,6 @@
 {
-  "SATURATED": false,
-  "consecutive_zero_gap_rounds": 2,
+  "SATURATED": true,
+  "consecutive_zero_gap_rounds": 3,
   "rounds": [
     {
       "round": 2,
@@ -832,7 +832,31 @@
         "unwritten_entries": 0
       },
       "note": "B1/B6 no new gaps -> zero-gap round 2/3"
+    },
+    {
+      "round": 45,
+      "date": "2026-11-23",
+      "zero_gap": true,
+      "methods_used": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "F"
+      ],
+      "new_gaps": {
+        "B1_new_candidates": 0,
+        "sparse_cells": 5,
+        "pending_items": 219,
+        "unwritten_entries": 0
+      },
+      "note": "B1/B6 no new gaps 3rd consecutive; core+important all L2; unwritten 0 -> SATURATED=true"
     }
   ],
-  "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true"
+  "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true",
+  "saturated_at_round": 45,
+  "saturated_date": "2026-11-23"
 }
