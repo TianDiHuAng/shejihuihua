@@ -33,3 +33,4 @@
 - 教训：新增来源脚本必须先 urllib 实抓并校验 title/H1 才能置 verified=true；不得硬编码 verified= 或 needs_verification 标志。
 - 遗留：B1 的 7 条候选待网络恢复后实抓核验再纳入。
 - 不影响已提交知识库、校验与站点生成。
+- 第 10 轮推送：`git push origin master:main` 失败（`Failed to connect to github.com:443 after ~21s`）；本地提交 `5d464ee` 已完成，远端仍停留 `5d19478`，下轮补推。
