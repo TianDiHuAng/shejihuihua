@@ -6,7 +6,10 @@ import json
 import re
 import sys
 import xml.etree.ElementTree as ET
+from collections import Counter
 from pathlib import Path
+
+THEMES = ("理论", "风格", "造景", "动线", "下沉空间", "材料")
 
 ID_RE = re.compile(r"^[a-z0-9-]+$")
 SVG_ALLOWED = {
@@ -42,6 +45,32 @@ def scope_ids(root: Path) -> set[str]:
     return ids
 
 
+def matrix_counts(root: Path):
+    path = root / "coverage-matrix.md"
+    if not path.exists():
+        return None
+    counts = {}
+    region = None
+    periods = []
+    for line in path.read_text(encoding="utf-8").splitlines():
+        m = re.match(r"^##\s+地区：(.+)$", line.strip())
+        if m:
+            region = m.group(1).strip()
+            periods = []
+            continue
+        if not line.startswith("|"):
+            continue
+        cells = [c.strip() for c in line.strip().strip("|").split("|")]
+        if cells and cells[0] == "主题":
+            periods = cells[1:]
+            continue
+        if region and periods and len(cells) == len(periods) + 1 and cells[0] in THEMES:
+            for period, cell in zip(periods, cells[1:]):
+                num = re.match(r"^(\d+)", cell)
+                counts[(cells[0], period, region)] = int(num.group(1)) if num else 0
+    return counts
+
+
 def validate_scope(root: Path) -> list[str]:
     errors = []
     ids = scope_ids(root)
@@ -51,11 +80,25 @@ def validate_scope(root: Path) -> list[str]:
     if not coverage:
         errors.append("coverage.json 缺失或无法解析")
         return errors
-    cov_ids = {e.get("id") for e in coverage.get("entries", [])}
+    cov_rows = coverage.get("entries", [])
+    cov_ids = {e.get("id") for e in cov_rows}
     if ids != cov_ids:
         errors.append(f"scope/coverage id 不一致: 仅 scope={sorted(ids - cov_ids)[:5]}, 仅 coverage={sorted(cov_ids - ids)[:5]}")
-    if coverage.get("total") != len(coverage.get("entries", [])):
+    if coverage.get("total") != len(cov_rows):
         errors.append("coverage.json total 与 entries 数量不一致")
+    counts = matrix_counts(root)
+    if counts is None:
+        errors.append("coverage-matrix.md 缺失，无法校验覆盖矩阵")
+    else:
+        expected = Counter((r["theme"], r["period"], r["region"]) for r in cov_rows)
+        if sum(counts.values()) != len(cov_rows):
+            errors.append(f"覆盖矩阵总数 {sum(counts.values())} 与 scope 条目数 {len(cov_rows)} 不一致")
+        for key, n in expected.items():
+            if counts.get(key, 0) != n:
+                errors.append(f"覆盖矩阵格子 {key} 为 {counts.get(key, 0)}，应为 {n}")
+        for key, n in counts.items():
+            if expected.get(key, 0) != n:
+                errors.append(f"覆盖矩阵格子 {key} 为 {n}，应为 {expected.get(key, 0)}")
     return errors
 
 
@@ -94,9 +137,12 @@ def validate_svg(svg: str) -> list[str]:
     if not isinstance(svg, str) or "<svg" not in svg:
         return ["SVG 内容缺失"]
     low = svg.lower()
-    for forbidden in ("<script", "javascript:", " onload=", " onclick=", "href=", "<image", "<iframe"):
+    for forbidden in ("<script", "javascript:", "href=", "<image", "<iframe", "url("):
         if forbidden in low:
             errors.append(f"SVG 含禁止内容: {forbidden.strip()}")
+    event = re.search(r"\son[a-z]+\s*=", low)
+    if event:
+        errors.append(f"SVG 含禁止内容: {event.group(0).strip()}")
     try:
         root = ET.fromstring(svg)
     except ET.ParseError as exc:
@@ -139,14 +185,43 @@ def validate_svg(svg: str) -> list[str]:
                                 errors.append(f"SVG {tag} 的 {attr}={num} 超出 viewBox")
                         elif not (min_y - margin_y <= num <= max_y + margin_y):
                             errors.append(f"SVG {tag} 的 {attr}={num} 超出 viewBox")
-                    if tag == "rect":
+
+                    def in_x(value):
+                        return min_x - margin_x <= value <= max_x + margin_x
+
+                    def in_y(value):
+                        return min_y - margin_y <= value <= max_y + margin_y
+
+                    if "r" in el.attrib:
                         try:
-                            rx, ry = float(el.attrib.get("x", 0)), float(el.attrib.get("y", 0))
-                            rw, rh = float(el.attrib.get("width", 0)), float(el.attrib.get("height", 0))
-                            if rx + rw > max_x + margin_x or ry + rh > max_y + margin_y:
-                                errors.append("SVG rect 超出 viewBox")
+                            radius = float(el.attrib["r"])
+                            c_x = float(el.attrib.get("cx", 0))
+                            c_y = float(el.attrib.get("cy", 0))
+                            if not (in_x(c_x - radius) and in_x(c_x + radius)
+                                    and in_y(c_y - radius) and in_y(c_y + radius)):
+                                errors.append(f"SVG {tag} 的 r={radius} 超出 viewBox")
                         except ValueError:
-                            pass
+                            errors.append(f"SVG {tag} 的 r 非数值")
+                    if tag != "svg":
+                        for attr in ("width", "height"):
+                            if attr not in el.attrib:
+                                continue
+                            try:
+                                value = float(el.attrib[attr])
+                            except ValueError:
+                                errors.append(f"SVG {tag} 的 {attr} 非数值")
+                                continue
+                            if value <= 0 or (attr == "width" and not in_x(value)) or (attr == "height" and not in_y(value)):
+                                errors.append(f"SVG {tag} 的 {attr}={value} 超出 viewBox")
+                    for attr in ("points", "d"):
+                        if attr not in el.attrib:
+                            continue
+                        values = [float(v) for v in re.findall(r"-?\d+(?:\.\d+)?", el.attrib[attr])]
+                        for index, value in enumerate(values):
+                            ok = in_x(value) if index % 2 == 0 else in_y(value)
+                            if not ok:
+                                errors.append(f"SVG {tag} 的 {attr} 超出 viewBox")
+                                break
     return errors
 
 
@@ -206,9 +281,12 @@ def validate_entries(root: Path, sources: dict) -> tuple[list[str], dict]:
                     errors.append(f"{label} SVG#{pos + 1}: {err}")
             sections = entry.get("sections", {})
             if entry.get("level") in ("L2", "L3"):
-                for field in ("原理", "手法", "实例", "常见错误与限制"):
+                for field in ("原理", "典型手法与适用条件", "实例", "常见错误与限制", "一图", "待核实"):
                     if not str(sections.get(field, "")).strip():
                         errors.append(f"{label} 缺少 L2 结构节: {field}")
+            inline_text = " ".join(str(v) for k, v in sections.items() if k != "待核实")
+            if "待核实" in inline_text and not entry.get("needs_verification"):
+                errors.append(f"{label} 正文含待核实声明但标志位为 false")
             risk_text = " ".join(str(v) for v in sections.values())
             if any(word in risk_text for word in RISK_WORDS) and REGULATION_NOTE not in risk_text:
                 errors.append(f"{label} 涉及尺寸/坡度/消防/无障碍等，缺少规范提示")
@@ -229,6 +307,9 @@ def validate_coverage(root: Path, by_id: dict) -> list[str]:
         row = cov[eid]
         if row.get("level") != entry.get("level"):
             errors.append(f"条目 {eid} 层级与 coverage 不一致")
+        for field in ("theme", "tier", "period", "region"):
+            if row.get(field) != entry.get(field):
+                errors.append(f"条目 {eid} 的 {field} 与 coverage 不一致")
         if row.get("source_count") != len(entry.get("sources", [])):
             errors.append(f"条目 {eid} 来源数与 coverage 不一致")
         if row.get("title") != entry.get("title"):

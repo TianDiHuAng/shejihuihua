@@ -34,9 +34,11 @@ def base_entry(**overrides):
         "related": [],
         "sections": {
             "原理": "视线汇聚产生深度感。",
-            "手法": "确定视平线与灭点后连线。",
+            "典型手法与适用条件": "确定视平线与灭点后连线。",
             "实例": "名称、地点、设计者、年份",
             "常见错误与限制": "灭点混乱；实际工程须按当地规范和专业设计人员的要求。",
+            "一图": "见下方示意图。",
+            "待核实": "暂无已知待核实项。",
         },
         "svg": [svg()],
         "sources": ["src-a", "src-b"],
@@ -63,8 +65,7 @@ class CheckTest(unittest.TestCase):
              "year": None, "url": "https://example.org/c", "url2": None,
              "verified": False, "note": "无法打开"},
         ]})
-        (self.root / "scope.md").write_text(
-            "| id | 名称 | 层级 | 时期 | 地区 | 来源 |\n"
+        (self.root / "scope.md").write_text(            "| id | 名称 | 层级 | 时期 | 地区 | 来源 |\n"
             "| --- | --- | --- | --- | --- | --- |\n"
             "| perspective | 透视法 | 核心 | 跨时期 | 全球 | S5 |\n",
             encoding="utf-8",
@@ -74,6 +75,12 @@ class CheckTest(unittest.TestCase):
              "period": "跨时期", "region": "全球", "level": "L2", "status": "已完成",
              "source_count": 2, "needs_verification_count": 0, "last_updated": "2026-11-22"},
         ]})
+        (self.root / "coverage-matrix.md").write_text(
+            "## 地区：全球\n| 主题 | 古代 | 中世纪 | 文艺复兴至19世纪 | 20世纪 | 当代 | 跨时期 |\n"
+            "| --- | --- | --- | --- | --- | --- | --- |\n"
+            "| 理论 | — | — | — | — | — | 1（0/1/0） |\n",
+            encoding="utf-8",
+        )
         write(self.root, "entries/sample.json", {"unit_id": "sample", "title": "样板", "entries": [base_entry()]})
 
     def tearDown(self):
@@ -121,6 +128,50 @@ class CheckTest(unittest.TestCase):
 
     def test_valid_project_passes(self):
         self.assertEqual(self.run_check(), [])
+
+    def test_metadata_drift_rejected(self):
+        cov = json.loads((self.root / "coverage.json").read_text(encoding="utf-8"))
+        cov["entries"][0]["tier"] = "重要"
+        write(self.root, "coverage.json", cov)
+        errors = self.run_check()
+        self.assertTrue(any("tier" in e for e in errors), errors)
+
+    def test_matrix_mismatch_rejected(self):
+        matrix = self.root / "coverage-matrix.md"
+        text = matrix.read_text(encoding="utf-8")
+        text = text.replace("1（0/1/0）", "99（0/1/0）", 1)
+        matrix.write_text(text, encoding="utf-8")
+        errors = self.run_check()
+        self.assertTrue(any("矩阵" in e for e in errors), errors)
+
+    def test_svg_out_of_bounds_rejected(self):
+        bad = "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='500'/><text x='20' y='20'>示意图，非施工图</text></svg>"
+        write(self.root, "entries/sample.json", {"unit_id": "sample", "title": "样板",
+              "entries": [base_entry(svg=[bad])]})
+        errors = self.run_check()
+        self.assertTrue(any("SVG" in e and "超出" in e for e in errors), errors)
+
+    def test_svg_event_handler_rejected(self):
+        bad = svg().replace("<rect", "<rect onmouseover='alert(1)'")
+        write(self.root, "entries/sample.json", {"unit_id": "sample", "title": "样板",
+              "entries": [base_entry(svg=[bad])]})
+        errors = self.run_check()
+        self.assertTrue(any("onmouseover" in e for e in errors), errors)
+
+    def test_pending_text_without_flag_rejected(self):
+        entry = base_entry()
+        entry["sections"]["实例"] = "名称待核实，年份待核实"
+        write(self.root, "entries/sample.json", {"unit_id": "sample", "title": "样板", "entries": [entry]})
+        errors = self.run_check()
+        self.assertTrue(any("待核实" in e and "标志" in e for e in errors), errors)
+
+    def test_l2_seven_sections_required(self):
+        entry = base_entry()
+        del entry["sections"]["一图"]
+        del entry["sections"]["待核实"]
+        write(self.root, "entries/sample.json", {"unit_id": "sample", "title": "样板", "entries": [entry]})
+        errors = self.run_check()
+        self.assertTrue(any("一图" in e or "待核实" in e for e in errors), errors)
 
 
 if __name__ == "__main__":

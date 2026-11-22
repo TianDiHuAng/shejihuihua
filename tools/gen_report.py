@@ -21,6 +21,8 @@ def main():
     verified = sum(1 for s in sources if s.get("verified"))
     pending = [e for e in written.values() if e.get("needs_verification")]
     blanks = [r for r in rows if r["id"] not in written]
+    order = {"核心": 0, "重要": 1, "补充": 2}
+    next_entry = sorted(blanks, key=lambda r: order.get(r["tier"], 9))[0] if blanks else None
     blank_groups = Counter((r["theme"], r["period"], r["region"]) for r in blanks)
 
     lines = [
@@ -40,7 +42,7 @@ def main():
         "",
         "- `python -m unittest discover -s tests -v`：7/7 通过",
         "- `python tools/check.py`：PASS，0 errors",
-        "- `python tools/gen_site.py`：生成 40 个条目页 + 首页/索引/来源/覆盖报告",
+        f"- `python tools/gen_site.py`：生成 {len(written)} 个条目页 + 首页/索引/来源/覆盖报告",
         "- `python tools/check_links.py`：PASS，0 broken links",
         "",
         "## 本轮条目",
@@ -63,7 +65,7 @@ def main():
         "",
         "## 下一轮起点",
         "",
-        f"从 scope.md 中首个未写条目 `{blanks[0]['id'] if blanks else 'ALL_DONE'}` 开始；按核心→重要→补充顺序推进 L1，",
+        f"从首个未写核心条目 `{next_entry['id'] if next_entry else 'ALL_DONE'}` 开始；按核心→重要→补充顺序推进 L1，",
         "并在 L1 全量完成后逐步升级核心条目到 L2/L3。所有阶段完成后在 PROGRESS.md 写入 ALL_DONE。",
         "",
     ]

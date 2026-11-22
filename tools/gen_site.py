@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import html
 import json
+import check
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -102,14 +103,15 @@ def write_page(rel, content):
 
 def render_home(coverage, sources, entries):
     total = coverage["total"]
-    levels = Counter(e.get("level", "L1") for e in coverage["entries"])
     written = len(entries)
+    written_levels = Counter(e.get("level", "L1") for e in entries)
+    target_levels = Counter(e.get("level", "L1") for e in coverage["entries"])
     verified = sum(1 for s in sources if s.get("verified"))
     pending = sum(1 for e in entries if e.get("needs_verification"))
     theme_counts = Counter(e["theme"] for e in coverage["entries"])
     cards = [
-        (total, "范围条目"), (written, "已写条目"), (levels["L1"], "L1 骨架"),
-        (levels["L2"], "L2 标准"), (levels["L3"], "L3 深度"),
+        (total, "范围条目"), (written, "已写条目"),
+        (written_levels["L1"], "已写 L1"), (written_levels["L2"], "已写 L2"),
         (verified, "已核验来源"), (pending, "待核实条目"),
     ]
     body = [
@@ -124,6 +126,7 @@ def render_home(coverage, sources, entries):
         body.append(f'<li><a href="indexes.html#{theme}">{theme}</a> <span class="tag">{theme_counts[theme]} 条</span></li>')
     body += [
         "</ul>",
+        f'<p class="note">范围目标层级：L1 {target_levels["L1"]}、L2 {target_levels["L2"]}、L3 {target_levels["L3"]}。上方卡片统计的是已写条目。</p>',
         "<h2>阅读约定</h2>",
         "<p>图示均为自绘内联 SVG，仅用于说明空间或构图关系，非施工图。涉及尺寸、坡度、消防、无障碍的数据只作一般性说明；实际工程须按当地规范和专业设计人员的要求。</p>",
         '<p class="note">生成物由 tools/gen_site.py 确定性输出，请勿手工修改 site/ 下的 HTML。</p>',
@@ -131,7 +134,7 @@ def render_home(coverage, sources, entries):
     write_page("index.html", shell("首页", "\n".join(body)))
 
 
-def render_entry(entry, sources_by_id, written_ids):
+def render_entry(entry, sources_by_id, written_ids, titles):
     eid = entry["id"]
     body = [f'<h1>{esc(entry["title"])}</h1>']
     body.append(
@@ -167,10 +170,10 @@ def render_entry(entry, sources_by_id, written_ids):
     if related:
         body.append("<h2>相关条目</h2><ul>")
         for r in related:
-            label = esc(r)
+            label = esc(titles.get(r, r))
             body.append(f'<li><a href="{esc(r)}.html">{label}</a></li>' if r in written_ids else f'<li>{label}（待写）</li>')
         body.append("</ul>")
-    if entry.get("needs_verification"):
+    if entry.get("needs_verification") and "待核实" not in entry.get("sections", {}):
         body.append(f'<h2>待核实</h2><p>{esc(entry.get("pending_notes", ""))}</p>')
     body.append('<p class="note">涉及尺寸、坡度、消防、无障碍等内容仅为一般性说明；实际工程须按当地规范和专业设计人员的要求。</p>')
     write_page(f"entries/{eid}.html", shell(entry["title"], "\n".join(body), depth=1))
@@ -195,17 +198,19 @@ def render_indexes(coverage, entries):
 
 def render_sources(sources):
     body = ["<h1>来源库</h1>", '<p class="lead">只有 verified=true 的来源可供条目引用；链接状态由 tools/linkcheck.py 记录。</p>']
-    body.append("<table><tr><th>标题</th><th>作者/机构</th><th>类型</th><th>年份</th><th>核验</th><th>说明</th></tr>")
+    body.append("<table><tr><th>标题</th><th>作者/机构</th><th>类型</th><th>年份</th><th>核验</th><th>链接</th><th>说明</th></tr>")
     for src in sources:
         title = esc(src.get("title", ""))
         url = src.get("url")
         if url:
             title = f'<a href="{esc(url)}">{title}</a>'
         ok = '<span class="badge-ok">已核验</span>' if src.get("verified") else '<span class="badge-no">待核验</span>'
+        link = src.get("link_ok", None)
+        link_text = "可达" if link is True else "反爬拒绝" if link == "blocked" else "死链" if link is False else "无链接"
         body.append(
             f'<tr><td>{title}</td><td>{esc(src.get("author", ""))}</td><td>{esc(src.get("type", ""))}</td>'
             f'<td>{esc(src.get("year") if src.get("year") is not None else "动态/未标注")}</td><td>{ok}</td>'
-            f'<td>{esc(src.get("note", ""))}</td></tr>'
+            f'<td>{link_text}</td><td>{esc(src.get("note", ""))}</td></tr>'
         )
     body.append("</table>")
     write_page("sources.html", shell("来源", "\n".join(body)))
@@ -224,8 +229,13 @@ def render_coverage(coverage, entries):
         total = sum(1 for r in rows if r["theme"] == theme)
         body.append(f"<tr><td>{theme}</td>" + "".join(f"<td>{c}</td>" for c in cells) + f"<td>{total}</td></tr>")
     body.append("</table>")
-    blanks = [f'{r["theme"]}/{r["period"]}/{r["region"]}' for r in rows if r["id"] not in done]
-    body.append(f'<h2>未写条目（{len(blanks)}）</h2><p>{esc("、".join(blanks[:60]))}{"…" if len(blanks) > 60 else ""}</p>')
+    blanks = [r for r in rows if r["id"] not in done]
+    groups = Counter((r["theme"], r["period"], r["region"]) for r in blanks)
+    body.append(f'<h2>未写条目（{len(blanks)}，{len(groups)} 个格子）</h2>')
+    body.append('<table><tr><th>主题</th><th>时期</th><th>地区</th><th>未写数</th></tr>')
+    for (theme, period, region), n in sorted(groups.items()):
+        body.append(f'<tr><td>{esc(theme)}</td><td>{esc(period)}</td><td>{esc(region)}</td><td>{n}</td></tr>')
+    body.append('</table>')
     write_page("coverage.html", shell("覆盖报告", "\n".join(body)))
 
 
@@ -234,12 +244,19 @@ def main():
     sources = load_json("data/sources.json")["sources"]
     entries = load_entries()
     sources_by_id = {s["id"]: s for s in sources}
+    titles = {r["id"]: r["title"] for r in coverage["entries"]}
+    written_ids = {e["id"] for e in entries}
+    for entry in entries:
+        for diagram in entry.get("svg", []):
+            errors = check.validate_svg(diagram)
+            if errors:
+                raise ValueError(f"SVG {entry['id']}: {errors}")
     SITE.mkdir(exist_ok=True)
     (SITE / "assets").mkdir(exist_ok=True)
     (SITE / "assets" / "site.css").write_text(CSS, encoding="utf-8")
     render_home(coverage, sources, entries)
     for entry in entries:
-        render_entry(entry, sources_by_id, {e["id"] for e in entries})
+        render_entry(entry, sources_by_id, written_ids, titles)
     render_indexes(coverage, entries)
     render_sources(sources)
     render_coverage(coverage, entries)

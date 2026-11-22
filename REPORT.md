@@ -8,7 +8,7 @@
 - 范围层级分布：核心 49、重要 121、补充 49
 - 写作层级统计：L1 38、L2 2、L3 0；未写 179
 - 来源总数：118；verified=true 共 115；verified=false 共 3
-- 待核实条目：1（hierarchy）
+- 待核实条目：3（hierarchy, perspective, sunken-courtyard）
 
 ## 校验结果
 
@@ -37,7 +37,7 @@
 - horizon-line — 视平线（L1，重要，来源 2 条）
 - hue — 色相（L1，重要，来源 2 条）
 - leading-lines — 引导线（L1，重要，来源 2 条）
-- linear-perspective — 线性透视（L1，重要，来源 2 条）
+- linear-perspective — 线性透视（L1，核心，来源 2 条）
 - negative-space — 负空间（L1，重要，来源 2 条）
 - one-point-perspective — 一点透视（L1，重要，来源 2 条）
 - perspective — 透视法（L2，核心，来源 3 条）
@@ -100,5 +100,5 @@
 
 ## 下一轮起点
 
-从 scope.md 中首个未写条目 `rule-of-odds` 开始；按核心→重要→补充顺序推进 L1，
+从首个未写核心条目 `chiaroscuro` 开始；按核心→重要→补充顺序推进 L1，
 并在 L1 全量完成后逐步升级核心条目到 L2/L3。所有阶段完成后在 PROGRESS.md 写入 ALL_DONE。

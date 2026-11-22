@@ -6,7 +6,7 @@ ROOT = Path(__file__).resolve().parent.parent
 
 # id|名称|层级|主题|时期|地区|定义|时间或位置|概述|来源(逗号分隔)|待核实(0/1)|待核实说明
 DATA = """
-linear-perspective|线性透视|重要|理论|文艺复兴至19世纪|欧洲|以几何投影和灭点组织画面深度的透视体系。|文艺复兴时期意大利（参见来源）。|它把观察者视点固定，使平行线按规律汇聚，是焦点透视的基础。|wp-perspective-graphical,wp-vanishing-point|0|
+linear-perspective|线性透视|核心|理论|文艺复兴至19世纪|欧洲|以几何投影和灭点组织画面深度的透视体系。|文艺复兴时期意大利（参见来源）。|它把观察者视点固定，使平行线按规律汇聚，是焦点透视的基础。|wp-perspective-graphical,wp-vanishing-point|0|
 one-point-perspective|一点透视|重要|理论|文艺复兴至19世纪|欧洲|平行线向画面中单一主灭点汇聚的透视方法。|文艺复兴至19世纪欧洲（参见来源）。|适合表现正对观察者的立面、走廊与室内空间。|wp-perspective-graphical,wp-de-pictura|0|
 two-point-perspective|两点透视|重要|理论|文艺复兴至19世纪|欧洲|两组水平平行线分别汇聚于左右两个灭点的透视方法。|文艺复兴至19世纪欧洲（参见来源）。|常用于表现建筑转角与斜向观看的立方体。|wp-perspective-graphical,wp-alberti|0|
 three-point-perspective|三点透视|重要|理论|20世纪|欧洲|在两点透视基础上加入垂直方向灭点的透视方法。|20世纪（参见来源）。|用于仰视高层建筑或俯视深井式空间，垂直线随之收敛。|wp-perspective-graphical,wp-curvilinear-perspective|0|
@@ -70,6 +70,9 @@ def main():
         for i, r in enumerate(group):
             if i + 1 < len(group):
                 r["related"] = [group[i + 1]["id"]]
+    # 按核心→重要→补充排序；同层级保持 scope 原序
+    order = {"核心": 0, "重要": 1, "补充": 2}
+    rows.sort(key=lambda r: order[r["tier"]])
     out = ROOT / "entries" / "batch-01.json"
     out.write_text(json.dumps({"unit_id": "batch-01", "title": "首批 L1 骨架条目", "entries": rows},
                               ensure_ascii=False, indent=2), encoding="utf-8")

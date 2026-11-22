@@ -6,7 +6,7 @@
       "id": "linear-perspective",
       "title": "线性透视",
       "level": "L1",
-      "tier": "重要",
+      "tier": "核心",
       "theme": "理论",
       "period": "文艺复兴至19世纪",
       "region": "欧洲",
@@ -19,6 +19,132 @@
       "sources": [
         "wp-perspective-graphical",
         "wp-vanishing-point"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "scattered-perspective",
+      "title": "散点透视",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "中国画中视点移动、多视点组合的空间表现方法。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "它使长卷能够连续展开不同视点下的景物，与焦点透视形成对照。",
+      "related": [
+        "composition"
+      ],
+      "sources": [
+        "wp-chinese-painting",
+        "wp-reverse-perspective"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "composition",
+      "title": "构图法则",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "对画面元素的位置、比例与关系进行组织以形成秩序和重点的方法。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "构图决定观看路径与信息主次，是绘画与视觉设计共通的骨架。",
+      "related": [
+        "rule-of-thirds"
+      ],
+      "sources": [
+        "wp-composition-visual-arts",
+        "wp-rule-of-thirds"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "balance",
+      "title": "均衡",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "画面各元素在视觉重量上的均衡关系。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "均衡不等于对称，大小与色彩差异都能改变视觉重量。",
+      "related": [
+        "contrast-principle"
+      ],
+      "sources": [
+        "wp-composition-visual-arts",
+        "wp-symmetry"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "proportion",
+      "title": "比例",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "部分与整体之间、或各部分之间的尺寸关系。",
+      "time_or_place": "跨时期、全球；建筑理论中亦有专门讨论（参见来源）。",
+      "overview": "比例决定和谐感与尺度感，是构图和空间设计的共同语言。",
+      "related": [
+        "golden-ratio"
+      ],
+      "sources": [
+        "wp-proportion-architecture",
+        "wp-golden-ratio"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "color-theory",
+      "title": "色彩理论",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "研究色彩混合、对比与和谐规律的理论体系。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "色彩理论连接物理光学、视觉感知与审美经验。",
+      "related": [
+        "hue"
+      ],
+      "sources": [
+        "wp-color-theory",
+        "wp-theory-of-colours"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "value",
+      "title": "明度",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "色彩的明暗程度。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "明度关系决定画面的结构与可读性，先于色相被视觉系统捕捉。",
+      "related": [
+        "saturation"
+      ],
+      "sources": [
+        "wp-colorfulness",
+        "wp-color-theory"
       ],
       "needs_verification": false,
       "pending_notes": ""
@@ -82,27 +208,6 @@
       "sources": [
         "wp-perspective-graphical",
         "wp-curvilinear-perspective"
-      ],
-      "needs_verification": false,
-      "pending_notes": ""
-    },
-    {
-      "id": "curvilinear-perspective",
-      "title": "曲线透视",
-      "level": "L1",
-      "tier": "补充",
-      "theme": "理论",
-      "period": "20世纪",
-      "region": "全球",
-      "definition": "用曲线网格表现超广角或鱼眼视野的透视方法。",
-      "time_or_place": "20世纪（参见来源）。",
-      "overview": "直线在画面边缘弯曲，适合表现极端视角与空间包裹感。",
-      "related": [
-        "aerial-perspective"
-      ],
-      "sources": [
-        "wp-curvilinear-perspective",
-        "wp-perspective-graphical"
       ],
       "needs_verification": false,
       "pending_notes": ""
@@ -192,48 +297,6 @@
       "pending_notes": ""
     },
     {
-      "id": "scattered-perspective",
-      "title": "散点透视",
-      "level": "L1",
-      "tier": "核心",
-      "theme": "理论",
-      "period": "古代",
-      "region": "中国",
-      "definition": "中国画中视点移动、多视点组合的空间表现方法。",
-      "time_or_place": "古代中国（参见来源）。",
-      "overview": "它使长卷能够连续展开不同视点下的景物，与焦点透视形成对照。",
-      "related": [
-        "composition"
-      ],
-      "sources": [
-        "wp-chinese-painting",
-        "wp-reverse-perspective"
-      ],
-      "needs_verification": false,
-      "pending_notes": ""
-    },
-    {
-      "id": "composition",
-      "title": "构图法则",
-      "level": "L1",
-      "tier": "核心",
-      "theme": "理论",
-      "period": "跨时期",
-      "region": "全球",
-      "definition": "对画面元素的位置、比例与关系进行组织以形成秩序和重点的方法。",
-      "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "构图决定观看路径与信息主次，是绘画与视觉设计共通的骨架。",
-      "related": [
-        "rule-of-thirds"
-      ],
-      "sources": [
-        "wp-composition-visual-arts",
-        "wp-rule-of-thirds"
-      ],
-      "needs_verification": false,
-      "pending_notes": ""
-    },
-    {
       "id": "rule-of-thirds",
       "title": "三分法",
       "level": "L1",
@@ -250,27 +313,6 @@
       "sources": [
         "wp-rule-of-thirds",
         "wp-composition-visual-arts"
-      ],
-      "needs_verification": false,
-      "pending_notes": ""
-    },
-    {
-      "id": "rule-of-space",
-      "title": "空间法则",
-      "level": "L1",
-      "tier": "补充",
-      "theme": "理论",
-      "period": "跨时期",
-      "region": "全球",
-      "definition": "在视线或运动方向前方预留画面空间的构图方法。",
-      "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "预留空间能表现运动趋势与方向感，避免主体视线被画面边缘截断。",
-      "related": [
-        "simplification"
-      ],
-      "sources": [
-        "wp-composition-visual-arts",
-        "wp-leading-line"
       ],
       "needs_verification": false,
       "pending_notes": ""
@@ -423,27 +465,6 @@
       "pending_notes": ""
     },
     {
-      "id": "balance",
-      "title": "均衡",
-      "level": "L1",
-      "tier": "核心",
-      "theme": "理论",
-      "period": "跨时期",
-      "region": "全球",
-      "definition": "画面各元素在视觉重量上的均衡关系。",
-      "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "均衡不等于对称，大小与色彩差异都能改变视觉重量。",
-      "related": [
-        "contrast-principle"
-      ],
-      "sources": [
-        "wp-composition-visual-arts",
-        "wp-symmetry"
-      ],
-      "needs_verification": false,
-      "pending_notes": ""
-    },
-    {
       "id": "contrast-principle",
       "title": "对比",
       "level": "L1",
@@ -506,22 +527,167 @@
       "pending_notes": "仅见构图条目关于主次的讨论，待补充第二独立来源。"
     },
     {
-      "id": "proportion",
-      "title": "比例",
+      "id": "hue",
+      "title": "色相",
       "level": "L1",
-      "tier": "核心",
+      "tier": "重要",
       "theme": "理论",
       "period": "跨时期",
       "region": "全球",
-      "definition": "部分与整体之间、或各部分之间的尺寸关系。",
-      "time_or_place": "跨时期、全球；建筑理论中亦有专门讨论（参见来源）。",
-      "overview": "比例决定和谐感与尺度感，是构图和空间设计的共同语言。",
+      "definition": "色彩借以区分种类的属性。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "色相是色彩循环秩序的基础，与明度、纯度共同描述颜色。",
       "related": [
-        "golden-ratio"
+        "value"
       ],
       "sources": [
-        "wp-proportion-architecture",
-        "wp-golden-ratio"
+        "wp-hue",
+        "wp-color-theory"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "saturation",
+      "title": "纯度",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "色彩的鲜艳或饱和程度。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "高纯度色彩吸引注意，低纯度色彩适合作为背景与过渡。",
+      "related": [
+        "primary-colors"
+      ],
+      "sources": [
+        "wp-colorfulness",
+        "wp-munsell-color-system"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "primary-colors",
+      "title": "三原色",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "可混合生成其他色彩的基础色集合。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "不同色彩模型采用不同原色集合，需区分光色与颜料色。",
+      "related": [
+        "complementary-colors"
+      ],
+      "sources": [
+        "wp-primary-color",
+        "wp-color-wheel"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "complementary-colors",
+      "title": "互补色",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "色轮上相对、并置时形成强烈对比的色彩。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "互补配色能制造张力，降低一方纯度可获得更稳定的效果。",
+      "related": [
+        "color-contrast"
+      ],
+      "sources": [
+        "wp-complementary-colors",
+        "wp-color-wheel"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "color-contrast",
+      "title": "色彩对比",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "色彩之间在明度、色相、冷暖或纯度上的差异。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "对比度影响可读性与情绪，是无障碍视觉设计的重要变量。",
+      "related": [
+        "warm-cool"
+      ],
+      "sources": [
+        "wp-color-theory",
+        "wp-complementary-colors"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "warm-cool",
+      "title": "冷暖色",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "色彩给人的冷暖心理感受与倾向。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "冷暖关系常用于组织空间前后层次与画面情绪。",
+      "related": [],
+      "sources": [
+        "wp-color-theory",
+        "wp-theory-of-colours"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "curvilinear-perspective",
+      "title": "曲线透视",
+      "level": "L1",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "用曲线网格表现超广角或鱼眼视野的透视方法。",
+      "time_or_place": "20世纪（参见来源）。",
+      "overview": "直线在画面边缘弯曲，适合表现极端视角与空间包裹感。",
+      "related": [
+        "aerial-perspective"
+      ],
+      "sources": [
+        "wp-curvilinear-perspective",
+        "wp-perspective-graphical"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "rule-of-space",
+      "title": "空间法则",
+      "level": "L1",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "在视线或运动方向前方预留画面空间的构图方法。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "预留空间能表现运动趋势与方向感，避免主体视线被画面边缘截断。",
+      "related": [
+        "simplification"
+      ],
+      "sources": [
+        "wp-composition-visual-arts",
+        "wp-leading-line"
       ],
       "needs_verification": false,
       "pending_notes": ""
@@ -627,172 +793,6 @@
       "sources": [
         "wp-composition-visual-arts",
         "wp-chinese-garden"
-      ],
-      "needs_verification": false,
-      "pending_notes": ""
-    },
-    {
-      "id": "color-theory",
-      "title": "色彩理论",
-      "level": "L1",
-      "tier": "核心",
-      "theme": "理论",
-      "period": "跨时期",
-      "region": "全球",
-      "definition": "研究色彩混合、对比与和谐规律的理论体系。",
-      "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "色彩理论连接物理光学、视觉感知与审美经验。",
-      "related": [
-        "hue"
-      ],
-      "sources": [
-        "wp-color-theory",
-        "wp-theory-of-colours"
-      ],
-      "needs_verification": false,
-      "pending_notes": ""
-    },
-    {
-      "id": "hue",
-      "title": "色相",
-      "level": "L1",
-      "tier": "重要",
-      "theme": "理论",
-      "period": "跨时期",
-      "region": "全球",
-      "definition": "色彩借以区分种类的属性。",
-      "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "色相是色彩循环秩序的基础，与明度、纯度共同描述颜色。",
-      "related": [
-        "value"
-      ],
-      "sources": [
-        "wp-hue",
-        "wp-color-theory"
-      ],
-      "needs_verification": false,
-      "pending_notes": ""
-    },
-    {
-      "id": "value",
-      "title": "明度",
-      "level": "L1",
-      "tier": "核心",
-      "theme": "理论",
-      "period": "跨时期",
-      "region": "全球",
-      "definition": "色彩的明暗程度。",
-      "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "明度关系决定画面的结构与可读性，先于色相被视觉系统捕捉。",
-      "related": [
-        "saturation"
-      ],
-      "sources": [
-        "wp-colorfulness",
-        "wp-color-theory"
-      ],
-      "needs_verification": false,
-      "pending_notes": ""
-    },
-    {
-      "id": "saturation",
-      "title": "纯度",
-      "level": "L1",
-      "tier": "重要",
-      "theme": "理论",
-      "period": "跨时期",
-      "region": "全球",
-      "definition": "色彩的鲜艳或饱和程度。",
-      "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "高纯度色彩吸引注意，低纯度色彩适合作为背景与过渡。",
-      "related": [
-        "primary-colors"
-      ],
-      "sources": [
-        "wp-colorfulness",
-        "wp-munsell-color-system"
-      ],
-      "needs_verification": false,
-      "pending_notes": ""
-    },
-    {
-      "id": "primary-colors",
-      "title": "三原色",
-      "level": "L1",
-      "tier": "重要",
-      "theme": "理论",
-      "period": "跨时期",
-      "region": "全球",
-      "definition": "可混合生成其他色彩的基础色集合。",
-      "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "不同色彩模型采用不同原色集合，需区分光色与颜料色。",
-      "related": [
-        "complementary-colors"
-      ],
-      "sources": [
-        "wp-primary-color",
-        "wp-color-wheel"
-      ],
-      "needs_verification": false,
-      "pending_notes": ""
-    },
-    {
-      "id": "complementary-colors",
-      "title": "互补色",
-      "level": "L1",
-      "tier": "重要",
-      "theme": "理论",
-      "period": "跨时期",
-      "region": "全球",
-      "definition": "色轮上相对、并置时形成强烈对比的色彩。",
-      "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "互补配色能制造张力，降低一方纯度可获得更稳定的效果。",
-      "related": [
-        "color-contrast"
-      ],
-      "sources": [
-        "wp-complementary-colors",
-        "wp-color-wheel"
-      ],
-      "needs_verification": false,
-      "pending_notes": ""
-    },
-    {
-      "id": "color-contrast",
-      "title": "色彩对比",
-      "level": "L1",
-      "tier": "重要",
-      "theme": "理论",
-      "period": "跨时期",
-      "region": "全球",
-      "definition": "色彩之间在明度、色相、冷暖或纯度上的差异。",
-      "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "对比度影响可读性与情绪，是无障碍视觉设计的重要变量。",
-      "related": [
-        "warm-cool"
-      ],
-      "sources": [
-        "wp-color-theory",
-        "wp-complementary-colors"
-      ],
-      "needs_verification": false,
-      "pending_notes": ""
-    },
-    {
-      "id": "warm-cool",
-      "title": "冷暖色",
-      "level": "L1",
-      "tier": "重要",
-      "theme": "理论",
-      "period": "跨时期",
-      "region": "全球",
-      "definition": "色彩给人的冷暖心理感受与倾向。",
-      "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "冷暖关系常用于组织空间前后层次与画面情绪。",
-      "related": [],
-      "sources": [
-        "wp-color-theory",
-        "wp-theory-of-colours"
       ],
       "needs_verification": false,
       "pending_notes": ""
