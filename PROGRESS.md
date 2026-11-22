@@ -3,7 +3,7 @@
 - 项目：静态网站《绘画理论与建筑空间设计》
 - 启动时间：2026-11-22 14:57 Asia/Hong_Kong
 - 工作方式：无人值守，按 TASK_design.md 与 WORKFLOW.md 分阶段推进；决策写入 DECISIONS.md
-- 当前轮次：第 16 轮已完成（自动模式）；下一轮：第 17 轮
+- 当前轮次：第 17 轮已完成（自动模式）；下一轮：第 18 轮
 
 ## 阶段状态
 
@@ -13,7 +13,7 @@
 | 1 | 来源库 sources.json | 已完成 | data/sources.json（118 条，115 verified，link_ok 三态）、research/source_notes.md |
 | 2 | 校验器 tools/check.py | 已完成 | tools/check.py、tests/test_check.py（7/7 通过） |
 | 3 | 2 个 L2 样板 | 已完成 | entries/l2-samples.json（透视法、下沉庭院，含自绘 SVG） |
-| 4 | 条目累计 126 | 第 16 轮已完成 | 范围 237；已写 126（L1 51、L2 75）；来源 186；待核实 62 |
+| 4 | 条目累计 126 | 第 17 轮已完成 | 范围 237；已写 126（L1 44、L2 82）；来源 186；待核实 69 |
 | 5 | 总览页 / 索引 / 导航 / REPORT | 已完成 | site/（首页、40 条目页、索引、来源、覆盖报告）、REPORT.md |
 
 ## 本轮完成目标
@@ -26,7 +26,7 @@
 
 ## 下一轮起点
 
-阶段 4：按 BACKLOG 第 17 轮队列执行：补抽 25%、复核 62 条待核实、升级剩余 51 条 L1→L2（去模板、相似度预检）、sunken-plaza 升级、处理 B4 的 6 个未答问题。
+阶段 4：按 BACKLOG 第 18 轮队列执行：补抽 4 条、复核待补 URL 的收窄、升级剩余 44 条 L1→L2、处理 B4 的 6 个未答问题。
 本轮尚未写入 ALL_DONE；AUTONOMOUS.md 规定项目没有“做完”，只有饱和（SATURATION.json）。
 
 ## 变更日志
@@ -64,3 +64,4 @@
 - 2026-11-22 19:2x 第 14 轮自动模式：6 条透视 L1→L2（抽检发现相似度/时段问题→整批返工去模板化，复检全 <0.54）；复核 54 条，4 条补官方双源升级、liubai 补源（累计 126，L2 63，来源 178）；check.py 0 errors。
 - 2026-11-22 19:3x 第 15 轮自动模式：6 条跨主题重要 L1→L2（saturation/primary-colors/warm-cool/hardscape-softscape/wayfinding/mannerism）；复核 57 条并收窄 4 条（六法版本、借景距离、透视约1413、静安寺下沉广场）；修复 2 对相似度超标条目；抽检 3/3 合格（累计 126，L2 69，来源 185）。
 - 2026-11-22 19:4x 第 16 轮自动模式：6 条跨主题重要 L1→L2（beaux-arts/plein-air/gestalt-organization-laws/color-psychology/environmental-psychology/lighting-design）；复核 63 条，six-principles 升级、perspective/sunken-courtyard 收窄；修 lighting-design 取源；抽检 2/3 合格+1 修复（累计 126，L2 75，来源 186）。
+- 2026-11-22 19:5x 第 17 轮自动模式：7 条升级（placemaking/space-syntax/pattern-language/biophilic-design/defensible-space-theory/functionalism-architecture + sunken-plaza L2）；复核 69 条，sunken-plaza 待核实澄清，3 项收窄因 URL 不精确延后；抽检 2/3 合格+1 澄清（累计 126，L2 82）。
