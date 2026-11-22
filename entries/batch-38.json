@@ -23,7 +23,7 @@
         "待核实": "「分离原色调色」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='100' y='120' width='240' height='150' fill='none' stroke='var(--accent)'/><line x1='90' y1='300' x2='660' y2='170' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>分离原色调色</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='266,238 536,278 286,103 498,196 333,165 294,203' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>分离原色调色</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-color-theory",
@@ -53,7 +53,7 @@
         "待核实": "「时序造景」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='281' cy='191' r='61' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='479' cy='209' r='31' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>时序造景</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='310,108 197,134 159,203 617,132 223,277 378,99 315,235' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>时序造景</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-chinese-garden",
@@ -84,7 +84,7 @@
         "待核实": "「岩石园」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='172,300 380,112 578,300' fill='none' stroke='var(--accent)'/><rect x='322' y='250' width='120' height='50' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>岩石园</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='279,110 510,130 341,127 263,295 427,138' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>岩石园</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-garden-design",
@@ -115,7 +115,7 @@
         "待核实": "「覆土建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='153' y='130' width='113' height='150' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='153' width='130' height='120' fill='none' stroke='var(--muted)'/><rect x='497' y='120' width='100' height='170' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>覆土建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='573,170 539,112 238,215 609,263 596,234 341,187' fill='none' stroke='var(--accent)'/><circle cx='285' cy='263' r='67' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>覆土建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-architecture",
@@ -145,7 +145,7 @@
         "待核实": "「浪漫主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 124 300 Q 300 124 596 280' fill='none' stroke='var(--accent)' stroke-width='3'/><line x1='100' y1='320' x2='660' y2='320' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>浪漫主义建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='440,218 345,151 229,120 342,217 417,282 383,199 152,276 188,183' fill='none' stroke='var(--accent)'/><circle cx='349' cy='184' r='114' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>浪漫主义建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "henryford-gothic-revival",
@@ -175,7 +175,7 @@
         "待核实": "「未来主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='125' width='520' height='155' fill='none' stroke='var(--accent)'/><line x1='380' y1='120' x2='380' y2='300' stroke='var(--muted)' stroke-dasharray='8 6'/><text x='40' y='40' fill='var(--ink)'>未来主义建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='321,296 387,113 162,205 247,252 144,203 285,290 374,206' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>未来主义建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-architectural-style",
@@ -205,7 +205,7 @@
         "待核实": "「表现主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='106' y='126' width='246' height='150' fill='none' stroke='var(--accent)'/><line x1='90' y1='294' x2='654' y2='176' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>表现主义建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='586,218 605,245 291,114 575,133 490,169' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>表现主义建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-architectural-style",
@@ -235,7 +235,7 @@
         "待核实": "「结构主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='287' cy='197' r='67' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='473' cy='203' r='37' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>结构主义建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='393,206 468,201 614,243 326,282 253,286' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>结构主义建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-architectural-style",
@@ -265,7 +265,7 @@
         "待核实": "「韩国建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='178,300 380,118 572,300' fill='none' stroke='var(--accent)'/><rect x='328' y='250' width='120' height='50' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>韩国建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='439,130 245,282 462,284 423,158 141,259 228,295' fill='none' stroke='var(--accent)'/><circle cx='302' cy='222' r='93' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>韩国建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-korean-architecture",
@@ -296,7 +296,7 @@
         "待核实": "「东南亚建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='159' y='130' width='119' height='150' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='159' width='130' height='120' fill='none' stroke='var(--muted)'/><rect x='491' y='120' width='100' height='170' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>东南亚建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='298,100 168,152 412,106 593,159 301,143' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>东南亚建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-architectural-style",
@@ -326,7 +326,7 @@
         "待核实": "非洲建筑的专门来源有限（第二源为泛论）；具体实例的设计者与年代待核实。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 130 300 Q 300 130 590 280' fill='none' stroke='var(--accent)' stroke-width='3'/><line x1='100' y1='320' x2='660' y2='320' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>非洲建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='566,203 348,109 281,242 460,189 366,273 285,121 457,236 551,255' fill='none' stroke='var(--accent)'/><circle cx='322' cy='235' r='90' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>非洲建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-architectural-style",
@@ -356,7 +356,7 @@
         "待核实": "第二来源为泛论、未逐条互证；具体实例的设计者与年代待核实。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='131' width='520' height='161' fill='none' stroke='var(--accent)'/><line x1='380' y1='120' x2='380' y2='300' stroke='var(--muted)' stroke-dasharray='8 6'/><text x='40' y='40' fill='var(--ink)'>拉美殖民建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='193,269 411,214 585,233 196,232 529,275 543,271' fill='none' stroke='var(--accent)'/><circle cx='256' cy='166' r='110' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>拉美殖民建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-architectural-style",
@@ -386,7 +386,7 @@
         "待核实": "「巴西现代主义」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='112' y='132' width='252' height='150' fill='none' stroke='var(--accent)'/><line x1='90' y1='288' x2='648' y2='182' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>巴西现代主义</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='189,297 183,113 509,92 538,250 553,158 419,189' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>巴西现代主义</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-modern-architecture",
@@ -416,7 +416,7 @@
         "待核实": "「墨西哥现代主义」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='293' cy='203' r='73' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='467' cy='197' r='43' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>墨西哥现代主义</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='241,139 586,164 300,104 141,107 152,250 424,147 614,195' fill='none' stroke='var(--accent)'/><circle cx='377' cy='203' r='46' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>墨西哥现代主义</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-modern-architecture",
@@ -433,27 +433,27 @@
       "theme": "风格",
       "period": "古代",
       "region": "中国",
-      "definition": "晋派建筑是山西一带高墙窄院、砖雕精细的商贾聚落建筑。",
+      "definition": "晋派建筑是山西一带的院落式民居与商贾宅院，院落与门楼体现家族财力与礼制。",
       "time_or_place": "古代、中国（参见来源）。",
-      "overview": "为御寒与防卫，院落狭长、外墙高厚。",
+      "overview": "受北方寒冷影响，院落布局兼顾御寒，门楼与装饰讲究。",
       "related": [],
       "sections": {
-        "原理": "高墙窄院利于保温与防卫，砖雕与门楼体现财力与礼制。",
-        "典型手法与适用条件": "以窄长院落、高墙与砖雕组织聚落。",
+        "原理": "北方冬季寒冷，合院以围合挡风、以院落采光；商贾宅院用高大坚实的门楼彰显身份。",
+        "典型手法与适用条件": "以合院围合、门楼与院落序列组织，兼顾御寒与礼制。",
         "实例": "名称：晋商高墙窄院（类型性描述）；地点与设计者不适用。两进窄院夹在高厚砖墙之间，门楼砖雕在冬日斜阳里投下细密阴影。",
         "常见错误与限制": "采光与排水需按规范。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：狭长院落与高厚砖墙。",
-        "待核实": "「晋派建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "晋商大院等具体实例的设计者与年代待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='184,300 380,124 566,300' fill='none' stroke='var(--accent)'/><rect x='334' y='250' width='120' height='50' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>晋派建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='453,161 488,234 503,182 208,214 417,228 420,117 178,121 445,153' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>晋派建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-chinese-architecture",
-        "wp-vernacular-architecture"
+        "wp-courtyard"
       ],
       "needs_verification": true,
-      "pending_notes": "「晋派建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "具体实例（晋商大院等）的设计者与年代待补充独立来源。"
     },
     {
       "id": "lingnan-style",
@@ -463,27 +463,27 @@
       "theme": "风格",
       "period": "古代",
       "region": "中国",
-      "definition": "岭南建筑以骑楼、趟门、天井应对湿热多雨。",
+      "definition": "岭南建筑是广东一带适应湿热多雨的地域建筑，以天井与通透布局见长。",
       "time_or_place": "古代、中国（参见来源）。",
-      "overview": "它通透轻巧，靠遮阳与通风降温。",
+      "overview": "靠天井拔风、通透开敞组织通风降温，并遮阳避雨。",
       "related": [],
       "sections": {
-        "原理": "骑楼遮阳避雨、天井拔风、趟门调节通风，构成湿热气候的空间策略。",
-        "典型手法与适用条件": "以天井、趟门、骑楼与灰塑组织通风防潮。",
+        "原理": "湿热气候需要通风降温，天井形成竖向气流，通透开敞的门窗促进穿堂风。",
+        "典型手法与适用条件": "以天井、通透门窗与遮阳构造组织通风防潮。",
         "实例": "名称：骑楼下的街屋（类型性描述）；地点与设计者不适用。二层出挑的骑楼在街道上连成遮阳长廊，天井把湿热空气从屋顶拔走。",
         "常见错误与限制": "防潮通风不当会霉变。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：骑楼长廊与拔风天井。",
-        "待核实": "「岭南建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "骑楼、趟门等具体做法与实例的设计者、年代待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='165' y='130' width='125' height='150' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='165' width='130' height='120' fill='none' stroke='var(--muted)'/><rect x='485' y='120' width='100' height='170' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>岭南建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='608,139 444,158 276,151 395,239 388,200' fill='none' stroke='var(--accent)'/><circle cx='222' cy='194' r='60' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>岭南建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-chinese-architecture",
-        "wp-vernacular-architecture"
+        "wp-courtyard"
       ],
       "needs_verification": true,
-      "pending_notes": "「岭南建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "骑楼/趟门等具体做法与实例待补充独立来源。"
     },
     {
       "id": "hokkien-style",
@@ -506,7 +506,7 @@
         "待核实": "「闽南建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 136 300 Q 300 136 584 280' fill='none' stroke='var(--accent)' stroke-width='3'/><line x1='100' y1='320' x2='660' y2='320' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>闽南建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='537,207 458,271 510,245 262,280 572,233 510,112 591,183' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>闽南建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-chinese-architecture",
@@ -536,7 +536,7 @@
         "待核实": "「客家建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='137' width='520' height='167' fill='none' stroke='var(--accent)'/><line x1='380' y1='120' x2='380' y2='300' stroke='var(--muted)' stroke-dasharray='8 6'/><text x='40' y='40' fill='var(--ink)'>客家建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='499,254 443,135 238,163 501,98 253,115 499,284' fill='none' stroke='var(--accent)'/><circle cx='459' cy='248' r='59' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>客家建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-chinese-architecture",
@@ -566,7 +566,7 @@
         "待核实": "「赣派建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='118' y='138' width='258' height='150' fill='none' stroke='var(--accent)'/><line x1='90' y1='282' x2='642' y2='188' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>赣派建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='216,275 231,297 199,249 503,278 575,197' fill='none' stroke='var(--accent)'/><circle cx='471' cy='196' r='78' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>赣派建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-chinese-architecture",
@@ -596,7 +596,7 @@
         "待核实": "「窑洞」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='299' cy='209' r='79' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='461' cy='191' r='49' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>窑洞</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='319,260 222,160 555,243 375,287 174,279 252,113' fill='none' stroke='var(--accent)'/><circle cx='378' cy='169' r='77' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>窑洞</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-yaodong",
@@ -626,7 +626,7 @@
         "待核实": "「藏式建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='190,300 380,110 560,300' fill='none' stroke='var(--accent)'/><rect x='340' y='250' width='120' height='50' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>藏式建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='233,217 575,207 280,197 577,252 525,224 532,295 487,201' fill='none' stroke='var(--accent)'/><circle cx='227' cy='262' r='82' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>藏式建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "xizang-tibetan-arch",
@@ -657,7 +657,7 @@
         "待核实": "「新疆建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='171' y='130' width='111' height='150' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='151' width='130' height='120' fill='none' stroke='var(--muted)'/><rect x='479' y='120' width='100' height='170' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>新疆建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='515,136 256,146 246,273 210,137 554,259 317,290 488,237 249,229' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>新疆建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "hts-xinjiang",
@@ -679,22 +679,22 @@
       "overview": "它协调功能分区、路网与开放空间。",
       "related": [],
       "sections": {
-        "原理": "城市规划指对城市用地、交通与公共空间的整体安排。它协调功能分区、路网与开放空间。",
-        "典型手法与适用条件": "以分区、路网与公共空间系统组织城市。",
+        "原理": "城市把居住、工作、交通与游憩用地按关系布置，并用路网与开放空间把它们连成整体。",
+        "典型手法与适用条件": "以用地划分、路网与公共空间系统组织城市结构与形态。",
         "实例": "名称：城市规划的典型场景（类型性描述）；地点与设计者不适用。",
         "常见错误与限制": "规划失当会拥堵或割裂。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：城市规划的要点。",
-        "待核实": "「城市规划」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "“功能分区（zoning）”等具体制度与实例的设计者、年代待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 122 300 Q 300 122 598 280' fill='none' stroke='var(--accent)' stroke-width='3'/><line x1='100' y1='320' x2='660' y2='320' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>城市规划</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='591,231 328,254 613,295 440,105 457,213 287,276 341,291 535,201' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>城市规划</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
-        "wp-architectural-style",
-        "wp-urban-design"
+        "wp-urban-design",
+        "wp-urban-morphology"
       ],
       "needs_verification": true,
-      "pending_notes": "「城市规划」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "功能分区等具体制度与实例待补充独立来源。"
     },
     {
       "id": "raised-floor",
@@ -717,7 +717,7 @@
         "待核实": "架空层的专门权威来源待补充，本页构造内容为一般性说明；具体实例的设计者与年代待核实。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='123' width='520' height='153' fill='none' stroke='var(--accent)'/><line x1='380' y1='120' x2='380' y2='300' stroke='var(--muted)' stroke-dasharray='8 6'/><text x='40' y='40' fill='var(--ink)'>架空层</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='439,175 411,188 210,180 510,192 324,266 271,110 217,135' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>架空层</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-architecture",
@@ -747,7 +747,7 @@
         "待核实": "「声环境」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='124' y='144' width='264' height='150' fill='none' stroke='var(--accent)'/><line x1='90' y1='296' x2='636' y2='194' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>声环境</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='246,241 276,94 489,203 258,298 556,111 169,221 481,142' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>声环境</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "designingbuildings-acoustics",

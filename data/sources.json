@@ -3515,6 +3515,54 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；近距学在建成环境中的定义与应用"
+    },
+    {
+      "id": "artincontext-sfumato",
+      "title": "Sfumato — Art in Context",
+      "author": "Art in Context",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://artincontext.org/sfumato/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200/镜像核验并核对正文；渐隐法柔和色彩过渡、模拟失焦"
+    },
+    {
+      "id": "wp-trompe-loeil",
+      "title": "Trompe-l'œil",
+      "author": "Wikipedia",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Trompe-l%27%C5%93il",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200/镜像核验并核对正文；以二维平面临摹三维空间与物体的视错觉（经镜像核验）"
+    },
+    {
+      "id": "artincontext-trompe",
+      "title": "Trompe l'oeil — Art in Context",
+      "author": "Art in Context",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://artincontext.org/trompe-loeil/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200/镜像核验并核对正文；错视画制造三维错觉"
+    },
+    {
+      "id": "designingbuildings-trompe",
+      "title": "Trompe l'oeil — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Trompe_l%27oeil",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200/镜像核验并核对正文；建筑中的错视画扩展空间错觉"
     }
   ]
 }

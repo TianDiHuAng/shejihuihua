@@ -5,11 +5,11 @@
 第 7 轮候选直接以 data/sources.json 的来源 id 标注（详见 research/gaps-external-round06.md）。
 每条标注层级与来源编号。
 
-总计 247 条：理论 123、风格 62、造景 19、
+总计 249 条：理论 125、风格 62、造景 19、
 动线 12、下沉空间 12、材料 19。
-层级分布：核心 50、重要 144、补充 53。
+层级分布：核心 50、重要 146、补充 53。
 
-## 理论（123 条）
+## 理论（125 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -134,6 +134,8 @@
 | rembrandt | 伦勃朗光 | 补充 | 文艺复兴至19世纪 | 欧洲 | wp-rembrandt-lighting,rijksmuseum-rembrandt |
 | metabolism | 新陈代谢派（Metabolism） | 重要 | 20世纪 | 东亚 | wp-metabolism-architecture,designingbuildings-metabolism |
 | proxemics | 近距学（Proxemics） | 重要 | 20世纪 | 全球 | wp-proxemics,designingbuildings-proxemics |
+| sfumato | 渐隐法（Sfumato） | 重要 | 文艺复兴至19世纪 | 欧洲 | wp-sfumato,artincontext-sfumato |
+| trompe-loeil | 错视画（Trompe-l'œil） | 重要 | 文艺复兴至19世纪 | 欧洲 | wp-trompe-loeil,artincontext-trompe |
 | academic-art-theory | 学院派理论与素描教学 | 重要 | 文艺复兴至19世纪 | 全球 | wp-academic-art,artincontext-academic |
 | classical-order | 古典柱式 | 重要 | 古代 | 欧洲 | wp-classical-order,designingbuildings-classical |
 
