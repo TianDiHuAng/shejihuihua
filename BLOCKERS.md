@@ -44,3 +44,4 @@
 - 第 26 轮推送：`send-pack: unexpected disconnect` / `Failed to connect github.com:443`；本地 `be5c132` 已提交，远端仍 `0c280b3`（本地 ahead 1），下轮补推。
 - 第 27 轮推送：`git push` 报 `Recv failure: Connection was reset`；本地 `6efda06` 已提交，远端仍 `0c280b3`（本地 ahead 3），下轮补推。
 - 第 29 轮推送：`git push` 报 `Recv failure: Connection was reset`；本地 `d2d8e34` 已提交，远端仍 `00b04a1`（本地 ahead 1），下轮补推。
+- 第 37 轮推送：`git push` 报 `Empty reply`/`Failed to connect`；本地 round37 提交已入库，远端仍 `b8597ee`（本地 ahead 1），下轮补推。
