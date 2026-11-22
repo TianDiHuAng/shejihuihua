@@ -3563,6 +3563,54 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200/镜像核验并核对正文；建筑中的错视画扩展空间错觉"
+    },
+    {
+      "id": "wp-hatching",
+      "title": "Hatching",
+      "author": "Wikipedia",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Hatching",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，经实抓/镜像核验；以密集平行线表现明暗（经镜像核验）"
+    },
+    {
+      "id": "artincontext-hatching",
+      "title": "Cross Hatching — Art in Context",
+      "author": "Art in Context",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://artincontext.org/cross-hatching/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，经实抓/镜像核验；排线与交叉排线叠加明暗"
+    },
+    {
+      "id": "wp-stippling",
+      "title": "Stippling",
+      "author": "Wikipedia",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Stippling",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，经实抓/镜像核验；以细点疏密表现明暗（经镜像核验）"
+    },
+    {
+      "id": "artincontext-stippling",
+      "title": "Stippling Art — Art in Context",
+      "author": "Art in Context",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://artincontext.org/stippling-art/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，经实抓/镜像核验；以点描绘制图像"
     }
   ]
 }

@@ -23,7 +23,7 @@
         "实例": "名称：按社交距离布置的候车厅座椅（类型性描述）；地点与设计者不适用。",
         "常见错误与限制": "忽视文化差异与个体偏好会误判；具体尺寸须按规范与人群校核。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：亲密—社交—公共的距离带。",
-        "待核实": "「近距学」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "“四距离带（亲密/个人/社交/公共）及其建筑应用”主要依据单一来源（第二源仅给通用定义），待补第二独立来源；具体实例的设计者与年代亦待核实。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='380' cy='200' r='40' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='380' cy='200' r='90' fill='none' stroke='var(--muted)'/><circle cx='380' cy='200' r='150' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>近距学：亲密—社交—公共距离</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -33,7 +33,7 @@
         "designingbuildings-proxemics"
       ],
       "needs_verification": true,
-      "pending_notes": "「近距学」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "四距离带与应用主要单源（第二源较薄），待补；实例待核实。"
     }
   ]
 }

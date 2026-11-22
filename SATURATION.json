@@ -769,6 +769,26 @@
         "unwritten_entries": 0
       },
       "note": "B1 found sfumato & trompe-loeil -> not zero-gap; batch-38 shanxi/lingnan/urban reworked"
+    },
+    {
+      "round": 42,
+      "date": "2026-11-23",
+      "zero_gap": false,
+      "methods_used": [
+        "B1",
+        "B2",
+        "B4",
+        "B5",
+        "B6",
+        "B7"
+      ],
+      "new_gaps": {
+        "B1_new_candidates": 2,
+        "sparse_cells": 5,
+        "pending_items": 219,
+        "unwritten_entries": 0
+      },
+      "note": "B1 found hatching & stippling -> not zero-gap"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true"

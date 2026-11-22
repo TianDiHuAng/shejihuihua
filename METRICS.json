@@ -1037,6 +1037,34 @@
         "B6_new_dynamics": 0,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 42,
+      "date": "2026-11-23",
+      "new_entries": 2,
+      "upgrades": 0,
+      "reviews": 217,
+      "fixes": 1,
+      "pending_total": 219,
+      "check_result": "PASS: all checks, 0 errors; spotcheck 2 ok/1 pending (proxemics disclosure); B1 found 2 new candidates (hatching, stippling) added; B6 none; 251 entries all L2; 14/14 unittest; 0 broken links",
+      "new_sources": 4,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B1",
+          "B2",
+          "B4",
+          "B5",
+          "B6",
+          "B7"
+        ],
+        "B1_new_candidates": 2,
+        "B2_sparse_cells": 5,
+        "B4_reader_questions_unanswered": 0,
+        "B5_pending_items": 217,
+        "B6_new_dynamics": 0,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }

@@ -257,6 +257,8 @@ metabolism|新陈代谢派（Metabolism）|理论|重要|20世纪|东亚|wp-meta
 proxemics|近距学（Proxemics）|理论|重要|20世纪|全球|wp-proxemics,designingbuildings-proxemics
 sfumato|渐隐法（Sfumato）|理论|重要|文艺复兴至19世纪|欧洲|wp-sfumato,artincontext-sfumato
 trompe-loeil|错视画（Trompe-l'œil）|理论|重要|文艺复兴至19世纪|欧洲|wp-trompe-loeil,artincontext-trompe
+hatching|排线法（Hatching）|理论|重要|文艺复兴至19世纪|欧洲|wp-hatching,artincontext-hatching
+stippling|点描法（Stippling）|理论|补充|文艺复兴至19世纪|欧洲|wp-stippling,artincontext-stippling
 academic-art-theory|学院派理论与素描教学|理论|重要|文艺复兴至19世纪|全球|wp-academic-art,artincontext-academic
 classical-order|古典柱式|理论|重要|古代|欧洲|wp-classical-order,designingbuildings-classical
 """

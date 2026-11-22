@@ -3,7 +3,7 @@
 - 项目：静态网站《绘画理论与建筑空间设计》
 - 启动时间：2026-11-22 14:57 Asia/Hong_Kong
 - 工作方式：无人值守，按 TASK_design.md 与 WORKFLOW.md 分阶段推进；决策写入 DECISIONS.md
-- 当前轮次：第 41 轮已完成（自动模式）；下一轮：第 42 轮
+- 当前轮次：第 42 轮已完成（自动模式）；下一轮：第 43 轮
 
 ## 阶段状态
 
@@ -13,7 +13,7 @@
 | 1 | 来源库 sources.json | 已完成 | data/sources.json（118 条，115 verified，link_ok 三态）、research/source_notes.md |
 | 2 | 校验器 tools/check.py | 已完成 | tools/check.py、tests/test_check.py（7/7 通过） |
 | 3 | 2 个 L2 样板 | 已完成 | entries/l2-samples.json（透视法、下沉庭院，含自绘 SVG） |
-| 4 | 条目累计 249 | 第 41 轮已完成 | 范围 249；已写 249（全部 L2）；来源 297；待核实 217；稀疏格 5 |
+| 4 | 条目累计 251 | 第 42 轮已完成 | 范围 251；已写 251（全部 L2）；来源 301；待核实 219；稀疏格 5 |
 | 5 | 总览页 / 索引 / 导航 / REPORT | 已完成 | site/（首页、40 条目页、索引、来源、覆盖报告）、REPORT.md |
 
 ## 本轮完成目标
@@ -26,7 +26,7 @@
 
 ## 下一轮起点
 
-阶段 4：按 BACKLOG 第 42 轮队列执行：补抽 batch-41、B1/B6 复核是否仍有新缺口、复核 217 条待核实、收敛稀疏格。
+阶段 4：按 BACKLOG 第 43 轮队列执行：补抽、B1/B6 复核收敛性、复核 219 条待核实、收敛稀疏格。
 本轮尚未写入 ALL_DONE；AUTONOMOUS.md 规定项目没有“做完”，只有饱和（SATURATION.json）。
 
 ## 变更日志
@@ -89,3 +89,4 @@
 - 2026-11-23 01:2x 第 39 轮自动模式（体检）：体检 0 死链/0 重复/0 孤儿；6 个风格条目补具名实例双源升级（待核实 220→214）；raised-floor 改一般性说明、african/latin 伞源披露；抽检 2 待核实/1 不合格→返工修正（来源 282）。
 - 2026-11-23 01:3x 第 40 轮自动模式（体检）：B1 发现并纳入 proxemics（近距学）；batch-38 tibetan/rock-garden/time-scenery/xinjiang 补真源重写；体检 0 死链/0 重复/0 孤儿；抽检 2 待核实/1 不合格→返工修正（247 条全 L2，来源 293）。
 - 2026-11-23 01:4x 第 41 轮自动模式：B1 发现并纳入 sfumato、trompe-l'œil 2 条（全库 249 条全 L2）；shanxi/lingnan/urban 换源去伞源、SVG 去同图；B6 无新动态；spotcheck 3 待核实→定向修正（来源 297）。
+- 2026-11-23 01:5x 第 42 轮自动模式：B1 发现并纳入 hatching（排线）、stippling（点描）2 条（全库 251 条全 L2）；proxemics 补单源披露；sfumato/trompe 抽检合格（来源 301）。

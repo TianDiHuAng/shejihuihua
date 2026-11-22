@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-23",
-  "total": 249,
+  "total": 251,
   "entries": [
     {
       "id": "perspective",
@@ -3210,6 +3210,32 @@
       "level": "L2",
       "status": "已写",
       "source_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "hatching",
+      "title": "排线法（Hatching）",
+      "theme": "理论",
+      "tier": "重要",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "stippling",
+      "title": "点描法（Stippling）",
+      "theme": "理论",
+      "tier": "补充",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 1,
       "last_updated": "2026-11-23"
     },
