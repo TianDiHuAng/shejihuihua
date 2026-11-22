@@ -1097,6 +1097,37 @@
         "B7_unwritten_entries": 0
       },
       "zero_gap": true
+    },
+    {
+      "round": 44,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 219,
+      "fixes": 4,
+      "pending_total": 219,
+      "check_result": "PASS: all checks 0 errors; spotcheck 2 content-ok / SVG templated -> batch-38 25 SVGs regenerated structurally unique (0 near-dup); source titles fixed; time-scenery principle differentiated; B1/B6 no new gaps; ZERO-GAP 2/3; 14/14 unittest; 0 broken links",
+      "new_sources": 0,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B1",
+          "B2",
+          "B3",
+          "B4",
+          "B5",
+          "B6",
+          "B7"
+        ],
+        "B1_new_candidates": 0,
+        "B2_sparse_cells": 5,
+        "B3_dangling_refs": 0,
+        "B4_reader_questions_unanswered": 0,
+        "B5_pending_items": 219,
+        "B6_new_dynamics": 0,
+        "B7_unwritten_entries": 0
+      },
+      "zero_gap": true
     }
   ]
 }
