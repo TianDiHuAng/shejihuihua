@@ -684,6 +684,30 @@
         "B7_all_l1_remaining": 0
       },
       "milestone": "all 80 reader questions answerable; 132 entries all L2"
+    },
+    {
+      "round": 28,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 109,
+      "fixes": 5,
+      "pending_total": 108,
+      "check_result": "PASS: all checks, 0 errors; spotcheck 2 ok/1 (gothic 2nd source deferred-full-URL); leading-lines/axis dual-sourced; gothic/modernism/color-theory de-skeletonized with named instances (Notre-Dame/Bauhaus Dessau/Munsell); color-theory now verified; 14/14 unittest; 0 broken links",
+      "new_sources": 6,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B2",
+          "B4",
+          "B5",
+          "B7"
+        ],
+        "B2_sparse_cells": 9,
+        "B4_reader_questions_unanswered": 0,
+        "B5_pending_items": 109,
+        "B7_all_l1_remaining": 0
+      }
     }
   ]
 }

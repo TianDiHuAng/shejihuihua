@@ -86,16 +86,17 @@
         "实例": "名称：中国传统院落建筑群；地点：中国；设计者：不适用；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "轴线过长而缺少节点会单调；轴线尺寸与疏散组织须按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方轴线示意：前序空间指向核心空间。",
-        "待核实": "核心依据目前为单一权威来源（原第二来源为泛论、未覆盖本子概念）；具体实例的设计者与年代待补充独立来源。"
+        "待核实": "北京中轴线作为具名实例已有官方来源；轴线组织的通用定义以原有来源为主，具体案例的设计者与年代待核实。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='380' y1='40' x2='380' y2='360' stroke='var(--accent)' stroke-width='2'/><rect x='280' y='90' width='200' height='70' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='280' y='220' width='200' height='70' fill='none' stroke='var(--muted)'/><text x='120' y='135' fill='var(--ink)'>前序空间</text><text x='520' y='265' fill='var(--ink)'>核心空间</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
-        "wp-chinese-architecture"
+        "wp-chinese-architecture",
+        "bjaxis-official"
       ],
       "needs_verification": true,
-      "pending_notes": "核心依据目前为单一权威来源（原第二来源为泛论、未覆盖本子概念）；具体实例的设计者与年代待补充独立来源。"
+      "pending_notes": "通用定义单源；具名实例（北京中轴线）有官方来源；具体设计者与年代待核实。"
     },
     {
       "id": "stack-ventilation",

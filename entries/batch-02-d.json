@@ -49,17 +49,19 @@
         "renaissance-style"
       ],
       "sources": [
-        "wp-gothic-architecture"
+        "wp-gothic-architecture",
+        "getty-cona-notredame",
+        "natgeo-notredame"
       ],
       "needs_verification": true,
-      "pending_notes": "核心依据目前为单一权威来源（原第二来源为泛论、未覆盖本子概念）；具体实例的设计者与年代待补充独立来源。",
+      "pending_notes": "风格核心依据单一权威来源；实例三要素已双源；建筑师佚名。",
       "sections": {
         "原理": "尖拱、肋拱与飞扶壁把荷载集中到柱墩，墙体因此可以大面积开窗。",
         "典型手法与适用条件": "以尖拱统一不同跨度的拱顶，用飞扶壁把侧推力外传；适用于追求高耸与光线的教堂空间。",
-        "实例": "名称：哥特式大教堂（类型性描述）；地点：欧洲；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：巴黎圣母院（Notre-Dame de Paris）；地点：法国巴黎西岱岛（Île de la Cité）；设计者：建筑师佚名，巴黎主教莫里斯·德·苏利（Maurice de Sully）发起并主持；年份：1163 年奠基，主体约至 1250 年。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "只模仿尖拱而忽视结构逻辑会失去整体性；石构尺寸与抗震须按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方剖面示意：尖拱与飞扶壁的荷载传递。",
-        "待核实": "核心依据目前为单一权威来源（原第二来源为泛论、未覆盖本子概念）；具体实例的设计者与年代待补充独立来源。"
+        "待核实": "哥特风格的核心特征依据单一权威来源；实例（巴黎圣母院）三要素已双源；建筑师佚名。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='100' y1='320' x2='660' y2='320' stroke='var(--ink)' stroke-width='3'/><path d='M 200 320 L 200 180 Q 320 60 440 180 L 440 320' fill='none' stroke='var(--accent)' stroke-width='3'/><path d='M 420 320 L 420 180 Q 540 60 660 180 L 660 320' fill='none' stroke='var(--muted)' stroke-width='3'/><text x='250' y='140' fill='var(--ink)'>尖拱</text><text x='510' y='140' fill='var(--ink)'>飞扶壁</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -113,17 +115,19 @@
       ],
       "sources": [
         "wp-modern-architecture",
-        "wp-le-corbusier"
+        "wp-le-corbusier",
+        "stiftung-bauhaus-dessau",
+        "archdaily-bauhaus-dessau"
       ],
       "needs_verification": true,
-      "pending_notes": "「现代主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "风格定义单源；实例三要素已双源。",
       "sections": {
         "原理": "现代主义以功能、结构与新材料为基础，追求自由平面与简洁形式。",
         "典型手法与适用条件": "用框架结构释放墙体，按功能组织空间；适用于大批量建造与城市住宅。",
-        "实例": "名称：现代主义住宅与公共建筑（类型性描述）；地点：全球；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：包豪斯德绍校舍（Bauhaus Dessau）；地点：德国德绍-罗斯劳；设计者：瓦尔特·格罗皮乌斯（Walter Gropius）；年份：1925–1926 年（1926-12-04 启用）。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "忽视地域气候会造成不适；结构与保温构造按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方体量示意：自由平面与结构框架。",
-        "待核实": "具体建筑的设计者与年代待核实。"
+        "待核实": "现代主义风格定义依据单一权威来源；实例（包豪斯德绍校舍）三要素已双源。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='110' width='480' height='210' fill='none' stroke='var(--accent)' stroke-width='2'/><rect x='180' y='150' width='120' height='170' fill='var(--accent-soft)' stroke='var(--muted)'/><rect x='380' y='150' width='200' height='80' fill='none' stroke='var(--muted)'/><text x='200' y='90' fill='var(--ink)'>自由平面与体量</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"

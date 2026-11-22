@@ -2867,6 +2867,78 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；卢济威、顾如珍等主持静安寺广场项目"
+    },
+    {
+      "id": "libretexts-leading-lines",
+      "title": "4.4 Leading Lines — LibreTexts",
+      "author": "LibreTexts",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://k12.libretexts.org/Bookshelves/Photography/Book:_Digital_Photography_Basics_(Politzer)/04:_Movement_and_Direction/4.04:_Leading_Lines",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；专节定义引导线：直/曲/平行/对角引导视线"
+    },
+    {
+      "id": "bjaxis-official",
+      "title": "北京中轴线官网",
+      "author": "北京中轴线申遗保护工作办公室",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://bjaxiscloud.com.cn/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；北京中轴线统领老城格局、对称布局与景观序列"
+    },
+    {
+      "id": "getty-cona-notredame",
+      "title": "Notre-Dame de Paris — Getty CONA",
+      "author": "Getty Research Institute",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.getty.edu/cona/CONAFullSubject.aspx?subid=700009599",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；巴黎圣母院，Maurice de Sully 发起主持，1163–1250"
+    },
+    {
+      "id": "natgeo-notredame",
+      "title": "Notre-Dame de Paris — National Geographic",
+      "author": "National Geographic",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.nationalgeographic.com/history/history-magazine/article/notre-dame-de-paris",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；1163 年奠基、Île de la Cité、Maurice de Sully"
+    },
+    {
+      "id": "rit-munsell",
+      "title": "Munsell Color Science Laboratory — RIT",
+      "author": "Rochester Institute of Technology",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.rit.edu/science/munsell-color-lab",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；Albert H. Munsell 创 Munsell 色彩体系，1905《A Color Notation》，生于波士顿"
+    },
+    {
+      "id": "sciencehistory-munsell",
+      "title": "A Colorful Life — Science History Institute",
+      "author": "Science History Institute",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.sciencehistory.org/stories/magazine/a-colorful-life/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；Munsell 1858–1918、波士顿、1905 A Color Notation、hue/value/chroma"
     }
   ]
 }
