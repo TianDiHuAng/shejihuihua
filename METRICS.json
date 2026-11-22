@@ -21,15 +21,7 @@
       "pending_total": 8,
       "check_result": "PASS: all checks, 0 errors; spotcheck 4/4 qualified; 0 broken links",
       "new_sources": 0,
-      "gaps": {
-        "methods_used": ["B1", "B2", "B3", "B5", "B6", "B7"],
-        "B1_scope_candidates": 4,
-        "B2_sparse_cells": 9,
-        "B3_dangling_refs": 0,
-        "B5_pending_items": 3,
-        "B6_recent_updates": 3,
-        "B7_core_unwritten": 40
-      }
+      "gaps": {"methods_used": ["B1", "B2", "B3", "B5", "B6", "B7"], "B1_scope_candidates": 4, "B2_sparse_cells": 9, "B3_dangling_refs": 0, "B5_pending_items": 3, "B6_recent_updates": 3, "B7_core_unwritten": 40}
     },
     {
       "round": 3,
@@ -42,16 +34,7 @@
       "check_result": "PASS: all checks, 0 errors; spotcheck 1 qualified / 1 pending / 2 failed -> full batch rework completed; 0 broken links",
       "new_sources": 6,
       "spotcheck_policy_next_round": "25%",
-      "gaps": {
-        "methods_used": ["B1", "B2", "B3", "B4", "B5", "B6", "B7"],
-        "B1_scope_candidates": 0,
-        "B2_sparse_cells": 9,
-        "B3_dangling_refs": 0,
-        "B4_reader_questions_unanswered": 34,
-        "B5_pending_items": 8,
-        "B6_recent_updates": 3,
-        "B7_core_unwritten": 2
-      }
+      "gaps": {"methods_used": ["B1", "B2", "B3", "B4", "B5", "B6", "B7"], "B1_scope_candidates": 0, "B2_sparse_cells": 9, "B3_dangling_refs": 0, "B4_reader_questions_unanswered": 34, "B5_pending_items": 8, "B6_recent_updates": 3, "B7_core_unwritten": 2}
     },
     {
       "round": 4,
@@ -64,17 +47,7 @@
       "check_result": "PASS: all checks, 0 errors; spotcheck 4/11 (36%): 2 qualified / 1 pending / 1 failed -> full batch rework completed; 0 broken links",
       "new_sources": 4,
       "spotcheck_policy_next_round": "25%",
-      "gaps": {
-        "methods_used": ["B1", "B2", "B3", "B4", "B5", "B6", "B7"],
-        "B1_scope_candidates": 0,
-        "B2_sparse_cells": 9,
-        "B3_dangling_refs": 0,
-        "B4_reader_questions_unanswered": 32,
-        "B5_pending_items": 13,
-        "B6_recent_updates": 3,
-        "B7_core_l1_remaining": 0,
-        "B7_all_l1_remaining": 75
-      }
+      "gaps": {"methods_used": ["B1", "B2", "B3", "B4", "B5", "B6", "B7"], "B1_scope_candidates": 0, "B2_sparse_cells": 9, "B3_dangling_refs": 0, "B4_reader_questions_unanswered": 32, "B5_pending_items": 13, "B6_recent_updates": 3, "B7_core_l1_remaining": 0, "B7_all_l1_remaining": 75}
     },
     {
       "round": 5,
@@ -87,16 +60,20 @@
       "check_result": "PASS: all checks, 0 errors; health check 0 dead links / 0 orphans / 0 title dupes; spotcheck 3/6: 2 qualified / 1 failed -> full batch rework completed; 14/14 unittest; 0 broken links",
       "new_sources": 7,
       "spotcheck_policy_next_round": "25%",
-      "gaps": {
-        "methods_used": ["B2", "B4", "B5", "B7", "F"],
-        "B1_scope_candidates": 0,
-        "B2_sparse_cells": 9,
-        "B3_dangling_refs": 0,
-        "B4_reader_questions_unanswered": 26,
-        "B5_pending_items": 23,
-        "B6_recent_updates": 3,
-        "B7_all_l1_remaining": 74
-      }
+      "gaps": {"methods_used": ["B2", "B4", "B5", "B7", "F"], "B1_scope_candidates": 0, "B2_sparse_cells": 9, "B3_dangling_refs": 0, "B4_reader_questions_unanswered": 26, "B5_pending_items": 23, "B6_recent_updates": 3, "B7_all_l1_remaining": 74}
+    },
+    {
+      "round": 6,
+      "date": "2026-11-22",
+      "new_entries": 6,
+      "upgrades": 0,
+      "reviews": 24,
+      "fixes": 3,
+      "pending_total": 24,
+      "check_result": "PASS: all checks, 0 errors; spotcheck 3/6: 2 qualified / 1 failed -> full batch rework completed; 14/14 unittest; 0 broken links",
+      "new_sources": 0,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {"methods_used": ["B1", "B2", "B4", "B5", "B7"], "B1_scope_candidates": 7, "B2_sparse_cells": 9, "B3_dangling_refs": 0, "B4_reader_questions_unanswered": 21, "B5_pending_items": 24, "B6_recent_updates": 3, "B7_all_l1_remaining": 74}
     }
   ]
 }
