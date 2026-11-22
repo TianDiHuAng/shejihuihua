@@ -1,0 +1,801 @@
+{
+  "unit_id": "batch-01",
+  "title": "首批 L1 骨架条目",
+  "entries": [
+    {
+      "id": "linear-perspective",
+      "title": "线性透视",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "以几何投影和灭点组织画面深度的透视体系。",
+      "time_or_place": "文艺复兴时期意大利（参见来源）。",
+      "overview": "它把观察者视点固定，使平行线按规律汇聚，是焦点透视的基础。",
+      "related": [
+        "one-point-perspective"
+      ],
+      "sources": [
+        "wp-perspective-graphical",
+        "wp-vanishing-point"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "one-point-perspective",
+      "title": "一点透视",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "平行线向画面中单一主灭点汇聚的透视方法。",
+      "time_or_place": "文艺复兴至19世纪欧洲（参见来源）。",
+      "overview": "适合表现正对观察者的立面、走廊与室内空间。",
+      "related": [
+        "two-point-perspective"
+      ],
+      "sources": [
+        "wp-perspective-graphical",
+        "wp-de-pictura"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "two-point-perspective",
+      "title": "两点透视",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "两组水平平行线分别汇聚于左右两个灭点的透视方法。",
+      "time_or_place": "文艺复兴至19世纪欧洲（参见来源）。",
+      "overview": "常用于表现建筑转角与斜向观看的立方体。",
+      "related": [
+        "three-point-perspective"
+      ],
+      "sources": [
+        "wp-perspective-graphical",
+        "wp-alberti"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "three-point-perspective",
+      "title": "三点透视",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "欧洲",
+      "definition": "在两点透视基础上加入垂直方向灭点的透视方法。",
+      "time_or_place": "20世纪（参见来源）。",
+      "overview": "用于仰视高层建筑或俯视深井式空间，垂直线随之收敛。",
+      "related": [
+        "curvilinear-perspective"
+      ],
+      "sources": [
+        "wp-perspective-graphical",
+        "wp-curvilinear-perspective"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "curvilinear-perspective",
+      "title": "曲线透视",
+      "level": "L1",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "用曲线网格表现超广角或鱼眼视野的透视方法。",
+      "time_or_place": "20世纪（参见来源）。",
+      "overview": "直线在画面边缘弯曲，适合表现极端视角与空间包裹感。",
+      "related": [
+        "aerial-perspective"
+      ],
+      "sources": [
+        "wp-curvilinear-perspective",
+        "wp-perspective-graphical"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "aerial-perspective",
+      "title": "空气透视",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "以远处物象明度降低、对比减弱并偏冷灰表现深度的方法。",
+      "time_or_place": "文艺复兴至19世纪欧洲（参见来源）。",
+      "overview": "它补充线性透视，使远景在色彩与清晰度上退后。",
+      "related": [
+        "foreshortening"
+      ],
+      "sources": [
+        "wp-aerial-perspective",
+        "wp-perspective-graphical"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "foreshortening",
+      "title": "缩短法",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "物体朝向观察者时视觉长度缩短的现象与画法。",
+      "time_or_place": "文艺复兴至19世纪欧洲（参见来源）。",
+      "overview": "正确处理缩短关系能让肢体与器皿在透视中保持可信体积。",
+      "related": [
+        "vanishing-point"
+      ],
+      "sources": [
+        "wp-perspective-graphical",
+        "wp-leonardo-da-vinci"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "vanishing-point",
+      "title": "灭点",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "画面中相互平行的深远线汇聚的假想点。",
+      "time_or_place": "文艺复兴时期（参见来源）。",
+      "overview": "灭点位置决定观看方向与空间稳定性，是透视作图的核心。",
+      "related": [
+        "horizon-line"
+      ],
+      "sources": [
+        "wp-vanishing-point",
+        "wp-perspective-graphical"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "horizon-line",
+      "title": "视平线",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "与观察者眼睛等高、在画面中表现为水平的基准线。",
+      "time_or_place": "文艺复兴至19世纪欧洲（参见来源）。",
+      "overview": "视平线统一管理各组平行线，决定画面中人物与建筑的相对高度。",
+      "related": [
+        "scattered-perspective"
+      ],
+      "sources": [
+        "wp-perspective-graphical",
+        "wp-vanishing-point"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "scattered-perspective",
+      "title": "散点透视",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "中国画中视点移动、多视点组合的空间表现方法。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "它使长卷能够连续展开不同视点下的景物，与焦点透视形成对照。",
+      "related": [
+        "composition"
+      ],
+      "sources": [
+        "wp-chinese-painting",
+        "wp-reverse-perspective"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "composition",
+      "title": "构图法则",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "对画面元素的位置、比例与关系进行组织以形成秩序和重点的方法。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "构图决定观看路径与信息主次，是绘画与视觉设计共通的骨架。",
+      "related": [
+        "rule-of-thirds"
+      ],
+      "sources": [
+        "wp-composition-visual-arts",
+        "wp-rule-of-thirds"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "rule-of-thirds",
+      "title": "三分法",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "将画面横竖各三等分并把主体置于交点或分割线上的构图方法。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "它让主体偏离几何中心，产生更自然的视觉平衡。",
+      "related": [
+        "rule-of-space"
+      ],
+      "sources": [
+        "wp-rule-of-thirds",
+        "wp-composition-visual-arts"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "rule-of-space",
+      "title": "空间法则",
+      "level": "L1",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "在视线或运动方向前方预留画面空间的构图方法。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "预留空间能表现运动趋势与方向感，避免主体视线被画面边缘截断。",
+      "related": [
+        "simplification"
+      ],
+      "sources": [
+        "wp-composition-visual-arts",
+        "wp-leading-line"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "simplification",
+      "title": "简化",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "删减次要细节以突出主体的构图方法。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "简化不是信息缺失，而是通过取舍建立清晰的视觉层次。",
+      "related": [
+        "geometry-symmetry"
+      ],
+      "sources": [
+        "wp-composition-visual-arts",
+        "wp-negative-space"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "geometry-symmetry",
+      "title": "几何与对称",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "以基本几何形状和对称关系组织画面的方法。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "对称带来稳定与仪式感，轻微破对称可增加张力。",
+      "related": [
+        "visual-movement"
+      ],
+      "sources": [
+        "wp-symmetry",
+        "wp-composition-visual-arts"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "visual-movement",
+      "title": "视觉动势",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "通过线条、形状与明暗引导视线在画面中移动的方法。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "动势控制观看顺序，使构图从入口走向重点。",
+      "related": [
+        "leading-lines"
+      ],
+      "sources": [
+        "wp-composition-visual-arts",
+        "wp-leading-line"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "leading-lines",
+      "title": "引导线",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "利用实际或隐含线条把视线引向主体的构图手法。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "道路、栏杆、光影边界都可以成为引导线。",
+      "related": [
+        "figure-ground"
+      ],
+      "sources": [
+        "wp-leading-line",
+        "wp-composition-visual-arts"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "figure-ground",
+      "title": "图底关系",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "区分主体图形与背景底面的视觉组织关系。",
+      "time_or_place": "20世纪视觉心理学研究（参见来源）。",
+      "overview": "图底互换会造成有趣的歧义，稳定图底则保证信息清晰。",
+      "related": [
+        "negative-space"
+      ],
+      "sources": [
+        "wp-figure-ground",
+        "wp-composition-visual-arts"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "negative-space",
+      "title": "负空间",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "主体之外的空白区域参与构图的方法。",
+      "time_or_place": "20世纪（参见来源）；中国画留白传统另见相关条目。",
+      "overview": "负空间塑造主体轮廓并控制画面呼吸感。",
+      "related": [
+        "visual-center"
+      ],
+      "sources": [
+        "wp-negative-space",
+        "wp-composition-visual-arts"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "visual-center",
+      "title": "视觉中心",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "画面中优先吸引注意力的区域。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "视觉中心可由对比、位置或指向线建立。",
+      "related": [
+        "balance"
+      ],
+      "sources": [
+        "wp-composition-visual-arts",
+        "wp-rule-of-thirds"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "balance",
+      "title": "均衡",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "画面各元素在视觉重量上的均衡关系。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "均衡不等于对称，大小与色彩差异都能改变视觉重量。",
+      "related": [
+        "contrast-principle"
+      ],
+      "sources": [
+        "wp-composition-visual-arts",
+        "wp-symmetry"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "contrast-principle",
+      "title": "对比",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "通过明度、色彩、形状或尺度差异突出主体的构图方法。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "对比建立主次，但过度对比会破坏整体统一。",
+      "related": [
+        "rhythm-repetition"
+      ],
+      "sources": [
+        "wp-composition-visual-arts",
+        "wp-color-theory"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "rhythm-repetition",
+      "title": "节奏与重复",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "元素重复出现并形成视觉节奏的构图方法。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "重复建立秩序，节奏变化则防止单调。",
+      "related": [
+        "hierarchy"
+      ],
+      "sources": [
+        "wp-composition-visual-arts",
+        "wp-symmetry"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "hierarchy",
+      "title": "主次层级",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "通过大小、位置、明度等差异建立信息主次次序的方法。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "层级帮助观看者按重要性顺序读取画面信息。",
+      "related": [
+        "proportion"
+      ],
+      "sources": [
+        "wp-composition-visual-arts"
+      ],
+      "needs_verification": true,
+      "pending_notes": "仅见构图条目关于主次的讨论，待补充第二独立来源。"
+    },
+    {
+      "id": "proportion",
+      "title": "比例",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "部分与整体之间、或各部分之间的尺寸关系。",
+      "time_or_place": "跨时期、全球；建筑理论中亦有专门讨论（参见来源）。",
+      "overview": "比例决定和谐感与尺度感，是构图和空间设计的共同语言。",
+      "related": [
+        "golden-ratio"
+      ],
+      "sources": [
+        "wp-proportion-architecture",
+        "wp-golden-ratio"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "golden-ratio",
+      "title": "黄金分割",
+      "level": "L1",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "欧洲",
+      "definition": "以约一比一点六一八的比例分割整体的构图参考。",
+      "time_or_place": "跨时期、欧洲（参见来源）。",
+      "overview": "它被用作经验性的和谐参考，而非强制规则。",
+      "related": [
+        "diagonal-composition"
+      ],
+      "sources": [
+        "wp-golden-ratio",
+        "wp-golden-rectangle"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "diagonal-composition",
+      "title": "对角线构图",
+      "level": "L1",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "以对角线方向组织主体形成动势的构图方式。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "对角线比水平线更具运动感，适合表现方向与冲突。",
+      "related": [
+        "s-curve-composition"
+      ],
+      "sources": [
+        "wp-composition-visual-arts",
+        "wp-leading-line"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "s-curve-composition",
+      "title": "S形构图",
+      "level": "L1",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "以S形曲线引导视线深入画面的构图方式。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "S形曲线延长观看路径，常用于道路与河流题材。",
+      "related": [
+        "triangular-composition"
+      ],
+      "sources": [
+        "wp-composition-visual-arts",
+        "wp-leading-line"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "triangular-composition",
+      "title": "三角形构图",
+      "level": "L1",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "以三角形结构稳定画面的构图方式。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "三角形底边提供稳定感，尖端提供指向与张力。",
+      "related": [
+        "framing-composition"
+      ],
+      "sources": [
+        "wp-composition-visual-arts",
+        "wp-symmetry"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "framing-composition",
+      "title": "框架式构图",
+      "level": "L1",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "利用前景元素围合主体的构图方式。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "门窗、枝叶与拱券都可成为框架，增加画面层次。",
+      "related": [
+        "color-theory"
+      ],
+      "sources": [
+        "wp-composition-visual-arts",
+        "wp-chinese-garden"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "color-theory",
+      "title": "色彩理论",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "研究色彩混合、对比与和谐规律的理论体系。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "色彩理论连接物理光学、视觉感知与审美经验。",
+      "related": [
+        "hue"
+      ],
+      "sources": [
+        "wp-color-theory",
+        "wp-theory-of-colours"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "hue",
+      "title": "色相",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "色彩借以区分种类的属性。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "色相是色彩循环秩序的基础，与明度、纯度共同描述颜色。",
+      "related": [
+        "value"
+      ],
+      "sources": [
+        "wp-hue",
+        "wp-color-theory"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "value",
+      "title": "明度",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "色彩的明暗程度。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "明度关系决定画面的结构与可读性，先于色相被视觉系统捕捉。",
+      "related": [
+        "saturation"
+      ],
+      "sources": [
+        "wp-colorfulness",
+        "wp-color-theory"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "saturation",
+      "title": "纯度",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "色彩的鲜艳或饱和程度。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "高纯度色彩吸引注意，低纯度色彩适合作为背景与过渡。",
+      "related": [
+        "primary-colors"
+      ],
+      "sources": [
+        "wp-colorfulness",
+        "wp-munsell-color-system"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "primary-colors",
+      "title": "三原色",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "可混合生成其他色彩的基础色集合。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "不同色彩模型采用不同原色集合，需区分光色与颜料色。",
+      "related": [
+        "complementary-colors"
+      ],
+      "sources": [
+        "wp-primary-color",
+        "wp-color-wheel"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "complementary-colors",
+      "title": "互补色",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "色轮上相对、并置时形成强烈对比的色彩。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "互补配色能制造张力，降低一方纯度可获得更稳定的效果。",
+      "related": [
+        "color-contrast"
+      ],
+      "sources": [
+        "wp-complementary-colors",
+        "wp-color-wheel"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "color-contrast",
+      "title": "色彩对比",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "色彩之间在明度、色相、冷暖或纯度上的差异。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "对比度影响可读性与情绪，是无障碍视觉设计的重要变量。",
+      "related": [
+        "warm-cool"
+      ],
+      "sources": [
+        "wp-color-theory",
+        "wp-complementary-colors"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "warm-cool",
+      "title": "冷暖色",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "色彩给人的冷暖心理感受与倾向。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "冷暖关系常用于组织空间前后层次与画面情绪。",
+      "related": [],
+      "sources": [
+        "wp-color-theory",
+        "wp-theory-of-colours"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    }
+  ]
+}
