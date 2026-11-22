@@ -1,0 +1,366 @@
+{
+  "unit_id": "batch-32",
+  "title": "第32轮中国画与空间条目",
+  "entries": [
+    {
+      "id": "bone-method",
+      "title": "骨法用笔",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "骨法用笔指以有骨力的笔线塑造形体的用笔要求，是六法之一。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "它强调线条的力度与结构，而非描摹表面。",
+      "related": [],
+      "sections": {
+        "原理": "用笔的骨力来自控笔的稳定与节奏，笔线立得住，形体才有支撑。",
+        "典型手法与适用条件": "以中锋、提按与顿挫控制笔线粗细与力度，使形体有骨架。",
+        "实例": "名称：以骨力笔线勾勒的衣纹人物（类型性描述）；地点与作者不适用。观者可留意线条提按顿挫如何撑起形体。",
+        "常见错误与限制": "笔线软弱会使形体松散；用笔需与物象结构相符。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：中锋与提按形成的线质变化。",
+        "待核实": "「骨法用笔」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 140 300 Q 260 120 420 220 T 640 140' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M 160 320 Q 300 220 460 300' fill='none' stroke='var(--muted)'/><text x='250' y='90' fill='var(--ink)'>笔墨层次与气脉</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-six-principles-chinese-painting",
+        "wp-chinese-painting"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「骨法用笔」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "likeness-form",
+      "title": "应物象形",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "应物象形指按对象本来的形貌去描绘，是六法之一。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "它要求形似，但需服从整体气韵。",
+      "related": [],
+      "sections": {
+        "原理": "形似是入门的门槛，先抓住对象比例与转折，再谈笔墨表现。",
+        "典型手法与适用条件": "观察对象的比例与结构后落笔，先取大势再定细节。",
+        "实例": "名称：按对象比例写生的花鸟稿（类型性描述）；地点与作者不适用。重点在比例与结构的准确。",
+        "常见错误与限制": "只求形似而失神会呆板；过分变形则失真。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：先取大势再定细节的写生顺序。",
+        "待核实": "「应物象形」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='150' width='160' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='150' width='160' height='120' fill='none' stroke='var(--muted)'/><rect x='520' y='150' width='120' height='120' fill='none' stroke='var(--muted)'/><text x='250' y='120' fill='var(--ink)'>主次与虚实布局</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-six-principles-chinese-painting",
+        "wp-chinese-painting"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「应物象形」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "color-according-type",
+      "title": "随类赋彩",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "随类赋彩指按物象类别施以相应色彩，是六法之一。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "它不求条件色写实，而按类别与意象设色。",
+      "related": [],
+      "sections": {
+        "原理": "不追条件色，而按物象类别归并主色，以平面色块取得装饰性统一。",
+        "典型手法与适用条件": "按物象类别确定主色，以平涂与渲染表现色块。",
+        "实例": "名称：按类别设色的花鸟册页（类型性描述）；地点与作者不适用。看色块如何依物类归并。",
+        "常见错误与限制": "设色过艳会压过笔墨；色彩需与意境协调。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：按物类归并的色块分布。",
+        "待核实": "「随类赋彩」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='150' width='160' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='150' width='160' height='120' fill='none' stroke='var(--muted)'/><rect x='520' y='150' width='120' height='120' fill='none' stroke='var(--muted)'/><text x='250' y='120' fill='var(--ink)'>主次与虚实布局</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-six-principles-chinese-painting",
+        "wp-chinese-painting"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「随类赋彩」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "transmission-copy",
+      "title": "传移模写",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "传移模写指通过临摹前人名作学习技法，是六法之一。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "它把临摹作为传承与习画的路径。",
+      "related": [],
+      "sections": {
+        "原理": "临摹是习画路径，先求形准，再体会上笔顺序与用意。",
+        "典型手法与适用条件": "对临、背临与摹写结合，先得其形再求其神。",
+        "实例": "名称：临摹前人名作的习作（类型性描述）；地点与作者不适用。比较对临与背临的差异。",
+        "常见错误与限制": "一味复制会失去创造；临摹须理解而非描抄。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：对临—背临—摹写的递进。",
+        "待核实": "「传移模写」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='150' width='160' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='150' width='160' height='120' fill='none' stroke='var(--muted)'/><rect x='520' y='150' width='120' height='120' fill='none' stroke='var(--muted)'/><text x='250' y='120' fill='var(--ink)'>主次与虚实布局</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-six-principles-chinese-painting",
+        "wp-chinese-painting"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「传移模写」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "ink-wash",
+      "title": "水墨",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "水墨是以水墨浓淡表现物象的中国画形式。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "它舍弃多彩，以墨分五色表现层次与气韵。",
+      "related": [],
+      "sections": {
+        "原理": "墨分五色靠水与墨的比例，层次在积染中显出远近。",
+        "典型手法与适用条件": "以水的多少调出焦、浓、重、淡、清等墨阶，层层积染。",
+        "实例": "名称：以墨阶表现远山的写意山水（类型性描述）；地点与作者不适用。留意墨色由浓到清的过渡。",
+        "常见错误与限制": "墨色过死会板滞；水分失控会洇散失形。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：焦浓重淡清五阶墨色。",
+        "待核实": "「水墨」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 140 300 Q 260 120 420 220 T 640 140' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M 160 320 Q 300 220 460 300' fill='none' stroke='var(--muted)'/><text x='250' y='90' fill='var(--ink)'>笔墨层次与气脉</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-ink-wash-painting",
+        "wp-chinese-painting"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「水墨」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "cunfa",
+      "title": "皴法",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "皴法是山水画中表现山石纹理与体积的笔法体系。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "不同皴法对应不同地质与质感。",
+      "related": [],
+      "sections": {
+        "原理": "皴法是把山石质感翻译成笔触的语汇，须顺着结构走笔。",
+        "典型手法与适用条件": "以披麻、斧劈等笔法依山石结构层叠皴擦。",
+        "实例": "名称：以披麻皴表现土坡的山水局部（类型性描述）；地点与作者不适用。观察笔触与山石走向的关系。",
+        "常见错误与限制": "皴法套用不当会与山形脱节；需随对象变化。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：皴笔顺山势层叠。",
+        "待核实": "「皴法」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 140 300 Q 260 120 420 220 T 640 140' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M 160 320 Q 300 220 460 300' fill='none' stroke='var(--muted)'/><text x='250' y='90' fill='var(--ink)'>笔墨层次与气脉</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-painting",
+        "wp-ink-wash-painting"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「皴法」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "gongbi",
+      "title": "工笔",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "工笔是以精细勾勒与层层设色为特征的中国画法。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "它工整细腻，常用于人物、花鸟。",
+      "related": [],
+      "sections": {
+        "原理": "工笔以勾线立骨、罩染求润，耐心在遍数与色阶中体现。",
+        "典型手法与适用条件": "先勾线定形，再以淡彩多次罩染，层层积色。",
+        "实例": "名称：层层罩染的花鸟工笔（类型性描述）；地点与作者不适用。看线描与多次罩染如何叠出柔和色阶。",
+        "常见错误与限制": "过度描摹会僵硬；线色需协调统一。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：勾线后多次罩染的层次。",
+        "待核实": "「工笔」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 140 300 Q 260 120 420 220 T 640 140' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M 160 320 Q 300 220 460 300' fill='none' stroke='var(--muted)'/><text x='250' y='90' fill='var(--ink)'>笔墨层次与气脉</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-painting",
+        "wp-ink-wash-painting"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「工笔」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "xieyi",
+      "title": "写意",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "写意是以简练笔墨抒写意趣的中国画法。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "它重神韵与笔势，不拘形似细节。",
+      "related": [],
+      "sections": {
+        "原理": "写意以少胜多，笔势与留白共同完成形象，重神而非逐笔描摹。",
+        "典型手法与适用条件": "以阔笔泼墨、一次成形，重气势与虚实。",
+        "实例": "名称：阔笔泼墨的写意花鸟（类型性描述）；地点与作者不适用。注意一次成形中的虚实取舍。",
+        "常见错误与限制": "笔墨失控会潦草；写意亦需结构支撑。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：阔笔一次成形的用笔轨迹。",
+        "待核实": "「写意」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 140 300 Q 260 120 420 220 T 640 140' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M 160 320 Q 300 220 460 300' fill='none' stroke='var(--muted)'/><text x='250' y='90' fill='var(--ink)'>笔墨层次与气脉</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-painting",
+        "wp-ink-wash-painting"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「写意」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "xu-shi",
+      "title": "虚实",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "虚实指画面中实景与空白、浓淡之间的相生关系。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "它以虚衬实，使画面有呼吸与想象空间。",
+      "related": [],
+      "sections": {
+        "原理": "虚实不是有无，而是浓淡与空白的配比，虚处给想象留出余地。",
+        "典型手法与适用条件": "以留白、淡墨与云雾处理虚处，实处以浓墨刻画。",
+        "实例": "名称：以云雾留白经营的山水（类型性描述）；地点与作者不适用。看实处浓墨与虚处空白如何相生。",
+        "常见错误与限制": "虚实失衡会壅塞或空洞；需与意境配合。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：实处与虚处的相互衬托。",
+        "待核实": "「虚实」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='150' width='160' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='150' width='160' height='120' fill='none' stroke='var(--muted)'/><rect x='520' y='150' width='120' height='120' fill='none' stroke='var(--muted)'/><text x='250' y='120' fill='var(--ink)'>主次与虚实布局</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-painting",
+        "wp-chinese-garden"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「虚实」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "landscape-painting",
+      "title": "山水画",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "山水画以自然山川为题材，是中国画的主要门类。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "它借山川寄托情怀，讲究可游可居的意境。",
+      "related": [],
+      "sections": {
+        "原理": "山水以丘壑寄情，空间的深远与笔墨的气韵共同营造可游之境。",
+        "典型手法与适用条件": "以高远、深远、平远经营空间，配合皴法与水法。",
+        "实例": "名称：可游可居的青绿山水（类型性描述）；地点与作者不适用。留意高远、深远、平远三法的并用。",
+        "常见错误与限制": "空间层次不清会平铺；须与笔墨气韵统一。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：三远法组织的空间层次。",
+        "待核实": "「山水画」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 140 300 Q 260 120 420 220 T 640 140' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M 160 320 Q 300 220 460 300' fill='none' stroke='var(--muted)'/><text x='250' y='90' fill='var(--ink)'>笔墨层次与气脉</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-painting",
+        "wp-ink-wash-painting"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「山水画」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "symmetry-layout",
+      "title": "对称布局",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "对称布局以中轴两侧镜像组织建筑与院落，是中国传统建筑的常见秩序。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "它以轴对称表达礼制与稳定。",
+      "related": [],
+      "sections": {
+        "原理": "对称把礼制秩序写进平面，主轴承载主要功能，两翼承担陪衬。",
+        "典型手法与适用条件": "沿中轴布置主要建筑，两翼对称配置次要空间。",
+        "实例": "名称：沿中轴展开的院落群（类型性描述）；地点与作者不适用。比较主轴与两翼的等级配置。",
+        "常见错误与限制": "地形不平时硬做对称代价高；需与功能协调。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：中轴与两翼的对称关系。",
+        "待核实": "「对称布局」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='380' y1='60' x2='380' y2='340' stroke='var(--accent)' stroke-dasharray='8 6'/><rect x='240' y='150' width='120' height='150' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='400' y='150' width='120' height='150' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='330' y='110' fill='var(--ink)'>中轴镜像</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-architecture",
+        "wp-symmetry"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「对称布局」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "openness",
+      "title": "开敞",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "开敞指空间界面通透、与外部连续的处理方式。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "开敞使室内外视线与活动连成一体。",
+      "related": [],
+      "sections": {
+        "原理": "开敞把外部景观纳入室内体验，界面越通透，内外越连续。",
+        "典型手法与适用条件": "以大面积开窗、柱廊与院落弱化边界。",
+        "实例": "名称：以柱廊连接内外的空间（类型性描述）；地点与作者不适用。看界面打开后视线如何延续。",
+        "常见错误与限制": "过度开敞会带来眩光与能耗；需兼顾私密与气候。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意图：界面向庭院打开。",
+        "待核实": "「开敞」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='120' width='200' height='180' fill='none' stroke='var(--accent)'/><line x1='340' y1='140' x2='600' y2='140' stroke='var(--muted)' stroke-dasharray='6 5'/><line x1='340' y1='280' x2='600' y2='280' stroke='var(--muted)' stroke-dasharray='6 5'/><text x='360' y='110' fill='var(--ink)'>界面向外开敞</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architecture",
+        "wp-courtyard"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「开敞」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    }
+  ]
+}
