@@ -141,7 +141,7 @@
     {
       "id": "opposed-scenery",
       "title": "对景",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "造景",
       "period": "古代",
@@ -156,12 +156,23 @@
         "wp-chinese-garden"
       ],
       "needs_verification": true,
-      "pending_notes": "仅见中国园林综合条目，待补充针对对景的独立来源。"
+      "pending_notes": "中国园林条目未直接支撑“对景”的核心机制；需补充专门来源，实例的设计者与年份亦待核实。",
+      "sections": {
+        "原理": "对景把路径或视线的终点处理为可识别的景物，使空间获得明确的方向感。",
+        "典型手法与适用条件": "在轴线尽端、廊道转折或院落出口设置山石、建筑或树木；具体术语与历史实例的对应关系待核实。",
+        "实例": "名称：苏州古典园林对景实例；地点：中国苏州；设计者：待核实；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "端点景物过多会分散焦点；对景与动线方向不一致会造成观看混乱。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方视线示意：起点经路径指向对景终点。",
+        "待核实": "具体实例的设计者与年份待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='330' x2='680' y2='330' stroke='var(--ink)' stroke-width='3'/><circle cx='130' cy='250' r='12' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='150' y1='245' x2='560' y2='190' stroke='var(--accent)' stroke-width='2'/><polygon points='552,185 568,190 552,197' fill='var(--accent)'/><rect x='560' y='150' width='90' height='80' fill='none' stroke='var(--muted)'/><text x='90' y='290' fill='var(--ink)'>起点</text><text x='565' y='135' fill='var(--ink)'>对景终点</text><text x='290' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "screened-scenery",
       "title": "障景",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "造景",
       "period": "古代",
@@ -176,7 +187,18 @@
         "wp-chinese-garden"
       ],
       "needs_verification": true,
-      "pending_notes": "仅见中国园林综合条目，待补充针对障景的独立来源。"
+      "pending_notes": "苏州园林障景具体实例的设计者与年份待补充独立来源。",
+      "sections": {
+        "原理": "障景以墙体或植物暂时遮挡视线，再通过转折揭示景物，形成先抑后扬的体验。",
+        "典型手法与适用条件": "在入口或路径转折处设置影壁、山石或树丛；适用于希望控制揭示节奏、避免一览无余的空间。",
+        "实例": "名称：苏州古典园林障景实例；地点：中国苏州；设计者：待核实；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "遮挡过度会使空间显得闭塞；通行宽度不足会影响安全与无障碍。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方平面示意：障景墙体遮挡后于转折处揭示景物。",
+        "待核实": "具体实例的设计者与年份待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='60' y1='330' x2='700' y2='330' stroke='var(--ink)' stroke-width='3'/><rect x='250' y='140' width='90' height='190' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='130' cy='250' r='12' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='150' y1='245' x2='245' y2='245' stroke='var(--muted)' stroke-width='2'/><line x1='345' y1='245' x2='620' y2='200' stroke='var(--accent)' stroke-width='2'/><text x='250' y='120' fill='var(--ink)'>障景墙体</text><text x='590' y='180' fill='var(--ink)'>揭示</text><text x='290' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "winding-path",

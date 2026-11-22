@@ -1,4 +1,5 @@
 """B4 读者问题清单：四类读者各 20 问，检查站内条目是否可直接回答。"""
+import argparse
 import json
 from pathlib import Path
 
@@ -87,6 +88,10 @@ QUESTIONS = {
 
 
 def main():
+    parser = argparse.ArgumentParser(description="读者问题缺口发现")
+    parser.add_argument("--round", type=int, default=4)
+    args = parser.parse_args()
+    round_no = args.round
     coverage = json.loads((ROOT / "coverage.json").read_text(encoding="utf-8"))
     scope_ids = {r["id"] for r in coverage["entries"]}
     written = set()
@@ -105,7 +110,7 @@ def main():
         lines.append("")
     lines += [f"## 缺口汇总", "", f"- 站内暂时无法直接回答的问题：{len(gaps)} / 80。", ""]
     lines += [f"- {g}：{q}（需 {e}）" for g, q, e in gaps[:30]]
-    out = ROOT / "research" / "reader_questions-round03.md"
+    out = ROOT / "research" / f"reader_questions-round{round_no:02d}.md"
     out.write_text("\n".join(lines), encoding="utf-8")
     print(f"reader questions: 80 total, {len(gaps)} unanswered")
 

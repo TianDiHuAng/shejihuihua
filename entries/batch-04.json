@@ -1,0 +1,167 @@
+{
+  "unit_id": "batch-04",
+  "title": "第4轮新写条目",
+  "entries": [
+    {
+      "id": "deconstructivism",
+      "title": "解构主义",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "以破碎几何、错位体块与结构不确定性挑战传统秩序的建筑倾向。",
+      "time_or_place": "20世纪后期、全球（参见来源）。",
+      "overview": "解构主义通过非直线、非对称的形式制造张力，近年仍有代表性文化建筑项目推进。",
+      "related": [
+        "minimalism-architecture"
+      ],
+      "sections": {
+        "原理": "解构主义把建筑形式从秩序与轴线中释放，利用错位、倾斜与片段化表达不稳定感。",
+        "典型手法与适用条件": "以几何分解、体块穿插和结构外显形成视觉张力；适合文化展示类建筑，对施工精度要求较高。",
+        "实例": "名称：Guggenheim Abu Dhabi；地点：阿布扎比；设计者：Frank Gehry；年份：预计 2026 年 12 月开馆（来源页面表述）。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "形式碎片化可能损害使用效率与导向；结构尺寸与施工可行性须专门论证。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：破碎几何与错位体块。",
+        "待核实": "实例开馆时间为来源页面预计表述，实际状态待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='40' y='40' width='680' height='320' fill='none' stroke='var(--line)'/><polygon points='120,300 260,110 330,300' fill='var(--accent-soft)' stroke='var(--accent)'/><polygon points='330,300 420,150 560,300' fill='none' stroke='var(--accent)'/><polyline points='560,300 640,120 690,300' fill='none' stroke='var(--muted)'/><line x1='120' y1='300' x2='690' y2='300' stroke='var(--ink)' stroke-width='2'/><text x='150' y='80' fill='var(--ink)'>破碎几何与错位体块</text><text x='300' y='365' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-deconstructivism",
+        "wp-2026-in-architecture",
+        "wp-postmodern-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "Guggenheim Abu Dhabi 的实际开馆状态待后续核对；来源页面已明确设计者为 Frank Gehry。"
+    },
+    {
+      "id": "water-management",
+      "title": "理水",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "造景",
+      "period": "古代",
+      "region": "中国",
+      "definition": "理水通过水面形状、岸线曲折与池岛布置组织视线、声音和微气候。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "集中水面适合形成静观中心，曲折水道适合延长游线；需结合排水与水源条件。",
+      "related": [
+        "planting-design"
+      ],
+      "sections": {
+        "原理": "理水通过水面形状、岸线曲折与池岛布置组织视线、声音和微气候。",
+        "典型手法与适用条件": "集中水面适合形成静观中心，曲折水道适合延长游线；需结合排水与水源条件。",
+        "实例": "名称：苏州古典园林水面；地点：中国苏州；设计者：待核实；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "水面封闭或补水不足会水质恶化；池岸高差与防滑需要专门处理。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方水面与岸线示意，仅表达构图关系。",
+        "待核实": "具体水面实例的设计者与年份待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='60' y='200' width='640' height='130' fill='var(--accent-soft)' stroke='var(--accent)'/><polyline points='120,200 200,170 300,200 420,160 540,200 640,175' fill='none' stroke='var(--muted)'/><circle cx='250' cy='260' r='26' fill='none' stroke='var(--accent)'/><text x='90' y='370' fill='var(--ink)'>水面</text><text x='90' y='150' fill='var(--muted)'>岸线与池岛</text><text x='300' y='45' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-garden",
+        "wp-garden-design"
+      ],
+      "needs_verification": true,
+      "pending_notes": "苏州园林水面实例的设计者与年份待补充独立来源。"
+    },
+    {
+      "id": "brutalism",
+      "title": "粗野主义",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "粗野主义以暴露的混凝土结构和大体量表达材料的真实性与社会性。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "适用于公共建筑与纪念性项目；需要以结构清晰、体量组合明确为前提。",
+      "related": [
+        "structuralism"
+      ],
+      "sections": {
+        "原理": "粗野主义以暴露的混凝土结构和大体量表达材料的真实性与社会性。",
+        "典型手法与适用条件": "适用于公共建筑与纪念性项目；需要以结构清晰、体量组合明确为前提。",
+        "实例": "名称：粗野主义公共建筑；地点：待核实；设计者：待核实；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "混凝土表面维护不足会显得破旧；尺度过大可能压迫街道空间。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方体量示意图，表达结构暴露与组合关系。",
+        "待核实": "具体实例名称、地点与设计者待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='120' width='520' height='220' fill='none' stroke='var(--accent)' stroke-width='3'/><rect x='180' y='180' width='150' height='160' fill='var(--accent-soft)' stroke='var(--muted)'/><rect x='380' y='150' width='190' height='190' fill='none' stroke='var(--muted)'/><text x='160' y='90' fill='var(--ink)'>粗野混凝土体量</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-brutalist-architecture",
+        "wp-architectural-style"
+      ],
+      "needs_verification": true,
+      "pending_notes": "粗野主义具体实例的地点、设计者与年份待补充独立来源。"
+    },
+    {
+      "id": "light-well",
+      "title": "天井",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "下沉空间",
+      "period": "古代",
+      "region": "中国",
+      "definition": "天井是以狭长开口把天然光引入建筑深处的院落式空间。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "天井通过屋面开口改善内部采光与空气流动，是多种传统民居的空间原型。",
+      "related": [
+        "sunken-atrium"
+      ],
+      "sections": {
+        "原理": "天井以屋面开口把天然光引入进深较大的建筑，并借助开口促进空气流动；热压机制的具体贡献待核实。",
+        "典型手法与适用条件": "开口位置、比例与朝向决定光线分布，需结合当地气候与使用需求；构造做法因地域而异。",
+        "实例": "名称：传统民居天井；地点：待核实；设计者：不适用；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "开口尺寸过小会采光不足；雨水倒灌与高空坠物需防护。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方剖面示意：屋面开口把光引入内部。",
+        "待核实": "热压通风机制与具体实例的实测数据待补充专门来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='90' x2='680' y2='90' stroke='var(--ink)' stroke-width='3'/><rect x='300' y='90' width='160' height='230' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='380' y1='100' x2='380' y2='260' stroke='var(--accent)' stroke-width='2'/><text x='100' y='70' fill='var(--ink)'>屋面</text><text x='325' y='345' fill='var(--ink)'>天井</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-lightwell",
+        "wp-courtyard"
+      ],
+      "needs_verification": true,
+      "pending_notes": "Lightwell 来源支持采光与一般通风，但未给出热压机制；具体实例数据待补充。"
+    },
+    {
+      "id": "glare",
+      "title": "眩光",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "材料",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "眩光来自视野内过亮的表面或直射光，降低视觉舒适度与识别能力。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "通过遮阳、反射面控制与工位朝向避开高亮度光源；适用于长时间停留的室内空间。",
+      "related": [
+        "natural-ventilation"
+      ],
+      "sections": {
+        "原理": "眩光来自视野内过亮的表面或直射光，降低视觉舒适度与识别能力。",
+        "典型手法与适用条件": "通过遮阳、反射面控制与工位朝向避开高亮度光源；适用于长时间停留的室内空间。",
+        "实例": "名称：办公空间侧窗眩光控制；地点：待核实；设计者：待核实；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "只降低整体照度会牺牲任务可见度；窗面尺寸与遮阳构造需综合判断。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方视线示意：窗与工作位之间需避免直射。",
+        "待核实": "具体办公实例的照度与眩光指数待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='100' y='90' width='560' height='250' fill='none' stroke='var(--line)'/><rect x='140' y='120' width='120' height='160' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='270' y1='150' x2='560' y2='300' stroke='var(--accent)' stroke-width='3'/><circle cx='570' cy='305' r='18' fill='none' stroke='var(--accent)'/><text x='150' y='100' fill='var(--ink)'>窗</text><text x='580' y='280' fill='var(--ink)'>视线</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-daylighting-architecture",
+        "wp-architectural-lighting-design"
+      ],
+      "needs_verification": true,
+      "pending_notes": "办公实例的照度与眩光实测数据待补充独立来源。"
+    }
+  ]
+}

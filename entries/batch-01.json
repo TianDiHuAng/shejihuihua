@@ -521,10 +521,11 @@
         "proportion"
       ],
       "sources": [
-        "wp-composition-visual-arts"
+        "wp-composition-visual-arts",
+        "wp-visual-hierarchy"
       ],
-      "needs_verification": true,
-      "pending_notes": "仅见构图条目关于主次的讨论，待补充第二独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "hue",
