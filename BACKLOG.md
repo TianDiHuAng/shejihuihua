@@ -25,13 +25,13 @@
 
 执行顺序：每完成一批运行 check.py 并 commit；抽检 10%（至少 3 个）另起子任务。
 
-## 下一轮队列（第 15 轮，按优先级）
+## 下一轮队列（第 16 轮，按优先级）
 
-1. 维持 25% 抽检；补抽第 14 轮未抽到的 three-point/foreshortening/horizon。
-2. 复核 51 条待核实（borrowed-scenery 借景北寺塔细节、six-principles 版本流传待补）。
-3. 继续用现有已核验来源升级剩余 63 条 L1→L2（重要优先，注意去模板化，相似度<0.54）。
+1. 维持 25% 抽检；补抽第 15 轮未抽到的 primary-colors/warm-cool/hardscape-softscape。
+2. 复核 57 条待核实（six-principles 版本异说、borrowed-scenery 距离 1.5–1.7km 并列待原始文献）。
+3. 继续用现有已核验来源升级剩余 57 条 L1→L2（先重要，写前去模板化并做相似度预检 <0.54）。
 4. 处理 B4 的 6 个未答读者问题。
-5. 网络恢复后 canonical 复核镜像/中文来源；补推 GitHub。
+5. 网络恢复后 canonical 复核镜像/中文来源。
 
 ## 已完成
 
@@ -49,3 +49,4 @@
 - 第 12 轮：7 个核心理论 L1→L2（核心已全部 L2）；bauhaus 补独立双源并升级；light-well 收窄待核实；抽检 3/3 合格，无返工
 - 第 13 轮：6 个重要理论 L1→L2；chinese-architecture-style（紫禁城）、daylighting（金贝尔美术馆）补独立双源并升级实例；daylight-factor 收窄；抽检 3/3 合格
 - 第 14 轮：6 条透视 L1→L2（返工去模板化，相似度<0.54）；复核 54 条，six-principles/circulation/water-management/borrowed-scenery 补官方双源升级、liubai 补源；抽检返工后复检通过（L2 63）
+- 第 15 轮：6 条跨主题重要 L1→L2；复核 57 条，six-principles/borrowed-scenery/perspective/sunken-courtyard 收窄；修复 2 对既有相似度过高条目；抽检 3/3 合格（L2 69）

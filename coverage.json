@@ -11,7 +11,7 @@
       "region": "欧洲",
       "level": "L2",
       "status": "已写",
-      "source_count": 3,
+      "source_count": 5,
       "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
@@ -464,10 +464,10 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
+      "level": "L2",
       "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {
@@ -477,10 +477,10 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
+      "level": "L2",
       "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {
@@ -516,10 +516,10 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
+      "level": "L2",
       "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {
@@ -739,7 +739,7 @@
       "region": "中国",
       "level": "L2",
       "status": "已写",
-      "source_count": 3,
+      "source_count": 5,
       "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
@@ -1389,7 +1389,7 @@
       "region": "中国",
       "level": "L2",
       "status": "已写",
-      "source_count": 5,
+      "source_count": 6,
       "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
@@ -1740,7 +1740,7 @@
       "region": "全球",
       "level": "L2",
       "status": "已写",
-      "source_count": 3,
+      "source_count": 5,
       "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
@@ -2856,10 +2856,10 @@
       "tier": "重要",
       "period": "文艺复兴至19世纪",
       "region": "欧洲",
-      "level": "L1",
+      "level": "L2",
       "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {
@@ -2947,10 +2947,10 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
+      "level": "L2",
       "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {
@@ -2960,10 +2960,10 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
+      "level": "L2",
       "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {

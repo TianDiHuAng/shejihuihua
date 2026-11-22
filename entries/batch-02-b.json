@@ -105,17 +105,18 @@
         "wp-chinese-garden",
         "shanghai-lhsr-jiejing",
         "suzhou-ylj-zhuozhengyuan",
-        "peopleapp-zhuozhengyuan"
+        "peopleapp-zhuozhengyuan",
+        "cntv-jiejing"
       ],
       "needs_verification": true,
-      "pending_notes": "借景北寺塔的视线距离与视点细节为单源，待补充独立来源。",
+      "pending_notes": "借景北寺塔的园外距离记载不一（约 1.5–1.7 公里），具体数值待核实；正文并列、不写死。",
       "sections": {
         "原理": "借景把园外远山、塔影或天光引入园内视线，使有限边界内的空间在感知上延伸。",
         "典型手法与适用条件": "通过洞口、漏窗、高处平台或水面反射取景；适用于园外有值得观看的景物、且视线未被建筑完全遮挡的条件。",
         "实例": "名称：拙政园借景园外报恩寺北寺塔；地点：中国苏州；设计者：王献臣（文徵明参与设计）；年份：明正德四年（1509 年）。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "把无关景物强行纳入会造成视觉混乱；借景方向受季节与植被变化影响。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方平面示意：园内视点经洞口望向园外山影。",
-        "待核实": "“借景北寺塔”的具体视线距离与观景视点目前为单源记载，待补充独立来源。"
+        "待核实": "借景北寺塔的视点与方向已双源；园外距离记载不一（约 1.5–1.7 公里），具体数值待核实。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='60' y1='330' x2='700' y2='330' stroke='var(--ink)' stroke-width='3'/><rect x='160' y='170' width='24' height='160' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='330' y='210' width='18' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><polyline points='520,250 560,190 600,250 640,170 680,250' fill='none' stroke='var(--muted)' stroke-width='2'/><line x1='210' y1='230' x2='520' y2='230' stroke='var(--accent)' stroke-width='2'/><polygon points='512,224 526,230 512,236' fill='var(--accent)'/><text x='95' y='210' fill='var(--ink)'>园内视点</text><text x='360' y='195' fill='var(--ink)'>洞口 / 漏窗</text><text x='545' y='140' fill='var(--ink)'>园外山影</text><text x='280' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"

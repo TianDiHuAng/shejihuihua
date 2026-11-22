@@ -749,7 +749,7 @@
     {
       "id": "saturation",
       "title": "纯度",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
       "period": "跨时期",
@@ -764,13 +764,24 @@
         "wp-colorfulness",
         "wp-munsell-color-system"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "纯度指色彩的鲜艳或灰浊程度；同一色相提高纯度会更抢眼，降低纯度则趋于安静沉稳。",
+        "典型手法与适用条件": "主体用高纯度色、背景用低纯度色以拉开层次；室内大面积宜控纯度以免疲劳。",
+        "实例": "名称：高纯度点缀与低纯度背景的配色（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "整面高纯度色久看易生视觉疲劳；纯度差异过小则主体难凸显。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：由高纯度到低纯度的推移。",
+        "待核实": "所举配色案例的设计者与年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='90' y='150' width='120' height='100' fill='var(--accent)'/><rect x='230' y='150' width='120' height='100' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='370' y='150' width='120' height='100' fill='var(--panel)' stroke='var(--line)'/><text x='150' y='120' fill='var(--ink)'>高纯度→低纯度</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "primary-colors",
       "title": "三原色",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
       "period": "跨时期",
@@ -785,8 +796,19 @@
         "wp-primary-color",
         "wp-color-wheel"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "原色是不能再由其他色混合得到、却能调配出其他色彩的基础色集合；光的三原色与颜料三原色并不相同。",
+        "典型手法与适用条件": "调色与显示器分属加色与减色体系，选色前须先确认媒介。",
+        "实例": "名称：加色与减色三原色对照（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "把屏幕三原色直接当作颜料配方会偏色；印刷还需考虑色域限制。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：三原色交叠区。",
+        "待核实": "示例所用色卡的出处待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='300' cy='190' r='70' fill='none' stroke='var(--accent)'/><circle cx='430' cy='190' r='70' fill='none' stroke='var(--muted)'/><circle cx='365' cy='300' r='70' fill='none' stroke='var(--muted)'/><text x='330' y='60' fill='var(--ink)'>三原色交叠</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "complementary-colors",
@@ -844,7 +866,7 @@
     {
       "id": "warm-cool",
       "title": "冷暖色",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
       "period": "跨时期",
@@ -857,8 +879,19 @@
         "wp-color-theory",
         "wp-theory-of-colours"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "人对色彩有冷暖的心理倾向：红橙偏暖、蓝青偏冷，可用于暗示光照与空间远近。",
+        "典型手法与适用条件": "暖色前移、冷色后退，可用于强化纵深；也可调节室内情绪。",
+        "实例": "名称：冷暖对比制造空间层次（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "冷暖判断受周围色影响而漂移；跨文化联想存在差异。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：暖色区与冷色区并置。",
+        "待核实": "所举案例的设计者与年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='150' width='280' height='100' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='400' y='150' width='280' height='100' fill='none' stroke='var(--muted)'/><text x='150' y='130' fill='var(--ink)'>暖色区</text><text x='470' y='130' fill='var(--ink)'>冷色区</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "curvilinear-perspective",
@@ -973,9 +1006,9 @@
       "theme": "理论",
       "period": "跨时期",
       "region": "全球",
-      "definition": "以三角形结构稳定画面的构图方式。",
+      "definition": "以三角形的三个顶点构成画面稳定骨架、尖端方向引导视线上升或前行的构图方式。",
       "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "三角形底边提供稳定感，尖端提供指向与张力。",
+      "overview": "底宽顶尖既有稳固的重心又能形成指向性，常见于三人构图与山景题材。",
       "related": [
         "framing-composition"
       ],

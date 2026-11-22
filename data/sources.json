@@ -2135,6 +2135,90 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；专门讨论留白的审美与空间营造"
+    },
+    {
+      "id": "ccdy-liufa-kao",
+      "title": "六法考 — 中国文化报",
+      "author": "中国文化报",
+      "type": "官方机构",
+      "year": null,
+      "url": "http://nepaper.ccdy.cn/html/2014-06/01/content_127126.htm",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；论述六法原书名与版本流传（异说并列）"
+    },
+    {
+      "id": "zjol-liufa-version",
+      "title": "六法版本流传 — 浙江日报",
+      "author": "浙江日报",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://msb.zjol.com.cn/html/2019-01/26/content_3738864.htm",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；论述《古画品录》版本源流"
+    },
+    {
+      "id": "cntv-jiejing",
+      "title": "借景 — 央视网",
+      "author": "中央广播电视总台",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.cntv.cn/lm/278/41/37393.html",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；记载拙政园借景北寺塔的视点与视线走廊"
+    },
+    {
+      "id": "thepaper-perspective",
+      "title": "布鲁内莱斯基透视实验 — 澎湃新闻",
+      "author": "澎湃新闻",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.thepaper.cn/newsDetail_forward_29119227",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；记载洗礼堂镜子演示、约1413年、布鲁内莱斯基（引牛津 Martin Kemp）"
+    },
+    {
+      "id": "nelson-atkins-perspective",
+      "title": "Gaining Perspective — 纳尔逊-阿特金斯艺术博物馆",
+      "author": "纳尔逊-阿特金斯艺术博物馆",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://nelson-atkins.org/gates/gaining-perspective.html",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；记载 early 1400s、洗礼堂、Brunelleschi"
+    },
+    {
+      "id": "thepaper-jingan",
+      "title": "静安寺下沉广场 — 澎湃新闻",
+      "author": "澎湃新闻",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://m.thepaper.cn/newsDetail_forward_2786200",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；记载静安寺下沉广场卢济威主持城市设计、1999年落成"
+    },
+    {
+      "id": "jfdaily-jingan",
+      "title": "静安寺下沉广场 — 解放日报·上观新闻",
+      "author": "解放日报",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.jfdaily.com/wx/detail.do?id=1010081",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；记载静安寺广场设计者与1999年落成"
     }
   ]
 }
