@@ -25,13 +25,13 @@
 
 执行顺序：每完成一批运行 check.py 并 commit；抽检 10%（至少 3 个）另起子任务。
 
-## 下一轮队列（第 18 轮，按优先级）
+## 下一轮队列（第 19 轮，按优先级）
 
-1. 补抽 4 条（pattern-language/biophilic-design/defensible-space-theory/functionalism-architecture）闭环第17轮。
-2. 复核准入待补精确 URL 的收窄：framed-scenery（中国园林博物馆/颐和园画中游）、natural-ventilation（恭王府 MDPI/翠郊村）、sunken-plaza（中国城市网/静安区政府/南宁友城广场）——拿到可核验 URL 再落库，勿臆造。
-3. 继续用现有来源升级剩余 44 条 L1→L2（重要/补充，写前相似度预检）。
-4. L2 实例潜力线索：courtyard→北京四合院/徽州天井；tour-route→拙政园游线；material-texture→乡土材料。
-5. 处理 B4 的 6 个未答读者问题。
+1. 维持 25% 抽检；补抽 hierarchy/color-contrast/pedestrian-flow 闭环第18轮。
+2. 复核 74 条待核实（material-texture 机理待补源；sunken-plaza 顾如珍单源；glare IEA 单源）。
+3. 继续用现有来源升级剩余 38 条 L1→L2（写前相似度预检 <0.54）。
+4. `courtyard`/`tour-route` 等 L2 实例线索；处理 B4 的 6 个未答读者问题。
+5. 网络恢复后 canonical 复核镜像来源。
 
 ## 已完成
 
@@ -52,3 +52,4 @@
 - 第 15 轮：6 条跨主题重要 L1→L2；复核 57 条，six-principles/borrowed-scenery/perspective/sunken-courtyard 收窄；修复 2 对既有相似度过高条目；抽检 3/3 合格（L2 69）
 - 第 16 轮：6 条跨主题重要 L1→L2；six-principles 升级（异说并列）、perspective/sunken-courtyard 收窄；修 lighting-design 取源；抽检 2/3 合格+1 已修（L2 75）
 - 第 17 轮：7 条升级（placemaking/space-syntax/pattern-language/biophilic-design/defensible-space-theory/functionalism-architecture/sunken-plaza）；sunken-plaza 待核实澄清；复核 69 条（3 项收窄因 URL 不精确延后）
+- 第 18 轮：6 条升级（simplification/hierarchy/color-contrast/framed-scenery/pedestrian-flow/material-texture）；framed-scenery、natural-ventilation 实例补双源，opposed/leaked 补专门来源；material-texture 待核实扩写（L2 88）

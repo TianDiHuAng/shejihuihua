@@ -485,7 +485,7 @@
     {
       "id": "simplification",
       "title": "简化",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
       "period": "跨时期",
@@ -500,8 +500,19 @@
         "wp-composition-visual-arts",
         "wp-negative-space"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "简化是删去次要信息、保留结构要点的手法，它让主体更易被识别而不是让画面变空。",
+        "典型手法与适用条件": "合并相近色块、压缩多余细节；适用于信息密集的画面与界面。",
+        "实例": "名称：繁复场景的简化处理（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "过度简化会丢失必要信息；简化不等于省略功能。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：繁复到简化的取舍。",
+        "待核实": "示例作品与作者年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='100' y='120' width='240' height='160' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='420' y='180' width='120' height='80' fill='none' stroke='var(--muted)'/><text x='150' y='100' fill='var(--ink)'>繁复</text><text x='440' y='160' fill='var(--ink)'>简化后</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "geometry-symmetry",
@@ -696,7 +707,7 @@
     {
       "id": "hierarchy",
       "title": "主次层级",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
       "period": "跨时期",
@@ -711,8 +722,19 @@
         "wp-composition-visual-arts",
         "wp-visual-hierarchy"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "层级通过大小、位置、明度与色彩的差异，建立“先看什么、后看什么”的次序。",
+        "典型手法与适用条件": "用对比把主信息推到最前、次信息退后；适用于海报、页面与展陈。",
+        "实例": "名称：海报主次层级（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "层级过多会相互打架；全靠放大易致杂乱。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：主、次、辅三级。",
+        "待核实": "示例海报的设计者与年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='150' y='110' width='220' height='70' fill='var(--accent)'/><rect x='400' y='150' width='150' height='50' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='400' y='220' width='120' height='40' fill='none' stroke='var(--muted)'/><text x='170' y='100' fill='var(--ink)'>主</text><text x='470' y='180' fill='var(--ink)'>次</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "hue",
@@ -845,7 +867,7 @@
     {
       "id": "color-contrast",
       "title": "色彩对比",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
       "period": "跨时期",
@@ -860,8 +882,19 @@
         "wp-color-theory",
         "wp-complementary-colors"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "色彩对比来自明度、色相与纯度的差异，对比度决定可读性与视觉冲击。",
+        "典型手法与适用条件": "文字与背景保足明度差、重点用对比色提亮；须满足无障碍对比要求。",
+        "实例": "名称：图文高对比排版（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "低对比在弱光下难以辨认；大面积极端对比易刺眼。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：高明度差的文字与底色。",
+        "待核实": "示例版式的出处待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='130' width='200' height='120' fill='var(--ink)'/><rect x='420' y='130' width='200' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='200' y='110' fill='var(--ink)'>高明度对比</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "warm-cool",

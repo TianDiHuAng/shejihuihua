@@ -320,6 +320,24 @@
         "all_l1_remaining": 44
       },
       "note": "7 upgrades incl sunken-plaza L2; framed-scenery/natural-ventilation/sunken-plaza narrowings deferred for exact URLs; L2 now 82"
+    },
+    {
+      "round": 18,
+      "date": "2026-11-22",
+      "zero_gap": false,
+      "methods_used": [
+        "B2",
+        "B4",
+        "B5",
+        "B7"
+      ],
+      "new_gaps": {
+        "sparse_cells": 9,
+        "reader_questions_unanswered": 6,
+        "pending_items": 74,
+        "all_l1_remaining": 38
+      },
+      "note": "6 upgrades; framed-scenery/natural-ventilation dual-sourced; opposed/leaked source added; L2 now 88"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true"
