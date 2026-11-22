@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-22",
-  "total": 242,
+  "total": 244,
   "entries": [
     {
       "id": "perspective",
@@ -3142,6 +3142,32 @@
       "tier": "补充",
       "period": "20世纪",
       "region": "全球",
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-22"
+    },
+    {
+      "id": "mexican-baroque",
+      "title": "墨西哥巴洛克（新西班牙巴洛克）",
+      "theme": "风格",
+      "tier": "补充",
+      "period": "文艺复兴至19世纪",
+      "region": "美洲",
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-22"
+    },
+    {
+      "id": "metabolism",
+      "title": "新陈代谢派（Metabolism）",
+      "theme": "理论",
+      "tier": "重要",
+      "period": "20世纪",
+      "region": "东亚",
       "level": "L2",
       "status": "已写",
       "source_count": 2,

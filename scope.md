@@ -5,11 +5,11 @@
 第 7 轮候选直接以 data/sources.json 的来源 id 标注（详见 research/gaps-external-round06.md）。
 每条标注层级与来源编号。
 
-总计 242 条：理论 119、风格 61、造景 19、
+总计 244 条：理论 120、风格 62、造景 19、
 动线 12、下沉空间 12、材料 19。
-层级分布：核心 50、重要 140、补充 52。
+层级分布：核心 50、重要 141、补充 53。
 
-## 理论（119 条）
+## 理论（120 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -132,8 +132,9 @@
 | biophilic-design | 亲生命性设计 | 重要 | 当代 | 全球 | wp-biophilic-design,wp-evidence-based-design |
 | defensible-space-theory | 防御性空间理论 | 重要 | 20世纪 | 全球 | wp-defensible-space-theory,wp-cpted |
 | rembrandt | 伦勃朗光 | 补充 | 文艺复兴至19世纪 | 欧洲 | wp-rembrandt-lighting,rijksmuseum-rembrandt |
+| metabolism | 新陈代谢派（Metabolism） | 重要 | 20世纪 | 东亚 | wp-metabolism-architecture,designingbuildings-metabolism |
 
-## 风格（61 条）
+## 风格（62 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -198,6 +199,7 @@
 | beaux-arts | 学院派建筑（布扎艺术） | 重要 | 文艺复兴至19世纪 | 全球 | N1,N3 |
 | functionalism-architecture | 功能主义建筑 | 重要 | 20世纪 | 全球 | wp-functionalism-architecture,wp-form-follows-function |
 | tenebrism | 暗绘风格（暗色调主义） | 补充 | 文艺复兴至19世纪 | 欧洲 | wp-tenebrism,dailyart-tenebrism |
+| mexican-baroque | 墨西哥巴洛克（新西班牙巴洛克） | 补充 | 文艺复兴至19世纪 | 美洲 | wp-new-spanish-baroque,designingbuildings-baroque |
 
 ## 造景（19 条）
 

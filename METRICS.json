@@ -732,6 +732,33 @@
         "B5_pending_items": 108,
         "B7_all_l1_remaining": 0
       }
+    },
+    {
+      "round": 30,
+      "date": "2026-11-22",
+      "new_entries": 2,
+      "upgrades": 0,
+      "reviews": 107,
+      "fixes": 2,
+      "pending_total": 109,
+      "check_result": "PASS: all checks, 0 errors; health check 0 dead links/0 dupes/0 orphans; spotcheck 3/3 qualified; 2 sparse-cell entries added (mexican-baroque, metabolism), sparse cells 9->7; 14/14 unittest; 0 broken links",
+      "new_sources": 4,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B1",
+          "B2",
+          "B4",
+          "B5",
+          "B7",
+          "F"
+        ],
+        "B2_sparse_cells": 7,
+        "B4_reader_questions_unanswered": 0,
+        "B5_pending_items": 107,
+        "B7_all_l1_remaining": 0
+      },
+      "healthcheck": "0 broken,6 dead(unused mostly),0 dupes,0 orphans"
     }
   ]
 }

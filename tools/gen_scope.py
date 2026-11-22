@@ -252,6 +252,8 @@ tenebrism|暗绘风格（暗色调主义）|风格|补充|文艺复兴至19世�
 plaza|广场（城市广场）|造景|重要|跨时期|全球|wp-town-square,pps-successful-place
 atrium-architecture|中庭|材料|重要|跨时期|全球|wp-atrium-architecture,designingbuildings-atrium
 exit-sign|疏散标识（安全出口标识）|动线|补充|20世纪|全球|wp-exit-sign,ecfr-1910-37
+mexican-baroque|墨西哥巴洛克（新西班牙巴洛克）|风格|补充|文艺复兴至19世纪|美洲|wp-new-spanish-baroque,designingbuildings-baroque
+metabolism|新陈代谢派（Metabolism）|理论|重要|20世纪|东亚|wp-metabolism-architecture,designingbuildings-metabolism
 """
 
 THEMES = ["理论", "风格", "造景", "动线", "下沉空间", "材料"]
