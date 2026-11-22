@@ -135,17 +135,19 @@
       ],
       "sources": [
         "wp-bauhaus",
-        "wp-modern-architecture"
+        "wp-modern-architecture",
+        "stiftung-bauhaus-dessau",
+        "archdaily-bauhaus-dessau"
       ],
-      "needs_verification": true,
-      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "包豪斯把艺术、工艺与工业生产结合，主张形式服从功能与材料逻辑。",
         "典型手法与适用条件": "以基本几何形与标准化构件组织设计；适用于教学、家具与建筑实践。",
-        "实例": "名称：包豪斯校舍与设计教育（类型性描述）；地点：欧洲；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：德绍包豪斯校舍；地点：德国德绍；设计者：瓦尔特·格罗皮乌斯（Walter Gropius）；年份：1925–1926 年（1926-12-04 落成）。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "过度标准化可能牺牲地方性与使用差异；构造细节按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：基本几何与标准化构件。",
-        "待核实": "具体作品的设计者与年代待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='250' cy='200' r='70' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='360' y='130' width='120' height='140' fill='none' stroke='var(--muted)'/><polygon points='560,270 620,130 680,270' fill='none' stroke='var(--accent)'/><text x='200' y='100' fill='var(--ink)'>基本几何</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"

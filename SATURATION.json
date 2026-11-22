@@ -211,6 +211,25 @@
         "all_l1_remaining": 75
       },
       "note": "B1 candidates verified via mirror and integrated as 7 L1; spotcheck clean"
+    },
+    {
+      "round": 12,
+      "date": "2026-11-22",
+      "zero_gap": false,
+      "methods_used": [
+        "B2",
+        "B4",
+        "B5",
+        "B7"
+      ],
+      "new_gaps": {
+        "sparse_cells": 9,
+        "reader_questions_unanswered": 6,
+        "pending_items": 44,
+        "core_l1_remaining": 0,
+        "all_l1_remaining": 75
+      },
+      "note": "core L1 all L2 now; 7 core upgrades; bauhaus upgraded; spotcheck clean"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true"

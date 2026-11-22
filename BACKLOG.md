@@ -25,13 +25,13 @@
 
 执行顺序：每完成一批运行 check.py 并 commit；抽检 10%（至少 3 个）另起子任务。
 
-## 下一轮队列（第 12 轮，按优先级）
+## 下一轮队列（第 13 轮，按优先级）
 
-1. 维持 25% 抽检；补抽 form-follows-function、functionalism-architecture 两条闭环。
-2. 复核 37 条待核实（含 light-well 可引 Stack effect 收窄机制、bauhaus 补第二来源后升级）。
-3. 继续用现有已核验来源升级核心/重要 L1→L2（剩余 75 条）。
+1. 维持 25% 抽检；累计未抽到的本轮升级条目（scattered-perspective、balance、proportion、value）择机补抽。
+2. 复核 43 条待核实（light-well 已收窄为实例数据；继续找第二独立来源）。
+3. 继续用现有已核验来源升级剩余 75 条 L1→L2（核心已全部 L2，转重要/补充）。
 4. 处理 B4 中 6 个暂无直接答案的读者问题（rembrandt、tenebrism、plaza、atrium-architecture、exit-sign、vestibule-architecture）。
-5. 轮换 B1，网络恢复后用 canonical URL 复核第 11 轮 12 条镜像核验来源。
+5. 轮换 B1/B6，网络恢复后 canonical 复核镜像来源。
 
 ## 已完成
 
@@ -46,3 +46,4 @@
 - 第 9 轮：新写 6 条 L2（累计 119）；复核 34 条（3 条概念层面升级）；B1 找到 7 条候选；抽检 1 不合格，整批返工完成
 - 第 10 轮：体检（0 死链/0 重复/0 孤儿）；网络中断，回滚未核验来源；用现有来源升级 6 条核心 L1→L2；复核 31 条（0 可升级）；抽检 3/3+4/4+3/3 合格，无返工
 - 第 11 轮：镜像+web_search 核验 12 份来源、新增 7 个 scope 条目与 7 条 L1（累计 126）；复核 37 条（0 可升级）；抽检 3/3 合格，无返工
+- 第 12 轮：7 个核心理论 L1→L2（核心已全部 L2）；bauhaus 补独立双源并升级；light-well 收窄待核实；抽检 3/3 合格，无返工

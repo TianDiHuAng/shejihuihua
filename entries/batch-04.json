@@ -121,7 +121,7 @@
         "实例": "名称：传统民居天井；地点：待核实；设计者：不适用；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "开口尺寸过小会采光不足；雨水倒灌与高空坠物需防护。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方剖面示意：屋面开口把光引入内部。",
-        "待核实": "热压通风机制与具体实例的实测数据待补充专门来源。"
+        "待核实": "热压机制的一般原理可参见自然通风相关条目；本条目尚缺具体天井实例的实测数据。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='90' x2='680' y2='90' stroke='var(--ink)' stroke-width='3'/><rect x='300' y='90' width='160' height='230' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='380' y1='100' x2='380' y2='260' stroke='var(--accent)' stroke-width='2'/><text x='100' y='70' fill='var(--ink)'>屋面</text><text x='325' y='345' fill='var(--ink)'>天井</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -131,7 +131,7 @@
         "wp-courtyard"
       ],
       "needs_verification": true,
-      "pending_notes": "Lightwell 来源支持采光与一般通风，但未给出热压机制；具体实例数据待补充。"
+      "pending_notes": "具体天井实例的采光与通风实测数据待补充独立来源（机制层面可参见自然通风条目）。"
     },
     {
       "id": "glare",
