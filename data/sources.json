@@ -1727,6 +1727,30 @@
       "verified": true,
       "link_ok": true,
       "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；人与场所情感纽带；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-demand-controlled-ventilation",
+      "title": "Demand controlled ventilation",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Demand_controlled_ventilation",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；按需控制通风概念与机制；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-universal-design",
+      "title": "Universal design",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Universal_design",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；通用设计与无障碍设计的边界定义；百科条目无固定出版年"
     }
   ]
 }
