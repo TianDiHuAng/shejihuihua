@@ -595,8 +595,8 @@
       "period": "文艺复兴至19世纪",
       "region": "欧洲",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -738,8 +738,8 @@
       "period": "古代",
       "region": "中国",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -751,8 +751,8 @@
       "period": "古代",
       "region": "中国",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -829,9 +829,9 @@
       "period": "古代",
       "region": "中国",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 2,
-      "needs_verification_count": 0,
+      "status": "已写",
+      "source_count": 1,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {
@@ -894,7 +894,7 @@
       "period": "古代",
       "region": "中国",
       "level": "L1",
-      "status": "未开始",
+      "status": "已写",
       "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
@@ -933,7 +933,7 @@
       "period": "跨时期",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
+      "status": "已写",
       "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
@@ -946,8 +946,8 @@
       "period": "跨时期",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 3,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -972,8 +972,8 @@
       "period": "跨时期",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1011,8 +1011,8 @@
       "period": "跨时期",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1050,8 +1050,8 @@
       "period": "跨时期",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1141,8 +1141,8 @@
       "period": "跨时期",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1206,8 +1206,8 @@
       "period": "跨时期",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1219,8 +1219,8 @@
       "period": "跨时期",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 3,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1258,7 +1258,7 @@
       "period": "跨时期",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
+      "status": "已写",
       "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
@@ -1388,8 +1388,8 @@
       "period": "古代",
       "region": "中国",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1401,9 +1401,9 @@
       "period": "古代",
       "region": "中国",
       "level": "L1",
-      "status": "未开始",
+      "status": "已写",
       "source_count": 1,
-      "needs_verification_count": 0,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {
@@ -1414,9 +1414,9 @@
       "period": "古代",
       "region": "中国",
       "level": "L1",
-      "status": "未开始",
+      "status": "已写",
       "source_count": 1,
-      "needs_verification_count": 0,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {
@@ -1427,9 +1427,9 @@
       "period": "古代",
       "region": "中国",
       "level": "L1",
-      "status": "未开始",
+      "status": "已写",
       "source_count": 1,
-      "needs_verification_count": 0,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {
@@ -1440,9 +1440,9 @@
       "period": "古代",
       "region": "中国",
       "level": "L1",
-      "status": "未开始",
+      "status": "已写",
       "source_count": 1,
-      "needs_verification_count": 0,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {
@@ -1453,8 +1453,8 @@
       "period": "古代",
       "region": "中国",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1609,8 +1609,8 @@
       "period": "跨时期",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1622,8 +1622,8 @@
       "period": "跨时期",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1687,8 +1687,8 @@
       "period": "20世纪",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1752,8 +1752,8 @@
       "period": "20世纪",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1830,8 +1830,8 @@
       "period": "跨时期",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1843,8 +1843,8 @@
       "period": "20世纪",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1856,8 +1856,8 @@
       "period": "20世纪",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1869,8 +1869,8 @@
       "period": "20世纪",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1895,8 +1895,8 @@
       "period": "跨时期",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -1960,8 +1960,8 @@
       "period": "跨时期",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -2038,7 +2038,7 @@
       "period": "跨时期",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
+      "status": "已写",
       "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
@@ -2168,7 +2168,7 @@
       "period": "中世纪",
       "region": "欧洲",
       "level": "L1",
-      "status": "未开始",
+      "status": "已写",
       "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
@@ -2181,7 +2181,7 @@
       "period": "文艺复兴至19世纪",
       "region": "欧洲",
       "level": "L1",
-      "status": "未开始",
+      "status": "已写",
       "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
@@ -2324,7 +2324,7 @@
       "period": "20世纪",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
+      "status": "已写",
       "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
@@ -2350,7 +2350,7 @@
       "period": "20世纪",
       "region": "欧洲",
       "level": "L1",
-      "status": "未开始",
+      "status": "已写",
       "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
@@ -2467,7 +2467,7 @@
       "period": "20世纪",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
+      "status": "已写",
       "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
@@ -2532,8 +2532,8 @@
       "period": "当代",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },
@@ -2545,8 +2545,8 @@
       "period": "当代",
       "region": "全球",
       "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
+      "status": "已写",
+      "source_count": 2,
       "needs_verification_count": 0,
       "last_updated": "2026-11-22"
     },

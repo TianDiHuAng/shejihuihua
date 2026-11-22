@@ -1,0 +1,215 @@
+{
+  "unit_id": "batch-02-a",
+  "title": "第2轮核心 L1（1/4）",
+  "entries": [
+    {
+      "id": "chiaroscuro",
+      "title": "明暗法",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "以强烈明暗对比塑造体积和戏剧性效果的绘画方法。",
+      "time_or_place": "文艺复兴至19世纪欧洲（参见来源）。",
+      "overview": "明暗法把光线作为组织画面焦点的手段，其后出现更极端的暗绘倾向。",
+      "related": [
+        "light-shadow-modeling"
+      ],
+      "sources": [
+        "wp-chiaroscuro",
+        "wp-tenebrism"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "six-principles",
+      "title": "中国画六法",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "中国画品评与创作的六条准则，传统上归于谢赫。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "六法把气韵、用笔、象形、赋彩、位置与传移并列，构成传统绘画的评价框架。",
+      "related": [
+        "qi-yun"
+      ],
+      "sources": [
+        "wp-six-principles-chinese-painting",
+        "wp-xie-he"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "qi-yun",
+      "title": "气韵生动",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "六法之首，强调作品的精神气息与生动韵致。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "气韵生动关注整体生命感，而非单一物象的精确再现。",
+      "related": [
+        "bone-method"
+      ],
+      "sources": [
+        "wp-six-principles-chinese-painting",
+        "wp-chinese-painting"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "liubai",
+      "title": "留白",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "以空白参与画面结构和意境营造的方法。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "留白让未画之处承担空间、光线与想象的功能，是东方构图的重要语言。",
+      "related": [
+        "ink-wash"
+      ],
+      "sources": [
+        "wp-chinese-painting"
+      ],
+      "needs_verification": true,
+      "pending_notes": "仅见中国画综合条目对留白的讨论，待补充针对留白的独立来源。"
+    },
+    {
+      "id": "yijing",
+      "title": "意境",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "作品通过物象与留白引发的情景交融之意。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "意境把观看者从可见物象引向不可尽言的情绪与想象。",
+      "related": [
+        "xu-shi"
+      ],
+      "sources": [
+        "wp-chinese-painting",
+        "wp-shitao"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "east-west-perspective-compare",
+      "title": "散点与焦点透视比较",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "散点透视与焦点透视在视点组织上的对照。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "前者移动视点展开长卷，后者固定视点汇聚于灭点，二者服务于不同的观看方式。",
+      "related": [
+        "east-west-space-compare"
+      ],
+      "sources": [
+        "wp-perspective-graphical",
+        "wp-chinese-painting"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "east-west-space-compare",
+      "title": "留白与负空间比较",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "留白与负空间在画面组织中的对照。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "两者都利用空白塑造主体，但文化语境与意图表达各有侧重。",
+      "related": [
+        "east-west-color-compare"
+      ],
+      "sources": [
+        "wp-chinese-garden",
+        "wp-negative-space"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "space-definition",
+      "title": "建筑空间定义",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "建筑空间是由围合界面、尺度与人的活动共同限定的场所。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "空间的感知不只来自几何边界，也来自光线、材料与使用方式。",
+      "related": [
+        "place-spirit"
+      ],
+      "sources": [
+        "wp-architecture",
+        "wp-architectural-theory"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "human-scale",
+      "title": "人体尺度",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "以人体尺寸和使用感受为参照的空间尺度。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "人体尺度让门、台阶、家具与通道与身体动作相匹配。",
+      "related": [
+        "monumental-scale"
+      ],
+      "sources": [
+        "wp-proportion-architecture",
+        "wp-architecture"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "spatial-sequence",
+      "title": "空间序列",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "若干空间按进入顺序组织形成的连续体验。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "序列通过开合、明暗与尺度变化控制节奏，使行进成为叙事。",
+      "related": [
+        "axis"
+      ],
+      "sources": [
+        "wp-architecture",
+        "wp-architectural-theory"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    }
+  ]
+}

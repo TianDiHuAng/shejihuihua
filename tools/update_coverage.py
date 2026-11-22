@@ -1,4 +1,5 @@
 """根据已写条目同步 coverage.json 的层级、状态、来源数与待核实数。"""
+import argparse
 import json
 from datetime import date
 from pathlib import Path
@@ -7,11 +8,15 @@ ROOT = Path(__file__).resolve().parent.parent
 
 
 def main():
+    parser = argparse.ArgumentParser(description="同步 coverage.json 与已写条目")
+    parser.add_argument("--units", nargs="*", help="只同步指定 unit_id（对应 entries/<unit>.json）")
+    args = parser.parse_args()
     cov_path = ROOT / "coverage.json"
     coverage = json.loads(cov_path.read_text(encoding="utf-8"))
     rows = {r["id"]: r for r in coverage["entries"]}
     written = {}
-    for path in sorted((ROOT / "entries").glob("*.json")):
+    paths = [ROOT / "entries" / f"{u}.json" for u in args.units] if args.units else sorted((ROOT / "entries").glob("*.json"))
+    for path in paths:
         for entry in json.loads(path.read_text(encoding="utf-8")).get("entries", []):
             written[entry["id"]] = entry
     today = date.today().isoformat()
