@@ -34,3 +34,4 @@
 - 遗留：B1 的 7 条候选待网络恢复后实抓核验再纳入。
 - 不影响已提交知识库、校验与站点生成。
 - 第 10 轮推送：`git push origin master:main` 失败（`Failed to connect to github.com:443 after ~21s`）；本地提交 `5d464ee` 已完成，远端仍停留 `5d19478`，下轮补推。
+- 第 11 轮推送：`git push` 报 `Recv failure: Connection was reset`；本地 `4e14d54` 已提交，远端仍 `9e6bafe`，下轮补推。另：本轮 12 份来源经 owiki.org 镜像+web_search 核验，canonical en.wikipedia.org 直连待网络恢复后复核。
