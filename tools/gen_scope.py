@@ -247,6 +247,11 @@ form-follows-function|形式追随功能|理论|重要|跨时期|全球|wp-form-
 functionalism-architecture|功能主义建筑|风格|重要|20世纪|全球|wp-functionalism-architecture,wp-form-follows-function
 biophilic-design|亲生命性设计|理论|重要|当代|全球|wp-biophilic-design,wp-evidence-based-design
 defensible-space-theory|防御性空间理论|理论|重要|20世纪|全球|wp-defensible-space-theory,wp-cpted
+rembrandt|伦勃朗光|理论|补充|文艺复兴至19世纪|欧洲|wp-rembrandt-lighting,rijksmuseum-rembrandt
+tenebrism|暗绘风格（暗色调主义）|风格|补充|文艺复兴至19世纪|欧洲|wp-tenebrism,dailyart-tenebrism
+plaza|广场（城市广场）|造景|重要|跨时期|全球|wp-town-square,pps-successful-place
+atrium-architecture|中庭|材料|重要|跨时期|全球|wp-atrium-architecture,designingbuildings-atrium
+exit-sign|疏散标识（安全出口标识）|动线|补充|20世纪|全球|wp-exit-sign,ecfr-1910-37
 """
 
 THEMES = ["理论", "风格", "造景", "动线", "下沉空间", "材料"]

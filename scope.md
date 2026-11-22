@@ -5,11 +5,11 @@
 第 7 轮候选直接以 data/sources.json 的来源 id 标注（详见 research/gaps-external-round06.md）。
 每条标注层级与来源编号。
 
-总计 237 条：理论 118、风格 60、造景 18、
-动线 11、下沉空间 12、材料 18。
-层级分布：核心 50、重要 138、补充 49。
+总计 242 条：理论 119、风格 61、造景 19、
+动线 12、下沉空间 12、材料 19。
+层级分布：核心 50、重要 140、补充 52。
 
-## 理论（118 条）
+## 理论（119 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -131,8 +131,9 @@
 | form-follows-function | 形式追随功能 | 重要 | 跨时期 | 全球 | wp-form-follows-function,wp-functionalism-architecture |
 | biophilic-design | 亲生命性设计 | 重要 | 当代 | 全球 | wp-biophilic-design,wp-evidence-based-design |
 | defensible-space-theory | 防御性空间理论 | 重要 | 20世纪 | 全球 | wp-defensible-space-theory,wp-cpted |
+| rembrandt | 伦勃朗光 | 补充 | 文艺复兴至19世纪 | 欧洲 | wp-rembrandt-lighting,rijksmuseum-rembrandt |
 
-## 风格（60 条）
+## 风格（61 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -196,8 +197,9 @@
 | mannerism | 样式主义（手法主义）建筑 | 重要 | 文艺复兴至19世纪 | 欧洲 | N1,N3,N2 |
 | beaux-arts | 学院派建筑（布扎艺术） | 重要 | 文艺复兴至19世纪 | 全球 | N1,N3 |
 | functionalism-architecture | 功能主义建筑 | 重要 | 20世纪 | 全球 | wp-functionalism-architecture,wp-form-follows-function |
+| tenebrism | 暗绘风格（暗色调主义） | 补充 | 文艺复兴至19世纪 | 欧洲 | wp-tenebrism,dailyart-tenebrism |
 
-## 造景（18 条）
+## 造景（19 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -219,8 +221,9 @@
 | time-scenery | 时序造景 | 补充 | 古代 | 中国 | S3 |
 | rock-garden | 岩石园 | 补充 | 跨时期 | 全球 | S12 |
 | hardscape-softscape | 硬质景观与软质景观 | 重要 | 跨时期 | 全球 | wp-landscape-architecture,wp-landscape-design |
+| plaza | 广场（城市广场） | 重要 | 跨时期 | 全球 | wp-town-square,pps-successful-place |
 
-## 动线（11 条）
+## 动线（12 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -235,6 +238,7 @@
 | serial-route | 串联式动线 | 重要 | 跨时期 | 全球 | S8 |
 | radial-route | 放射式动线 | 补充 | 跨时期 | 全球 | S8 |
 | wayfinding | 导视与寻路 | 重要 | 跨时期 | 全球 | wp-graphic-design,wp-wayfinding |
+| exit-sign | 疏散标识（安全出口标识） | 补充 | 20世纪 | 全球 | wp-exit-sign,ecfr-1910-37 |
 
 ## 下沉空间（12 条）
 
@@ -253,7 +257,7 @@
 | safety-guarding | 安全防护 | 核心 | 20世纪 | 全球 | S1 |
 | sunken-accessibility | 下沉空间无障碍 | 核心 | 20世纪 | 全球 | S1 |
 
-## 材料（18 条）
+## 材料（19 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -275,3 +279,4 @@
 | transparent-material | 透明与半透明材料 | 重要 | 20世纪 | 全球 | S1 |
 | structural-material | 结构材料 | 重要 | 跨时期 | 全球 | S1 |
 | lighting-design | 照明设计 | 重要 | 跨时期 | 全球 | wp-interior-design,wp-lighting-design |
+| atrium-architecture | 中庭 | 重要 | 跨时期 | 全球 | wp-atrium-architecture,designingbuildings-atrium |

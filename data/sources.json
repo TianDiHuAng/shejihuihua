@@ -2663,6 +2663,90 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载高新智汇中心为绿色建筑三星项目"
+    },
+    {
+      "id": "wp-rembrandt-lighting",
+      "title": "Rembrandt lighting",
+      "author": "Wikipedia/机构",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Rembrandt_lighting",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对标题/正文；伦勃朗光定义"
+    },
+    {
+      "id": "rijksmuseum-rembrandt",
+      "title": "Rembrandt van Rijn — Rijksmuseum",
+      "author": "Wikipedia/机构",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.rijksmuseum.nl/en/collection/node/Rembrandt-van-Rijn--ba2dc062acd137ffeac364321b7b10df",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对标题/正文；伦勃朗明暗对比与戏剧性"
+    },
+    {
+      "id": "dailyart-tenebrism",
+      "title": "Tenebrism 101 — DailyArt Magazine",
+      "author": "Wikipedia/机构",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.dailyartmagazine.com/tenebrism/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对标题/正文；暗绘风格来源与机制"
+    },
+    {
+      "id": "wp-town-square",
+      "title": "Town square (Plaza)",
+      "author": "Wikipedia/机构",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Plaza",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对标题/正文；城市广场定义"
+    },
+    {
+      "id": "pps-successful-place",
+      "title": "What Makes a Successful Place? — Project for Public Spaces",
+      "author": "Wikipedia/机构",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.pps.org/article/grplacefeat",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对标题/正文；优秀公共空间作为城市客厅"
+    },
+    {
+      "id": "designingbuildings-atrium",
+      "title": "Atrium definition — Designing Buildings",
+      "author": "Wikipedia/机构",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Atrium_definition",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对标题/正文；中庭定义（引英国 Approved Document B）"
+    },
+    {
+      "id": "ecfr-1910-37",
+      "title": "29 CFR 1910.37 — eCFR",
+      "author": "Wikipedia/机构",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.ecfr.gov/current/title-29/section-1910.37",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对标题/正文；出口标识可见性与照度要求"
     }
   ]
 }

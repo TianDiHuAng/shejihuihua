@@ -1,0 +1,111 @@
+{
+  "unit_id": "batch-25",
+  "title": "第25轮 B4 补齐条目",
+  "entries": [
+    {
+      "id": "rembrandt",
+      "title": "伦勃朗光",
+      "level": "L1",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "以单侧主光在面部形成三角形亮区、另一侧深暗的人像布光法。",
+      "time_or_place": "17世纪、欧洲（参见来源）。",
+      "overview": "它在明暗对比中塑造体积与戏剧感，常用于肖像摄影与绘画。",
+      "related": [
+        "chiaroscuro"
+      ],
+      "sources": [
+        "wp-rembrandt-lighting",
+        "rijksmuseum-rembrandt"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "tenebrism",
+      "title": "暗绘风格（暗色调主义）",
+      "level": "L1",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "把背景压到极暗、以强烈聚光突出主体的绘画风格。",
+      "time_or_place": "17世纪、欧洲（参见来源）。",
+      "overview": "暗绘风格是明暗法的极端化，营造神秘与戏剧张力。",
+      "related": [
+        "chiaroscuro"
+      ],
+      "sources": [
+        "wp-tenebrism",
+        "dailyart-tenebrism"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "plaza",
+      "title": "广场（城市广场）",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "造景",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "城市中向公众开放、供聚会与活动的硬质开敞空间。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "优秀广场兼具通行、停留与交往功能，是城市公共生活的重要场所。",
+      "related": [
+        "placemaking"
+      ],
+      "sources": [
+        "wp-town-square",
+        "pps-successful-place"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "atrium-architecture",
+      "title": "中庭",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "材料",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "建筑内部贯通多层、常覆以天窗的中央开敞空间。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "中庭把天然光引入建筑深处并组织交通与社交。",
+      "related": [
+        "daylighting"
+      ],
+      "sources": [
+        "wp-atrium-architecture",
+        "designingbuildings-atrium"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "exit-sign",
+      "title": "疏散标识（安全出口标识）",
+      "level": "L1",
+      "tier": "补充",
+      "theme": "动线",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "标示安全出口方向与位置的疏散标识。",
+      "time_or_place": "近现代（20 世纪起逐步规范化，参见来源）。",
+      "overview": "疏散标识以可见性与照明保障紧急时快速识别出口。",
+      "related": [
+        "evacuation-route"
+      ],
+      "sources": [
+        "wp-exit-sign",
+        "ecfr-1910-37"
+      ],
+      "needs_verification": true,
+      "pending_notes": "出口标识的早期年代与制度化沿革待补充专门来源；正文只作一般性时期表述。"
+    }
+  ]
+}

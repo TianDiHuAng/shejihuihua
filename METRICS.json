@@ -607,6 +607,33 @@
         "B7_all_l1_remaining": 0
       },
       "milestone": "all 126 entries now L2 (L1=0); core+important+s supplementary all L2"
+    },
+    {
+      "round": 25,
+      "date": "2026-11-22",
+      "new_entries": 5,
+      "upgrades": 0,
+      "reviews": 105,
+      "fixes": 4,
+      "pending_total": 105,
+      "check_result": "PASS: all checks, 0 errors; health check 0 dead links/0 dupes/0 orphans; maintenance spotcheck 4 entries (systemic notes); B4 filled 5 new entries (Rembrandt light/tenebrism/plaza/atrium/exit-sign), reader questions 6->1; 14/14 unittest; 0 broken links",
+      "new_sources": 7,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B1",
+          "B2",
+          "B4",
+          "B5",
+          "B7",
+          "F"
+        ],
+        "B2_sparse_cells": 9,
+        "B4_reader_questions_unanswered": 1,
+        "B5_pending_items": 105,
+        "B7_all_l1_remaining": 5
+      },
+      "healthcheck": "0 broken, 6 dead sources (5 unused), 0 dupes, 0 orphans; templates/umbrella-source issues noted for maintenance"
     }
   ]
 }

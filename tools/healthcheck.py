@@ -1,4 +1,5 @@
 """第5轮体检（AUTONOMOUS.md F）：死链、过期数据、重复、矛盾、孤儿页、重合度。"""
+import argparse
 import json
 import re
 import sys
@@ -10,6 +11,7 @@ sys.path.insert(0, str(ROOT / "tools"))
 
 
 def main():
+    ap=argparse.ArgumentParser(); ap.add_argument("--round",type=int,default=5); rn=ap.parse_args().round
     import check_links
     coverage = json.loads((ROOT / "coverage.json").read_text(encoding="utf-8"))
     sources = json.loads((ROOT / "data/sources.json").read_text(encoding="utf-8"))["sources"]
@@ -42,7 +44,7 @@ def main():
     overlap_mentions = len(re.findall(r"重合|模板相似|套话", spot))
 
     lines = [
-        "# 第 5 轮体检记录（F）",
+        f"# 第 {rn} 轮体检记录（F）",
         "",
         "1. 死链：" + (f"{len(broken)} 处" if broken else "0 处，check_links.py 通过"),
         "2. 过期数据：来源 link_ok=false 共 " + str(len(dead_source)) + " 条（" + "、".join(dead_source[:10]) + "）；其余来源核验日期为 2026-11，未超过 12 个月。",
@@ -53,7 +55,7 @@ def main():
         "",
         "结论：本轮体检发现的问题已列入 BACKLOG；未发现需整站回滚的系统性矛盾。",
     ]
-    out = ROOT / "research" / "healthcheck-round05.md"
+    out = ROOT / "research" / f"healthcheck-round{rn:02d}.md"
     out.write_text("\n".join(lines), encoding="utf-8")
     print(f"health: broken={len(broken)} dead_sources={len(dead_source)} title_dupes={len(title_dupes)} orphans={len(orphans)}")
 

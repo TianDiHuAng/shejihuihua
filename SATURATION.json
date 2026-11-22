@@ -451,6 +451,27 @@
         "all_l1_remaining": 0
       },
       "note": "ALL 126 entries now L2 (milestone); pending/reader-question gaps remain so not zero-gap"
+    },
+    {
+      "round": 25,
+      "date": "2026-11-22",
+      "zero_gap": false,
+      "methods_used": [
+        "B1",
+        "B2",
+        "B4",
+        "B5",
+        "B7",
+        "F"
+      ],
+      "new_gaps": {
+        "scope_candidates_added": 5,
+        "sparse_cells": 9,
+        "reader_questions_unanswered": 1,
+        "pending_items": 105,
+        "all_l1_remaining": 5
+      },
+      "note": "B4 gap filled with 5 new entries; health clean; remaining pending/template/sparse-cell gaps -> not zero-gap"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true"
