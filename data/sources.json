@@ -1619,6 +1619,114 @@
       "verified": true,
       "link_ok": true,
       "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；帕特农神庙，前 447–前 432 年，Iktinos 与 Callicrates；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-visual-perception",
+      "title": "Visual perception",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Visual_perception",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；格式塔组织律与视觉分组；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-gestalt-psychology",
+      "title": "Gestalt psychology",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Gestalt_psychology",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；整体知觉原则与设计应用；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-interior-design",
+      "title": "Interior design",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Interior_design",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；色彩心理与照明设计；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-color-psychology",
+      "title": "Color psychology",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Color_psychology",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；色彩心理效应；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-environmental-psychology",
+      "title": "Environmental psychology",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Environmental_psychology",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；人与建成环境关系；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-landscape-design",
+      "title": "Landscape design",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Landscape_design",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；硬质与软质景观分类；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-graphic-design",
+      "title": "Graphic design",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Graphic_design",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；环境图形与导视；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-lighting-design",
+      "title": "Lighting design",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Lighting_design",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；照明设计上位概念；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-place-attachment",
+      "title": "Place attachment",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Place_attachment",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；人与场所情感纽带；百科条目无固定出版年"
     }
   ]
 }

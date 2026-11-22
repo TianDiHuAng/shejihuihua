@@ -2,13 +2,14 @@
 
 来源说明：S1–S12 为 research/outline_raw.md 中实际抓取成功的权威百科分类树（Wikipedia），
 取并集后补入任务文档 TASK_design.md 指定条目。N1–N5 为第 3 轮新增的权威大纲页面（见 research/gaps-external-round02.md）。
+第 7 轮候选直接以 data/sources.json 的来源 id 标注（详见 research/gaps-external-round06.md）。
 每条标注层级与来源编号。
 
-总计 223 条：理论 108、风格 59、造景 17、
-动线 10、下沉空间 12、材料 17。
-层级分布：核心 50、重要 124、补充 49。
+总计 230 条：理论 112、风格 59、造景 18、
+动线 11、下沉空间 12、材料 18。
+层级分布：核心 50、重要 131、补充 49。
 
-## 理论（108 条）
+## 理论（112 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -120,6 +121,10 @@
 | sustainable-design | 可持续设计 | 重要 | 20世纪 | 全球 | S1 |
 | vitruvian-triad | 维特鲁威三原则 | 核心 | 古代 | 欧洲 | N4,N5 |
 | plein-air | 外光写生 | 重要 | 文艺复兴至19世纪 | 欧洲 | N2,N5 |
+| gestalt-organization-laws | 格式塔组织律 | 重要 | 20世纪 | 全球 | wp-visual-perception,wp-gestalt-psychology |
+| color-psychology | 色彩心理学 | 重要 | 20世纪 | 全球 | wp-interior-design,wp-color-psychology |
+| environmental-psychology | 环境心理学 | 重要 | 20世纪 | 全球 | wp-landscape-architecture,wp-environmental-psychology |
+| place-attachment | 场所依恋 | 重要 | 当代 | 全球 | wp-environmental-psychology,wp-place-attachment |
 
 ## 风格（59 条）
 
@@ -185,7 +190,7 @@
 | mannerism | 样式主义（手法主义）建筑 | 重要 | 文艺复兴至19世纪 | 欧洲 | N1,N3,N2 |
 | beaux-arts | 学院派建筑（布扎艺术） | 重要 | 文艺复兴至19世纪 | 全球 | N1,N3 |
 
-## 造景（17 条）
+## 造景（18 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -206,8 +211,9 @@
 | seasonal-scenery | 四季造景 | 重要 | 古代 | 中国 | S3 |
 | time-scenery | 时序造景 | 补充 | 古代 | 中国 | S3 |
 | rock-garden | 岩石园 | 补充 | 跨时期 | 全球 | S12 |
+| hardscape-softscape | 硬质景观与软质景观 | 重要 | 跨时期 | 全球 | wp-landscape-architecture,wp-landscape-design |
 
-## 动线（10 条）
+## 动线（11 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -221,6 +227,7 @@
 | loop-route | 回游式动线 | 重要 | 古代 | 中国 | S3,S8 |
 | serial-route | 串联式动线 | 重要 | 跨时期 | 全球 | S8 |
 | radial-route | 放射式动线 | 补充 | 跨时期 | 全球 | S8 |
+| wayfinding | 导视与寻路 | 重要 | 跨时期 | 全球 | wp-graphic-design,wp-wayfinding |
 
 ## 下沉空间（12 条）
 
@@ -239,7 +246,7 @@
 | safety-guarding | 安全防护 | 核心 | 20世纪 | 全球 | S1 |
 | sunken-accessibility | 下沉空间无障碍 | 核心 | 20世纪 | 全球 | S1 |
 
-## 材料（17 条）
+## 材料（18 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -260,3 +267,4 @@
 | vernacular-material | 乡土材料 | 重要 | 跨时期 | 全球 | S11 |
 | transparent-material | 透明与半透明材料 | 重要 | 20世纪 | 全球 | S1 |
 | structural-material | 结构材料 | 重要 | 跨时期 | 全球 | S1 |
+| lighting-design | 照明设计 | 重要 | 跨时期 | 全球 | wp-interior-design,wp-lighting-design |

@@ -1,0 +1,145 @@
+{
+  "unit_id": "batch-07",
+  "title": "第7轮 B1 新增条目",
+  "entries": [
+    {
+      "id": "gestalt-organization-laws",
+      "title": "格式塔组织律",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "视觉系统按邻近、相似、闭合、对称与连续等原则把局部组织为整体的规律。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "格式塔组织律为构图法则与图底关系提供了上位解释。",
+      "related": [
+        "color-psychology"
+      ],
+      "sources": [
+        "wp-visual-perception",
+        "wp-gestalt-psychology"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "color-psychology",
+      "title": "色彩心理学",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "研究色彩对人的感受、情绪与行为影响的领域。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "色彩心理效应把色相与空间情绪联系起来，是室内配色的重要依据。",
+      "related": [
+        "environmental-psychology"
+      ],
+      "sources": [
+        "wp-interior-design",
+        "wp-color-psychology"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "environmental-psychology",
+      "title": "环境心理学",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "研究自然与建成环境如何影响人的体验与行为的领域。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "该领域把空间感知、场所情感与使用行为纳入统一框架。",
+      "related": [
+        "place-attachment"
+      ],
+      "sources": [
+        "wp-landscape-architecture",
+        "wp-environmental-psychology"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "hardscape-softscape",
+      "title": "硬质景观与软质景观",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "造景",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "景观中铺装、构筑物等硬质要素与植物、水体等软质要素的分类。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "两类要素的比例决定空间的围合感、维护需求与生态表现。",
+      "related": [],
+      "sources": [
+        "wp-landscape-architecture",
+        "wp-landscape-design"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "wayfinding",
+      "title": "导视与寻路",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "动线",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "人在物理空间中借助标识、地图与视觉线索定向和导航的过程与设计。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "导视与寻路把动线组织、空间认知和图形信息结合起来。",
+      "related": [],
+      "sources": [
+        "wp-graphic-design",
+        "wp-wayfinding"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "lighting-design",
+      "title": "照明设计",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "材料",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "组织天然光与人工光以支持视觉、健康和空间氛围的设计。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "照明设计把采光、任务照明和情绪氛围作为整体考虑。",
+      "related": [],
+      "sources": [
+        "wp-interior-design",
+        "wp-lighting-design"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "place-attachment",
+      "title": "场所依恋",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "当代",
+      "region": "全球",
+      "definition": "人与特定场所之间形成的情感纽带。",
+      "time_or_place": "当代、全球（参见来源）。",
+      "overview": "场所依恋解释人为何对某些空间产生归属与记忆，与场所精神互为补充。",
+      "related": [],
+      "sources": [
+        "wp-environmental-psychology",
+        "wp-place-attachment"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    }
+  ]
+}

@@ -2,11 +2,135 @@
   "SATURATED": false,
   "consecutive_zero_gap_rounds": 0,
   "rounds": [
-    {"round": 2, "date": "2026-11-22", "zero_gap": false, "methods_used": ["B1", "B2", "B3", "B5", "B6", "B7"], "new_gaps": {"scope_candidates": 4, "sparse_cells": 9, "pending_items": 3, "recent_updates": 3, "core_unwritten": 40}, "note": "发现新缺口"},
-    {"round": 3, "date": "2026-11-22", "zero_gap": false, "methods_used": ["B1", "B2", "B3", "B4", "B5", "B6", "B7"], "new_gaps": {"scope_candidates": 0, "sparse_cells": 9, "reader_questions_unanswered": 34, "pending_items": 8, "recent_updates": 3, "core_l1_to_l2": 77}, "note": "抽检不合格触发整批返工"},
-    {"round": 4, "date": "2026-11-22", "zero_gap": false, "methods_used": ["B1", "B2", "B3", "B4", "B5", "B6", "B7"], "new_gaps": {"scope_candidates": 0, "sparse_cells": 9, "reader_questions_unanswered": 32, "pending_items": 17, "recent_updates": 3, "all_l1_remaining": 75}, "note": "抽检不合格触发整批返工"},
-    {"round": 5, "date": "2026-11-22", "zero_gap": false, "methods_used": ["B2", "B4", "B5", "B7", "F"], "new_gaps": {"scope_candidates": 0, "sparse_cells": 9, "reader_questions_unanswered": 26, "pending_items": 23, "recent_updates": 3, "all_l1_remaining": 74}, "note": "体检完成；B4/B5/B7 仍有缺口"},
-    {"round": 6, "date": "2026-11-22", "zero_gap": false, "methods_used": ["B1", "B2", "B4", "B5", "B7"], "new_gaps": {"scope_candidates": 7, "sparse_cells": 9, "reader_questions_unanswered": 21, "pending_items": 24, "recent_updates": 3, "all_l1_remaining": 74}, "note": "B1 找到 7 条双源候选；抽检不合格触发整批返工，连续零缺口轮数保持 0"}
+    {
+      "round": 2,
+      "date": "2026-11-22",
+      "zero_gap": false,
+      "methods_used": [
+        "B1",
+        "B2",
+        "B3",
+        "B5",
+        "B6",
+        "B7"
+      ],
+      "new_gaps": {
+        "scope_candidates": 4,
+        "sparse_cells": 9,
+        "pending_items": 3,
+        "recent_updates": 3,
+        "core_unwritten": 40
+      },
+      "note": "发现新缺口"
+    },
+    {
+      "round": 3,
+      "date": "2026-11-22",
+      "zero_gap": false,
+      "methods_used": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7"
+      ],
+      "new_gaps": {
+        "scope_candidates": 0,
+        "sparse_cells": 9,
+        "reader_questions_unanswered": 34,
+        "pending_items": 8,
+        "recent_updates": 3,
+        "core_l1_to_l2": 77
+      },
+      "note": "抽检不合格触发整批返工"
+    },
+    {
+      "round": 4,
+      "date": "2026-11-22",
+      "zero_gap": false,
+      "methods_used": [
+        "B1",
+        "B2",
+        "B3",
+        "B4",
+        "B5",
+        "B6",
+        "B7"
+      ],
+      "new_gaps": {
+        "scope_candidates": 0,
+        "sparse_cells": 9,
+        "reader_questions_unanswered": 32,
+        "pending_items": 17,
+        "recent_updates": 3,
+        "all_l1_remaining": 75
+      },
+      "note": "抽检不合格触发整批返工"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-22",
+      "zero_gap": false,
+      "methods_used": [
+        "B2",
+        "B4",
+        "B5",
+        "B7",
+        "F"
+      ],
+      "new_gaps": {
+        "scope_candidates": 0,
+        "sparse_cells": 9,
+        "reader_questions_unanswered": 26,
+        "pending_items": 23,
+        "recent_updates": 3,
+        "all_l1_remaining": 74
+      },
+      "note": "体检完成；B4/B5/B7 仍有缺口"
+    },
+    {
+      "round": 6,
+      "date": "2026-11-22",
+      "zero_gap": false,
+      "methods_used": [
+        "B1",
+        "B2",
+        "B4",
+        "B5",
+        "B7"
+      ],
+      "new_gaps": {
+        "scope_candidates": 7,
+        "sparse_cells": 9,
+        "reader_questions_unanswered": 21,
+        "pending_items": 24,
+        "recent_updates": 3,
+        "all_l1_remaining": 74
+      },
+      "note": "B1 找到 7 条双源候选；抽检不合格触发整批返工，连续零缺口轮数保持 0"
+    },
+    {
+      "round": 7,
+      "date": "2026-11-22",
+      "zero_gap": false,
+      "methods_used": [
+        "B1",
+        "B2",
+        "B4",
+        "B5",
+        "B7"
+      ],
+      "new_gaps": {
+        "scope_candidates_integrated": 7,
+        "sparse_cells": 9,
+        "reader_questions_unanswered": 15,
+        "pending_items": 24,
+        "all_l1_remaining": 81
+      },
+      "note": "B1 candidates integrated; spotcheck clean; other gaps remain"
+    }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true"
 }

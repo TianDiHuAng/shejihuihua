@@ -233,6 +233,13 @@ mannerism|样式主义（手法主义）建筑|风格|重要|文艺复兴至19�
 beaux-arts|学院派建筑（布扎艺术）|风格|重要|文艺复兴至19世纪|全球|N1,N3
 vitruvian-triad|维特鲁威三原则|理论|核心|古代|欧洲|N4,N5
 plein-air|外光写生|理论|重要|文艺复兴至19世纪|欧洲|N2,N5
+gestalt-organization-laws|格式塔组织律|理论|重要|20世纪|全球|wp-visual-perception,wp-gestalt-psychology
+color-psychology|色彩心理学|理论|重要|20世纪|全球|wp-interior-design,wp-color-psychology
+environmental-psychology|环境心理学|理论|重要|20世纪|全球|wp-landscape-architecture,wp-environmental-psychology
+hardscape-softscape|硬质景观与软质景观|造景|重要|跨时期|全球|wp-landscape-architecture,wp-landscape-design
+wayfinding|导视与寻路|动线|重要|跨时期|全球|wp-graphic-design,wp-wayfinding
+lighting-design|照明设计|材料|重要|跨时期|全球|wp-interior-design,wp-lighting-design
+place-attachment|场所依恋|理论|重要|当代|全球|wp-environmental-psychology,wp-place-attachment
 """
 
 THEMES = ["理论", "风格", "造景", "动线", "下沉空间", "材料"]
@@ -275,6 +282,7 @@ def main():
         "",
         "来源说明：S1–S12 为 research/outline_raw.md 中实际抓取成功的权威百科分类树（Wikipedia），",
         "取并集后补入任务文档 TASK_design.md 指定条目。N1–N5 为第 3 轮新增的权威大纲页面（见 research/gaps-external-round02.md）。",
+        "第 7 轮候选直接以 data/sources.json 的来源 id 标注（详见 research/gaps-external-round06.md）。",
         "每条标注层级与来源编号。",
         "",
         f"总计 {len(rows)} 条：理论 {counts['理论']}、风格 {counts['风格']}、造景 {counts['造景']}、",
