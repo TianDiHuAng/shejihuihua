@@ -311,6 +311,30 @@
         "B7_core_l1_remaining": 0,
         "B7_all_l1_remaining": 75
       }
+    },
+    {
+      "round": 13,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 6,
+      "reviews": 49,
+      "fixes": 2,
+      "pending_total": 48,
+      "check_result": "PASS: all checks, 0 errors; spotcheck 3/6 qualified; 2 entries upgraded via independent sources (Forbidden City, Kimbell); 14/14 unittest; 0 broken links",
+      "new_sources": 4,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B2",
+          "B4",
+          "B5",
+          "B7"
+        ],
+        "B2_sparse_cells": 9,
+        "B4_reader_questions_unanswered": 6,
+        "B5_pending_items": 49,
+        "B7_all_l1_remaining": 69
+      }
     }
   ]
 }

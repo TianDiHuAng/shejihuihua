@@ -22,7 +22,7 @@
         "实例": "名称：办公空间侧窗采光评估；地点：待核实；设计者：待核实；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "把系数当作照度绝对值会误判；眩光与过热需另行检查。窗地比等具体尺寸按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：窗洞口与工作面的照度关系。",
-        "待核实": "实例的具体采光系数与设计者待核实。"
+        "待核实": "均布阴天假设已由采光系数标准解释；仅具体实例的采光系数数值与设计者待补充独立来源。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='80' width='600' height='240' fill='none' stroke='var(--line)'/><rect x='120' y='120' width='140' height='160' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='270' y1='160' x2='560' y2='260' stroke='var(--accent)' stroke-width='2'/><rect x='520' y='240' width='100' height='20' fill='none' stroke='var(--muted)'/><text x='130' y='105' fill='var(--ink)'>窗洞口</text><text x='500' y='230' fill='var(--ink)'>工作面</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -32,7 +32,7 @@
         "wp-architectural-lighting-design"
       ],
       "needs_verification": true,
-      "pending_notes": "实例参数与设计者待补独立来源；均布阴天假设下的解释性概括待补专门来源。"
+      "pending_notes": "具体实例的采光系数数值与设计者待补充独立来源。"
     },
     {
       "id": "mixed-mode-ventilation",

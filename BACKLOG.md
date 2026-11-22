@@ -25,13 +25,13 @@
 
 执行顺序：每完成一批运行 check.py 并 commit；抽检 10%（至少 3 个）另起子任务。
 
-## 下一轮队列（第 13 轮，按优先级）
+## 下一轮队列（第 14 轮，按优先级）
 
-1. 维持 25% 抽检；累计未抽到的本轮升级条目（scattered-perspective、balance、proportion、value）择机补抽。
-2. 复核 43 条待核实（light-well 已收窄为实例数据；继续找第二独立来源）。
-3. 继续用现有已核验来源升级剩余 75 条 L1→L2（核心已全部 L2，转重要/补充）。
-4. 处理 B4 中 6 个暂无直接答案的读者问题（rembrandt、tenebrism、plaza、atrium-architecture、exit-sign、vestibule-architecture）。
-5. 轮换 B1/B6，网络恢复后 canonical 复核镜像来源。
+1. 维持 25% 抽检。
+2. 复核 48 条待核实（重点：six-principles、circulation、natural-ventilation、water-management、glare）。
+3. 继续用现有已核验来源升级剩余 69 条 L1→L2（重要优先）。
+4. 处理 B4 的 6 个未答读者问题（rembrandt/tenebrism/plaza/atrium-architecture/exit-sign/vestibule-architecture）——如需新条目，按 B1 双源标准评估。
+5. 网络恢复后 canonical 复核镜像来源；补推 GitHub。
 
 ## 已完成
 
@@ -47,3 +47,4 @@
 - 第 10 轮：体检（0 死链/0 重复/0 孤儿）；网络中断，回滚未核验来源；用现有来源升级 6 条核心 L1→L2；复核 31 条（0 可升级）；抽检 3/3+4/4+3/3 合格，无返工
 - 第 11 轮：镜像+web_search 核验 12 份来源、新增 7 个 scope 条目与 7 条 L1（累计 126）；复核 37 条（0 可升级）；抽检 3/3 合格，无返工
 - 第 12 轮：7 个核心理论 L1→L2（核心已全部 L2）；bauhaus 补独立双源并升级；light-well 收窄待核实；抽检 3/3 合格，无返工
+- 第 13 轮：6 个重要理论 L1→L2；chinese-architecture-style（紫禁城）、daylighting（金贝尔美术馆）补独立双源并升级实例；daylight-factor 收窄；抽检 3/3 合格
