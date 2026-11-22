@@ -1027,7 +1027,7 @@
     {
       "id": "rule-of-space",
       "title": "空间法则",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
       "theme": "理论",
       "period": "跨时期",
@@ -1039,16 +1039,27 @@
         "simplification"
       ],
       "sources": [
-        "wp-composition-visual-arts",
-        "wp-leading-line"
+        "wp-composition-visual-arts"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "本条核心依据单一权威来源（构图条目 Rule of space 专节）；第二独立来源及实例设计者、年代待补充。",
+      "sections": {
+        "原理": "空间法则指在主体视线或运动方向的前方预留更多空白，让动势有去处、画面不憋闷。",
+        "典型手法与适用条件": "人物或车船朝一侧运动时，在该侧留大空白、身后留小空白；适用于动态画面。",
+        "实例": "名称：动态主体的前向留白（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "主体顶边或被身后空间挤压会显得局促；留白方向须与动势一致。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：主体趋向前方的空白。",
+        "待核实": "本条核心依据单一权威来源（构图条目 Rule of space 专节）；第二独立来源及实例设计者、年代待补充。",
+        "overview": "主体朝某方向运动或注视时，在其前方留出更多空白，画面更透气、动势更有去处。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='90' width='600' height='220' fill='none' stroke='var(--line)'/><circle cx='230' cy='200' r='26' fill='var(--accent)'/><line x1='256' y1='200' x2='620' y2='200' stroke='var(--muted)' stroke-dasharray='8 6'/><text x='380' y='180' fill='var(--ink)'>主体前方的留白</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "golden-ratio",
       "title": "黄金分割",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
       "theme": "理论",
       "period": "跨时期",
@@ -1063,13 +1074,24 @@
         "wp-golden-ratio",
         "wp-golden-rectangle"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "黄金比约为 1∶1.618，被用作分割画面与界面以求协调的经验参考，而非硬性规则。",
+        "典型手法与适用条件": "按黄金比安排主次区或版面横竖分割；常用于版式与立面划分的参考。",
+        "实例": "名称：按黄金比分割的版面（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "机械套用会僵化，且比例美感受直觉与文化影响；不必强求精确数值。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：约 1∶1.618 的分割。",
+        "待核实": "示例版式与作者年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='110' width='372' height='230' fill='none' stroke='var(--accent)'/><line x1='492' y1='110' x2='492' y2='340' stroke='var(--muted)'/><text x='150' y='90' fill='var(--ink)'>约 1 : 1.618 的分割</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "diagonal-composition",
       "title": "对角线构图",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
       "theme": "理论",
       "period": "跨时期",
@@ -1081,16 +1103,27 @@
         "s-curve-composition"
       ],
       "sources": [
-        "wp-composition-visual-arts",
-        "wp-leading-line"
+        "wp-composition-visual-arts"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "本条核心依据单一权威来源；斜向动势的具体应用为一般性概括，第二独立来源及实例待补充。",
+      "sections": {
+        "原理": "对角线构图让主体沿画面斜向展开，制造比水平线更强的运动感与方向冲突。",
+        "典型手法与适用条件": "人物、道路或光影沿对角线布置；适用于表现动势、冲突与纵深。",
+        "实例": "名称：沿对角展开的动态场景（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "对角线过多会造成画面不稳；需以次要元素平衡。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：对角动势。",
+        "待核实": "本条核心依据单一权威来源；斜向动势的具体应用为一般性概括，第二独立来源及实例待补充。",
+        "overview": "主体沿画面斜向展开，产生比水平线更强的运动感与方向张力。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='100' y1='320' x2='660' y2='90' stroke='var(--accent)' stroke-width='3'/><circle cx='180' cy='295' r='16' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='560' cy='125' r='16' fill='none' stroke='var(--muted)'/><text x='330' y='200' fill='var(--ink)'>对角动势</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "s-curve-composition",
       "title": "S形构图",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
       "theme": "理论",
       "period": "跨时期",
@@ -1102,37 +1135,59 @@
         "triangular-composition"
       ],
       "sources": [
-        "wp-composition-visual-arts",
-        "wp-leading-line"
+        "wp-composition-visual-arts"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "S 曲线术语与构图原理有单一权威来源支撑；道路/河流等应用为一般性概括，第二独立来源及实例待补充。",
+      "sections": {
+        "原理": "S 形构图以蜿蜒曲线引导视线由近及远深入画面，延长观看路径、增添柔美与纵深。",
+        "典型手法与适用条件": "河流、道路、人体曲线呈 S 形展开；适用于风景与柔和的动态。",
+        "实例": "名称：S 形河流的纵深构图（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "S 形过于对称会呆板；曲线断裂会打断引导。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：S 形曲线引向远处。",
+        "待核实": "S 曲线术语与构图原理有单一权威来源支撑；道路/河流等应用为一般性概括，第二独立来源及实例待补充。",
+        "overview": "以柔和的 S 形曲线组织画面，引导视线由近及远、增添纵深与柔美。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 140 330 C 260 300 220 190 380 170 C 540 150 520 90 640 80' fill='none' stroke='var(--accent)' stroke-width='3'/><circle cx='140' cy='330' r='10' fill='var(--accent)'/><text x='330' y='230' fill='var(--ink)'>S 形引导深入</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "triangular-composition",
       "title": "三角形构图",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
       "theme": "理论",
       "period": "跨时期",
       "region": "全球",
-      "definition": "以三角形的三个顶点构成画面稳定骨架、尖端方向引导视线上升或前行的构图方式。",
+      "definition": "三角构图把画面重心落在三个视觉支点上，宽底稳定、顶点聚焦，整体呈“稳中带指”的骨架。",
       "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "底宽顶尖既有稳固的重心又能形成指向性，常见于三人构图与山景题材。",
+      "overview": "三个人物、山峦与树木常自然形成三角骨架；底边越宽越稳，顶点越尖指向越强。",
       "related": [
         "framing-composition"
       ],
       "sources": [
-        "wp-composition-visual-arts",
-        "wp-symmetry"
+        "wp-composition-visual-arts"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "三角构图的稳定性有单一权威来源支撑；尖端指向等应用为一般性概括，第二独立来源及实例待补充。",
+      "sections": {
+        "原理": "三个支点相互支撑形成稳定结构，视觉经验把正三角读作安定、倒三角读作危险。",
+        "典型手法与适用条件": "群像依高低错落排成三角、山景以主峰为顶；适用于需要稳定与焦点的画面。",
+        "实例": "名称：三角构图的群像（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "三角形过扁会丧失张力；顶点偏离会削弱稳定。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：三角形骨架。",
+        "待核实": "三角构图的稳定性有单一权威来源支撑；尖端指向等应用为一般性概括，第二独立来源及实例待补充。",
+        "overview": "以三个视觉支点构成三角骨架，底宽带来稳定、整体呈现稳定与强度。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='380,80 620,320 140,320' fill='none' stroke='var(--accent)' stroke-width='2'/><circle cx='380' cy='80' r='14' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='140' cy='320' r='14' fill='none' stroke='var(--muted)'/><circle cx='620' cy='320' r='14' fill='none' stroke='var(--muted)'/><text x='340' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "framing-composition",
       "title": "框架式构图",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
       "theme": "理论",
       "period": "跨时期",
@@ -1147,8 +1202,19 @@
         "wp-composition-visual-arts",
         "wp-chinese-garden"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "框架式构图用前景元素（门窗、枝叶、拱券）围合主体，形成“画中画”、增强纵深与聚焦。",
+        "典型手法与适用条件": "以门洞、窗框或拱券框住远景主体；适用于建筑摄影与园林取景。",
+        "实例": "名称：门窗取景的框架构图（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "前景过重会喧宾夺主；框架与主体比例失衡会削弱画面。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：前景围合主体。",
+        "待核实": "示例作品与作者年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='80' width='600' height='240' fill='none' stroke='var(--line)'/><rect x='120' y='120' width='120' height='160' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='540' y='120' width='100' height='160' fill='none' stroke='var(--muted)'/><circle cx='390' cy='200' r='60' fill='none' stroke='var(--muted)'/><text x='330' y='60' fill='var(--ink)'>前景围合主体</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     }
   ]
 }

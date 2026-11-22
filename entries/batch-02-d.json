@@ -212,17 +212,19 @@
       ],
       "sources": [
         "wp-green-building",
-        "wp-sustainable-architecture"
+        "wp-sustainable-architecture",
+        "changzhou-gxzj",
+        "xinhua-js-green"
       ],
       "needs_verification": true,
-      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "pending_notes": "设计者与 2018 设计年代仍单源，待补充；评价数据已多源。",
       "sections": {
         "原理": "绿色建筑以降低资源消耗与环境影响为目标，关注能耗、水、材料与室内健康。",
         "典型手法与适用条件": "被动式设计优先，辅以高效设备与可再生资源；适用于新建与改造。",
         "实例": "名称：被动式节能公共建筑（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
         "常见错误与限制": "只堆设备而忽视被动设计会事倍功半；评价指标须按当地标准核定。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：节能与自然要素。",
-        "待核实": "示例建筑的设计者与评价数据待核实。"
+        "待核实": "设计者（南京工业大学建筑设计研究院）与 2018 年设计年代仍为单一来源，待补充；三星级/示范工程评价数据已有多源。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='150' width='300' height='160' fill='none' stroke='var(--accent)'/><circle cx='560' cy='200' r='46' fill='none' stroke='var(--muted)'/><line x1='540' y1='300' x2='580' y2='300' stroke='var(--muted)'/><text x='160' y='120' fill='var(--ink)'>节能与自然要素</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"

@@ -25,12 +25,12 @@
 
 执行顺序：每完成一批运行 check.py 并 commit；抽检 10%（至少 3 个）另起子任务。
 
-## 下一轮队列（第 24 轮，按优先级）
+## 下一轮队列（第 25 轮，按优先级）
 
-1. 收尾剩余 6 条补充 L1→L2（rule-of-space/golden-ratio/diagonal/s-curve/triangular/framing-composition）——完成后全库条目均 L2。
-2. 维持 25% 抽检；补抽 safety-guarding/sustainable-architecture/damp-proofing 闭环第23轮。
-3. 复核 99 条待核实（顾如珍/glare数值/green-architecture常州/spatial-organization）。
-4. 处理 B4 的 6 个未答读者问题；此时可评估是否进入"连续零缺口"计数。
+1. **体检（F，每 5 轮一次）**：死链、过期数据、重复、矛盾、孤儿页、来源重合度。
+2. 维持 25% 抽检；补抽 golden-ratio/diagonal-composition/framing-composition 闭环第24轮。
+3. 复核 104 条待核实（顾如珍/glare数值/green-architecture设计者/spatial-organization 已升级）。
+4. 处理 B4 的 6 个未答读者问题；开始统计"连续零缺口"轮次以评估饱和。
 
 ## 已完成
 
@@ -57,3 +57,4 @@
 - 第 21 轮：6 条核心 L1→L2（气韵/留白/意境/空间定义/人体尺度/空间序列）；space-definition（巴塞罗那德国馆）、human-scale（帕伊米奥疗养院）补双源升级；返工修 qi-yun 年份、spatial-sequence 换古根海姆来源（核心 L1 余 13）
 - 第 22 轮：6 条核心 L1→L2（过渡空间/空间组织/室内外过渡/曲径/疏散动线/高差处理）；level-change（劳力士学习中心）、winding-path（拙政园）补双源升级（核心 L1 余 7）
 - 第 23 轮：7 条核心 L1→L2 收尾（东西透视/东西空间/防潮/安全防护/可持续/维特鲁威三原则/下沉无障碍）；**核心与重要条目全部 L2**；The Edge、Peavey Plaza 补双源；返工 3 条（东/西与无障碍引证）；仅余 6 条补充 L1
+- 第 24 轮：6 条补充 L1→L2（空间法则/黄金比/对角/S形/三角/框架构图）——**全库 126 条全部 L2（L1=0）**；spatial-organization（萨伏伊别墅）双源升级、green-architecture 评价数据补多源；返工构图类改为单源如实标注

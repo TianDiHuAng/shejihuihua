@@ -2615,6 +2615,54 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载成书约公元前 30–15 年（标注 Not Vetted）"
+    },
+    {
+      "id": "fondationlc-villa-savoye",
+      "title": "Villa Savoye — Fondation Le Corbusier",
+      "author": "Fondation Le Corbusier",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-villa-savoye-and-gardeners-lodge-poissy-france-1928-1931/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载萨伏伊别墅位于普瓦西，勒·柯布西耶与皮埃尔·让纳雷，1928–1931"
+    },
+    {
+      "id": "villasavoye-promenade",
+      "title": "An Architectural Promenade — Villa Savoye (CMN)",
+      "author": "Centre des monuments nationaux",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.villa-savoye.fr/en/discover/an-architectural-promenade",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载建筑漫步、坡道与连续空间组织"
+    },
+    {
+      "id": "changzhou-gxzj",
+      "title": "高新智汇中心 — 常州市人民政府",
+      "author": "常州市人民政府",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.changzhou.gov.cn/gi_news/828161639281792",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；点名高新智汇中心绿色建筑三星/示范项目"
+    },
+    {
+      "id": "xinhua-js-green",
+      "title": "绿色建筑三星项目高新智汇中心 — 新华网江苏",
+      "author": "新华网",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://js.news.cn/20250407/5442dcc356fc4d69b0c26cf04381435d/c.html",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载高新智汇中心为绿色建筑三星项目"
     }
   ]
 }
