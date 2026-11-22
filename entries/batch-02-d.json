@@ -1,0 +1,174 @@
+{
+  "unit_id": "batch-02-d",
+  "title": "第2轮核心 L1（4/4）",
+  "entries": [
+    {
+      "id": "material-texture",
+      "title": "材料质感",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "材料",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "材料表面质感对视觉与触觉感受的作用。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "粗糙、光滑、透明与吸光材料改变空间的光线反射和心理温度。",
+      "related": [
+        "material-color"
+      ],
+      "sources": [
+        "wp-building-material",
+        "wp-vernacular-architecture"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "gothic",
+      "title": "哥特建筑",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "风格",
+      "period": "中世纪",
+      "region": "欧洲",
+      "definition": "以尖拱、肋拱与飞扶壁为特征的欧洲中世纪建筑风格。",
+      "time_or_place": "中世纪、欧洲（参见来源）。",
+      "overview": "结构体系使墙体得以开出大面积窗户，形成高耸而明亮的内部空间。",
+      "related": [
+        "renaissance-style"
+      ],
+      "sources": [
+        "wp-gothic-architecture",
+        "wp-architectural-style"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "renaissance-style",
+      "title": "文艺复兴建筑",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "风格",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "复兴古典比例与秩序的欧洲建筑风格。",
+      "time_or_place": "文艺复兴至19世纪、欧洲（参见来源）。",
+      "overview": "对称、柱式与几何比例成为表达理性与和谐的主要手段。",
+      "related": [
+        "baroque"
+      ],
+      "sources": [
+        "wp-renaissance-architecture",
+        "wp-alberti"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "modernism",
+      "title": "现代主义建筑",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "风格",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "以功能、结构与简洁形式为核心的建筑思潮。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "现代主义反对历史样式复制，强调新材料、新结构与空间自由。",
+      "related": [
+        "international-style"
+      ],
+      "sources": [
+        "wp-modern-architecture",
+        "wp-le-corbusier"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "bauhaus",
+      "title": "包豪斯",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "风格",
+      "period": "20世纪",
+      "region": "欧洲",
+      "definition": "把艺术、工艺与工业生产结合的设计学派。",
+      "time_or_place": "20世纪、欧洲（参见来源）。",
+      "overview": "包豪斯影响了建筑与设计的教育方法，强调形式服从功能。",
+      "related": [
+        "de-stijl"
+      ],
+      "sources": [
+        "wp-bauhaus",
+        "wp-modern-architecture"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "postmodernism",
+      "title": "后现代主义建筑",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "风格",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "对现代主义单一理性提出反思、重视历史符号与装饰的建筑倾向。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "后现代建筑常以戏谑、折衷与隐喻回应地方和历史语境。",
+      "related": [
+        "deconstructivism"
+      ],
+      "sources": [
+        "wp-postmodern-architecture",
+        "wp-architectural-style"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "green-architecture",
+      "title": "绿色建筑",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "风格",
+      "period": "当代",
+      "region": "全球",
+      "definition": "以降低环境影响为目标的建筑设计取向。",
+      "time_or_place": "当代、全球（参见来源）。",
+      "overview": "绿色建筑关注能耗、水资源、材料循环与室内健康。",
+      "related": [
+        "sustainable-architecture"
+      ],
+      "sources": [
+        "wp-green-building",
+        "wp-sustainable-architecture"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "sustainable-architecture",
+      "title": "可持续建筑",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "风格",
+      "period": "当代",
+      "region": "全球",
+      "definition": "兼顾生态、社会与经济长期性的建筑实践。",
+      "time_or_place": "当代、全球（参见来源）。",
+      "overview": "可持续建筑把全生命周期影响纳入设计判断。",
+      "related": [
+        "vernacular-architecture"
+      ],
+      "sources": [
+        "wp-sustainable-architecture",
+        "wp-passive-solar-building-design"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    }
+  ]
+}
