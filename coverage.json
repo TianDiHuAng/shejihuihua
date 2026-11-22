@@ -178,11 +178,11 @@
       "tier": "补充",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "rule-of-space",
@@ -568,11 +568,11 @@
       "tier": "补充",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "split-primary",
@@ -958,11 +958,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "space-definition",
@@ -1023,11 +1023,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "intimate-scale",
@@ -1036,11 +1036,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "spatial-sequence",
@@ -1114,11 +1114,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "node-path",
@@ -1127,11 +1127,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "transition-space",
@@ -1179,11 +1179,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "functional-zoning",
@@ -1231,11 +1231,11 @@
       "tier": "重要",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "raised-floor",
@@ -1270,11 +1270,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "interface-permeability",
@@ -1283,11 +1283,11 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "view-corridor",
@@ -1296,11 +1296,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "visual-comfort",
@@ -1374,11 +1374,11 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "borrowed-scenery",
@@ -2282,13 +2282,13 @@
       "title": "工艺美术运动",
       "theme": "风格",
       "tier": "重要",
-      "period": "20世纪",
+      "period": "文艺复兴至19世纪",
       "region": "欧洲",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "art-nouveau",
@@ -2375,11 +2375,11 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "欧洲",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "futurism-style",
@@ -2453,11 +2453,11 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "postmodernism",
@@ -2492,11 +2492,11 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "critical-regionalism",
@@ -2505,11 +2505,11 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "parametric-architecture",
@@ -2557,11 +2557,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "chinese-architecture-style",
@@ -2583,11 +2583,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "东亚",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "korean-architecture",
@@ -2609,11 +2609,11 @@
       "tier": "重要",
       "period": "中世纪",
       "region": "伊斯兰/南亚",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "indian-architecture",
@@ -2622,11 +2622,11 @@
       "tier": "重要",
       "period": "古代",
       "region": "伊斯兰/南亚",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "southeast-asian-architecture",
@@ -2817,11 +2817,11 @@
       "tier": "重要",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "religious-architecture",
@@ -2830,11 +2830,11 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "urban-planning-style",

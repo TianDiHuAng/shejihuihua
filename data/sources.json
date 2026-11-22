@@ -3095,6 +3095,78 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，经 owiki 镜像/独立站点实抓核对标题与正文，canonical 直连待复；希腊三柱式，罗马增塔司干与复合柱式"
+    },
+    {
+      "id": "vam-arts-crafts",
+      "title": "Arts and Crafts: an introduction — V&A",
+      "author": "Victoria and Albert Museum",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；工艺美术运动反工业化弊端，1860s–70s 兴起，1887 成立展览协会"
+    },
+    {
+      "id": "theartstory-arts-crafts",
+      "title": "The Arts & Crafts Movement Overview — TheArtStory",
+      "author": "TheArtStory",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.theartstory.org/movement/arts-and-crafts/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；约1860年英国兴起，延续至1920年代，强调手工艺"
+    },
+    {
+      "id": "libretexts-size-scale",
+      "title": "Size and Scale — LibreTexts",
+      "author": "LibreTexts",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://human.libretexts.org/Courses/University_of_the_Pacific/Two_Dimensional_Design_and_Color/11:_Size_and_Scale",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；巨大尺度带来纪念感、权力与崇高"
+    },
+    {
+      "id": "archdaily-built-nature",
+      "title": "Built Nature: When Architecture Challenges Human Scale — ArchDaily",
+      "author": "ArchDaily",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.archdaily.com/950403/built-nature-when-architecture-challenges-human-scale",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；纪念性建筑以超尺度表达权力与敬畏"
+    },
+    {
+      "id": "dps-rule-of-odds",
+      "title": "The Rule of Odds in Photography — Digital Photography School",
+      "author": "Digital Photography School",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://digital-photography-school.com/the-rule-of-odds-in-photography-an-easy-trick-for-better-compositions/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；构图宜用奇数个主体"
+    },
+    {
+      "id": "expertphoto-rule-of-odds",
+      "title": "Rule of Odds Photography — ExpertPhotography",
+      "author": "ExpertPhotography",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://expertphotography.com/rule-of-odds-photography",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；奇数法则建议三或五个主体"
     }
   ]
 }

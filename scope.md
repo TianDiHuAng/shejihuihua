@@ -153,7 +153,7 @@
 | eclecticism | 折衷主义建筑 | 补充 | 文艺复兴至19世纪 | 全球 | S1,S2 |
 | revival-gothic | 哥特复兴 | 补充 | 文艺复兴至19世纪 | 欧洲 | S1,S2 |
 | revival-renaissance | 文艺复兴复兴 | 补充 | 文艺复兴至19世纪 | 欧洲 | S1,S2 |
-| arts-crafts | 工艺美术运动 | 重要 | 20世纪 | 欧洲 | S1,S2 |
+| arts-crafts | 工艺美术运动 | 重要 | 文艺复兴至19世纪 | 欧洲 | S1,S2 |
 | art-nouveau | 新艺术运动 | 重要 | 20世纪 | 欧洲 | S1,S2 |
 | art-deco | 装饰艺术 | 重要 | 20世纪 | 全球 | S1,S2 |
 | modernism | 现代主义建筑 | 核心 | 20世纪 | 全球 | S1,S2 |

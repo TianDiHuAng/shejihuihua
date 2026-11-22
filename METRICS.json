@@ -904,6 +904,31 @@
         "B5_pending_items": 159,
         "B7_unwritten_entries": 49
       }
+    },
+    {
+      "round": 37,
+      "date": "2026-11-23",
+      "new_entries": 24,
+      "upgrades": 0,
+      "reviews": 171,
+      "fixes": 12,
+      "pending_total": 195,
+      "check_result": "PASS: all checks, 0 errors; spotcheck 2 ok/1 pending/1 failed(arts-crafts) -> sources fixed (V&A/TheArtStory/LibreTexts/ArchDaily/DPS/ExpertPhoto); 24 SVGs regenerated unique; arts-crafts period fixed; 24 entries L2; similarity <0.54; 14/14 unittest; 0 broken links",
+      "new_sources": 6,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B2",
+          "B4",
+          "B5",
+          "B7"
+        ],
+        "B2_sparse_cells": 5,
+        "B4_reader_questions_unanswered": 0,
+        "B5_pending_items": 171,
+        "B7_unwritten_entries": 25
+      },
+      "milestone": "all 69 important entries written; only 25 supplementary unwritten"
     }
   ]
 }

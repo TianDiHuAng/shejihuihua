@@ -185,7 +185,7 @@ romanticism-style|浪漫主义建筑|风格|补充|文艺复兴至19世纪|欧�
 eclecticism|折衷主义建筑|风格|补充|文艺复兴至19世纪|全球|S1,S2
 revival-gothic|哥特复兴|风格|补充|文艺复兴至19世纪|欧洲|S1,S2
 revival-renaissance|文艺复兴复兴|风格|补充|文艺复兴至19世纪|欧洲|S1,S2
-arts-crafts|工艺美术运动|风格|重要|20世纪|欧洲|S1,S2
+arts-crafts|工艺美术运动|风格|重要|文艺复兴至19世纪|欧洲|S1,S2
 art-nouveau|新艺术运动|风格|重要|20世纪|欧洲|S1,S2
 art-deco|装饰艺术|风格|重要|20世纪|全球|S1,S2
 modernism|现代主义建筑|风格|核心|20世纪|全球|S1,S2

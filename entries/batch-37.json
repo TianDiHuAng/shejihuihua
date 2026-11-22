@@ -1,0 +1,726 @@
+{
+  "unit_id": "batch-37",
+  "title": "第37轮条目（24条）",
+  "entries": [
+    {
+      "id": "east-west-color-compare",
+      "title": "中西色彩观比较",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "中西色彩观比较对照中国画“随类赋彩”与西方条件色体系。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "东方重类别与意象设色，西方重光源下的条件色变化。",
+      "related": [],
+      "sections": {
+        "原理": "中西色彩观比较对照中国画“随类赋彩”与西方条件色体系。东方重类别与意象设色，西方重光源下的条件色变化。",
+        "典型手法与适用条件": "比较时看设色依据：一类归色，一随光变色。",
+        "实例": "名称：中西色彩观比较的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "以一方标准评判另一方会失真。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：中西色彩观比较的关系。",
+        "待核实": "「中西色彩观比较」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='100' y='110' width='300' height='150' fill='none' stroke='var(--accent)'/><line x1='90' y1='250' x2='640' y2='150' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>中西色彩观比较</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-painting",
+        "wp-color-theory"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「中西色彩观比较」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "monumental-scale",
+      "title": "纪念性尺度",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "纪念性尺度指以超大尺度营造崇高与权威感的空间处理。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "它放大构件与体量，使人在其中显得渺小。",
+      "related": [],
+      "sections": {
+        "原理": "纪念性尺度指以超大尺度营造崇高与权威感的空间处理。它放大构件与体量，使人在其中显得渺小。",
+        "典型手法与适用条件": "以超常层高、巨柱与宽阔台阶强化崇高感。",
+        "实例": "名称：纪念性大厅的超尺度柱廊（类型性描述）；地点与设计者不适用。人在其下显得渺小。",
+        "常见错误与限制": "尺度失衡会压抑或空洞。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：超高柱廊与人的尺度对比。",
+        "待核实": "「纪念性尺度」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='281' cy='191' r='71' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='469' cy='210' r='41' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>纪念性尺度</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "libretexts-size-scale",
+        "archdaily-built-nature"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「纪念性尺度」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "intimate-scale",
+      "title": "亲切尺度",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "亲切尺度指以接近人体与日常活动的尺寸营造亲近感。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "它以小尺度细部与柔和光线让人放松。",
+      "related": [],
+      "sections": {
+        "原理": "亲切尺度指以接近人体与日常活动的尺寸营造亲近感。它以小尺度细部与柔和光线让人放松。",
+        "典型手法与适用条件": "以低层高、小开间与温暖材料拉近距离。",
+        "实例": "名称：小尺度茶室的低层高空间（类型性描述）；地点与设计者不适用。坐姿视线低、距离近。",
+        "常见错误与限制": "过小会局促；需与功能匹配。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：贴近人体的低层高与细部。",
+        "待核实": "「亲切尺度」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='182,300 380,122 578,300' fill='none' stroke='var(--accent)'/><line x1='140' y1='300' x2='620' y2='300' stroke='var(--ink)' stroke-width='2'/><text x='40' y='40' fill='var(--ink)'>亲切尺度</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-proportion-architecture",
+        "wp-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「亲切尺度」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "boundary",
+      "title": "边界",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "边界指划分空间领域的界面，可为实墙、绿化或标高等软硬形式。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "边界界定内外与公私，决定空间的围合程度。",
+      "related": [],
+      "sections": {
+        "原理": "边界指划分空间领域的界面，可为实墙、绿化或标高等软硬形式。边界界定内外与公私，决定空间的围合程度。",
+        "典型手法与适用条件": "以墙、绿篱、高差或铺装变化形成不同强度的边界。",
+        "实例": "名称：边界的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "边界过实会封闭；过虚则领域模糊。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：边界的关系。",
+        "待核实": "「边界」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='150' y='130' width='123' height='140' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='153' width='140' height='110' fill='none' stroke='var(--muted)'/><rect x='500' y='123' width='100' height='160' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>边界</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architecture",
+        "wp-courtyard"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「边界」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "node-path",
+      "title": "节点与路径",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "节点与路径指由停留节点与连接路径共同构成的空间结构。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "节点承载活动，路径串联节点并组织行进。",
+      "related": [],
+      "sections": {
+        "原理": "节点与路径指由停留节点与连接路径共同构成的空间结构。节点承载活动，路径串联节点并组织行进。",
+        "典型手法与适用条件": "在路径交汇处设节点广场或厅，形成节奏。",
+        "实例": "名称：节点与路径的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "节点过密会分散；过疏则单调。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：节点与路径的关系。",
+        "待核实": "「节点与路径」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='112' y='126' width='308' height='156' fill='none' stroke='var(--accent)'/><line x1='94' y1='254' x2='636' y2='154' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>节点与路径</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-wayfinding",
+        "wp-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「节点与路径」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "corridor-space",
+      "title": "廊道空间",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "廊道空间指狭长、连接两处的通行空间。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "廊道以连续界面引导行进，可兼作展廊与过渡。",
+      "related": [],
+      "sections": {
+        "原理": "廊道空间指狭长、连接两处的通行空间。廊道以连续界面引导行进，可兼作展廊与过渡。",
+        "典型手法与适用条件": "以连续侧界面与韵律开窗组织行进视线。",
+        "实例": "名称：廊道空间的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "过长无变化会单调；宽度须满足疏散。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：廊道空间的关系。",
+        "待核实": "「廊道空间」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='285' cy='195' r='75' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='465' cy='210' r='45' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>廊道空间</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-loggia",
+        "wp-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「廊道空间」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "eaves-space",
+      "title": "檐下空间",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "古代",
+      "region": "中国",
+      "definition": "檐下空间指屋檐出挑形成的半室外过渡空间。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "檐下遮阳避雨，是室内外的缓冲带。",
+      "related": [],
+      "sections": {
+        "原理": "檐下空间指屋檐出挑形成的半室外过渡空间。檐下遮阳避雨，是室内外的缓冲带。",
+        "典型手法与适用条件": "以出挑屋檐与柱廊形成灰空间，兼作交往。",
+        "实例": "名称：檐下空间的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "出挑过大会影响采光；需结构支撑。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：檐下空间的关系。",
+        "待核实": "「檐下空间」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='186,300 380,126 574,300' fill='none' stroke='var(--accent)'/><line x1='140' y1='300' x2='620' y2='300' stroke='var(--ink)' stroke-width='2'/><text x='40' y='40' fill='var(--ink)'>檐下空间</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-architecture",
+        "wp-courtyard"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「檐下空间」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "opening-interface",
+      "title": "门窗洞口",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "门窗洞口指界面上供通行与采光、通风的开口。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "洞口决定内外联系、采光与视线。",
+      "related": [],
+      "sections": {
+        "原理": "门窗洞口指界面上供通行与采光、通风的开口。洞口决定内外联系、采光与视线。",
+        "典型手法与适用条件": "按功能与朝向设洞口大小与位置，兼顾采光通风。",
+        "实例": "名称：门窗洞口的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "洞口不当会眩光或私密性差。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：门窗洞口的关系。",
+        "待核实": "「门窗洞口」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='150' y='130' width='127' height='140' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='157' width='140' height='110' fill='none' stroke='var(--muted)'/><rect x='500' y='127' width='100' height='160' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>门窗洞口</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architecture",
+        "wp-courtyard"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「门窗洞口」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "interface-permeability",
+      "title": "界面渗透",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "界面渗透指界面在视觉或通行上允许内外连通的程度。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "高渗透界面使内外连续，低渗透则强调围合。",
+      "related": [],
+      "sections": {
+        "原理": "界面渗透指界面在视觉或通行上允许内外连通的程度。高渗透界面使内外连续，低渗透则强调围合。",
+        "典型手法与适用条件": "以玻璃、格栅与可开启界面调节渗透程度。",
+        "实例": "名称：界面渗透的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "过透会失私密与能耗；按需调节。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：界面渗透的关系。",
+        "待核实": "「界面渗透」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='124' y='122' width='316' height='162' fill='none' stroke='var(--accent)'/><line x1='98' y1='251' x2='632' y2='158' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>界面渗透</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-loggia",
+        "wp-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「界面渗透」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "view-corridor",
+      "title": "视线通廊",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "视线通廊指为观景保留的连续视觉通道。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "它把远景纳入空间体验，组织对景与借景。",
+      "related": [],
+      "sections": {
+        "原理": "视线通廊指为观景保留的连续视觉通道。它把远景纳入空间体验，组织对景与借景。",
+        "典型手法与适用条件": "沿轴线或路径保留无遮挡视线，尽端设对景。",
+        "实例": "名称：视线通廊的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "遮挡会破坏通廊；需控制建设高度。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：视线通廊的关系。",
+        "待核实": "「视线通廊」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='289' cy='193' r='79' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='461' cy='210' r='49' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>视线通廊</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-garden",
+        "wp-wayfinding"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「视线通廊」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "sustainable-design",
+      "title": "可持续设计",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "可持续设计指在设计中兼顾生态、社会与经济长期性的方法。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "它把全生命周期影响纳入决策，被动优先。",
+      "related": [],
+      "sections": {
+        "原理": "可持续设计指在设计中兼顾生态、社会与经济长期性的方法。它把全生命周期影响纳入决策，被动优先。",
+        "典型手法与适用条件": "以被动式策略、材料循环与可再生资源并用。",
+        "实例": "名称：可持续设计的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "只贴标签而无实测不算可持续。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：可持续设计的关系。",
+        "待核实": "「可持续设计」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='190,300 380,120 570,300' fill='none' stroke='var(--accent)'/><line x1='140' y1='300' x2='620' y2='300' stroke='var(--ink)' stroke-width='2'/><text x='40' y='40' fill='var(--ink)'>可持续设计</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-sustainable-architecture",
+        "wp-green-building"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「可持续设计」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "arts-crafts",
+      "title": "工艺美术运动",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "工艺美术运动主张回归手工艺、反对工业粗制，强调材料与工艺的诚实。",
+      "time_or_place": "20世纪、欧洲（参见来源）。",
+      "overview": "它约于1860年代在英国兴起，反对工业化的粗制滥造，主张手工艺与材料、工艺的诚实。",
+      "related": [],
+      "sections": {
+        "原理": "工艺美术运动认为工业化损害了产品质量与工匠尊严，主张回到手工艺、自然纹样与真实材料。",
+        "典型手法与适用条件": "以手工制作、自然纹样与真实材料组织家具、室内与建筑细部。",
+        "实例": "名称：工艺美术运动的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "手作成本高；难大规模推广。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：工艺美术运动的关系。",
+        "待核实": "「工艺美术运动」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='150' y='130' width='131' height='140' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='153' width='140' height='110' fill='none' stroke='var(--muted)'/><rect x='500' y='131' width='100' height='160' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>工艺美术运动</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "vam-arts-crafts",
+        "theartstory-arts-crafts"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「工艺美术运动」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "constructivism",
+      "title": "构成主义",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "20世纪",
+      "region": "欧洲",
+      "definition": "构成主义以几何体块与结构暴露表达革命的动态与理性。",
+      "time_or_place": "20世纪、欧洲（参见来源）。",
+      "overview": "它以悬浮体块与红色几何塑造新社会的形象。",
+      "related": [],
+      "sections": {
+        "原理": "构成主义以几何体块与结构暴露表达革命的动态与理性。它以悬浮体块与红色几何塑造新社会的形象。",
+        "典型手法与适用条件": "用简洁几何体块、暴露结构与动态构图。",
+        "实例": "名称：构成主义的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "形式激进易忽视使用；需落地调整。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：构成主义的关系。",
+        "待核实": "「构成主义」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='136' y='118' width='324' height='150' fill='none' stroke='var(--accent)'/><line x1='102' y1='255' x2='628' y2='153' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>构成主义</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architectural-style",
+        "wp-modern-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「构成主义」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "high-tech",
+      "title": "高技派",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "高技派以暴露结构、设备与工业化构件为特征。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "它把技术本身作为美学表达。",
+      "related": [],
+      "sections": {
+        "原理": "高技派以暴露结构、设备与工业化构件为特征。它把技术本身作为美学表达。",
+        "典型手法与适用条件": "以外露钢构、管线与预制构件展示技术。",
+        "实例": "名称：高技派的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "设备暴露维护成本高；需协调。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：高技派的关系。",
+        "待核实": "「高技派」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='293' cy='191' r='83' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='457' cy='210' r='41' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>高技派</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-modern-architecture",
+        "wp-architectural-style"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「高技派」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "minimalism-architecture",
+      "title": "极简主义建筑",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "极简主义建筑以最少元素、纯净体量与精致细部为特征。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "它去除装饰，强调比例、光线与材料本身。",
+      "related": [],
+      "sections": {
+        "原理": "极简主义建筑以最少元素、纯净体量与精致细部为特征。它去除装饰，强调比例、光线与材料本身。",
+        "典型手法与适用条件": "以大面积素面、精确节点与自然光组织空间。",
+        "实例": "名称：素面墙与精确节点的极简展厅（类型性描述）；地点与设计者不适用。空间靠比例与光线成立。",
+        "常见错误与限制": "过度简省会冷硬或功能不足。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：素面体量与一道自然光。",
+        "待核实": "「极简主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='194,300 380,124 566,300' fill='none' stroke='var(--accent)'/><line x1='140' y1='300' x2='620' y2='300' stroke='var(--ink)' stroke-width='2'/><text x='40' y='40' fill='var(--ink)'>极简主义建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-modern-architecture",
+        "wp-architectural-style"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「极简主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "critical-regionalism",
+      "title": "批判地域主义",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "批判地域主义主张在现代性与地方性之间保持张力。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "它用现代技术回应地方气候、材料与文化。",
+      "related": [],
+      "sections": {
+        "原理": "批判地域主义主张在现代性与地方性之间保持张力。它用现代技术回应地方气候、材料与文化。",
+        "典型手法与适用条件": "以现代构造结合地域材料与空间原型。",
+        "实例": "名称：批判地域主义的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "流于符号拼贴会失批判性。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：批判地域主义的关系。",
+        "待核实": "「批判地域主义」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='150' y='130' width='120' height='140' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='157' width='140' height='110' fill='none' stroke='var(--muted)'/><rect x='500' y='123' width='100' height='160' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>批判地域主义</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-vernacular-architecture",
+        "wp-architectural-style"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「批判地域主义」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "vernacular-architecture",
+      "title": "乡土建筑",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "乡土建筑是地方工匠凭经验、用本地材料、依本地气候造出来的房屋，往往没有职业建筑师。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "它一代代因袭优化，地域差异鲜明，是地方生活方式的直接产物。",
+      "related": [],
+      "sections": {
+        "原理": "乡土建筑指就地取材、依地方气候与技艺建造的建筑。它由使用者与工匠按经验建造，地域差异鲜明。",
+        "典型手法与适用条件": "以本土材料与适应气候的构造组织。",
+        "实例": "名称：夯土与木构的乡土民居（类型性描述）；地点与设计者不适用。材料就地取材、构造顺应气候。",
+        "常见错误与限制": "直接移植会破坏地域协调。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：就地材料与气候适应性构造。",
+        "待核实": "「乡土建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='148' y='114' width='332' height='156' fill='none' stroke='var(--accent)'/><line x1='106' y1='252' x2='624' y2='157' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>乡土建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-vernacular-architecture",
+        "wp-building-material"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「乡土建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "japanese-architecture",
+      "title": "日本建筑",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "跨时期",
+      "region": "东亚",
+      "definition": "日本建筑以木构、榻榻米尺度与室内外连续为特征。",
+      "time_or_place": "跨时期、东亚（参见来源）。",
+      "overview": "它强调轻盈木构、深远出檐与借景。",
+      "related": [],
+      "sections": {
+        "原理": "日本建筑以木构、榻榻米尺度与室内外连续为特征。它强调轻盈木构、深远出檐与借景。",
+        "典型手法与适用条件": "以木框架、推拉门与缘侧组织内外连续。",
+        "实例": "名称：木构出檐与缘侧的日式住宅（类型性描述）；地点与设计者不适用。推拉门把室内外连成一片。",
+        "常见错误与限制": "忽视气候与维护会失当。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：深出檐与缘侧的内外连续。",
+        "待核实": "「日本建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='297' cy='195' r='87' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='453' cy='210' r='45' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>日本建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-japanese-architecture",
+        "wp-architectural-style"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「日本建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "islamic-architecture",
+      "title": "伊斯兰建筑",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "中世纪",
+      "region": "伊斯兰/南亚",
+      "definition": "伊斯兰建筑以穹顶、拱廊、庭院与几何装饰为特征。",
+      "time_or_place": "中世纪、伊斯兰/南亚（参见来源）。",
+      "overview": "它用几何、书法与庭院组织宗教与世俗空间。",
+      "related": [],
+      "sections": {
+        "原理": "伊斯兰建筑以穹顶、拱廊、庭院与几何装饰为特征。它用几何、书法与庭院组织宗教与世俗空间。",
+        "典型手法与适用条件": "以伊万、穹顶、穆克纳斯与庭院组织。",
+        "实例": "名称：伊斯兰建筑的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "装饰套用会失结构逻辑。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：伊斯兰建筑的关系。",
+        "待核实": "「伊斯兰建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='198,300 380,128 562,300' fill='none' stroke='var(--accent)'/><line x1='140' y1='300' x2='620' y2='300' stroke='var(--ink)' stroke-width='2'/><text x='40' y='40' fill='var(--ink)'>伊斯兰建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-islamic-architecture",
+        "wp-architectural-style"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「伊斯兰建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "indian-architecture",
+      "title": "印度建筑",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "古代",
+      "region": "伊斯兰/南亚",
+      "definition": "印度建筑以石构神庙、雕刻与曼陀罗平面为特征。",
+      "time_or_place": "古代、伊斯兰/南亚（参见来源）。",
+      "overview": "它以宇宙图式的平面与繁复雕刻表达信仰。",
+      "related": [],
+      "sections": {
+        "原理": "印度建筑以石构神庙、雕刻与曼陀罗平面为特征。它以宇宙图式的平面与繁复雕刻表达信仰。",
+        "典型手法与适用条件": "按曼陀罗平面布置塔与龛，配雕刻装饰。",
+        "实例": "名称：按曼陀罗平面布置的石构神庙（类型性描述）；地点与设计者不适用。塔与龛按宇宙图式排布。",
+        "常见错误与限制": "雕刻过密会失整体；需结构支撑。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：曼陀罗平面与中心塔。",
+        "待核实": "「印度建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='150' y='130' width='124' height='140' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='153' width='140' height='110' fill='none' stroke='var(--muted)'/><rect x='500' y='127' width='100' height='160' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>印度建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-indian-architecture",
+        "wp-architectural-style"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「印度建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "imperial-architecture",
+      "title": "宫殿建筑",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "古代",
+      "region": "中国",
+      "definition": "宫殿建筑指供帝王居住与理政的高等级建筑群。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "它以轴线、院落与等级化屋顶体现礼制。",
+      "related": [],
+      "sections": {
+        "原理": "宫殿建筑指供帝王居住与理政的高等级建筑群。它以轴线、院落与等级化屋顶体现礼制。",
+        "典型手法与适用条件": "以中轴院落层层递进，屋顶等级区分主次。",
+        "实例": "名称：中轴递进的宫殿院落群（类型性描述）；地点与设计者不适用。屋顶等级区分主次殿宇。",
+        "常见错误与限制": "等级僭越与尺度失当会失序。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：中轴院落与等级化屋顶。",
+        "待核实": "「宫殿建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='160' y='110' width='340' height='162' fill='none' stroke='var(--accent)'/><line x1='110' y1='256' x2='620' y2='152' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>宫殿建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-architecture",
+        "wp-chinese-garden"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「宫殿建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "religious-architecture",
+      "title": "宗教建筑",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "宗教建筑指供礼拜与仪式使用的建筑类型。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "它以空间、光线与象征组织神圣体验。",
+      "related": [],
+      "sections": {
+        "原理": "宗教建筑指供礼拜与仪式使用的建筑类型。它以空间、光线与象征组织神圣体验。",
+        "典型手法与适用条件": "以轴线、穹顶或高塔与光线营造神圣感。",
+        "实例": "名称：以高侧窗引光的礼拜空间（类型性描述）；地点与设计者不适用。光线沿轴线落下。",
+        "常见错误与限制": "只重形式忽略仪式需求会失当。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：轴线与高侧窗的光线。",
+        "待核实": "「宗教建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='301' cy='193' r='71' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='449' cy='210' r='49' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>宗教建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architectural-style",
+        "wp-gothic-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「宗教建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "rule-of-odds",
+      "title": "奇数法则",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "奇数法则指画面中主体数量取奇数更易形成生动均衡的构图经验。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "奇数群体有中心与两侧，视觉更自然。",
+      "related": [],
+      "sections": {
+        "原理": "奇数法则指画面中主体数量取奇数更易形成生动均衡的构图经验。奇数群体有中心与两侧，视觉更自然。",
+        "典型手法与适用条件": "以三或五个主体组织，避免僵硬的对称双数。",
+        "实例": "名称：奇数法则的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "机械套用会牵强；需看内容。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：奇数法则的关系。",
+        "待核实": "「奇数法则」的具体实例（作品名称、作者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='202,300 380,122 558,300' fill='none' stroke='var(--accent)'/><line x1='140' y1='300' x2='620' y2='300' stroke='var(--ink)' stroke-width='2'/><text x='40' y='40' fill='var(--ink)'>奇数法则</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "dps-rule-of-odds",
+        "expertphoto-rule-of-odds"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「奇数法则」的具体实例（作品名称、作者、年代）待补充独立来源。"
+    },
+    {
+      "id": "tints-shades",
+      "title": "色调与明暗层次",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "色调与明暗层次指以加白或加黑改变色彩明度的做法。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "加白得浅色（tint）、加黑得暗色（shade），构成层次。",
+      "related": [],
+      "sections": {
+        "原理": "色调与明暗层次指以加白或加黑改变色彩明度的做法。加白得浅色（tint）、加黑得暗色（shade），构成层次。",
+        "典型手法与适用条件": "以同一色相加白/加黑建立明度梯度。",
+        "实例": "名称：色调与明暗层次的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "过度加白会失饱和、加黑会失通透。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：色调与明暗层次的关系。",
+        "待核实": "「色调与明暗层次」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='150' y='130' width='128' height='140' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='157' width='140' height='110' fill='none' stroke='var(--muted)'/><rect x='500' y='131' width='100' height='160' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>色调与明暗层次</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-color-theory",
+        "wp-color-wheel"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「色调与明暗层次」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    }
+  ]
+}
