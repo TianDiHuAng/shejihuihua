@@ -335,6 +335,30 @@
         "B5_pending_items": 49,
         "B7_all_l1_remaining": 69
       }
+    },
+    {
+      "round": 14,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 6,
+      "reviews": 54,
+      "fixes": 7,
+      "pending_total": 51,
+      "check_result": "PASS: all checks, 0 errors; spotcheck 3/6 -> 2 issues -> full batch rework (similarity<0.54, aerial period fixed) -> recheck passed; 4 instances upgraded via official sources; 14/14 unittest; 0 broken links",
+      "new_sources": 13,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B2",
+          "B4",
+          "B5",
+          "B7"
+        ],
+        "B2_sparse_cells": 9,
+        "B4_reader_questions_unanswered": 6,
+        "B5_pending_items": 54,
+        "B7_all_l1_remaining": 63
+      }
     }
   ]
 }

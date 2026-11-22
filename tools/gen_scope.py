@@ -16,7 +16,7 @@ one-point-perspective|一点透视|理论|重要|文艺复兴至19世纪|欧洲|
 two-point-perspective|两点透视|理论|重要|文艺复兴至19世纪|欧洲|S5
 three-point-perspective|三点透视|理论|重要|20世纪|欧洲|S5
 curvilinear-perspective|曲线透视|理论|补充|20世纪|全球|S5
-aerial-perspective|空气透视|理论|重要|文艺复兴至19世纪|欧洲|S5
+aerial-perspective|空气透视|理论|重要|跨时期|全球|S5
 foreshortening|缩短法|理论|重要|文艺复兴至19世纪|欧洲|S5
 vanishing-point|灭点|理论|重要|文艺复兴至19世纪|欧洲|S5
 horizon-line|视平线|理论|重要|文艺复兴至19世纪|欧洲|S5

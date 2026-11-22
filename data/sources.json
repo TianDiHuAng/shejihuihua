@@ -2027,6 +2027,114 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；记载 Louis Kahn 设计金贝尔美术馆，运用自然采光"
+    },
+    {
+      "id": "columbia-jaanus-rikubo",
+      "title": "rikuhō (六法) — JAANUS",
+      "author": "哥伦比亚大学 JAANUS",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://projects.mcah.columbia.edu/jaanus/node/1757",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；记载六法由南朝齐谢赫在《古画品录》提出，约公元500年"
+    },
+    {
+      "id": "ebsco-xie-he",
+      "title": "Xie He — EBSCO Research Starters",
+      "author": "EBSCO",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.ebsco.com/es/node/158137",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；记载谢赫属南朝齐 479–502 CE，著《古画品录》"
+    },
+    {
+      "id": "nyc-lpc-guggenheim",
+      "title": "Solomon R. Guggenheim Museum — NYC Landmarks Preservation Commission",
+      "author": "纽约市地标保护委员会",
+      "type": "官方机构",
+      "year": null,
+      "url": "http://s-media.nyc.gov/agencies/lpc/lp/1774.pdf",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；记载古根海姆美术馆由 Frank Lloyd Wright 设计，1956–59 建成，含连续螺旋坡道"
+    },
+    {
+      "id": "guggenheim-visitor-guide",
+      "title": "Guggenheim Visitor Guide",
+      "author": "Solomon R. Guggenheim Foundation",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.guggenheim.org/wp-content/uploads/2025/07/250715_VE_VisitorGuide_v02.pdf",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；记载螺旋坡道与 1959 年开放、Frank Lloyd Wright"
+    },
+    {
+      "id": "suzhou-ylj-zhuozhengyuan",
+      "title": "拙政园 — 苏州市园林和绿化管理局",
+      "author": "苏州市园林和绿化管理局",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://ylj.suzhou.gov.cn/szsylj/sjyc/201905/c1df393edc8745abb20e8a9bd5525782.shtml",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；记载拙政园始建于明正德四年(1509)，王献臣请文徵明参与设计，以水为主"
+    },
+    {
+      "id": "peopleapp-zhuozhengyuan",
+      "title": "拙政园：天下园林之母 — 人民日报人民号",
+      "author": "人民日报",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.peopleapp.com/rmharticle/30016473527",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；记载 1509 年、王献臣、文征明参与设计、以水为心"
+    },
+    {
+      "id": "shanghai-lhsr-jiejing",
+      "title": "借景——拙政园的精妙所在 — 上海市绿化和市容管理局",
+      "author": "上海市绿化和市容管理局",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://lhsr.sh.gov.cn/jnylwh/20200824/7cc5e5102094470b94a8f771808c1f53.html",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；记载拙政园借景园外报恩寺北寺塔"
+    },
+    {
+      "id": "cnr-liubai",
+      "title": "留白，留的是什么？ — 央广网",
+      "author": "中央广播电视总台",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.cnr.cn/ent/zx/20201228/t20201228_525375797.shtml",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；专门讨论中国画留白手法"
+    },
+    {
+      "id": "rmrb-liubai",
+      "title": "在留白中邂逅万千气象 — 人民日报",
+      "author": "人民日报",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://paper.people.com.cn/rmrb/pc/content/202611/01/content_30188752.html",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；canonical 直连待复；专门讨论留白的审美与空间营造"
     }
   ]
 }

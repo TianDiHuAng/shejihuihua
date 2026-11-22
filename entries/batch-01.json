@@ -261,14 +261,14 @@
     {
       "id": "two-point-perspective",
       "title": "两点透视",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
       "period": "文艺复兴至19世纪",
       "region": "欧洲",
       "definition": "两组水平平行线分别汇聚于左右两个灭点的透视方法。",
-      "time_or_place": "文艺复兴至19世纪欧洲（参见来源）。",
-      "overview": "常用于表现建筑转角与斜向观看的立方体。",
+      "time_or_place": "文艺复兴时期意大利的建筑与绘画透视实践（参见来源）。",
+      "overview": "斜看街角时两组墙面各向一侧退去，由左右两灭点共同锁定体块，画面因此比正对视角更富动势。",
       "related": [
         "three-point-perspective"
       ],
@@ -276,13 +276,24 @@
         "wp-perspective-graphical",
         "wp-alberti"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "当观察者斜对一个立方体时，两组水平边线各奔一侧，形成左右两个灭点，这就是两点透视。",
+        "典型手法与适用条件": "画街角建筑时先定左右灭点，竖直棱线保持垂直；适合表现斜向体块。",
+        "实例": "名称：斜视角的街角楼体（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "两灭点靠得太近会使转角夸张到失真；仰头或低头时还会冒出第三个灭点，需另作处理。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：左右灭点各收一组水平边线。",
+        "待核实": "街角建筑实例的建造者与年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='260,140 480,120 480,260 260,280' fill='none' stroke='var(--accent)'/><line x1='260' y1='140' x2='60' y2='110' stroke='var(--muted)'/><line x1='260' y1='280' x2='60' y2='300' stroke='var(--muted)'/><line x1='480' y1='120' x2='690' y2='90' stroke='var(--muted)'/><line x1='480' y1='260' x2='690' y2='290' stroke='var(--muted)'/><text x='30' y='100' fill='var(--ink)'>左灭点</text><text x='600' y='80' fill='var(--ink)'>右灭点</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "three-point-perspective",
       "title": "三点透视",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
       "period": "20世纪",
@@ -297,19 +308,30 @@
         "wp-perspective-graphical",
         "wp-curvilinear-perspective"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "在左右两灭点之外再补一个垂直方向的灭点，画面便获得仰视或俯视的强透视，即三点透视。",
+        "典型手法与适用条件": "高层仰拍、深井俯拍时启用；三条棱线分别指向三个灭点。",
+        "实例": "名称：仰视摩天楼的透视练习（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "垂直灭点放错会让楼体像要倾倒；视距越短变形越剧烈。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：竖直棱线收向顶部灭点。",
+        "待核实": "练习所参照建筑的名称与年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 300 300 L 300 120 L 460 100 L 460 270 Z' fill='none' stroke='var(--accent)'/><line x1='300' y1='120' x2='380' y2='40' stroke='var(--muted)'/><line x1='460' y1='100' x2='380' y2='40' stroke='var(--muted)'/><text x='350' y='30' fill='var(--ink)'>垂直灭点</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "aerial-perspective",
       "title": "空气透视",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
-      "period": "文艺复兴至19世纪",
-      "region": "欧洲",
+      "period": "跨时期",
+      "region": "全球",
       "definition": "以远处物象明度降低、对比减弱并偏冷灰表现深度的方法。",
-      "time_or_place": "文艺复兴至19世纪欧洲（参见来源）。",
+      "time_or_place": "自古罗马（约公元前 30 年庞贝壁画）经中国早期山水至 15 世纪尼德兰，空气透视被广泛运用（参见来源）。",
       "overview": "它补充线性透视，使远景在色彩与清晰度上退后。",
       "related": [
         "foreshortening"
@@ -318,13 +340,24 @@
         "wp-aerial-perspective",
         "wp-perspective-graphical"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的作者与年代待核实；空气透视早期实例跨度广，正文只作一般性说明。",
+      "sections": {
+        "原理": "空气层散射使远处景物对比减弱、颜色转淡转蓝，画家借此制造纵深，称为空气透视。",
+        "典型手法与适用条件": "画远山远树时逐层降低对比、提亮并偏冷；可与线性透视叠用。",
+        "实例": "名称：庞贝壁画与早期山水中的远景处理（类型性记载）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "不顾天气一味加灰雾，会让远景失去层次；雾霾与晴日的空气效果差别很大。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：愈远愈淡、愈远愈偏灰蓝。",
+        "待核实": "具体作品的作者与年代待核实；空气透视的早期实例跨度较广。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='60' y='250' width='640' height='90' fill='var(--accent-soft)'/><polyline points='70,240 200,170 330,215 470,140 620,205 700,180' fill='none' stroke='var(--muted)'/><text x='120' y='110' fill='var(--ink)'>愈远愈淡、愈远愈灰蓝</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "foreshortening",
       "title": "缩短法",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
       "period": "文艺复兴至19世纪",
@@ -339,13 +372,24 @@
         "wp-perspective-graphical",
         "wp-leonardo-da-vinci"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "形体正面朝向观者时，它在画面上的长度会被压缩，这种透视现象叫缩短法。",
+        "典型手法与适用条件": "画伸向镜头的手臂、指向观者的器物时要按比例压缩，否则显得僵硬。",
+        "实例": "名称：人物手臂前伸的短缩处理（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "压缩过头会让四肢比例怪诞；须与全身透视关系协调。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：朝向观者的一侧被压扁。",
+        "待核实": "范例作品及其作者、年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 240 160 Q 380 120 520 160 L 520 240 Q 380 280 240 240 Z' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='240' y1='200' x2='520' y2='200' stroke='var(--muted)'/><text x='280' y='120' fill='var(--ink)'>朝向观者的一侧被压缩</text><text x='300' y='390' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "vanishing-point",
       "title": "灭点",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
       "period": "文艺复兴至19世纪",
@@ -360,13 +404,24 @@
         "wp-vanishing-point",
         "wp-perspective-graphical"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "一组彼此平行的纵深线，在画面上会交于同一假想点，这个点即灭点。",
+        "典型手法与适用条件": "作透视线稿时先钉住灭点，再让同向线束归拢；灭点决定画面的观看方向。",
+        "实例": "名称：透视草图的灭点定位（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "若同向线束各自乱跑、出现多个灭点，空间立刻矛盾；灭点出画时要延长辅助线。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：四组斜线交于一点。",
+        "待核实": "示范草图的作者与出处待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='90' x2='470' y2='205' stroke='var(--muted)'/><line x1='80' y1='300' x2='470' y2='205' stroke='var(--muted)'/><line x1='690' y1='90' x2='470' y2='205' stroke='var(--muted)'/><line x1='690' y1='300' x2='470' y2='205' stroke='var(--muted)'/><circle cx='470' cy='205' r='9' fill='none' stroke='var(--accent)' stroke-width='2'/><text x='485' y='200' fill='var(--ink)'>所有斜线交于此</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "horizon-line",
       "title": "视平线",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
       "period": "文艺复兴至19世纪",
@@ -381,8 +436,19 @@
         "wp-perspective-graphical",
         "wp-vanishing-point"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "视平线就是观者眼睛所在的水平高度在画面上的投影，它统领上下所有物象的高低关系。",
+        "典型手法与适用条件": "构图先定视平线，再据此安排人物头顶与建筑檐口的高度；视平线高低可强化压迫或开阔感。",
+        "实例": "名称：场景构图中的视平线设定（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "视平线与实际视高脱节，会使人物与建筑比例错位；贴地或极高的视平线会扭曲空间。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：与眼睛齐高的虚线基准。",
+        "待核实": "示例场景的出处与年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='50' y1='215' x2='710' y2='215' stroke='var(--accent)' stroke-dasharray='10 6'/><rect x='150' y='250' width='120' height='110' fill='none' stroke='var(--muted)'/><circle cx='560' cy='270' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='90' y='203' fill='var(--ink)'>与眼睛齐高的基准线</text><text x='300' y='390' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "rule-of-thirds",
