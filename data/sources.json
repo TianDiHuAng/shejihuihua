@@ -2423,6 +2423,54 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载静安寺广场建成于1999年9月15日"
+    },
+    {
+      "id": "miesbcn-barcelona-pavilion",
+      "title": "The Pavilion — Fundació Mies van der Rohe",
+      "author": "Fundació Mies van der Rohe",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://miesbcn.com/the-pavilion/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载巴塞罗那德国馆由密斯与莉莉·赖希设计，1929 年巴塞罗那世博会"
+    },
+    {
+      "id": "archdaily-barcelona-pavilion",
+      "title": "AD Classics: Barcelona Pavilion — ArchDaily",
+      "author": "ArchDaily",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.archdaily.com/109135/ad-classics-barcelona-pavilion-mies-van-der-rohe",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载 1929 年建成、密斯与莉莉·赖希设计"
+    },
+    {
+      "id": "xinhua-paimio",
+      "title": "Paimio Sanatorium — Xinhua",
+      "author": "新华网",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://english.news.cn/20260805/2f2673e5085d4c72aa0efda6b8b087a5/c.html",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载帕伊米奥疗养院属阿尔托作品、1933 年建成"
+    },
+    {
+      "id": "paimio-official",
+      "title": "The Architecture of Empathy — Paimio Sanatorium",
+      "author": "Paimio Sanatorium",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://paimiosanatorium.com/the-architecture-of-empathy/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载阿尔瓦与艾诺·阿尔托 1933 年杰作、1929 年委托"
     }
   ]
 }

@@ -72,7 +72,7 @@
     {
       "id": "qi-yun",
       "title": "气韵生动",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "理论",
       "period": "古代",
@@ -87,13 +87,24 @@
         "wp-six-principles-chinese-painting",
         "wp-chinese-painting"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "气韵生动指作品整体气脉贯通、形象有生气，是六法之首，高于单纯的形似。",
+        "典型手法与适用条件": "以用笔连贯、虚实相生与经营位置共同营造；适用于人物、山水与花鸟。",
+        "实例": "名称：《古画品录》品评体系（类型性记载）；地点：古代中国；设计者：不适用；年份：约公元 550 年。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "只求形似而失气韵则呆板；气韵依赖整体，不能靠局部堆砌。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：笔势贯通、气脉生动。",
+        "待核实": "具体品评作品与作者年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='90' width='520' height='220' fill='none' stroke='var(--line)'/><path d='M 180 260 Q 300 140 420 230 T 600 170' fill='none' stroke='var(--accent)' stroke-width='3'/><text x='300' y='60' fill='var(--ink)'>笔势贯通而气脉生动</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "liubai",
       "title": "留白",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "理论",
       "period": "古代",
@@ -105,17 +116,28 @@
         "ink-wash"
       ],
       "sources": [
-        "wp-chinese-painting",
         "cnr-liubai",
-        "rmrb-liubai"
+        "rmrb-liubai",
+        "wp-chinese-painting"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "留白以未画之处承载空间、光线与想象，使主体更突出、画面更具呼吸与意境。",
+        "典型手法与适用条件": "计白当黑、以虚衬实；适用于水墨、山水与简洁的版式设计。",
+        "实例": "名称：中国画留白实践（类型性记载）；地点：中国；设计者：不适用；年份：不适用。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "留白过多则空洞、过少则壅塞；须与主体比例和题意配合。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：大面积空白参与构图。",
+        "待核实": "具体作品的作者与年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='80' width='600' height='240' fill='none' stroke='var(--line)'/><rect x='120' y='200' width='180' height='100' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='520' cy='150' r='60' fill='none' stroke='var(--muted)'/><text x='430' y='300' fill='var(--ink)'>大面积空白参与构图</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "yijing",
       "title": "意境",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "理论",
       "period": "古代",
@@ -130,8 +152,19 @@
         "wp-chinese-painting",
         "wp-shitao"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "意境由可见物象与留白共同引发，把观者从形似引向情景交融的联想与情绪。",
+        "典型手法与适用条件": "以景寓情、虚实相生；适用于山水、园林与诗画结合的表达。",
+        "实例": "名称：山水画的意境表达（类型性记载）；地点：中国；设计者：不适用；年份：不适用。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "刻意造境会显做作；意境因人而异，难以标准化衡量。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：景外之意的留白与远山。",
+        "待核实": "具体作品的作者与年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='300' x2='680' y2='300' stroke='var(--ink)' stroke-width='2'/><path d='M 140 300 Q 240 180 340 300' fill='none' stroke='var(--accent)'/><path d='M 340 300 Q 460 150 580 300' fill='none' stroke='var(--muted)'/><circle cx='620' cy='120' r='30' fill='none' stroke='var(--muted)'/><text x='430' y='100' fill='var(--ink)'>景外之意的留白与远山</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "east-west-perspective-compare",
@@ -178,7 +211,7 @@
     {
       "id": "space-definition",
       "title": "建筑空间定义",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "理论",
       "period": "跨时期",
@@ -191,15 +224,28 @@
       ],
       "sources": [
         "wp-architecture",
-        "wp-architectural-theory"
+        "wp-architectural-theory",
+        "miesbcn-barcelona-pavilion",
+        "archdaily-barcelona-pavilion"
       ],
       "needs_verification": false,
-      "pending_notes": ""
+      "pending_notes": "",
+      "sections": {
+        "原理": "建筑空间由围合界面、尺度与人的活动共同限定，感知不只来自几何边界，也来自光线与材料。",
+        "典型手法与适用条件": "以墙、顶、地界定领域，借光与材质强化氛围；适用于各类室内外空间。",
+        "实例": "名称：巴塞罗那德国馆（Barcelona Pavilion）；地点：西班牙巴塞罗那蒙特惠奇山；设计者：密斯·凡·德·罗与莉莉·赖希（Ludwig Mies van der Rohe & Lilly Reich）；年份：1929 年。以独立界面与自由平面界定空间（注：为通透展亭，非封闭室内）。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "只重围合而忽视光线与使用会显呆板；尺度失衡影响感受。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：界面限定的场所。",
+        "待核实": "暂无已知待核实项。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='110' width='520' height='190' fill='none' stroke='var(--accent)'/><line x1='120' y1='110' x2='120' y2='300' stroke='var(--muted)' stroke-width='6'/><line x1='640' y1='110' x2='640' y2='300' stroke='var(--muted)' stroke-width='6'/><text x='300' y='210' fill='var(--ink)'>界面限定的场所</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "human-scale",
       "title": "人体尺度",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "理论",
       "period": "跨时期",
@@ -212,15 +258,28 @@
       ],
       "sources": [
         "wp-proportion-architecture",
-        "wp-architecture"
+        "wp-architecture",
+        "xinhua-paimio",
+        "paimio-official"
       ],
       "needs_verification": false,
-      "pending_notes": ""
+      "pending_notes": "",
+      "sections": {
+        "原理": "人体尺度以人的身高、步幅与视高为参照，使门、台阶、家具与通道与身体动作相匹配。",
+        "典型手法与适用条件": "以常用人体尺寸确定细部尺度，营造亲切感；公共空间可与更大尺度并置。",
+        "实例": "名称：帕伊米奥结核病疗养院（Paimio Sanatorium）；地点：芬兰图尔库附近；设计者：阿尔瓦·阿尔托与艾诺·阿尔托（Alvar & Aino Aalto）；年份：1933 年建成（1929 年委托）。以病人的身体姿态与使用感受确定细部尺度。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "忽视尺度会造成压迫或疏离；具体尺寸须按规范与人群差异校核。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：以人体为尺。",
+        "待核实": "暂无已知待核实项。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='310' x2='680' y2='310' stroke='var(--ink)' stroke-width='3'/><circle cx='240' cy='230' r='14' fill='var(--accent)'/><line x1='240' y1='244' x2='240' y2='310' stroke='var(--accent)' stroke-width='3'/><rect x='440' y='150' width='120' height='160' fill='none' stroke='var(--muted)'/><text x='180' y='180' fill='var(--ink)'>人体为尺</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "spatial-sequence",
       "title": "空间序列",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "理论",
       "period": "跨时期",
@@ -232,11 +291,22 @@
         "axis"
       ],
       "sources": [
-        "wp-architecture",
-        "wp-architectural-theory"
+        "guggenheim-visitor-guide",
+        "nyc-lpc-guggenheim"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "空间序列一般理论待补充专门来源；以古根海姆连续坡道为连续序列实例。",
+      "sections": {
+        "原理": "空间序列把若干空间按进入顺序组织，以开合、明暗与尺度变化控制节奏，使行进成为叙事。",
+        "典型手法与适用条件": "以连续坡道、轴线递进或转折串联空间；适用于展馆、院落与纪念性空间。",
+        "实例": "名称：所罗门·R·古根海姆美术馆；地点：美国纽约；设计者：弗兰克·劳埃德·赖特；年份：1959 年开放。以连续螺旋坡道把观展变成一条不断的空间序列。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "节奏单一会乏味、转折过多会迷失；导向与疏散须校核。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：连续坡道串联的观展序列。",
+        "待核实": "空间序列的一般理论待补充专门来源；实例为螺旋坡道式连续序列。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><ellipse cx='380' cy='200' rx='150' ry='110' fill='none' stroke='var(--accent)' stroke-width='2'/><path d='M 380 90 A 150 110 0 1 1 379 90' fill='none' stroke='var(--muted)' stroke-dasharray='8 6'/><circle cx='380' cy='90' r='10' fill='var(--accent)'/><text x='250' y='60' fill='var(--ink)'>连续坡道串联的观展序列</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     }
   ]
 }

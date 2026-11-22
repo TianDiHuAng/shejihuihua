@@ -3,7 +3,7 @@
 - 项目：静态网站《绘画理论与建筑空间设计》
 - 启动时间：2026-11-22 14:57 Asia/Hong_Kong
 - 工作方式：无人值守，按 TASK_design.md 与 WORKFLOW.md 分阶段推进；决策写入 DECISIONS.md
-- 当前轮次：第 20 轮已完成（自动模式，含体检）；下一轮：第 21 轮
+- 当前轮次：第 21 轮已完成（自动模式）；下一轮：第 22 轮
 
 ## 阶段状态
 
@@ -13,7 +13,7 @@
 | 1 | 来源库 sources.json | 已完成 | data/sources.json（118 条，115 verified，link_ok 三态）、research/source_notes.md |
 | 2 | 校验器 tools/check.py | 已完成 | tools/check.py、tests/test_check.py（7/7 通过） |
 | 3 | 2 个 L2 样板 | 已完成 | entries/l2-samples.json（透视法、下沉庭院，含自绘 SVG） |
-| 4 | 条目累计 126 | 第 20 轮已完成 | 范围 237；已写 126（L1 25、L2 101）；来源 202；待核实 86；重要条目全部 L2，核心 L1 余 19 |
+| 4 | 条目累计 126 | 第 21 轮已完成 | 范围 237；已写 126（L1 19、L2 107）；来源 206；待核实 90；核心 L1 余 13 |
 | 5 | 总览页 / 索引 / 导航 / REPORT | 已完成 | site/（首页、40 条目页、索引、来源、覆盖报告）、REPORT.md |
 
 ## 本轮完成目标
@@ -26,7 +26,7 @@
 
 ## 下一轮起点
 
-阶段 4：按 BACKLOG 第 21 轮队列执行：优先把剩余 19 条核心 L1 升级 L2，补抽 3 条、复核 86 条待核实、收尾 6 条补充 L1。
+阶段 4：按 BACKLOG 第 22 轮队列执行：升级剩余 13 条核心 L1→L2，补抽 3 条、复核 90 条待核实、收尾 6 条补充 L1。
 本轮尚未写入 ALL_DONE；AUTONOMOUS.md 规定项目没有“做完”，只有饱和（SATURATION.json）。
 
 ## 变更日志
@@ -68,3 +68,4 @@
 - 2026-11-22 20:0x 第 18 轮自动模式：6 条升级（simplification/hierarchy/color-contrast/framed-scenery/pedestrian-flow/material-texture）；framed-scenery、natural-ventilation 实例补双源（颐和园画中游/恭王府+翠郊院），opposed/leaked 补中国园林博物馆来源；material-texture 待核实扩写；抽检 2/3 合格+1 已修（累计 126，L2 88，来源 192）。
 - 2026-11-22 20:1x 第 19 轮自动模式：7 条升级（几何对称/视觉动势/引导线/节奏重复/场所依恋/游线/排水）；tour-route 用拙政园双源升级、drainage/glare 实例补双源，drainage 补专业来源并修 period；抽检 2/3 合格+1 已修（累计 126，L2 95，来源 198）。
 - 2026-11-22 20:2x 第 20 轮自动模式：体检（0 死链/0 重复/0 孤儿）；6 条升级（视觉中心/对比/形式追随功能/曲线透视/庭院/绿色建筑），重要条目全部 L2；courtyard 三源、sunken-plaza 补 1999 第二源；抽检 3/3 合格（累计 126，L2 101，来源 202，核心 L1 余 19）。
+- 2026-11-22 20:3x 第 21 轮自动模式：6 条核心 L1→L2（气韵/留白/意境/空间定义/人体尺度/空间序列）；space-definition（巴塞罗那馆）、human-scale（帕伊米奥）补双源升级；抽检 1 不合格（spatial-sequence）→返工换源、qi-yun 年份改约550；check.py 0 errors（累计 126，L2 107，来源 206）。

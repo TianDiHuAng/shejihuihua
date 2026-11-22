@@ -25,11 +25,11 @@
 
 执行顺序：每完成一批运行 check.py 并 commit；抽检 10%（至少 3 个）另起子任务。
 
-## 下一轮队列（第 21 轮，按优先级）
+## 下一轮队列（第 22 轮，按优先级）
 
-1. **优先把剩余 19 条核心 L1 升级 L2**（qi-yun/liubai/yijing/space-definition/human-scale/spatial-sequence/transition-space/spatial-organization/interior-exterior-transition/winding-path/evacuation-route/level-change/damp-proofing/safety-guarding/sustainable-architecture/vitruvian-triad/sunken-accessibility/east-west-perspective-compare/east-west-space-compare）。
-2. 维持 25% 抽检；补抽 form-follows-function/curvilinear-perspective/courtyard 闭环第20轮。
-3. 复核 86 条待核实（courtyard 时期两说；顾如珍单源；glare 数值单源）。
+1. 继续升级剩余 13 条核心 L1→L2：east-west-perspective-compare/east-west-space-compare/transition-space/spatial-organization/interior-exterior-transition/winding-path/evacuation-route/level-change/damp-proofing/safety-guarding/sustainable-architecture/vitruvian-triad/sunken-accessibility。
+2. 维持 25% 抽检；补抽 liubai/yijing/human-scale 闭环第21轮。
+3. 复核 90 条待核实（顾如珍/glare数值/green-architecture 常州案例/赵堂子胡同时期）。
 4. 收尾 6 条补充 L1；处理 B4 的 6 个未答读者问题。
 
 ## 已完成
@@ -54,3 +54,4 @@
 - 第 18 轮：6 条升级（simplification/hierarchy/color-contrast/framed-scenery/pedestrian-flow/material-texture）；framed-scenery、natural-ventilation 实例补双源，opposed/leaked 补专门来源；material-texture 待核实扩写（L2 88）
 - 第 19 轮：7 条升级（geometry-symmetry/visual-movement/leading-lines/rhythm-repetition/place-attachment/tour-route/drainage）；tour-route 升级验证、drainage/glare 实例补双源（L2 95）
 - 第 20 轮：体检（0 死链/0 重复/0 孤儿）；6 条升级（visual-center/contrast-principle/form-follows-function/curvilinear-perspective/courtyard/green-architecture），重要条目全部 L2；courtyard 三源、sunken-plaza 补 1999 第二源
+- 第 21 轮：6 条核心 L1→L2（气韵/留白/意境/空间定义/人体尺度/空间序列）；space-definition（巴塞罗那德国馆）、human-scale（帕伊米奥疗养院）补双源升级；返工修 qi-yun 年份、spatial-sequence 换古根海姆来源（核心 L1 余 13）
