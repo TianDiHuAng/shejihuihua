@@ -1,0 +1,2 @@
+verified=['wp-placemaking', 'wp-urban-design', 'wp-space-syntax', 'wp-urban-morphology', 'wp-pattern-language', 'wp-a-pattern-language', 'wp-form-follows-function', 'wp-functionalism-architecture', 'wp-biophilic-design', 'wp-evidence-based-design', 'wp-defensible-space-theory', 'wp-cpted']
+failed=[]

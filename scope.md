@@ -5,11 +5,11 @@
 第 7 轮候选直接以 data/sources.json 的来源 id 标注（详见 research/gaps-external-round06.md）。
 每条标注层级与来源编号。
 
-总计 230 条：理论 112、风格 59、造景 18、
+总计 237 条：理论 118、风格 60、造景 18、
 动线 11、下沉空间 12、材料 18。
-层级分布：核心 50、重要 131、补充 49。
+层级分布：核心 50、重要 138、补充 49。
 
-## 理论（112 条）
+## 理论（118 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -125,8 +125,14 @@
 | color-psychology | 色彩心理学 | 重要 | 20世纪 | 全球 | wp-interior-design,wp-color-psychology |
 | environmental-psychology | 环境心理学 | 重要 | 20世纪 | 全球 | wp-landscape-architecture,wp-environmental-psychology |
 | place-attachment | 场所依恋 | 重要 | 当代 | 全球 | wp-environmental-psychology,wp-place-attachment |
+| placemaking | 场所营造 | 重要 | 当代 | 全球 | wp-placemaking,wp-urban-design |
+| space-syntax | 空间句法 | 重要 | 20世纪 | 全球 | wp-space-syntax,wp-urban-morphology |
+| pattern-language | 模式语言 | 重要 | 20世纪 | 全球 | wp-pattern-language,wp-a-pattern-language |
+| form-follows-function | 形式追随功能 | 重要 | 跨时期 | 全球 | wp-form-follows-function,wp-functionalism-architecture |
+| biophilic-design | 亲生命性设计 | 重要 | 当代 | 全球 | wp-biophilic-design,wp-evidence-based-design |
+| defensible-space-theory | 防御性空间理论 | 重要 | 20世纪 | 全球 | wp-defensible-space-theory,wp-cpted |
 
-## 风格（59 条）
+## 风格（60 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -189,6 +195,7 @@
 | urban-planning-style | 城市规划 | 补充 | 跨时期 | 全球 | S11 |
 | mannerism | 样式主义（手法主义）建筑 | 重要 | 文艺复兴至19世纪 | 欧洲 | N1,N3,N2 |
 | beaux-arts | 学院派建筑（布扎艺术） | 重要 | 文艺复兴至19世纪 | 全球 | N1,N3 |
+| functionalism-architecture | 功能主义建筑 | 重要 | 20世纪 | 全球 | wp-functionalism-architecture,wp-form-follows-function |
 
 ## 造景（18 条）
 

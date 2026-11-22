@@ -240,6 +240,13 @@ hardscape-softscape|硬质景观与软质景观|造景|重要|跨时期|全球|w
 wayfinding|导视与寻路|动线|重要|跨时期|全球|wp-graphic-design,wp-wayfinding
 lighting-design|照明设计|材料|重要|跨时期|全球|wp-interior-design,wp-lighting-design
 place-attachment|场所依恋|理论|重要|当代|全球|wp-environmental-psychology,wp-place-attachment
+placemaking|场所营造|理论|重要|当代|全球|wp-placemaking,wp-urban-design
+space-syntax|空间句法|理论|重要|20世纪|全球|wp-space-syntax,wp-urban-morphology
+pattern-language|模式语言|理论|重要|20世纪|全球|wp-pattern-language,wp-a-pattern-language
+form-follows-function|形式追随功能|理论|重要|跨时期|全球|wp-form-follows-function,wp-functionalism-architecture
+functionalism-architecture|功能主义建筑|风格|重要|20世纪|全球|wp-functionalism-architecture,wp-form-follows-function
+biophilic-design|亲生命性设计|理论|重要|当代|全球|wp-biophilic-design,wp-evidence-based-design
+defensible-space-theory|防御性空间理论|理论|重要|20世纪|全球|wp-defensible-space-theory,wp-cpted
 """
 
 THEMES = ["理论", "风格", "造景", "动线", "下沉空间", "材料"]

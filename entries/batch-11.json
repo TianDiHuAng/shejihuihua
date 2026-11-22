@@ -1,0 +1,149 @@
+{
+  "unit_id": "batch-11",
+  "title": "第11轮 B1 实抓核验后新增",
+  "entries": [
+    {
+      "id": "placemaking",
+      "title": "场所营造",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "当代",
+      "region": "全球",
+      "definition": "通过公共空间的策划与设计提升场所活力与认同的过程。",
+      "time_or_place": "当代、全球（参见来源）。",
+      "overview": "场所营造把使用者的日常活动置于设计中心。",
+      "related": [
+        "space-syntax"
+      ],
+      "sources": [
+        "wp-placemaking",
+        "wp-urban-design"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "space-syntax",
+      "title": "空间句法",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "用拓扑与几何方法分析空间连接关系及其与行为关联的理论。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "空间句法把可达性与视线关系转化为可比较的空间指标。",
+      "related": [
+        "pattern-language"
+      ],
+      "sources": [
+        "wp-space-syntax",
+        "wp-urban-morphology"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "pattern-language",
+      "title": "模式语言",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "用可复用的设计模式描述建筑与城市空间问题及解法。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "模式语言把经验性设计知识组织为可组合的条目。",
+      "related": [
+        "form-follows-function"
+      ],
+      "sources": [
+        "wp-pattern-language",
+        "wp-a-pattern-language"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "form-follows-function",
+      "title": "形式追随功能",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "建筑形式应由其功能目的决定的命题。",
+      "time_or_place": "19–20世纪、全球（参见来源）。",
+      "overview": "该命题成为现代主义建筑的重要论证之一。",
+      "related": [
+        "biophilic-design"
+      ],
+      "sources": [
+        "wp-form-follows-function",
+        "wp-functionalism-architecture"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "functionalism-architecture",
+      "title": "功能主义建筑",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "以功能、结构与材料逻辑为设计出发点的建筑倾向。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "功能主义反对历史样式复制，强调使用需求与技术理性。",
+      "related": [],
+      "sources": [
+        "wp-functionalism-architecture",
+        "wp-form-follows-function"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "biophilic-design",
+      "title": "亲生命性设计",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "当代",
+      "region": "全球",
+      "definition": "把自然要素与过程纳入建成环境以支持健康与福祉的设计。",
+      "time_or_place": "当代、全球（参见来源）。",
+      "overview": "亲生命性设计关注自然光、植物、水与材料质感对人的影响。",
+      "related": [
+        "defensible-space-theory"
+      ],
+      "sources": [
+        "wp-biophilic-design",
+        "wp-evidence-based-design"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "defensible-space-theory",
+      "title": "防御性空间理论",
+      "level": "L1",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "通过领域感、自然监视与可达性组织空间以降低犯罪机会的理论。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "该理论把空间布局与社会行为联系起来，影响住区与公共空间设计。",
+      "related": [],
+      "sources": [
+        "wp-defensible-space-theory",
+        "wp-cpted"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    }
+  ]
+}
