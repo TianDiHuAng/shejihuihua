@@ -2128,11 +2128,11 @@
       "tier": "重要",
       "period": "古代",
       "region": "欧洲",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "byzantine",
@@ -2154,11 +2154,11 @@
       "tier": "重要",
       "period": "中世纪",
       "region": "欧洲",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "gothic",
@@ -2206,11 +2206,11 @@
       "tier": "重要",
       "period": "文艺复兴至19世纪",
       "region": "欧洲",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "neoclassical",
@@ -2219,11 +2219,11 @@
       "tier": "重要",
       "period": "文艺复兴至19世纪",
       "region": "欧洲",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "romanticism-style",
@@ -2245,11 +2245,11 @@
       "tier": "补充",
       "period": "文艺复兴至19世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "revival-gothic",
@@ -2258,11 +2258,11 @@
       "tier": "补充",
       "period": "文艺复兴至19世纪",
       "region": "欧洲",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "revival-renaissance",
@@ -2271,11 +2271,11 @@
       "tier": "补充",
       "period": "文艺复兴至19世纪",
       "region": "欧洲",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "arts-crafts",
@@ -2297,11 +2297,11 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "欧洲",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "art-deco",
@@ -2310,11 +2310,11 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "modernism",
@@ -2336,11 +2336,11 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "bauhaus",
@@ -2362,11 +2362,11 @@
       "tier": "补充",
       "period": "20世纪",
       "region": "欧洲",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "constructivism",
@@ -2440,11 +2440,11 @@
       "tier": "重要",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "high-tech",

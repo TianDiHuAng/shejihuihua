@@ -832,6 +832,30 @@
         "B5_pending_items": 123,
         "B7_unwritten_entries": 97
       }
+    },
+    {
+      "round": 34,
+      "date": "2026-11-23",
+      "new_entries": 12,
+      "upgrades": 0,
+      "reviews": 135,
+      "fixes": 3,
+      "pending_total": 147,
+      "check_result": "PASS: all checks, 0 errors; spotcheck 2 ok/1 fixed (art-deco umbrella-source disclosed, SVG unique labels); 12 style entries all L2; similarity <0.54; 14/14 unittest; 0 broken links",
+      "new_sources": 0,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B2",
+          "B4",
+          "B5",
+          "B7"
+        ],
+        "B2_sparse_cells": 5,
+        "B4_reader_questions_unanswered": 0,
+        "B5_pending_items": 135,
+        "B7_unwritten_entries": 85
+      }
     }
   ]
 }
