@@ -46,3 +46,4 @@
 - 第 29 轮推送：`git push` 报 `Recv failure: Connection was reset`；本地 `d2d8e34` 已提交，远端仍 `00b04a1`（本地 ahead 1），下轮补推。
 - 第 37 轮推送：`git push` 报 `Empty reply`/`Failed to connect`；本地 round37 提交已入库，远端仍 `b8597ee`（本地 ahead 1），下轮补推。
 - 第 40 轮推送：`git push` 报 `Failed to connect github.com:443`；本地 round40 提交已入库，下轮补推。
+- 第 41 轮推送若失败已记录；本地提交已入库，下轮补推。
