@@ -20,6 +20,16 @@
 
 执行顺序：每 10 个任务运行一次 `tools/check.py` 并 git commit；本轮新增 scope 条目 0（仅消化现有 scope）。
 
+## 下一轮队列（第 3 轮，按优先级）
+
+1. 纳入 5 份新核验来源（N1–N5，已在 `research/gaps-external-round02.md` 记录 HTTP 200）并置 verified=true。
+2. 新增 4 个 scope 条目：`mannerism`、`beaux-arts`、`vitruvian-triad`、`plein-air`（每项双源支持；`plein-air` 已裁决纳入，关联色彩/光影理论）。
+3. 复核 3 条待核实：新增来源是否可补足年份/设计者（保守，找不到就保持待核实）。
+4. B6 近期动态：评估 3 条实例/语境更新是否写入 `deconstructivism`、`visitor-route`、`chinese-architecture-style`（后两者为间接关联，需谨慎）。
+5. 核心 L1 收尾：`chinese-architecture-style`。
+6. 核心已写 L1 升级 L2：按引用次数与维度稀疏度排序。
+
 ## 已完成
 
 - 第 1 轮：项目搭建 + 40 条首批条目（详见 PROGRESS.md）
+- 第 2 轮：复核 3 条 + 新增 38 条核心 L1；抽检 4/4 合格；发现 B1 4 条、B6 3 条新缺口。

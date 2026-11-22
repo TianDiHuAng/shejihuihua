@@ -1,0 +1,35 @@
+{
+  "rounds": [
+    {
+      "round": 1,
+      "date": "2026-11-22",
+      "new_entries": 40,
+      "upgrades": 0,
+      "reviews": 0,
+      "fixes": 8,
+      "pending_total": 3,
+      "check_result": "PASS: all checks, 0 errors; 14/14 unittest; 0 broken links",
+      "new_sources": 118
+    },
+    {
+      "round": 2,
+      "date": "2026-11-22",
+      "new_entries": 38,
+      "upgrades": 0,
+      "reviews": 3,
+      "fixes": 0,
+      "pending_total": 8,
+      "check_result": "PASS: all checks, 0 errors; spotcheck 4/4 qualified; 0 broken links",
+      "new_sources": 0,
+      "gaps": {
+        "methods_used": ["B1", "B2", "B3", "B5", "B6", "B7"],
+        "B1_scope_candidates": 4,
+        "B2_sparse_cells": 9,
+        "B3_dangling_refs": 0,
+        "B5_pending_items": 3,
+        "B6_recent_updates": 3,
+        "B7_core_unwritten": 40
+      }
+    }
+  ]
+}

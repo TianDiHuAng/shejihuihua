@@ -3,7 +3,7 @@
 - 项目：静态网站《绘画理论与建筑空间设计》
 - 启动时间：2026-11-22 14:57 Asia/Hong_Kong
 - 工作方式：无人值守，按 TASK_design.md 与 WORKFLOW.md 分阶段推进；决策写入 DECISIONS.md
-- 当前轮次：第 1 轮（项目搭建 + 首批条目）
+- 当前轮次：第 2 轮已完成（项目搭建 + 两批条目）；下一轮：第 3 轮（自动模式）
 
 ## 阶段状态
 
@@ -13,7 +13,7 @@
 | 1 | 来源库 sources.json | 已完成 | data/sources.json（118 条，115 verified，link_ok 三态）、research/source_notes.md |
 | 2 | 校验器 tools/check.py | 已完成 | tools/check.py、tests/test_check.py（7/7 通过） |
 | 3 | 2 个 L2 样板 | 已完成 | entries/l2-samples.json（透视法、下沉庭院，含自绘 SVG） |
-| 4 | 首批条目（合计 40） | 本轮已完成 | entries/batch-01.json（38 条 L1）+ 2 条 L2；coverage.json 已同步 |
+| 4 | 条目累计 78 | 第 2 轮已完成 | batch-01（38 L1）+ l2-samples（2 L2）+ batch-02（38 L1）；coverage.json 同步 |
 | 5 | 总览页 / 索引 / 导航 / REPORT | 已完成 | site/（首页、40 条目页、索引、来源、覆盖报告）、REPORT.md |
 
 ## 本轮完成目标
@@ -26,8 +26,8 @@
 
 ## 下一轮起点
 
-阶段 4：从首个未写核心条目 `chiaroscuro` 开始，按核心→重要→补充顺序继续 L1 升级。
-本轮尚未写入 ALL_DONE；全部阶段完成后才写入。
+阶段 4：从 `chinese-architecture-style` 继续收尾核心 L1；随后按 BACKLOG 第 3 轮队列纳入 4 个新 scope 条目与 5 份新来源，并复核 3 条待核实、评估 3 条近期动态。
+本轮尚未写入 ALL_DONE；AUTONOMOUS.md 规定项目没有“做完”，只有饱和（SATURATION.json）。
 
 ## 变更日志
 
@@ -37,6 +37,7 @@
 - 2026-11-22 15:2x 阶段2：check.py 完成，7 个单元测试 RED→GREEN 全通过。
 - 2026-11-22 15:3x 阶段3–5：2 个 L2 样板、38 条 L1、站点生成、链接核验、报告完成。
 - 2026-11-22 15:4x 全量审查后修复：元数据漂移、L2 七节、覆盖矩阵校验、SVG 越界/事件属性、link_ok 三态、待核实联动、层级口径、批次优先级；14/14 测试通过。
+- 2026-11-22 15:5x 第 2 轮自动模式：缺口发现 6 种方法；复核 3 条待核实；新增 38 条核心 L1（累计 78）；抽检 4/4 合格；发现 B1 4 条 + B6 3 条新缺口；check.py 0 errors、0 broken links。
 
 ## 审查与修复记录
 
