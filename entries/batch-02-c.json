@@ -118,17 +118,18 @@
         "thepaper-jingan",
         "jfdaily-jingan",
         "wp-sunken-courtyard",
-        "people-sh-jingan"
+        "people-sh-jingan",
+        "tongji-jingan"
       ],
       "needs_verification": true,
-      "pending_notes": "顾如珍负责建筑工程为单源，待补充独立来源；其他实例的设计者与年代待核实。",
+      "pending_notes": "顾如珍角色表述不一（主持/负责建筑工程）并列；其他实例待核实。",
       "sections": {
         "原理": "下沉广场借低于地面的高差形成相对独立的城市公共空间，兼顾聚集、通行与景观。",
         "典型手法与适用条件": "以台阶或坡道连接地面，配合绿化、水景与商业界面；适用于枢纽与商业中心。",
         "实例": "名称：静安寺下沉广场；地点：中国上海；设计者：卢济威主持城市设计、顾如珍负责建筑工程；年份：1999 年落成。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "排水、防潮、无障碍与视线盲区需专门处理；与地面人流衔接不当会形成死角。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方剖面示意：城市地面与下沉广场的高差。",
-        "待核实": "“顾如珍负责建筑工程”目前为澎湃单源，待补充独立第二来源；其他下沉广场实例的设计者与年代待核实。"
+        "待核实": "同济大学官网记卢济威、顾如珍等“主持”该项目，澎湃新闻记顾如珍“负责建筑工程”，两说并列不写死；其他实例的设计者与年代待核实。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='60' y1='150' x2='700' y2='150' stroke='var(--ink)' stroke-width='3'/><polyline points='60,150 220,150 220,300 540,300 540,150 700,150' fill='none' stroke='var(--muted)' stroke-width='2'/><rect x='260' y='200' width='240' height='100' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='300' y='140' fill='var(--ink)'>城市地面</text><text x='320' y='255' fill='var(--ink)'>下沉广场</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"

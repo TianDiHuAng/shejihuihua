@@ -1,0 +1,37 @@
+{
+  "unit_id": "batch-27",
+  "title": "第27轮补齐条目",
+  "entries": [
+    {
+      "id": "vestibule",
+      "title": "门厅",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "门厅是进入较大空间前的小型过渡房间，用作等候、挡风并减少热量流失。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "门厅位于室内与街道之间，可挡风、减少热损失，并为来访者提供安全的过渡与等候空间。",
+      "related": [
+        "transition-space"
+      ],
+      "sections": {
+        "原理": "作为“内外之间”的小房间，门厅在开门时阻挡冷风、减少热量流失，并提供一个受控的等候与过渡场所。",
+        "典型手法与适用条件": "以门厅容纳等候、存放外衣与安全缓冲；适用于住宅入口与公共建筑入口。",
+        "实例": "名称：公共建筑门厅（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "门厅过小会造成拥堵、过大则浪费能耗；疏散与无障碍宽度须按当地规范校核。实际工程须按当地规范和专业设计人员的要求。",
+        "一图": "见下方示意：门厅作为内外缓冲。",
+        "待核实": "门厅核心依据单一权威来源，待补充第二独立来源；具体实例的设计者与年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='150' width='180' height='140' fill='none' stroke='var(--muted)'/><rect x='260' y='170' width='240' height='100' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='500' y='150' width='180' height='140' fill='none' stroke='var(--muted)'/><text x='300' y='130' fill='var(--ink)'>门厅：内外之间的缓冲</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-vestibule-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "门厅核心定义依据单一权威来源（Vestibule 专条）；第二独立来源与具体实例的设计者、年代待补充。"
+    }
+  ]
+}

@@ -181,16 +181,17 @@
         "实例": "名称：公共建筑后勤流线；地点：待核实；设计者：待核实；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "后勤入口离主要使用区过远会降低效率；货运尺寸与疏散要求须按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方流线示意：公众流线与服务流线分离。",
-        "待核实": "核心依据目前为单一权威来源（原第二来源为泛论、未覆盖本子概念）；具体实例的设计者与年代待补充独立来源。"
+        "待核实": "核心已补第二独立来源；具体实例的设计者与年代待补充独立来源。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='60' y='70' width='640' height='260' fill='none' stroke='var(--line)'/><line x1='120' y1='200' x2='380' y2='200' stroke='var(--accent)' stroke-width='3'/><line x1='380' y1='200' x2='650' y2='200' stroke='var(--muted)' stroke-width='2' stroke-dasharray='8 6'/><circle cx='380' cy='200' r='16' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='130' y='170' fill='var(--ink)'>公众流线</text><text x='500' y='170' fill='var(--ink)'>后勤流线</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
-        "wp-wayfinding"
+        "wp-wayfinding",
+        "e-architect-boh"
       ],
       "needs_verification": true,
-      "pending_notes": "核心依据目前为单一权威来源（原第二来源为泛论、未覆盖本子概念）；具体实例的设计者与年代待补充独立来源。"
+      "pending_notes": "核心已补第二独立来源；具体实例的设计者与年代待补充独立来源。"
     }
   ]
 }

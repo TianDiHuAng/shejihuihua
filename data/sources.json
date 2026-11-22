@@ -2771,6 +2771,102 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载设计时间 2018、绿色建筑三星与示范工程"
+    },
+    {
+      "id": "getty-principles-design",
+      "title": "Principles of Design — J. Paul Getty Museum",
+      "author": "J. Paul Getty Museum",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.getty.edu/education/teachers/building_lessons/principles_design.pdf",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；平衡/动势/节奏等设计原则定义"
+    },
+    {
+      "id": "getty-balance-pr2",
+      "title": "Balance — Getty Education",
+      "author": "J. Paul Getty Museum",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.getty.edu/education/teachers/building_lessons/ufa_balance_pr2.pdf",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；对称与非对称平衡"
+    },
+    {
+      "id": "archdaily-postmodernism",
+      "title": "What Is Postmodernism? — ArchDaily",
+      "author": "ArchDaily",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.archdaily.com/964625/what-is-postmodernism",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；后现代主义引入历史元素、强调立面"
+    },
+    {
+      "id": "forschungsprojekt-pleinair",
+      "title": "Plein Air Painting — Forschungsprojekt Impressionismus",
+      "author": "科隆博物馆研究项目",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.forschungsprojekt-impressionismus.de/info.aspx?id=15&lang=en",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；外光写生即户外作画"
+    },
+    {
+      "id": "e-architect-boh",
+      "title": "Designing Back-of-House Spaces — e-architect",
+      "author": "e-architect",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.e-architect.com/articles/designing-back-of-house-spaces",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；后勤空间、服务通道与货运清洁流线"
+    },
+    {
+      "id": "designingbuildings-wayfinding",
+      "title": "Wayfinding — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Wayfinding",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；寻路定义：帮助人在建筑/环境中定向"
+    },
+    {
+      "id": "designingbuildings-zone",
+      "title": "Zone — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Zone",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；分区：为特定功能划分区域"
+    },
+    {
+      "id": "tongji-jingan",
+      "title": "上海静安寺广场（综合体）— 同济大学",
+      "author": "同济大学",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.tongji.edu.cn/info/1033/10705.htm",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；卢济威、顾如珍等主持静安寺广场项目"
     }
   ]
 }

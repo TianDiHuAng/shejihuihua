@@ -79,7 +79,7 @@ QUESTIONS = {
         ("通用设计与无障碍如何区分？", "universal-design"),
         ("功能分区如何支持运营？", "functional-zoning"),
         ("服务动线如何避开公众流线？", "service-route"),
-        ("门厅如何承担过渡与安检？", "vestibule-architecture"),
+        ("门厅如何承担过渡与安检？", "vestibule"),
         ("灰空间在气候适应中有何价值？", "gray-space"),
         ("绿色建筑评价关注什么？", "green-architecture"),
         ("参数化设计如何辅助空间组织？", "parametric-architecture"),

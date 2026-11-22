@@ -219,7 +219,7 @@
       "region": "全球",
       "level": "L2",
       "status": "已写",
-      "source_count": 1,
+      "source_count": 2,
       "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
@@ -232,7 +232,7 @@
       "region": "全球",
       "level": "L2",
       "status": "已写",
-      "source_count": 1,
+      "source_count": 2,
       "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
@@ -297,7 +297,7 @@
       "region": "全球",
       "level": "L2",
       "status": "已写",
-      "source_count": 1,
+      "source_count": 2,
       "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
@@ -323,7 +323,7 @@
       "region": "全球",
       "level": "L2",
       "status": "已写",
-      "source_count": 1,
+      "source_count": 2,
       "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
@@ -1166,10 +1166,10 @@
       "tier": "重要",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 1,
-      "needs_verification_count": 0,
+      "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
     {
@@ -1194,7 +1194,7 @@
       "region": "全球",
       "level": "L2",
       "status": "已写",
-      "source_count": 1,
+      "source_count": 2,
       "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
@@ -1675,7 +1675,7 @@
       "region": "全球",
       "level": "L2",
       "status": "已写",
-      "source_count": 1,
+      "source_count": 2,
       "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
@@ -1753,7 +1753,7 @@
       "region": "全球",
       "level": "L2",
       "status": "已写",
-      "source_count": 4,
+      "source_count": 5,
       "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
@@ -2468,7 +2468,7 @@
       "region": "全球",
       "level": "L2",
       "status": "已写",
-      "source_count": 1,
+      "source_count": 2,
       "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
@@ -2897,7 +2897,7 @@
       "region": "欧洲",
       "level": "L2",
       "status": "已写",
-      "source_count": 1,
+      "source_count": 2,
       "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
@@ -2962,7 +2962,7 @@
       "region": "全球",
       "level": "L2",
       "status": "已写",
-      "source_count": 1,
+      "source_count": 2,
       "needs_verification_count": 1,
       "last_updated": "2026-11-22"
     },
