@@ -2939,6 +2939,66 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；Munsell 1858–1918、波士顿、1905 A Color Notation、hue/value/chroma"
+    },
+    {
+      "id": "libretexts-gothic-vault",
+      "title": "7.3: The Vaulted Arch — Humanities LibreTexts",
+      "author": "LibreTexts",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://human.libretexts.org/Courses/Gavilan_College/A_World_Perspective_of_Art_Appreciation_(Gustlin_and_Gustlin)_2.0/07:_The_Sacred_Buildings_of_Civilizations_(200_CE__1400_CE)/7.03:_The_Vaulted_Arch",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；尖拱/肋拱/飞扶壁用于哥特建筑"
+    },
+    {
+      "id": "pcad-piazza",
+      "title": "Piazza d'Italia — PCAD (University of Washington)",
+      "author": "PCAD",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://pcad.lib.washington.edu/building/16410",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；Piazza d'Italia，Charles Willard Moore，1978–1979，新奥尔良"
+    },
+    {
+      "id": "docomomo-piazza",
+      "title": "Piazza d'Italia — Docomomo US",
+      "author": "Docomomo US",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://nocache.docomomo-us.org/register/piazza-d-italia",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；Charles Moore 后现代主义转向、Piazza d'Italia 1978"
+    },
+    {
+      "id": "basilicasanpietro",
+      "title": "Basilica di San Pietro — Fabbrica di San Pietro",
+      "author": "Fabbrica di San Pietro",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.basilicasanpietro.va/en/san-pietro",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；1506 奠基；贝尼尼广场 1667 建成"
+    },
+    {
+      "id": "turismoroma-sanpietro",
+      "title": "Piazza San Pietro — Turismo Roma",
+      "author": "Turismo Roma",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://turismoroma.it/en/node/710",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；马代尔诺 17 世纪立面、贝尼尼巴洛克广场"
     }
   ]
 }

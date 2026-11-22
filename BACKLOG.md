@@ -25,12 +25,12 @@
 
 执行顺序：每完成一批运行 check.py 并 commit；抽检 10%（至少 3 个）另起子任务。
 
-## 下一轮队列（第 29 轮，按优先级）
+## 下一轮队列（第 30 轮，按优先级）
 
-1. 维持 25% 抽检；补抽 gothic（若取得完整 LibreTexts URL 则登记）、modernism、color-theory。
-2. 继续去骨架化：为更多核心/重要条目补具名实例（配双权威源）。
-3. 复核 108 条待核实（glare 数值仍单源；gothic 风格核心单源）。
-4. 评估"连续零缺口"：B4 已 0；剩 B2 稀疏格 9 与 B5 单源，需逐格/逐条收敛。
+1. 体检（F，每 5 轮一次）：死链/过期/重复/矛盾/孤儿/来源重合。
+2. 维持 25% 抽检；补抽 postmodernism/bauhaus/baroque。
+3. 继续去骨架化：为更多条目补具名实例（双源）；复核 107 条待核实（glare 数值单源等）。
+4. 逐格收敛 9 个稀疏格（可考虑少量新增条目，单轮新增≤10%）。
 
 ## 已完成
 
@@ -62,3 +62,4 @@
 - 第 26 轮：5 条新增 L1→L2（伦勃朗光/暗绘/广场/中庭/疏散标识），**全库 131 条全部 L2**；pending_notes 去模板化（63 同句→各异）；12 条伞源条目改单源如实标注；green-architecture（常州高新智汇中心）升级、drainage 收窄
 - 第 27 轮：补齐 vestibule（门厅）L2，**读者 80 问全部可答（未答 0）**；9 条单源条目补真实第二来源（Getty/LibreTexts/ArchDaily/同济等）、sunken-plaza 补同济第二源；vestibule 返工为单源如实标注
 - 第 28 轮：leading-lines/axis 补第二源；gothic/modernism/color-theory 去骨架化具名实例（巴黎圣母院/包豪斯德绍/蒙塞尔色彩体系），color-theory 升级为已验证；10 条单源中 9 条已补源（余 gothic 待完整 URL）
+- 第 29 轮：gothic 补第二源并升级；postmodernism（意大利广场）、bauhaus（德绍校舍）去骨架化；新增 baroque（圣彼得大教堂，双官方源）L2；抽检 3/3 合格

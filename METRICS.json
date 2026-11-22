@@ -708,6 +708,30 @@
         "B5_pending_items": 109,
         "B7_all_l1_remaining": 0
       }
+    },
+    {
+      "round": 29,
+      "date": "2026-11-22",
+      "new_entries": 1,
+      "upgrades": 0,
+      "reviews": 108,
+      "fixes": 8,
+      "pending_total": 107,
+      "check_result": "PASS: all checks, 0 errors; spotcheck 3/3 qualified; gothic 2nd source added; postmodernism/bauhaus named instances (dual sources); new baroque entry with St Peter dual sources; 14/14 unittest; 0 broken links",
+      "new_sources": 5,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B2",
+          "B4",
+          "B5",
+          "B7"
+        ],
+        "B2_sparse_cells": 9,
+        "B4_reader_questions_unanswered": 0,
+        "B5_pending_items": 108,
+        "B7_all_l1_remaining": 0
+      }
     }
   ]
 }

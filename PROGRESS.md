@@ -3,7 +3,7 @@
 - 项目：静态网站《绘画理论与建筑空间设计》
 - 启动时间：2026-11-22 14:57 Asia/Hong_Kong
 - 工作方式：无人值守，按 TASK_design.md 与 WORKFLOW.md 分阶段推进；决策写入 DECISIONS.md
-- 当前轮次：第 28 轮已完成（自动模式）；下一轮：第 29 轮
+- 当前轮次：第 29 轮已完成（自动模式）；下一轮：第 30 轮（含体检）
 
 ## 阶段状态
 
@@ -13,7 +13,7 @@
 | 1 | 来源库 sources.json | 已完成 | data/sources.json（118 条，115 verified，link_ok 三态）、research/source_notes.md |
 | 2 | 校验器 tools/check.py | 已完成 | tools/check.py、tests/test_check.py（7/7 通过） |
 | 3 | 2 个 L2 样板 | 已完成 | entries/l2-samples.json（透视法、下沉庭院，含自绘 SVG） |
-| 4 | 条目累计 132 | 第 28 轮已完成 | 范围 242；已写 132（全部 L2）；来源 245；待核实 108；读者未答 0 |
+| 4 | 条目累计 133 | 第 29 轮已完成 | 范围 242；已写 133（全部 L2）；来源 250；待核实 107；读者未答 0 |
 | 5 | 总览页 / 索引 / 导航 / REPORT | 已完成 | site/（首页、40 条目页、索引、来源、覆盖报告）、REPORT.md |
 
 ## 本轮完成目标
@@ -26,7 +26,7 @@
 
 ## 下一轮起点
 
-阶段 4：按 BACKLOG 第 29 轮队列执行：补抽 3 条、继续去骨架化补具名实例、复核 108 条待核实、逐格收敛稀疏格。
+阶段 4：按 BACKLOG 第 30 轮队列执行：体检（F）、补抽 3 条、继续去骨架化、复核 107 条待核实、逐格收敛稀疏格。
 本轮尚未写入 ALL_DONE；AUTONOMOUS.md 规定项目没有“做完”，只有饱和（SATURATION.json）。
 
 ## 变更日志
@@ -76,3 +76,4 @@
 - 2026-11-22 22:2x 第 26 轮自动模式：5 条新增 L1→L2（伦勃朗光/暗绘/广场/中庭/疏散标识），全库 131 条全部 L2；pending_notes 去模板化（63 同句→各异）；12 条伞源条目改单源如实标注；green-architecture 升级、drainage 收窄；抽检 1 合格/2 已修（来源 231，待核实 108）。
 - 2026-11-22 22:4x 第 27 轮自动模式：补齐 vestibule（门厅）L2，读者 80 问全部可答；9 条单源条目补真实第二来源（Getty/LibreTexts/ArchDaily/同济等）、sunken-plaza 补同济第二源；vestibule 返工为单源如实标注；抽检 2 合格/1 已修（累计 132，来源 239，待核实 109）。
 - 2026-11-22 23:0x 第 28 轮自动模式：leading-lines/axis 补第二源；gothic（巴黎圣母院）、modernism（包豪斯德绍）、color-theory（蒙塞尔色彩体系）去骨架化具名实例，color-theory 升级；抽检 2 合格/1 定向（gothic 第二源待完整 URL）；check.py 0 errors（累计 132，来源 245，待核实 108）。
+- 2026-11-22 23:1x 第 29 轮自动模式：gothic 补 LibreTexts 第二源并升级；postmodernism（意大利广场）、bauhaus（德绍校舍）去骨架化；新增 baroque（圣彼得大教堂，双官方源）；抽检 3/3 合格（累计 133，来源 250，待核实 107）。
