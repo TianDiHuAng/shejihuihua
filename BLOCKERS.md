@@ -40,3 +40,4 @@
 - 第 16 轮推送：`git push` 报 `Recv failure: Connection was reset`；本地 `4675af5` 已提交，远端仍 `fba0fd6`（本地 ahead 1），下轮补推。
 - 第 19 轮推送：`git push` 报 `Recv failure: Connection was reset`；本地 `0bc3fcf` 已提交，远端仍 `8e5034b`（本地 ahead 1），下轮补推。
 - 第 23 轮推送：`git push` 报 `Recv failure: Connection was reset`；本地 `f29973f` 已提交，远端仍 `8cf52f3`（本地 ahead 1），下轮补推。
+- 第 24 轮推送：`git push` 报 `Empty reply from server`；本地 `2854579` 已提交，远端仍 `8cf52f3`（本地 ahead 3），下轮补推。
