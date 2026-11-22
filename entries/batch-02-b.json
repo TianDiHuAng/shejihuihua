@@ -1,0 +1,212 @@
+{
+  "unit_id": "batch-02-b",
+  "title": "第2轮核心 L1（2/4）",
+  "entries": [
+    {
+      "id": "transition-space",
+      "title": "过渡空间",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "连接两个不同性质空间的中间地带。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "过渡空间缓冲内外、公私或动静的突变，常见于门厅、廊与檐下。",
+      "related": [
+        "gray-space"
+      ],
+      "sources": [
+        "wp-vestibule-architecture",
+        "wp-loggia"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "spatial-organization",
+      "title": "空间组织方式",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "把功能、流线与空间单元组织成整体的方式。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "常见组织方式包括串联、并列、集中与放射，各有适用条件。",
+      "related": [
+        "interior-exterior-transition"
+      ],
+      "sources": [
+        "wp-architecture",
+        "wp-architectural-theory"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "interior-exterior-transition",
+      "title": "室内外过渡",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "室内与室外在空间、视线与气候上的连续过渡。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "庭院、廊道与可开启界面让内外界线变得可渗透。",
+      "related": [
+        "eaves-space"
+      ],
+      "sources": [
+        "wp-courtyard",
+        "wp-loggia"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "courtyard",
+      "title": "庭院",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "由建筑或墙体围合、向天空开敞的院落空间。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "庭院提供采光、通风与安静的户外活动场所，是多种文化的共同原型。",
+      "related": [
+        "opening-interface"
+      ],
+      "sources": [
+        "wp-courtyard",
+        "wp-chinese-garden"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "borrowed-scenery",
+      "title": "借景",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "造景",
+      "period": "古代",
+      "region": "中国",
+      "definition": "把园外景物纳入园内视线的造景手法。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "借景突破边界，使远景、山形或塔影成为园中画面的一部分。",
+      "related": [
+        "framed-scenery"
+      ],
+      "sources": [
+        "wp-borrowed-scenery",
+        "wp-chinese-garden"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    },
+    {
+      "id": "framed-scenery",
+      "title": "框景",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "造景",
+      "period": "古代",
+      "region": "中国",
+      "definition": "以门窗、洞口或枝干围合景物形成画面的手法。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "框景把连续风景切成局部画面，强化观看的焦点与层次。",
+      "related": [
+        "opposed-scenery"
+      ],
+      "sources": [
+        "wp-chinese-garden"
+      ],
+      "needs_verification": true,
+      "pending_notes": "仅见中国园林综合条目，待补充针对框景的独立来源。"
+    },
+    {
+      "id": "opposed-scenery",
+      "title": "对景",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "造景",
+      "period": "古代",
+      "region": "中国",
+      "definition": "在视线端点设置景物以形成呼应的造景手法。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "对景让行进终点成为视觉落点，组织游线的高潮。",
+      "related": [
+        "screened-scenery"
+      ],
+      "sources": [
+        "wp-chinese-garden"
+      ],
+      "needs_verification": true,
+      "pending_notes": "仅见中国园林综合条目，待补充针对对景的独立来源。"
+    },
+    {
+      "id": "screened-scenery",
+      "title": "障景",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "造景",
+      "period": "古代",
+      "region": "中国",
+      "definition": "以墙体、山石或植物遮挡视线后再揭示景物的手法。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "障景通过先抑后扬制造悬念，控制观看节奏。",
+      "related": [
+        "winding-path"
+      ],
+      "sources": [
+        "wp-chinese-garden"
+      ],
+      "needs_verification": true,
+      "pending_notes": "仅见中国园林综合条目，待补充针对障景的独立来源。"
+    },
+    {
+      "id": "winding-path",
+      "title": "曲径",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "造景",
+      "period": "古代",
+      "region": "中国",
+      "definition": "以曲折路线延长游览并变化视角的造景手法。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "曲径使有限场地产生多重画面，也让行进速度放缓。",
+      "related": [
+        "tour-route"
+      ],
+      "sources": [
+        "wp-chinese-garden"
+      ],
+      "needs_verification": true,
+      "pending_notes": "仅见中国园林综合条目，待补充针对曲径的独立来源。"
+    },
+    {
+      "id": "tour-route",
+      "title": "游线",
+      "level": "L1",
+      "tier": "核心",
+      "theme": "造景",
+      "period": "古代",
+      "region": "中国",
+      "definition": "把景点按时间与视线关系串联的游线组织。",
+      "time_or_place": "古代中国（参见来源）。",
+      "overview": "游线决定先看什么、何时转折与在哪里停留，是园林叙事的骨架。",
+      "related": [
+        "leaked-scenery"
+      ],
+      "sources": [
+        "wp-chinese-garden",
+        "wp-wayfinding"
+      ],
+      "needs_verification": false,
+      "pending_notes": ""
+    }
+  ]
+}
