@@ -677,7 +677,7 @@
     {
       "id": "visual-center",
       "title": "视觉中心",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
       "period": "跨时期",
@@ -692,13 +692,24 @@
         "wp-composition-visual-arts",
         "wp-rule-of-thirds"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "视觉中心是画面中优先吸引注意的区域，可由位置、对比或指向线建立，未必在几何中点。",
+        "典型手法与适用条件": "把主体放在三分点或对比最强处；适用于摄影、海报与界面首屏。",
+        "实例": "名称：三分点式视觉中心（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "多个等强焦点会分散注意；主体贴边易被裁切。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：偏离中心的视觉焦点。",
+        "待核实": "示例作品与作者年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='80' width='600' height='240' fill='none' stroke='var(--line)'/><circle cx='380' cy='200' r='26' fill='var(--accent)'/><circle cx='200' cy='140' r='14' fill='none' stroke='var(--muted)'/><circle cx='560' cy='260' r='14' fill='none' stroke='var(--muted)'/><text x='400' y='195' fill='var(--ink)'>视觉中心</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "contrast-principle",
       "title": "对比",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
       "period": "跨时期",
@@ -713,8 +724,19 @@
         "wp-composition-visual-arts",
         "wp-color-theory"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "对比借助明暗、色彩、形状与尺度的差异突出主体，但过度对比会破坏整体统一。",
+        "典型手法与适用条件": "以一方强、一方弱建立主次；可在大面积柔和区放置小块高对比。",
+        "实例": "名称：强弱对比的主次安排（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "处处强对比等于没有重点；低对比在弱光下不可读。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：强对比与弱对比并置。",
+        "待核实": "示例版式的出处待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='130' width='220' height='140' fill='var(--accent)'/><rect x='420' y='160' width='220' height='80' fill='var(--panel)' stroke='var(--line)'/><text x='180' y='110' fill='var(--ink)'>强对比</text><text x='480' y='140' fill='var(--ink)'>弱对比</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "rhythm-repetition",
@@ -973,7 +995,7 @@
     {
       "id": "curvilinear-perspective",
       "title": "曲线透视",
-      "level": "L1",
+      "level": "L2",
       "tier": "补充",
       "theme": "理论",
       "period": "20世纪",
@@ -988,8 +1010,19 @@
         "wp-curvilinear-perspective",
         "wp-perspective-graphical"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "曲线透视用弯曲的网格表现超广角或鱼眼视野，直线在画面边缘发生弯曲。",
+        "典型手法与适用条件": "用于全景、穹顶画与极端视角；可减轻直线透视在广角下的拉伸。",
+        "实例": "名称：广角全景的曲线透视（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "曲率使用不当会显得扭曲失真；与直线元素混用需谨慎。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：边缘弯曲的网格。",
+        "待核实": "示例作品与作者年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='80' width='600' height='240' fill='none' stroke='var(--line)'/><path d='M 120 120 Q 380 60 640 120' fill='none' stroke='var(--accent)'/><path d='M 120 280 Q 380 340 640 280' fill='none' stroke='var(--accent)'/><path d='M 140 300 Q 120 200 140 100' fill='none' stroke='var(--muted)'/><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "rule-of-space",

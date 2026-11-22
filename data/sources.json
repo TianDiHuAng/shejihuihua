@@ -2375,6 +2375,54 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；含集水坑、重现期、下沉空间雨水排放、压力流提升等参数说明（体育馆具体参数单源保留待核实）"
+    },
+    {
+      "id": "bjdclib-zhaotangzi",
+      "title": "赵堂子胡同3号（朱启钤故居）— 北京市东城区图书馆",
+      "author": "北京市东城区图书馆",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.bjdclib.cn/ztfw/dhly/yard/202301/t20230116_43210.html",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载赵堂子胡同3号四进四合院、朱启钤20世纪30年代按《营造法式》设计督造、约3000㎡"
+    },
+    {
+      "id": "zgkpw-zhuqian",
+      "title": "朱启钤与中国营造学社 — 中国科普网",
+      "author": "中国科普网",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.zgkpw.org.cn/expert/jiliping/content_385726.html",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载朱启钤故居与营造学社 1932 年迁入"
+    },
+    {
+      "id": "cctv-zhaotangzi",
+      "title": "朱启钤故居 — 央视网",
+      "author": "中央广播电视总台",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://discovery.cctv.com/20070119/104637.shtml",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载赵堂子胡同3号朱启钤故居四合院"
+    },
+    {
+      "id": "people-sh-jingan",
+      "title": "静安寺广场建成于1999年 — 人民网上海频道",
+      "author": "人民网",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://sh.people.com.cn/BIG5/n2/2024/0319/c134768-40780072.html",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载静安寺广场建成于1999年9月15日"
     }
   ]
 }

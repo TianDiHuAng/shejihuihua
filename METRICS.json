@@ -479,6 +479,33 @@
         "B5_pending_items": 81,
         "B7_all_l1_remaining": 31
       }
+    },
+    {
+      "round": 20,
+      "date": "2026-11-22",
+      "new_entries": 0,
+      "upgrades": 6,
+      "reviews": 86,
+      "fixes": 2,
+      "pending_total": 86,
+      "check_result": "PASS: all checks, 0 errors; health check 0 dead links/0 dupes/0 orphans; spotcheck 3/6 qualified; courtyard 3-source, sunken-plaza 1999 second source; 14/14 unittest; 0 broken links",
+      "new_sources": 4,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B2",
+          "B4",
+          "B5",
+          "B7",
+          "F"
+        ],
+        "B2_sparse_cells": 9,
+        "B4_reader_questions_unanswered": 6,
+        "B5_pending_items": 86,
+        "B7_core_l1_remaining": 19,
+        "B7_all_l1_remaining": 25
+      },
+      "milestone": "all 重要 entries now L2; 核心 L1 remaining 19"
     }
   ]
 }

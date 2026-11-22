@@ -101,7 +101,7 @@
     {
       "id": "form-follows-function",
       "title": "形式追随功能",
-      "level": "L1",
+      "level": "L2",
       "tier": "重要",
       "theme": "理论",
       "period": "跨时期",
@@ -116,8 +116,19 @@
         "wp-form-follows-function",
         "wp-functionalism-architecture"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "实例的具体名称、设计者与年代待补充独立来源。",
+      "sections": {
+        "原理": "“形式追随功能”主张建筑的形态应由实际用途决定，而非先定样式再塞功能。",
+        "典型手法与适用条件": "先梳理功能与流线，再生成体量与开窗；适用于强调理性的现代建筑。",
+        "实例": "名称：功能主导的现代建筑（类型性描述）；地点：全球；设计者：不适用；年份：不适用。此处不复制图像。",
+        "常见错误与限制": "把命题绝对化会导致空间机械单调；形式与意义、文脉需一并权衡。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：从功能推导形态。",
+        "待核实": "示例建筑的设计者与年代待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='130' width='480' height='190' fill='none' stroke='var(--accent)'/><rect x='180' y='170' width='150' height='150' fill='var(--accent-soft)' stroke='var(--muted)'/><rect x='360' y='170' width='220' height='150' fill='none' stroke='var(--muted)'/><text x='200' y='105' fill='var(--ink)'>功能→形态</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     },
     {
       "id": "functionalism-architecture",

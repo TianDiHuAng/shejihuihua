@@ -356,6 +356,26 @@
         "all_l1_remaining": 31
       },
       "note": "7 upgrades; tour-route verified (Zhuozhengyuan); drainage/glare dual-sourced; L2 now 95"
+    },
+    {
+      "round": 20,
+      "date": "2026-11-22",
+      "zero_gap": false,
+      "methods_used": [
+        "B2",
+        "B4",
+        "B5",
+        "B7",
+        "F"
+      ],
+      "new_gaps": {
+        "sparse_cells": 9,
+        "reader_questions_unanswered": 6,
+        "pending_items": 86,
+        "core_l1_remaining": 19,
+        "all_l1_remaining": 25
+      },
+      "note": "六条升级；重要条目全部 L2；核心 L1 仍余 19；抽检 3/3 合格"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true"
