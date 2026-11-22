@@ -25,21 +25,13 @@
 
 执行顺序：每完成一批运行 check.py 并 commit；抽检 10%（至少 3 个）另起子任务。
 
-## 下一轮队列（第 4 轮，按优先级）
+## 下一轮队列（第 11 轮，按优先级）
 
-1. 抽检比例提高至 25%，覆盖本轮新增/升级条目。
-2. 复核 13 条待核实（含 3 条返工修正条目），逐条搜索第二独立来源；找不到保持待核实。
-3. 写作 `deconstructivism`（B6 有直接来源与近期实例候选）。
-4. 按引用次数和维度稀疏度，继续把核心/重要 L1 升级 L2（优先 B4 读者问题涉及的条目）。
-5. 处理 B4 中 34 个暂无直接答案的读者问题对应条目。
-
-## 下一轮队列（第 10 轮，按优先级）
-
-1. 纳入 B1 第 9 轮发现的 7 条双源候选（`placemaking`、`space-syntax`、`pattern-language`、`form-follows-function`、`functionalism-architecture`、`biophilic-design`、`defensible-space-theory`）：补入来源、新增 scope、写 L1。
-2. 维持 25% 抽检。
-3. 复核 31 条待核实。
-4. 继续升级 L1→L2（剩余 81 条）。
-5. 处理 B4 中 9 个暂无直接答案的读者问题对应条目；评估 B6 的 2 条新动态。
+1. **网络恢复后**实抓核验 B1 的 7 条候选来源（placemaking、space-syntax、pattern-language、form-follows-function、functionalism-architecture、biophilic-design、defensible-space-theory），核验通过后再纳入 scope 与写作；不得硬编码 verified。
+2. 维持 25% 抽检；补抽本轮未抽到的 renaissance-style、bauhaus、postmodernism。
+3. 复核 31 条待核实（含 sunken-courtyard 的 Rockefeller Center 线索）。
+4. 继续用现有已核验来源升级 L1→L2（剩余 75 条，优先核心）。
+5. 处理 B4 中 6 个暂无直接答案的读者问题对应条目。
 
 ## 已完成
 
@@ -52,3 +44,4 @@
 - 第 7 轮：纳入 9 份新来源、7 个新 scope 条目与 7 条 L1（累计 107）；复核 24 条（0 可升级）；抽检 3/3 合格
 - 第 8 轮：新增 6 条从业者问题 L2（累计 113）；复核 30 条（2 条概念层面升级）；B6 发现 2 条新动态；抽检 1 合格 / 2 待核实（已定向修正），无整批返工
 - 第 9 轮：新写 6 条 L2（累计 119）；复核 34 条（3 条概念层面升级）；B1 找到 7 条候选；抽检 1 不合格，整批返工完成
+- 第 10 轮：体检（0 死链/0 重复/0 孤儿）；网络中断，回滚未核验来源；用现有来源升级 6 条核心 L1→L2；复核 31 条（0 可升级）；抽检 3/3+4/4+3/3 合格，无返工

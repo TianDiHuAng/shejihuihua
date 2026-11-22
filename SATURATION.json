@@ -170,6 +170,27 @@
         "all_l1_remaining": 81
       },
       "note": "B1 found 7 candidates; spotcheck failed triggered rework; 3 concept-level upgrades applied"
+    },
+    {
+      "round": 10,
+      "date": "2026-11-22",
+      "zero_gap": false,
+      "methods_used": [
+        "B1",
+        "B2",
+        "B4",
+        "B5",
+        "B7",
+        "F"
+      ],
+      "new_gaps": {
+        "scope_candidates_deferred": 7,
+        "sparse_cells": 10,
+        "reader_questions_unanswered": 6,
+        "pending_items": 31,
+        "all_l1_remaining": 75
+      },
+      "note": "B1 candidates deferred pending network verification; 6 core L1->L2 upgrades; health check clean"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true"

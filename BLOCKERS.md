@@ -25,3 +25,11 @@
 - 连续 3 次 `git push origin master:main` 失败：`Recv failure: Connection was reset`；两次 `Failed to connect to github.com:443 after ~21s`。
 - 本地提交 `8bb83b9` 已完成，远端仍停留在 `09a899b`；按 AUTONOMOUS.md 第六节记录后跳过，下一轮网络恢复时补推。
 - 本问题不影响本地知识库、校验与站点生成。
+
+## 第 10 轮：来源实抓网络中断，回滚未核验来源（已处置）
+
+- 现象：本轮拟新增的 12 份 Wikipedia 来源在生成脚本中按计划写入 verified=true，但 add_sources_round10.py 缺少实抓核验步骤；随后网络完全中断（en.wikipedia.org:443 / britannica.com 超时或 403，DNS 异常）。
+- 处置：按「verified=true 必须实抓核对」硬性规则，已 `git checkout` 回滚 scope.md、coverage.json、coverage-matrix.md、data/sources.json、tools/gen_scope.py，并删除 entries/batch-10.json 与两个生成脚本。本轮改为：体检（F）+ 用现有已核验来源升级核心 L1→L2，不新增来源。
+- 教训：新增来源脚本必须先 urllib 实抓并校验 title/H1 才能置 verified=true；不得硬编码 verified= 或 needs_verification 标志。
+- 遗留：B1 的 7 条候选待网络恢复后实抓核验再纳入。
+- 不影响已提交知识库、校验与站点生成。
