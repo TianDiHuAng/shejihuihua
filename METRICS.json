@@ -980,6 +980,35 @@
         "B7_unwritten_entries": 0
       },
       "healthcheck": "0 broken,6 dead(unused mostly),0 dupes,0 orphans"
+    },
+    {
+      "round": 40,
+      "date": "2026-11-23",
+      "new_entries": 1,
+      "upgrades": 0,
+      "reviews": 214,
+      "fixes": 8,
+      "pending_total": 215,
+      "check_result": "PASS: all checks, 0 errors; health 0 dead/0 dupes/0 orphans; spotcheck 2 pending/1 failed(tibetan) -> 4 batch-38 entries resourced (xizang/slxy/ihchina/Leach/VT/Suzhou/CTnews/Hotan/Turpan); B1 found 1 new candidate proxemics added; 247 entries all L2; 14/14 unittest; 0 broken links",
+      "new_sources": 11,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B1",
+          "B2",
+          "B4",
+          "B5",
+          "B6",
+          "B7",
+          "F"
+        ],
+        "B1_new_candidates": 1,
+        "B2_sparse_cells": 5,
+        "B4_reader_questions_unanswered": 0,
+        "B5_pending_items": 214,
+        "B6_new_dynamics": 0,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }

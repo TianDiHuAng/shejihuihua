@@ -728,6 +728,27 @@
         "unwritten_entries": 0
       },
       "note": "6 style instances upgraded; health clean; pending remains"
+    },
+    {
+      "round": 40,
+      "date": "2026-11-23",
+      "zero_gap": false,
+      "methods_used": [
+        "B1",
+        "B2",
+        "B4",
+        "B5",
+        "B6",
+        "B7",
+        "F"
+      ],
+      "new_gaps": {
+        "B1_new_candidates": 1,
+        "sparse_cells": 5,
+        "pending_items": 215,
+        "unwritten_entries": 0
+      },
+      "note": "B1 found new candidate proxemics -> not zero-gap; batch-38 reworked"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true"

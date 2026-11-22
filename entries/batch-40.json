@@ -1,0 +1,39 @@
+{
+  "unit_id": "batch-40",
+  "title": "第40轮新增条目",
+  "entries": [
+    {
+      "id": "proxemics",
+      "title": "近距学（Proxemics）",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "近距学（Proxemics）研究人如何用距离与空间安排来调节社交互动。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "它区分亲密、个人、社交与公共等距离，并把这一尺度用于室内与城市空间布局。",
+      "related": [
+        "human-scale",
+        "spatial-perception"
+      ],
+      "sections": {
+        "原理": "人际互动有惯用的距离带：过近引起紧张、过远显得疏离，空间设计据此安排座位、通道与房间尺度。",
+        "典型手法与适用条件": "按互动类型设定桌椅间距、通道宽度与半私密边界；适用于办公、餐饮与公共空间。",
+        "实例": "名称：按社交距离布置的候车厅座椅（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "忽视文化差异与个体偏好会误判；具体尺寸须按规范与人群校核。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：亲密—社交—公共的距离带。",
+        "待核实": "「近距学」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='380' cy='200' r='40' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='380' cy='200' r='90' fill='none' stroke='var(--muted)'/><circle cx='380' cy='200' r='150' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>近距学：亲密—社交—公共距离</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-proxemics",
+        "designingbuildings-proxemics"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「近距学」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    }
+  ]
+}

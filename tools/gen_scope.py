@@ -254,6 +254,7 @@ atrium-architecture|中庭|材料|重要|跨时期|全球|wp-atrium-architecture
 exit-sign|疏散标识（安全出口标识）|动线|补充|20世纪|全球|wp-exit-sign,ecfr-1910-37
 mexican-baroque|墨西哥巴洛克（新西班牙巴洛克）|风格|补充|文艺复兴至19世纪|美洲|wp-new-spanish-baroque,designingbuildings-baroque
 metabolism|新陈代谢派（Metabolism）|理论|重要|20世纪|东亚|wp-metabolism-architecture,designingbuildings-metabolism
+proxemics|近距学（Proxemics）|理论|重要|20世纪|全球|wp-proxemics,designingbuildings-proxemics
 academic-art-theory|学院派理论与素描教学|理论|重要|文艺复兴至19世纪|全球|wp-academic-art,artincontext-academic
 classical-order|古典柱式|理论|重要|古代|欧洲|wp-classical-order,designingbuildings-classical
 """

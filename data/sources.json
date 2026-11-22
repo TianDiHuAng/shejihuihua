@@ -3383,6 +3383,138 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；克莱斯勒大厦指定报告，Van Alen，1930"
+    },
+    {
+      "id": "xizang-tibetan-arch",
+      "title": "西藏传统建筑 — 西藏自治区人民政府",
+      "author": "西藏自治区人民政府",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.xizang.gov.cn/xwzx_406/bmkx/202604/t20260401_532425.html",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；石木混合结构、平顶、厚石墙小窗保温、收分墙抗震"
+    },
+    {
+      "id": "slxy-tibetan-arch",
+      "title": "藏式民居建筑 — 商洛学院",
+      "author": "商洛学院",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://jjc.slxy.edu.cn/info/1992/2454.htm",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；土石木碉楼、方形平顶、梯形小窗"
+    },
+    {
+      "id": "ihchina-tibetan",
+      "title": "藏族民居建筑技艺 — 中国非物质文化遗产网",
+      "author": "中国非物质文化遗产网",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.ihchina.cn/project_details/14699/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；平顶、石木交错墙体、阶梯形"
+    },
+    {
+      "id": "leach-rock-garden",
+      "title": "Rock Garden — Leach Botanical Garden",
+      "author": "Leach Botanical Garden",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.leachgarden.org/interpretive-signage/rock-garden",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；岩石园土壤排水良好、贫瘠、岩生或荒漠植物"
+    },
+    {
+      "id": "vt-rock-garden",
+      "title": "Rock gardens and drought-tolerant landscapes — Virginia Tech",
+      "author": "Virginia Cooperative Extension",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://news.vt.edu/articles/2024/09/ext-looking-for-a-landscape-design-that-withstands-drought-and-poor-soil.html",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；岩石园模拟高山环境、需良好排水、耐旱耐贫瘠"
+    },
+    {
+      "id": "suzhou-ylj-time",
+      "title": "苏州园林的四季造景 — 苏州市园林和绿化管理局",
+      "author": "苏州市园林和绿化管理局",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://ylj.suzhou.gov.cn/szsylj/ylys/201903/ff62110521b940d294df634f18559b32.shtml",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；利用花木季节性构成四季不同景色、雾晨月夜"
+    },
+    {
+      "id": "ctnews-time",
+      "title": "四时风景不同 — 中国旅游新闻网",
+      "author": "中国旅游报",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.ctnews.com.cn/xczm/content/2024-05/28/content_160715.html",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；黄昏新月暮霭、雨打芭蕉、落雪等时序意境"
+    },
+    {
+      "id": "hts-xinjiang",
+      "title": "维吾尔族民居建筑技艺 — 和田市人民政府",
+      "author": "和田市人民政府",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.hts.gov.cn/lvyouguanguang/minzufengqing/1/content_465.html",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；黄粘土方形平顶、厚土墙拱顶、庭院与外廊"
+    },
+    {
+      "id": "tlf-xinjiang",
+      "title": "吐鲁番生土建筑 — 吐鲁番市人民政府",
+      "author": "吐鲁番市人民政府",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.tlf.gov.cn/tlfs/c106441/200910/64a7d5dc80b0412681082dd6a60187e6.shtml",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；土坯砌墙、拱形屋顶、外廊、葡萄架地下室避暑"
+    },
+    {
+      "id": "wp-proxemics",
+      "title": "Proxemics",
+      "author": "Wikipedia",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Proxemics",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；近距学：人际距离与空间组织（经镜像核验）"
+    },
+    {
+      "id": "designingbuildings-proxemics",
+      "title": "Proxemics — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Proxemics",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；近距学在建成环境中的定义与应用"
     }
   ]
 }

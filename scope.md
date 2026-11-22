@@ -5,11 +5,11 @@
 第 7 轮候选直接以 data/sources.json 的来源 id 标注（详见 research/gaps-external-round06.md）。
 每条标注层级与来源编号。
 
-总计 246 条：理论 122、风格 62、造景 19、
+总计 247 条：理论 123、风格 62、造景 19、
 动线 12、下沉空间 12、材料 19。
-层级分布：核心 50、重要 143、补充 53。
+层级分布：核心 50、重要 144、补充 53。
 
-## 理论（122 条）
+## 理论（123 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -133,6 +133,7 @@
 | defensible-space-theory | 防御性空间理论 | 重要 | 20世纪 | 全球 | wp-defensible-space-theory,wp-cpted |
 | rembrandt | 伦勃朗光 | 补充 | 文艺复兴至19世纪 | 欧洲 | wp-rembrandt-lighting,rijksmuseum-rembrandt |
 | metabolism | 新陈代谢派（Metabolism） | 重要 | 20世纪 | 东亚 | wp-metabolism-architecture,designingbuildings-metabolism |
+| proxemics | 近距学（Proxemics） | 重要 | 20世纪 | 全球 | wp-proxemics,designingbuildings-proxemics |
 | academic-art-theory | 学院派理论与素描教学 | 重要 | 文艺复兴至19世纪 | 全球 | wp-academic-art,artincontext-academic |
 | classical-order | 古典柱式 | 重要 | 古代 | 欧洲 | wp-classical-order,designingbuildings-classical |
 
