@@ -581,11 +581,11 @@
       "tier": "补充",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "chiaroscuro",
@@ -1244,11 +1244,11 @@
       "tier": "补充",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "courtyard",
@@ -1335,11 +1335,11 @@
       "tier": "补充",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "universal-design",
@@ -1582,11 +1582,11 @@
       "tier": "补充",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "rock-garden",
@@ -1595,11 +1595,11 @@
       "tier": "补充",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "circulation",
@@ -1790,11 +1790,11 @@
       "tier": "补充",
       "period": "20世纪",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "light-well",
@@ -2232,11 +2232,11 @@
       "tier": "补充",
       "period": "文艺复兴至19世纪",
       "region": "欧洲",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "eclecticism",
@@ -2388,11 +2388,11 @@
       "tier": "补充",
       "period": "20世纪",
       "region": "欧洲",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "expressionism-style",
@@ -2401,11 +2401,11 @@
       "tier": "补充",
       "period": "20世纪",
       "region": "欧洲",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "brutalism",
@@ -2427,11 +2427,11 @@
       "tier": "补充",
       "period": "20世纪",
       "region": "欧洲",
-      "level": "L1",
-      "status": "未开始",
+      "level": "L2",
+      "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "organic-architecture",
@@ -2596,11 +2596,11 @@
       "tier": "补充",
       "period": "跨时期",
       "region": "东亚",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 3,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "islamic-architecture",
@@ -2635,11 +2635,11 @@
       "tier": "补充",
       "period": "跨时期",
       "region": "东亚",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "african-architecture",
@@ -2648,11 +2648,11 @@
       "tier": "补充",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "latin-american-colonial",
@@ -2661,11 +2661,11 @@
       "tier": "补充",
       "period": "文艺复兴至19世纪",
       "region": "美洲",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "brazilian-modernism",
@@ -2674,11 +2674,11 @@
       "tier": "补充",
       "period": "20世纪",
       "region": "美洲",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "mexican-modernism",
@@ -2687,11 +2687,11 @@
       "tier": "补充",
       "period": "20世纪",
       "region": "美洲",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "huizhou-style",
@@ -2713,11 +2713,11 @@
       "tier": "补充",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "lingnan-style",
@@ -2726,11 +2726,11 @@
       "tier": "补充",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "hokkien-style",
@@ -2739,11 +2739,11 @@
       "tier": "补充",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "hakka-style",
@@ -2752,11 +2752,11 @@
       "tier": "补充",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "gan-style",
@@ -2765,11 +2765,11 @@
       "tier": "补充",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "yaodong",
@@ -2778,11 +2778,11 @@
       "tier": "补充",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "tibetan-architecture",
@@ -2791,11 +2791,11 @@
       "tier": "补充",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "xinjiang-architecture",
@@ -2804,11 +2804,11 @@
       "tier": "补充",
       "period": "古代",
       "region": "中国",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "imperial-architecture",
@@ -2843,11 +2843,11 @@
       "tier": "补充",
       "period": "跨时期",
       "region": "全球",
-      "level": "L1",
-      "status": "未开始",
-      "source_count": 1,
-      "needs_verification_count": 0,
-      "last_updated": "2026-11-22"
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
     },
     {
       "id": "mannerism",

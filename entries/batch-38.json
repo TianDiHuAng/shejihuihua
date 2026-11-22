@@ -1,0 +1,757 @@
+{
+  "unit_id": "batch-38",
+  "title": "第38轮剩余补充条目",
+  "entries": [
+    {
+      "id": "split-primary",
+      "title": "分离原色调色",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "分离原色调色指以冷暖两套原色分别调色以扩大色域的做法。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "它用两组原色互补混色，减少色彩发灰。",
+      "related": [],
+      "sections": {
+        "原理": "分离原色调色指以冷暖两套原色分别调色以扩大色域的做法。它用两组原色互补混色，减少色彩发灰。",
+        "典型手法与适用条件": "以暖红/冷红、暖蓝/冷蓝等成对原色分别调色。",
+        "实例": "名称：分离原色调色的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "混色过多仍会发灰；需控比例。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：分离原色调色的要点。",
+        "待核实": "「分离原色调色」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='100' y='120' width='240' height='150' fill='none' stroke='var(--accent)'/><line x1='90' y1='300' x2='660' y2='170' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>分离原色调色</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-color-theory",
+        "wp-primary-color"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「分离原色调色」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "time-scenery",
+      "title": "时序造景",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "造景",
+      "period": "古代",
+      "region": "中国",
+      "definition": "时序造景指借晨昏、晴雨、雪月等时间与气象变化成景。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "同一景物因时序不同而意境各异。",
+      "related": [],
+      "sections": {
+        "原理": "时序造景指借晨昏、晴雨、雪月等时间与气象变化成景。同一景物因时序不同而意境各异。",
+        "典型手法与适用条件": "设观景点并题名，捕捉雨雪晨昏的景致。",
+        "实例": "名称：时序造景的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "依赖天时，非四季皆有。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：时序造景的要点。",
+        "待核实": "「时序造景」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='281' cy='191' r='61' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='479' cy='209' r='31' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>时序造景</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-garden",
+        "wp-garden-design"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「时序造景」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "rock-garden",
+      "title": "岩石园",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "造景",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "岩石园指以岩石与高山植物为主体的园林形式。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "它模拟高山岩生环境，展示耐旱植物。",
+      "related": [],
+      "sections": {
+        "原理": "岩石园指以岩石与高山植物为主体的园林形式。它模拟高山岩生环境，展示耐旱植物。",
+        "典型手法与适用条件": "以堆石与排水良好的基质配置高山植物。",
+        "实例": "名称：岩石园的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "排水不良会烂根；需专业配植。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：岩石园的要点。",
+        "待核实": "「岩石园」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='172,300 380,112 578,300' fill='none' stroke='var(--accent)'/><rect x='322' y='250' width='120' height='50' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>岩石园</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-garden-design",
+        "wp-landscape-design"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「岩石园」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "earth-sheltered",
+      "title": "覆土建筑",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "下沉空间",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "覆土建筑指部分或全部覆土、以土体保温隔热的建筑。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "它以土壤蓄热使室内温度平稳、并融入地形。",
+      "related": [],
+      "sections": {
+        "原理": "覆土建筑指部分或全部覆土、以土体保温隔热的建筑。它以土壤蓄热使室内温度平稳、并融入地形。",
+        "典型手法与适用条件": "屋面或侧墙覆土，结合防水与采光井。",
+        "实例": "名称：覆土建筑的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "防水失效会渗漏；构造须专业。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：覆土建筑的要点。",
+        "待核实": "「覆土建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='153' y='130' width='113' height='150' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='153' width='130' height='120' fill='none' stroke='var(--muted)'/><rect x='497' y='120' width='100' height='170' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>覆土建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architecture",
+        "wp-sunken-courtyard"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「覆土建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "romanticism-style",
+      "title": "浪漫主义建筑",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "文艺复兴至19世纪",
+      "region": "欧洲",
+      "definition": "浪漫主义建筑偏爱如画轮廓与异域联想，借历史与自然唤起情感。",
+      "time_or_place": "18–19世纪、欧洲（参见来源）。",
+      "overview": "它反叛新古典的冷静秩序，追求不规则、戏剧化的轮廓。",
+      "related": [],
+      "sections": {
+        "原理": "浪漫主义以情感、想象与自然崇高对抗新古典的理性秩序，哥特复兴与如画趣味是其建筑表现。",
+        "典型手法与适用条件": "以哥特母题、如画轮廓与不规则体量唤起历史与自然联想。",
+        "实例": "名称：如画的哥特式宅邸（类型性描述）；地点与设计者不适用。看轮廓的高低错落。",
+        "常见错误与限制": "拼贴失当会杂乱。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：不规则如画轮廓。",
+        "待核实": "「浪漫主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 124 300 Q 300 124 596 280' fill='none' stroke='var(--accent)' stroke-width='3'/><line x1='100' y1='320' x2='660' y2='320' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>浪漫主义建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "henryford-gothic-revival",
+        "libretexts-romanticism"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「浪漫主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "futurism-style",
+      "title": "未来主义建筑",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "20世纪",
+      "region": "欧洲",
+      "definition": "未来主义建筑歌颂速度、机器与动态，用动势线条想象新城市。",
+      "time_or_place": "20世纪、欧洲（参见来源）。",
+      "overview": "它把运动感与技术崇拜写进建筑构想。",
+      "related": [],
+      "sections": {
+        "原理": "以斜面、流线与对机器的想象表现速度，多为纸上的构想。",
+        "典型手法与适用条件": "用斜面、动势线条与新材料的想象性表达。",
+        "实例": "名称：动势的城市构想图（类型性描述）；地点与设计者不适用。看斜面如何制造速度感。",
+        "常见错误与限制": "多为构想，落地困难。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：斜面与动势线条。",
+        "待核实": "「未来主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='125' width='520' height='155' fill='none' stroke='var(--accent)'/><line x1='380' y1='120' x2='380' y2='300' stroke='var(--muted)' stroke-dasharray='8 6'/><text x='40' y='40' fill='var(--ink)'>未来主义建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architectural-style",
+        "wp-modern-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「未来主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "expressionism-style",
+      "title": "表现主义建筑",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "20世纪",
+      "region": "欧洲",
+      "definition": "表现主义建筑用扭曲体量与雕塑感传递强烈情绪。",
+      "time_or_place": "20世纪、欧洲（参见来源）。",
+      "overview": "它像雕塑一样塑形，让材料与形式直接表达情感。",
+      "related": [],
+      "sections": {
+        "原理": "以非几何的流塑形体与砖砌肌理把内心情绪外化为建筑。",
+        "典型手法与适用条件": "以扭曲、流塑的体量与砖砌细部表达情绪。",
+        "实例": "名称：流塑体量的砖砌塔楼（类型性描述）；地点与设计者不适用。看形体如何扭曲。",
+        "常见错误与限制": "形式自由带来结构与造价挑战。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：扭曲流塑的体量。",
+        "待核实": "「表现主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='106' y='126' width='246' height='150' fill='none' stroke='var(--accent)'/><line x1='90' y1='294' x2='654' y2='176' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>表现主义建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architectural-style",
+        "wp-modern-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「表现主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "structuralism",
+      "title": "结构主义建筑",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "20世纪",
+      "region": "欧洲",
+      "definition": "结构主义建筑以可生长、可组合的结构单元组织空间。",
+      "time_or_place": "20世纪、欧洲（参见来源）。",
+      "overview": "它以模数单元与网格形成可扩展的秩序。",
+      "related": [],
+      "sections": {
+        "原理": "结构主义建筑以可生长、可组合的结构单元组织空间。它以模数单元与网格形成可扩展的秩序。",
+        "典型手法与适用条件": "以重复单元与网格按规则组合成整体。",
+        "实例": "名称：结构主义建筑的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "过度统一会单调。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：结构主义建筑的要点。",
+        "待核实": "「结构主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='287' cy='197' r='67' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='473' cy='203' r='37' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>结构主义建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architectural-style",
+        "wp-modern-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「结构主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "korean-architecture",
+      "title": "韩国建筑",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "跨时期",
+      "region": "东亚",
+      "definition": "韩国传统建筑以木构架、温突地面采暖与院落（마당 madang）组织生活为特征。",
+      "time_or_place": "跨时期、东亚（参见来源）。",
+      "overview": "木构承重使墙体轻巧，温突把地面变成采暖面，中央院落采光通风并承载家庭活动。",
+      "related": [],
+      "sections": {
+        "原理": "木构架承重、墙体轻，温突（地暖）与院落共同适应寒冬。",
+        "典型手法与适用条件": "以木构架、温突地暖与中央院落（madang）组织居住，室内外以缘侧过渡。",
+        "实例": "名称：木构院落与温突民居（类型性描述）；地点与设计者不适用。看地面采暖与院落。",
+        "常见错误与限制": "忽略气候与维护会失当。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：木构、院落与地面采暖。",
+        "待核实": "「韩国建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='178,300 380,118 572,300' fill='none' stroke='var(--accent)'/><rect x='328' y='250' width='120' height='50' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>韩国建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-korean-architecture",
+        "koreanet-hanok-madang",
+        "springer-hanok-madang"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「韩国建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "southeast-asian-architecture",
+      "title": "东南亚建筑",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "跨时期",
+      "region": "东亚",
+      "definition": "东南亚建筑多为高脚屋与深檐，应对湿热与洪水。",
+      "time_or_place": "跨时期、东亚（参见来源）。",
+      "overview": "架空防潮、深檐遮阳、通透墙体促通风。",
+      "related": [],
+      "sections": {
+        "原理": "把居住面抬离潮湿地面，用大出檐与通透围护换取通风与遮阳。",
+        "典型手法与适用条件": "以高脚、深檐、通透墙体组织通风防潮。",
+        "实例": "名称：湄南河畔的高脚木屋（类型性描述）；地点与设计者不适用。雨季洪水从架空的楼板下流过，深檐把烈日挡在墙外，穿堂风带走湿气。",
+        "常见错误与限制": "忽视湿热会导致霉变。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：架空楼板、深檐与对流通风。",
+        "待核实": "「东南亚建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='159' y='130' width='119' height='150' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='159' width='130' height='120' fill='none' stroke='var(--muted)'/><rect x='491' y='120' width='100' height='170' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>东南亚建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architectural-style",
+        "wp-vernacular-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「东南亚建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "african-architecture",
+      "title": "非洲建筑",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "非洲建筑以夯土、茅草、编织等本地材料塑出多样形态。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "形态随气候、族群与材料而千差万别。",
+      "related": [],
+      "sections": {
+        "原理": "就地取材，用土、草、木的构造回应当地气候与生活方式。",
+        "典型手法与适用条件": "以夯土、茅草与编织等本地材料建造。",
+        "实例": "名称：夯土与茅草的聚落屋（类型性描述）；地点与设计者不适用。看土墙与草顶。",
+        "常见错误与限制": "直接移植会破坏地域性。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：夯土墙体与茅草顶。",
+        "待核实": "「非洲建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 130 300 Q 300 130 590 280' fill='none' stroke='var(--accent)' stroke-width='3'/><line x1='100' y1='320' x2='660' y2='320' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>非洲建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architectural-style",
+        "wp-vernacular-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「非洲建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "latin-american-colonial",
+      "title": "拉美殖民建筑",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "文艺复兴至19世纪",
+      "region": "美洲",
+      "definition": "拉美殖民建筑混合欧洲巴洛克与本地工艺为特征。",
+      "time_or_place": "文艺复兴至19世纪、美洲（参见来源）。",
+      "overview": "它以厚重立面与繁复装饰体现殖民与本土交融。",
+      "related": [],
+      "sections": {
+        "原理": "拉美殖民建筑混合欧洲巴洛克与本地工艺为特征。它以厚重立面与繁复装饰体现殖民与本土交融。",
+        "典型手法与适用条件": "以巴洛克立面结合本地材料与装饰工艺。",
+        "实例": "名称：拉美殖民建筑的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "装饰堆砌会失整体。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：拉美殖民建筑的要点。",
+        "待核实": "「拉美殖民建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='131' width='520' height='161' fill='none' stroke='var(--accent)'/><line x1='380' y1='120' x2='380' y2='300' stroke='var(--muted)' stroke-dasharray='8 6'/><text x='40' y='40' fill='var(--ink)'>拉美殖民建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architectural-style",
+        "wp-history-of-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「拉美殖民建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "brazilian-modernism",
+      "title": "巴西现代主义",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "20世纪",
+      "region": "美洲",
+      "definition": "巴西现代主义以曲线混凝土的塑形自由与热带遮阳策略见长。",
+      "time_or_place": "20世纪、美洲（参见来源）。",
+      "overview": "它让混凝土像黏土一样弯折，用可调遮阳与开放平面适应湿热气候。",
+      "related": [],
+      "sections": {
+        "原理": "曲线混凝土塑形、遮阳板（brise-soleil）控光，使现代结构与热带气候结合。",
+        "典型手法与适用条件": "以曲线混凝土、遮阳板与开放平面组织。",
+        "实例": "名称：热带住宅的曲线雨篷（类型性描述）；地点与设计者不适用。自由曲线的混凝土雨篷向外舒展，竖片遮阳随日照角度旋转。",
+        "常见错误与限制": "忽视遮阳会过热。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：曲线雨篷与可调遮阳竖片。",
+        "待核实": "「巴西现代主义」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='112' y='132' width='252' height='150' fill='none' stroke='var(--accent)'/><line x1='90' y1='288' x2='648' y2='182' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>巴西现代主义</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-modern-architecture",
+        "wp-architectural-style"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「巴西现代主义」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "mexican-modernism",
+      "title": "墨西哥现代主义",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "20世纪",
+      "region": "美洲",
+      "definition": "墨西哥现代主义把现代体量当作公共艺术的载体，强调纪念性与壁画。",
+      "time_or_place": "20世纪、美洲（参见来源）。",
+      "overview": "它以厚重混凝土体量与巨幅壁画表达民族叙事，广场尺度宏大。",
+      "related": [],
+      "sections": {
+        "原理": "以厚重混凝土体量承载壁画与色彩，把现代结构当作公共表达的画布。",
+        "典型手法与适用条件": "以混凝土体量结合壁画与地域色彩。",
+        "实例": "名称：壁画混凝土公共建筑（类型性描述）；地点与设计者不适用。粗粝的混凝土墙面被巨幅壁画覆盖，体量在广场上投下浓重阴影。",
+        "常见错误与限制": "形式与功能脱节会失当。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：混凝土体量与其上的壁画。",
+        "待核实": "「墨西哥现代主义」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='293' cy='203' r='73' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='467' cy='197' r='43' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>墨西哥现代主义</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-modern-architecture",
+        "wp-architectural-style"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「墨西哥现代主义」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "shanxi-style",
+      "title": "晋派建筑",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "古代",
+      "region": "中国",
+      "definition": "晋派建筑是山西一带高墙窄院、砖雕精细的商贾聚落建筑。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "为御寒与防卫，院落狭长、外墙高厚。",
+      "related": [],
+      "sections": {
+        "原理": "高墙窄院利于保温与防卫，砖雕与门楼体现财力与礼制。",
+        "典型手法与适用条件": "以窄长院落、高墙与砖雕组织聚落。",
+        "实例": "名称：晋商高墙窄院（类型性描述）；地点与设计者不适用。两进窄院夹在高厚砖墙之间，门楼砖雕在冬日斜阳里投下细密阴影。",
+        "常见错误与限制": "采光与排水需按规范。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：狭长院落与高厚砖墙。",
+        "待核实": "「晋派建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='184,300 380,124 566,300' fill='none' stroke='var(--accent)'/><rect x='334' y='250' width='120' height='50' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>晋派建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-architecture",
+        "wp-vernacular-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「晋派建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "lingnan-style",
+      "title": "岭南建筑",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "古代",
+      "region": "中国",
+      "definition": "岭南建筑以骑楼、趟门、天井应对湿热多雨。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "它通透轻巧，靠遮阳与通风降温。",
+      "related": [],
+      "sections": {
+        "原理": "骑楼遮阳避雨、天井拔风、趟门调节通风，构成湿热气候的空间策略。",
+        "典型手法与适用条件": "以天井、趟门、骑楼与灰塑组织通风防潮。",
+        "实例": "名称：骑楼下的街屋（类型性描述）；地点与设计者不适用。二层出挑的骑楼在街道上连成遮阳长廊，天井把湿热空气从屋顶拔走。",
+        "常见错误与限制": "防潮通风不当会霉变。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：骑楼长廊与拔风天井。",
+        "待核实": "「岭南建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='165' y='130' width='125' height='150' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='165' width='130' height='120' fill='none' stroke='var(--muted)'/><rect x='485' y='120' width='100' height='170' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>岭南建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-architecture",
+        "wp-vernacular-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「岭南建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "hokkien-style",
+      "title": "闽南建筑",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "古代",
+      "region": "中国",
+      "definition": "闽南建筑用红砖白石、燕尾脊与繁丽石雕木雕塑造鲜明形象。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "屋脊两端高高翘起如燕尾，色彩浓烈。",
+      "related": [],
+      "sections": {
+        "原理": "红砖白石相间、燕尾脊起翘，石雕木雕铺满细部，形成热烈的地域面貌。",
+        "典型手法与适用条件": "以红砖白石、燕尾脊与石雕木雕装饰。",
+        "实例": "名称：红砖燕尾脊的祠堂（类型性描述）；地点与设计者不适用。看燕尾脊与红砖。",
+        "常见错误与限制": "装饰过度会失结构逻辑。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：燕尾脊与红砖白石。",
+        "待核实": "「闽南建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 136 300 Q 300 136 584 280' fill='none' stroke='var(--accent)' stroke-width='3'/><line x1='100' y1='320' x2='660' y2='320' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>闽南建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-architecture",
+        "wp-vernacular-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「闽南建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "hakka-style",
+      "title": "客家建筑",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "古代",
+      "region": "中国",
+      "definition": "客家建筑是客家人为聚居防卫而建的围屋、土楼等集合住宅。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "厚墙、单一门楼与内向院落围合而居。",
+      "related": [],
+      "sections": {
+        "原理": "以夯土厚墙与内向院落围合大家族，单一入口兼作防卫。",
+        "典型手法与适用条件": "以夯土厚墙、内向院落与单一门楼组织。",
+        "实例": "名称：圆形土楼集合住宅（类型性描述）；地点与设计者不适用。看厚墙与单一门楼。",
+        "常见错误与限制": "尺度失当会阴暗潮湿。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：厚墙围合的土楼。",
+        "待核实": "「客家建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='137' width='520' height='167' fill='none' stroke='var(--accent)'/><line x1='380' y1='120' x2='380' y2='300' stroke='var(--muted)' stroke-dasharray='8 6'/><text x='40' y='40' fill='var(--ink)'>客家建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-architecture",
+        "wp-vernacular-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「客家建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "gan-style",
+      "title": "赣派建筑",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "古代",
+      "region": "中国",
+      "definition": "赣派建筑是江西村落中以四水归堂天井和阶梯马头墙防火为要的木构民居。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "雨水汇入天井、火势被阶梯山墙阻断，木构架则撑起通透的厅堂。",
+      "related": [],
+      "sections": {
+        "原理": "天井解决采光与排水，阶梯状马头墙阻断火势，木构架组织室内。",
+        "典型手法与适用条件": "以天井、马头墙与木构架组织村落。",
+        "实例": "名称：天井马头墙村落（类型性描述）；地点与设计者不适用。四水归堂的天井收拢雨水，阶梯状马头墙在屋顶两端层层跌落。",
+        "常见错误与限制": "防火与排水须按规范。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：四水归堂天井与阶梯马头墙。",
+        "待核实": "「赣派建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='118' y='138' width='258' height='150' fill='none' stroke='var(--accent)'/><line x1='90' y1='282' x2='642' y2='188' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>赣派建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-architecture",
+        "wp-vernacular-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「赣派建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "yaodong",
+      "title": "窑洞",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "古代",
+      "region": "中国",
+      "definition": "窑洞是黄土高原上依土崖挖筑的拱形生土居所。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "它利用黄土保温、冬暖夏凉。",
+      "related": [],
+      "sections": {
+        "原理": "窑洞是黄土高原上依土崖挖筑的拱形生土居所。它利用黄土保温、冬暖夏凉。",
+        "典型手法与适用条件": "依崖挖拱、以土体保温并设炕采光。",
+        "实例": "名称：窑洞的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "防水与结构失当有坍塌风险。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：窑洞的要点。",
+        "待核实": "「窑洞」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='299' cy='209' r='79' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='461' cy='191' r='49' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>窑洞</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-yaodong",
+        "wp-chinese-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「窑洞」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "tibetan-architecture",
+      "title": "藏式建筑",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "古代",
+      "region": "中国",
+      "definition": "藏式建筑以石木厚墙、平顶与碉楼式体量适应高原。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "厚墙保温、平顶晒场、梯形窗减少散热。",
+      "related": [],
+      "sections": {
+        "原理": "石砌厚墙蓄热保温，平顶可晾晒，梯形窗与深檐应对强日照与寒冷。",
+        "典型手法与适用条件": "以石砌厚墙、平顶与梯形窗组织。",
+        "实例": "名称：石砌碉房（类型性描述）；地点与设计者不适用。厚重的石墙把高原寒风挡在外面，梯形黑框窗收敛进深，平顶晾晒青稞。",
+        "常见错误与限制": "采光保温须专门处理。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：厚石墙、梯形窗与平顶。",
+        "待核实": "「藏式建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='190,300 380,110 560,300' fill='none' stroke='var(--accent)'/><rect x='340' y='250' width='120' height='50' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>藏式建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-architecture",
+        "wp-vernacular-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「藏式建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "xinjiang-architecture",
+      "title": "新疆建筑",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "古代",
+      "region": "中国",
+      "definition": "新疆建筑以土坯拱券、内院与廊架适应干热气候。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "厚墙内院遮阳、拱券与土坯调温。",
+      "related": [],
+      "sections": {
+        "原理": "土坯厚墙与拱券蓄热隔热，内院与廊架提供荫凉，回应急干热气候。",
+        "典型手法与适用条件": "以土坯拱券、内院与廊架组织。",
+        "实例": "名称：土坯拱券内院民居（类型性描述）；地点与设计者不适用。拱券在厚土墙间连续展开，内院与葡萄廊架投下整片荫凉。",
+        "常见错误与限制": "抗震与排水须按规范。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：土坯拱券与内院廊架。",
+        "待核实": "「新疆建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='171' y='130' width='111' height='150' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='151' width='130' height='120' fill='none' stroke='var(--muted)'/><rect x='479' y='120' width='100' height='170' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>新疆建筑</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-chinese-architecture",
+        "wp-vernacular-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「新疆建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "urban-planning-style",
+      "title": "城市规划",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "风格",
+      "period": "跨时期",
+      "region": "全球",
+      "definition": "城市规划指对城市用地、交通与公共空间的整体安排。",
+      "time_or_place": "跨时期、全球（参见来源）。",
+      "overview": "它协调功能分区、路网与开放空间。",
+      "related": [],
+      "sections": {
+        "原理": "城市规划指对城市用地、交通与公共空间的整体安排。它协调功能分区、路网与开放空间。",
+        "典型手法与适用条件": "以分区、路网与公共空间系统组织城市。",
+        "实例": "名称：城市规划的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "规划失当会拥堵或割裂。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：城市规划的要点。",
+        "待核实": "「城市规划」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 122 300 Q 300 122 598 280' fill='none' stroke='var(--accent)' stroke-width='3'/><line x1='100' y1='320' x2='660' y2='320' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>城市规划</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architectural-style",
+        "wp-urban-design"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「城市规划」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "raised-floor",
+      "title": "架空层",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "架空层指建筑底层架空、留作公共或停车等用途的楼层。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "它释放地面、改善通风并容纳公共活动。",
+      "related": [],
+      "sections": {
+        "原理": "架空层指建筑底层架空、留作公共或停车等用途的楼层。它释放地面、改善通风并容纳公共活动。",
+        "典型手法与适用条件": "底层以柱架空，留出通道、绿化或停车。",
+        "实例": "名称：架空层的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "私密与安全需管理。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：架空层的要点。",
+        "待核实": "「架空层」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='123' width='520' height='153' fill='none' stroke='var(--accent)'/><line x1='380' y1='120' x2='380' y2='300' stroke='var(--muted)' stroke-dasharray='8 6'/><text x='40' y='40' fill='var(--ink)'>架空层</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-architecture",
+        "wp-vernacular-architecture"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「架空层」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "acoustic-environment",
+      "title": "声环境",
+      "level": "L2",
+      "tier": "补充",
+      "theme": "理论",
+      "period": "20世纪",
+      "region": "全球",
+      "definition": "声环境指空间中的声音条件，包括隔声、吸声与混响。",
+      "time_or_place": "20世纪、全球（参见来源）。",
+      "overview": "混响过长、隔声不足或噪声干扰都会削弱听闻清晰度与舒适。",
+      "related": [],
+      "sections": {
+        "原理": "声音在硬表面反复反射形成混响，混响时间过长则听不清；吸声材料缩短混响，隔声构造阻断声音传播。",
+        "典型手法与适用条件": "以隔声墙体与楼板阻断传播、以吸声材料控制混响、按用途设定混响时间。",
+        "实例": "名称：声环境的典型场景（类型性描述）；地点与设计者不适用。",
+        "常见错误与限制": "忽视声学会有回声或噪声干扰。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：声环境的要点。",
+        "待核实": "「声环境」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='124' y='144' width='264' height='150' fill='none' stroke='var(--accent)'/><line x1='90' y1='296' x2='636' y2='194' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>声环境</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "designingbuildings-acoustics",
+        "libretexts-room-acoustics"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「声环境」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    }
+  ]
+}
