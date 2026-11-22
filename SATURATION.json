@@ -29,7 +29,7 @@
         "recent_updates": 3,
         "core_l1_to_l2": 77
       },
-      "note": "scope 候选为 0，但 B2/B4/B5/B7 仍有缺口；抽检不合格触发整批返工"
+      "note": "抽检不合格触发整批返工"
     },
     {
       "round": 4,
@@ -44,7 +44,22 @@
         "recent_updates": 3,
         "all_l1_remaining": 75
       },
-      "note": "核心未写为 0，但 B4/B5/B7 仍有缺口；抽检不合格触发整批返工，连续零缺口轮数保持 0"
+      "note": "抽检不合格触发整批返工"
+    },
+    {
+      "round": 5,
+      "date": "2026-11-22",
+      "zero_gap": false,
+      "methods_used": ["B2", "B4", "B5", "B7", "F"],
+      "new_gaps": {
+        "scope_candidates": 0,
+        "sparse_cells": 9,
+        "reader_questions_unanswered": 26,
+        "pending_items": 23,
+        "recent_updates": 3,
+        "all_l1_remaining": 74
+      },
+      "note": "每5轮体检完成：0 死链、0 孤儿页、0 重复标题、0 数据矛盾；但 B4/B5/B7 仍有缺口，且抽检不合格触发返工，连续零缺口轮数保持 0"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true"

@@ -104,7 +104,7 @@
     {
       "id": "chinese-architecture-style",
       "title": "中国传统建筑",
-      "level": "L1",
+      "level": "L2",
       "tier": "核心",
       "theme": "风格",
       "period": "古代",
@@ -119,8 +119,19 @@
         "wp-chinese-architecture",
         "wp-architectural-style"
       ],
-      "needs_verification": false,
-      "pending_notes": ""
+      "needs_verification": true,
+      "pending_notes": "具体院落实例的建造年代与营造者待补充独立来源。",
+      "sections": {
+        "原理": "木构框架把荷载传到柱与梁，墙体不承重，因而可形成灵活的门窗与院落组织。",
+        "典型手法与适用条件": "以院落串联不同等级的空间，用对称与轴线表达秩序；适用于礼制与居住建筑。",
+        "实例": "名称：中国传统院落建筑；地点：中国；设计者：不适用；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "木构防火与防腐须专门处理；木料尺寸与连接方式按当地规范设计。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方院落序列示意：三个院落沿轴线组织。",
+        "待核实": "具体院落实例的建造年代与营造者待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='320' x2='680' y2='320' stroke='var(--ink)' stroke-width='3'/><rect x='130' y='180' width='130' height='140' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='315' y='140' width='130' height='180' fill='none' stroke='var(--accent)'/><rect x='500' y='180' width='130' height='140' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='220' y='150' fill='var(--ink)'>院落序列</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ]
     }
   ]
 }

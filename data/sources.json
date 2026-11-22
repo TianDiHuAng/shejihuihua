@@ -34,7 +34,7 @@
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": false
+      "link_ok": true
     },
     {
       "id": "wp-ancient-greek-architecture",
@@ -118,7 +118,7 @@
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
+      "link_ok": false
     },
     {
       "id": "wp-atrium-architecture",
@@ -526,7 +526,7 @@
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": false
+      "link_ok": true
     },
     {
       "id": "wp-golden-ratio",
@@ -670,7 +670,7 @@
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；若为消歧义页按实际标题记录；URL重定向，Indian architecture现标题为Architecture of India，已按实际h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
+      "link_ok": false
     },
     {
       "id": "wp-ink-wash-painting",
@@ -718,7 +718,7 @@
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
+      "link_ok": false
     },
     {
       "id": "wp-japonisme",
@@ -946,7 +946,7 @@
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": false
+      "link_ok": true
     },
     {
       "id": "wp-passive-solar-building-design",
@@ -994,7 +994,7 @@
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；URL重定向，Plaza现标题为Town square，已按实际h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
+      "link_ok": false
     },
     {
       "id": "wp-porch",
@@ -1535,6 +1535,90 @@
       "verified": true,
       "link_ok": true,
       "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；支撑采光与一般通风；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-guggenheim-abu-dhabi",
+      "title": "Guggenheim Abu Dhabi",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Guggenheim_Abu_Dhabi",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；预计 2026-12-11 开馆，Frank Gehry 设计；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-unite-d-habitation",
+      "title": "Unité d'habitation",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Unit%C3%A9_d%27habitation",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；马赛公寓，Le Corbusier，1947–1952，粗野主义灵感来源；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-hui-style-architecture",
+      "title": "Hui Style architecture",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Hui_Style_architecture",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；徽派建筑专条，支撑粉墙黛瓦、马头墙与院落天井；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-hongcun",
+      "title": "Hongcun",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Hongcun",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；宏村，1131 年由 Wang Wen 建立，位于历史徽州地区；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-xidi",
+      "title": "Xidi",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Xidi",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；西递，宋代皇祐年间始建，徽州村落佐证；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-hagia-sophia",
+      "title": "Hagia Sophia",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；圣索菲亚大教堂，532–537 年，Isidore of Miletus 与 Anthemius of Tralles 设计；百科条目无固定出版年"
+    },
+    {
+      "id": "wp-parthenon",
+      "title": "Parthenon",
+      "author": "Wikipedia contributors",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Parthenon",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；帕特农神庙，前 447–前 432 年，Iktinos 与 Callicrates；百科条目无固定出版年"
     }
   ]
 }
