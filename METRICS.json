@@ -1209,6 +1209,33 @@
         "B7_unwritten_entries": 0
       },
       "milestone": "all coverage cells now >=2 entries (sparse=0)"
+    },
+    {
+      "round": 48,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 5,
+      "reviews": 216,
+      "fixes": 0,
+      "pending_total": 217,
+      "check_result": "PASS all checks 0 errors; B1 no new core gaps; B6 none; 5 entries named instances (Guggenheim NY/Heydar Aliyev/Bilbao/Unite dHabitation/Canaletto Piazza San Marco); 258 all L2; ZERO-GAP 1/3 (new cycle)",
+      "new_sources": 10,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B1",
+          "B2",
+          "B5",
+          "B6",
+          "B7"
+        ],
+        "B1_new_candidates": 0,
+        "B2_sparse_cells": 0,
+        "B5_pending_items": 216,
+        "B6_new_dynamics": 0,
+        "B7_unwritten_entries": 0
+      },
+      "zero_gap": true
     }
   ]
 }

@@ -278,17 +278,19 @@
       ],
       "sources": [
         "wp-perspective-graphical",
-        "wp-alberti"
+        "wp-alberti",
+        "thyssen-canaletto",
+        "theartstory-canaletto"
       ],
       "needs_verification": true,
-      "pending_notes": "「两点透视」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "部分年份或第二独立来源待补充。",
       "sections": {
         "原理": "当观察者斜对一个立方体时，两组水平边线各奔一侧，形成左右两个灭点，这就是两点透视。",
         "典型手法与适用条件": "画街角建筑时先定左右灭点，竖直棱线保持垂直；适合表现斜向体块。",
-        "实例": "名称：斜视角的街角楼体（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《圣马可广场威尼斯景》（Piazza San Marco, Venice）；地点：西班牙马德里提森-博内米萨国立博物馆藏；设计者：卡纳莱托（Canaletto）；年份：约 1723–1724 年。画面在两个等距消失点间组织透视。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "两灭点靠得太近会使转角夸张到失真；仰头或低头时还会冒出第三个灭点，需另作处理。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：左右灭点各收一组水平边线。",
-        "待核实": "街角建筑实例的建造者与年代待核实。"
+        "待核实": "具体年份/设计者归属或同一作品第二独立来源待补充（现为单强源＋手法佐证）。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='260,140 480,120 480,260 260,280' fill='none' stroke='var(--accent)'/><line x1='260' y1='140' x2='60' y2='110' stroke='var(--muted)'/><line x1='260' y1='280' x2='60' y2='300' stroke='var(--muted)'/><line x1='480' y1='120' x2='690' y2='90' stroke='var(--muted)'/><line x1='480' y1='260' x2='690' y2='290' stroke='var(--muted)'/><text x='30' y='100' fill='var(--ink)'>左灭点</text><text x='600' y='80' fill='var(--ink)'>右灭点</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"

@@ -3995,6 +3995,126 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；曼特尼亚《哀悼基督》，强烈透视缩短"
+    },
+    {
+      "id": "flw-guggenheim",
+      "title": "Solomon R. Guggenheim Museum — Frank Lloyd Wright Foundation",
+      "author": "Frank Lloyd Wright Foundation",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://franklloydwright.org/site/solomon-r-guggenheim-museum/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；古根海姆美术馆 1943 委托、螺旋坡道与玻璃顶"
+    },
+    {
+      "id": "theartstory-wright",
+      "title": "Frank Lloyd Wright — TheArtStory",
+      "author": "TheArtStory",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.theartstory.org/artist/wright-frank-lloyd/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；古根海姆 1943–59，螺旋坡道环绕顶部采光中庭"
+    },
+    {
+      "id": "archdaily-heydar",
+      "title": "Heydar Aliyev Center — ArchDaily",
+      "author": "ArchDaily",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.archdaily.com/448774/heydar-aliyev-center-zaha-hadid-architects",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；盖达尔·阿利耶夫中心，巴库，Zaha Hadid，2013"
+    },
+    {
+      "id": "theartstory-hadid",
+      "title": "Zaha Hadid — TheArtStory",
+      "author": "TheArtStory",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.theartstory.org/artist/hadid-zaha/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；Heydar Aliyev Center 2007–12，Parametricism"
+    },
+    {
+      "id": "guggenheim-bilbao-building",
+      "title": "The Building — Guggenheim Bilbao",
+      "author": "Guggenheim Bilbao",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.guggenheim-bilbao.eus/en/the-building",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；毕尔巴鄂古根海姆，Frank Gehry，钛/玻璃/石灰岩，围绕中庭"
+    },
+    {
+      "id": "theartstory-deconstructivism",
+      "title": "Deconstructivism — TheArtStory",
+      "author": "TheArtStory",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.theartstory.org/movement/deconstructivism/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；解构主义，Guggenheim Bilbao 1997"
+    },
+    {
+      "id": "flc-unite",
+      "title": "Unité d'habitation, Marseille — Fondation Le Corbusier",
+      "author": "Fondation Le Corbusier",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.fondationlecorbusier.fr/en/work-architecture/achievements-unite-dhabitation-marseille-france-1945-1952/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；马赛公寓 1945–1952，清水混凝土 béton brut"
+    },
+    {
+      "id": "theartstory-brutalism",
+      "title": "Brutalism — TheArtStory",
+      "author": "TheArtStory",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.theartstory.org/movement/brutalism/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；粗野主义，Unité d'habitation 1952，béton brut"
+    },
+    {
+      "id": "thyssen-canaletto",
+      "title": "Piazza San Marco, Venice — Museo Thyssen-Bornemisza",
+      "author": "Museo Thyssen-Bornemisza",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.museothyssen.org/en/collection/artists/canaletto/piazza-san-marco-venice",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；卡纳莱托《圣马可广场》约1723–24，明确使用两个消失点"
+    },
+    {
+      "id": "theartstory-canaletto",
+      "title": "Canaletto — TheArtStory",
+      "author": "TheArtStory",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.theartstory.org/artist/canaletto/",
+      "url2": null,
+      "verified": true,
+      "link_ok": null,
+      "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；卡纳莱托精湛的透视，angolo 斜角透视"
     }
   ]
 }
