@@ -202,6 +202,27 @@ def validate_svg(svg: str) -> list[str]:
                                 errors.append(f"SVG {tag} 的 r={radius} 超出 viewBox")
                         except ValueError:
                             errors.append(f"SVG {tag} 的 r 非数值")
+                    if tag == "ellipse" and ("rx" in el.attrib or "ry" in el.attrib):
+                        try:
+                            c_x = float(el.attrib.get("cx", 0))
+                            c_y = float(el.attrib.get("cy", 0))
+                            rx = float(el.attrib.get("rx", 0))
+                            ry = float(el.attrib.get("ry", 0))
+                            if not (in_x(c_x - rx) and in_x(c_x + rx)
+                                    and in_y(c_y - ry) and in_y(c_y + ry)):
+                                errors.append(f"SVG ellipse 的 rx/ry 超出 viewBox")
+                        except ValueError:
+                            errors.append(f"SVG ellipse 的 rx/ry 非数值")
+                    if tag == "rect" and ("width" in el.attrib or "height" in el.attrib):
+                        try:
+                            x = float(el.attrib.get("x", 0))
+                            y = float(el.attrib.get("y", 0))
+                            rw = float(el.attrib.get("width", 0))
+                            rh = float(el.attrib.get("height", 0))
+                            if not (in_x(x) and in_x(x + rw) and in_y(y) and in_y(y + rh)):
+                                errors.append(f"SVG rect 的 width/height 超出 viewBox")
+                        except ValueError:
+                            errors.append(f"SVG rect 的 width/height 非数值")
                     if tag != "svg":
                         for attr in ("width", "height"):
                             if attr not in el.attrib:

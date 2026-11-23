@@ -1416,6 +1416,26 @@
         "B5_pending_items": 194,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 57,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 194,
+      "fixes": 2,
+      "pending_total": 193,
+      "check_result": "PASS all checks 0 errors; spotcheck 1 ok/2 pending (correctly managed); 6 entries named instances (Schiphol signage/Kimbell/NMNH ramp/BedZED/Manitoba Hydro/Berlin Philharmonie); 2 kept pending (pedestrian-flow/corridor-space no dual source); FIXED validator blind spot: SVG ellipse rx/ry + rect width/height bounds (30 violations across 19 entries clamped) with 5 new RED-GREEN tests; 258 all L2; 19/19 tests; 0 broken links",
+      "new_sources": 12,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "B7"
+        ],
+        "B5_pending_items": 193,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }

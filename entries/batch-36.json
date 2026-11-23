@@ -319,20 +319,22 @@
       "sections": {
         "原理": "照度充足、眩光受控、对比适度时视觉最舒适；过亮过暗或直射光都会引起疲劳。",
         "典型手法与适用条件": "按任务设定照度，控制眩光与亮度比，结合天然光与人工光。",
-        "实例": "名称：办公空间的视觉舒适照明（类型性描述）；地点与设计者不适用。看亮度比与眩光如何被控制。",
+        "实例": "名称：金贝尔艺术博物馆·康大楼；地点：美国德州沃思堡；设计者：路易·康（Louis I. Kahn）；年份：1972 年。自然光经窄缝天窗与铝反射板柔和进入，形成舒适光照。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "只提亮度会眩光；参数须按规范。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：照度、眩光与对比的平衡。",
-        "待核实": "「视觉舒适度」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "“视觉舒适”为对两源所述采光机制的概念归类，非来源原话。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='100' x2='680' y2='100' stroke='var(--ink)' stroke-width='3'/><line x1='80' y1='320' x2='680' y2='320' stroke='var(--ink)' stroke-width='3'/><rect x='240' y='100' width='18' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='258' y1='130' x2='520' y2='300' stroke='var(--accent)' stroke-width='2'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>视觉舒适度</text><circle cx='540' cy='60' r='5' fill='var(--accent)'/></svg>"
       ],
       "sources": [
         "wp-architectural-lighting-design",
-        "wp-daylighting-architecture"
+        "wp-daylighting-architecture",
+        "kimbell-kahn",
+        "sah-kimbell"
       ],
       "needs_verification": true,
-      "pending_notes": "「视觉舒适度」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "“视觉舒适”为对两源所述采光机制的概念归类，非来源原话。"
     },
     {
       "id": "accessibility-design",
@@ -349,20 +351,22 @@
       "sections": {
         "原理": "通过消除高差、提供连续扶手与清晰指引，让不同能力者都能独立使用空间。",
         "典型手法与适用条件": "设无障碍坡道、扶手、触觉标识与足够通行宽度。",
-        "实例": "名称：公共建筑无障碍入口（类型性描述）；地点与设计者不适用。看坡道与扶手如何保障通行。",
+        "实例": "名称：史密森尼国家自然历史博物馆无障碍坡道；地点：美国华盛顿国家广场；设计者：史密森尼学会（实施）、美国无障碍委员会（表彰）；年份：2021 年。新增坡道改善入口可达性。此处仅列名称、地点、责任方与年份信息，不复制图像。",
         "常见错误与限制": "只设台阶会中断路径；尺寸须按规范。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：无障碍坡道与扶手。",
-        "待核实": "“连续扶手”等具体做法为一般性经验说明，须按当地规范校核；具体实例的设计者与年代待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='150' x2='680' y2='150' stroke='var(--ink)' stroke-width='2'/><polyline points='200,150 340,300 520,300' fill='none' stroke='var(--accent)' stroke-width='3'/><line x1='340' y1='220' x2='520' y2='220' stroke='var(--muted)' stroke-width='3'/><text x='380' y='210' fill='var(--ink)'>连续扶手</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>无障碍设计</text></svg>"
       ],
       "sources": [
         "wp-universal-design",
-        "wp-exit-sign"
+        "wp-exit-sign",
+        "accessboard-smithsonian",
+        "si-nmnh-accessibility"
       ],
-      "needs_verification": true,
-      "pending_notes": "扶手等具体做法为一般性说明（按规范校核）；实例待核实。"
+      "needs_verification": false,
+      "pending_notes": ""
     }
   ]
 }
