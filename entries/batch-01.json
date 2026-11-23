@@ -18,17 +18,19 @@
       ],
       "sources": [
         "wp-perspective-graphical",
-        "wp-vanishing-point"
+        "wp-vanishing-point",
+        "wga-masaccio-trinity",
+        "wp-holy-trinity-masaccio"
       ],
       "needs_verification": true,
-      "pending_notes": "「线性透视」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "年份各家不一，已并列；两源直证线性透视。",
       "sections": {
         "原理": "线性透视把观察者视点固定，使相互平行的深远线条向灭点汇聚，按近大远小建立空间秩序。",
         "典型手法与适用条件": "先定视平线与主灭点，再让同组平行线指向同一灭点；适用于正对观察面的室内与街景。",
-        "实例": "名称：文艺复兴线性透视绘画（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《圣三位一体》（Holy Trinity）；地点：意大利佛罗伦萨新圣母玛利亚教堂；设计者：马萨乔（Masaccio）；年份：约 1425–1428 年（Wikipedia 记 1425–1426）。以桶形拱券的透视表现纵深。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "多个不一致灭点会造成空间矛盾；画面尺寸与观看距离影响透视观感。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：视平线与单一灭点。",
-        "待核实": "具体作品的设计者与年代待核实。"
+        "待核实": "年份各家不一，已并列；两源直证线性透视。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='60' y1='200' x2='700' y2='200' stroke='var(--accent)' stroke-width='2'/><circle cx='380' cy='200' r='6' fill='var(--accent)'/><line x1='120' y1='360' x2='380' y2='200' stroke='var(--muted)'/><line x1='640' y1='360' x2='380' y2='200' stroke='var(--muted)'/><line x1='240' y1='280' x2='380' y2='200' stroke='var(--muted)'/><text x='80' y='188' fill='var(--ink)'>视平线</text><text x='395' y='190' fill='var(--ink)'>灭点</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -43,24 +45,26 @@
       "period": "古代",
       "region": "中国",
       "definition": "中国画中视点移动、多视点组合的空间表现方法。",
-      "time_or_place": "古代中国（参见来源）。",
+      "time_or_place": "古代、中国（北宋，参见来源）。",
       "overview": "它使长卷能够连续展开不同视点下的景物，与焦点透视形成对照。",
       "related": [
         "composition"
       ],
       "sources": [
         "wp-chinese-painting",
-        "wp-reverse-perspective"
+        "wp-reverse-perspective",
+        "dpm-qingming",
+        "columbia-handscroll"
       ],
       "needs_verification": true,
-      "pending_notes": "「散点透视」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "散点透视概念与实例年代/作者多依赖单源，待补第二独立权威来源。",
       "sections": {
         "原理": "散点透视让视点随观看移动，把不同视点下的景物组织进同一长幅画面。",
         "典型手法与适用条件": "适用于手卷、长卷等需要连续展开的题材；以段落衔接保持空间连续。",
-        "实例": "名称：中国传统长卷山水（类型性描述）；地点：中国；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《清明上河图》；地点：北宋汴京（今河南开封），原作藏北京故宫博物院；设计者：张择端；年份：北宋（960–1127 年，具体年代待核实）。以手卷移步换景、视角流动体现散点透视。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "视点切换过密会造成观感混乱；装裱与展示方式影响阅读顺序。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：多个视点在长幅中并列。",
-        "待核实": "具体作品的设计者与年代待核实。"
+        "待核实": "“散点透视／多视点组合”主要依据单一来源（另两源一为零覆盖、一为拜占庭反向透视主题错位）；《清明上河图》作者/年代仅单源直证，待补。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='40' y='80' width='680' height='240' fill='none' stroke='var(--line)'/><circle cx='180' cy='200' r='40' fill='none' stroke='var(--accent)'/><circle cx='380' cy='200' r='40' fill='none' stroke='var(--accent)'/><circle cx='580' cy='200' r='40' fill='none' stroke='var(--accent)'/><line x1='220' y1='200' x2='340' y2='200' stroke='var(--muted)'/><line x1='420' y1='200' x2='540' y2='200' stroke='var(--muted)'/><text x='150' y='120' fill='var(--ink)'>视点1</text><text x='350' y='120' fill='var(--ink)'>视点2</text><text x='550' y='120' fill='var(--ink)'>视点3</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -82,17 +86,19 @@
       ],
       "sources": [
         "wp-composition-visual-arts",
-        "wp-rule-of-thirds"
+        "wp-rule-of-thirds",
+        "artic-grande-jatte",
+        "wga-grande-jatte"
       ],
       "needs_verification": true,
-      "pending_notes": "「构图法则」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "两来源未逐字讨论“构图法则”，实例四要素已双源。",
       "sections": {
         "原理": "构图把元素按位置、比例与关系组织成有序整体，引导观看顺序与信息主次。",
         "典型手法与适用条件": "三分法、主次安排与视觉引导是常用手段；适用于绘画、摄影与界面布局。",
-        "实例": "名称：通用构图实践（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《大碗岛的星期天下午》（A Sunday on La Grande Jatte）；地点：美国芝加哥艺术博物馆；设计者：乔治·修拉（Georges Seurat）；年份：1884–1886 年。以点彩与几何安排组织画面构图。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "元素过多会削弱重点；构图为视觉秩序而非工程尺寸。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：三分网格与主体位置。",
-        "待核实": "具体案例的设计者与年代待核实。"
+        "待核实": "两来源未逐字讨论“构图法则”，实例四要素已双源。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='60' y='60' width='640' height='280' fill='none' stroke='var(--line)'/><line x1='273' y1='60' x2='273' y2='340' stroke='var(--muted)'/><line x1='486' y1='60' x2='486' y2='340' stroke='var(--muted)'/><line x1='60' y1='153' x2='700' y2='153' stroke='var(--muted)'/><line x1='60' y1='246' x2='700' y2='246' stroke='var(--muted)'/><circle cx='273' cy='153' r='14' fill='var(--accent)'/><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -114,17 +120,19 @@
       ],
       "sources": [
         "wp-composition-visual-arts",
-        "getty-principles-design"
+        "getty-principles-design",
+        "ng-arnolfini",
+        "wga-arnolfini"
       ],
       "needs_verification": true,
-      "pending_notes": "核心已补第二独立来源；具体实例的设计者与年代待补充独立来源。",
+      "pending_notes": "两源未直书 symmetry/balance，均衡定性据镜面居中与双人对像。",
       "sections": {
         "原理": "均衡指各元素在视觉重量上的平衡；可由对称达成，也可由大小、明暗与色差动态平衡。",
         "典型手法与适用条件": "以一大暗块对一小亮点实现非对称均衡；适用于强调张力又需稳定的画面。",
-        "实例": "名称：非对称均衡构图（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《阿尔诺菲尼肖像》（The Arnolfini Portrait）；地点：英国伦敦国家美术馆（NG186）；设计者：扬·凡·艾克（Jan van Eyck）；年份：1434 年。以对称与居中的镜面组织均衡。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "只追求对称会呆板；失衡会让视线滑出画面。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：大暗块与小亮点的均衡。",
-        "待核实": "核心已补第二独立来源；具体实例的设计者与年代待补充独立来源。"
+        "待核实": "两源未直书 symmetry/balance，均衡定性据镜面居中与双人对像。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='380' y1='80' x2='380' y2='320' stroke='var(--accent)' stroke-width='2'/><rect x='160' y='150' width='150' height='90' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='560' cy='195' r='45' fill='none' stroke='var(--muted)'/><text x='190' y='130' fill='var(--ink)'>大暗块</text><text x='520' y='130' fill='var(--ink)'>小亮点</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -146,17 +154,19 @@
       ],
       "sources": [
         "wp-proportion-architecture",
-        "wp-golden-ratio"
+        "wp-golden-ratio",
+        "gallerie-vitruvian",
+        "wga-vitruvian"
       ],
       "needs_verification": true,
-      "pending_notes": "「比例」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "确切年份各家不一，已并列。",
       "sections": {
         "原理": "比例描述部分与整体、部分与部分之间的尺寸关系，影响和谐与尺度感。",
         "典型手法与适用条件": "以简单整数比或黄金比组织界面；适用于立面划分与画面分割。",
-        "实例": "名称：古典立面比例（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《维特鲁威人》（Vitruvian Man）；地点：意大利威尼斯学院美术馆；设计者：列奥纳多·达·芬奇；年份：约 1490–1492 年（馆藏页记“米兰时期”、WGA 记 1492）。以人体比例体现古典模数。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "比例规则是经验参考而非绝对；实际尺寸与模数须按规范与功能确定。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：整体与部分之比。",
-        "待核实": "具体案例的设计者与年代待核实。"
+        "待核实": "确切年份各家不一，已并列。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='90' width='520' height='220' fill='none' stroke='var(--accent)'/><line x1='442' y1='90' x2='442' y2='310' stroke='var(--accent)' stroke-width='2'/><text x='200' y='215' fill='var(--ink)'>整体</text><text x='500' y='215' fill='var(--ink)'>|部分</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -206,23 +216,25 @@
       "region": "全球",
       "definition": "色彩的明暗程度。",
       "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "明度关系决定画面的结构与可读性，先于色相被视觉系统捕捉。",
+      "overview": "明度指色彩的明暗程度，帮助区分形体、建立层次。",
       "related": [
         "saturation"
       ],
       "sources": [
         "wp-colorfulness",
-        "wp-color-theory"
+        "wp-color-theory",
+        "rijks-nightwatch",
+        "wga-nightwatch"
       ],
-      "needs_verification": true,
-      "pending_notes": "「明度」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "明度是色彩的明暗程度，明度关系决定画面的结构、可读性与体积感。",
         "典型手法与适用条件": "先以明度块面建立结构，再叠加色相；适用于黑白灰起稿与夜间场景。",
-        "实例": "名称：明度块面练习（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《夜巡》（The Night Watch）；地点：荷兰阿姆斯特丹国立博物馆（SK-C-5）；设计者：伦勃朗（Rembrandt van Rijn）；年份：1642 年。以明暗对照与用光聚焦组织明暗层次。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "只重色相而忽略明度会让画面扁平；明度对比不足影响识别。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：明度梯度。",
-        "待核实": "具体案例的设计者与年代待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='140' width='90' height='120' fill='var(--ink)'/><rect x='250' y='140' width='90' height='120' fill='var(--muted)'/><rect x='360' y='140' width='90' height='120' fill='var(--accent-soft)'/><rect x='470' y='140' width='90' height='120' fill='var(--panel)' stroke='var(--line)'/><text x='200' y='110' fill='var(--ink)'>明度梯度</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -312,17 +324,19 @@
       ],
       "sources": [
         "wp-perspective-graphical",
-        "wp-curvilinear-perspective"
+        "wp-curvilinear-perspective",
+        "db-quaglio",
+        "wp-quaglio"
       ],
       "needs_verification": true,
-      "pending_notes": "「三点透视」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "原拟仰视摩天楼具名照片缺双源直证，改选夸廖舞台设计；实例已双源。",
       "sections": {
         "原理": "在左右两灭点之外再补一个垂直方向的灭点，画面便获得仰视或俯视的强透视，即三点透视。",
         "典型手法与适用条件": "高层仰拍、深井俯拍时启用；三条棱线分别指向三个灭点。",
-        "实例": "名称：仰视摩天楼的透视练习（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《Die Weihe》舞台设计；地点：德国慕尼黑国家剧院；设计者：朱塞佩·夸廖（Giuseppe Quaglio）；年份：1818 年（该剧院开幕演出）。被同时代人称为“三点透视”的发明。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "垂直灭点放错会让楼体像要倾倒；视距越短变形越剧烈。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：竖直棱线收向顶部灭点。",
-        "待核实": "练习所参照建筑的名称与年代待核实。"
+        "待核实": "原拟仰视摩天楼具名照片缺双源直证，改选夸廖舞台设计；实例已双源。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 300 300 L 300 120 L 460 100 L 460 270 Z' fill='none' stroke='var(--accent)'/><line x1='300' y1='120' x2='380' y2='40' stroke='var(--muted)'/><line x1='460' y1='100' x2='380' y2='40' stroke='var(--muted)'/><text x='350' y='30' fill='var(--ink)'>垂直灭点</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -446,17 +460,19 @@
       ],
       "sources": [
         "wp-perspective-graphical",
-        "wp-vanishing-point"
+        "wp-vanishing-point",
+        "louvre-collections-mona",
+        "wp-mona-lisa"
       ],
-      "needs_verification": true,
-      "pending_notes": "「视平线」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "视平线就是观者眼睛所在的水平高度在画面上的投影，它统领上下所有物象的高低关系。",
         "典型手法与适用条件": "构图先定视平线，再据此安排人物头顶与建筑檐口的高度；视平线高低可强化压迫或开阔感。",
-        "实例": "名称：场景构图中的视平线设定（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《蒙娜丽莎》（Mona Lisa）；地点：法国巴黎卢浮宫德农馆 711 厅；设计者：列奥纳多·达·芬奇；年份：1503–1519 年。地平线置于与眼睛齐平，连接人物与风景。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "视平线与实际视高脱节，会使人物与建筑比例错位；贴地或极高的视平线会扭曲空间。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：与眼睛齐高的虚线基准。",
-        "待核实": "示例场景的出处与年代待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='50' y1='215' x2='710' y2='215' stroke='var(--accent)' stroke-dasharray='10 6'/><rect x='150' y='250' width='120' height='110' fill='none' stroke='var(--muted)'/><circle cx='560' cy='270' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='90' y='203' fill='var(--ink)'>与眼睛齐高的基准线</text><text x='300' y='390' fill='var(--muted)'>示意图，非施工图</text></svg>"
