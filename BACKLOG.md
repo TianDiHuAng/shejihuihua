@@ -25,11 +25,11 @@
 
 执行顺序：每完成一批运行 check.py 并 commit；抽检 10%（至少 3 个）另起子任务。
 
-## 下一轮队列（第 66 轮，按优先级）
+## 下一轮队列（第 67 轮，按优先级）
 
-1. 继续为待核实重要条目补具名实例双源（当前 187），维持 10% 抽检；优先有明确可核实例的概念（如 axis/courtyard/vestibule）。
-2. 清理已 dead 且未使用的 wp-means-of-egress/wp-underground-space slug（记录，勿硬改）。
-3. B1/B6 判定；无法双源者据实保留披露。
+1. 继续为待核实重要条目补具名实例双源（当前 186），维持 10% 抽检。
+2. B1/B6 判定；无法双源者据实保留披露。
+3. 记录/清理 dead 未用 slug（wp-means-of-egress/wp-underground-space）。
 
 ## 已完成/历史（维护模式说明保留）
 
@@ -102,3 +102,4 @@
 - 第 63 轮：plein-air（Tate+Wiki 双源）补具名实例；确认 wp-architectural-lighting-design 对采光/眩光类条目合法（非错配）；academic-art-theory 第二源 404 死链→回退待核实并披露、标记死链；258 条全 L2，来源 485
 - 第 64 轮：修正 3 个曾被误标 false 的 wiki 源 link_ok=true（canonical 复探 200）；确认 artincontext-academic 404（academic 保留单源披露）；sasanian/religious 具名实例缺第二独立平台源，据实保留待核实；258 条全 L2，来源 485
 - 第 65 轮：form-follows-function（沙利文 1896/Wainwright 大楼 1891，WP+DesigningBuildings 双源）补具名实例升级；wp-plaza link_ok 复探修正；258 条全 L2，来源 486
+- 第 66 轮：axis（轴线）补北京中轴线实例并升级（wp-chinese-architecture + bjaxis-official 双独立平台，对称/比例模数/7.8km 逐字直证）；258 条全 L2，来源 486，待核实 186

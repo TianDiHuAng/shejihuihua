@@ -13,7 +13,7 @@
 | 1 | 来源库 sources.json | 已完成 | data/sources.json（118 条，115 verified，link_ok 三态）、research/source_notes.md |
 | 2 | 校验器 tools/check.py | 已完成 | tools/check.py、tests/test_check.py（7/7 通过） |
 | 3 | 2 个 L2 样板 | 已完成 | entries/l2-samples.json（透视法、下沉庭院，含自绘 SVG） |
-| 4 | 条目累计 258 | 第 65 轮已完成 | 范围 258；已写 258（全部 L2）；来源 486；待核实 187 |
+| 4 | 条目累计 258 | 第 66 轮已完成 | 范围 258；已写 258（全部 L2）；来源 486；待核实 186 |
 | 5 | 总览页 / 索引 / 导航 / REPORT | 已完成 | site/（首页、40 条目页、索引、来源、覆盖报告）、REPORT.md |
 
 ## 本轮完成目标
@@ -113,3 +113,4 @@
 - 2026-11-23 19:2x 第 63 轮维护：plein-air 升级；architectural-lighting 源确认合法；academic-art-theory 死链回退待核实；258 条全 L2，来源 485，待核实 188。
 - 2026-11-23 19:1x 第 64 轮维护：修正 3 个误标 wiki 源 link_ok；确认 artincontext-academic 404；sasanian/religious 具名实例缺第二平台源据实保留；258 条全 L2，来源 485，待核实 188。
 - 2026-11-23 19:2x 第 65 轮维护：form-follows-function 升级；wp-plaza link_ok 修正；258 条全 L2，来源 486，待核实 187。
+- 2026-11-23 19:3x 第 66 轮维护：axis 升级（北京中轴线双独立平台）；258 条全 L2，来源 486，待核实 186。
