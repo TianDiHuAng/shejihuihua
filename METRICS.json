@@ -1903,6 +1903,27 @@
         "B5_pending_items": 178,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 81,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 178,
+      "fixes": 0,
+      "pending_total": 178,
+      "check_result": "FINAL VERIFICATION PASS: check.py 0 errors; 19/19 tests; 0 broken links; health 0 dead/0 dup/0 orphan; gap empty=0 sparse=0 dangling=0 core_l1=0; scope 258 all L2; core+important 203 all L2; sources 500 (verified 497); pending 178 (all honest-boundary: classical-garden designers undatable / concept-correspondence terms not verbatim)",
+      "new_sources": 0,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B1",
+          "B5",
+          "B6",
+          "F"
+        ],
+        "pending_items": 178
+      }
     }
   ]
 }
