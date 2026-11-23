@@ -417,14 +417,14 @@
         "theartstory-raphael"
       ],
       "needs_verification": true,
-      "pending_notes": "两主源未逐字直书“消失点”一词（属透视通识定性）；实例四要素已双源。",
+      "pending_notes": "实例年份单源，待补第二来源。",
       "sections": {
         "原理": "一组彼此平行的纵深线，在画面上会交于同一假想点，这个点即灭点。",
         "典型手法与适用条件": "作透视线稿时先钉住灭点，再让同向线束归拢；灭点决定画面的观看方向。",
         "实例": "名称：《雅典学院》（The School of Athens）；地点：梵蒂冈博物馆签字厅；设计者：拉斐尔（Raphael）；年份：1509–1511 年。以透视汇聚表现纵深。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "若同向线束各自乱跑、出现多个灭点，空间立刻矛盾；灭点出画时要延长辅助线。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：四组斜线交于一点。",
-        "待核实": "两主源未逐字直书“消失点”一词（属透视通识定性）；实例四要素已双源。"
+        "待核实": "实例年份 1509–1511 仅单一来源直书（梵蒂冈静态页未给年份），待补；其余要素已双源。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='90' x2='470' y2='205' stroke='var(--muted)'/><line x1='80' y1='300' x2='470' y2='205' stroke='var(--muted)'/><line x1='690' y1='90' x2='470' y2='205' stroke='var(--muted)'/><line x1='690' y1='300' x2='470' y2='205' stroke='var(--muted)'/><circle cx='470' cy='205' r='9' fill='none' stroke='var(--accent)' stroke-width='2'/><text x='485' y='200' fill='var(--ink)'>所有斜线交于此</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -662,10 +662,10 @@
       "level": "L2",
       "tier": "重要",
       "theme": "理论",
-      "period": "20世纪",
+      "period": "跨时期",
       "region": "全球",
       "definition": "主体之外的空白区域参与构图的方法。",
-      "time_or_place": "20世纪（参见来源）；中国画留白传统另见相关条目。",
+      "time_or_place": "跨时期、全球（参见来源）。",
       "overview": "负空间塑造主体轮廓并控制画面呼吸感。",
       "related": [
         "visual-center"
@@ -677,14 +677,14 @@
         "japanguide-ryoanji"
       ],
       "needs_verification": true,
-      "pending_notes": "设计者不详；第二源为旅行指南（权威级中等）；“negative space”术语源未直书。",
+      "pending_notes": "龙安寺石庭成园年代/设计者不详、详情单源；通识解读。",
       "sections": {
         "原理": "负空间是主体之外的空白区域，它塑造主体轮廓并控制画面的呼吸与节奏。",
         "典型手法与适用条件": "保留大面积留白以突出主体；适用于简洁风格与东方构图。",
         "实例": "名称：龙安寺方丈庭石庭（Ryōan-ji rock garden）；地点：日本京都；设计者：不详；年份：约 15 世纪（1450 年前后）。以白砂与置石留白组织“负空间”。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "留白过多会显得空洞；留白需与主体比例协调。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：主体与负空间。",
-        "待核实": "设计者不详；第二源为旅行指南（权威级中等）；“negative space”术语源未直书。"
+        "待核实": "龙安寺石庭的成园年代与设计者不详（1450 为改禅寺年，非成园年），且实例详情主要依据单一旅行指南，待补；“负空间”关联为通识解读。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='80' width='600' height='240' fill='none' stroke='var(--line)'/><circle cx='300' cy='200' r='60' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='260' y='200' fill='var(--ink)'>主体</text><text x='450' y='200' fill='var(--muted)'>负空间</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"

@@ -1263,6 +1263,38 @@
         "B7_unwritten_entries": 0
       },
       "zero_gap": true
+    },
+    {
+      "round": 50,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 216,
+      "fixes": 3,
+      "pending_total": 216,
+      "check_result": "PASS all checks 0 errors; health 0 dead/0 dupes/0 orphans; B1/B6 no new gaps (3/3) -> SATURATED=true; spotcheck 1 ok/1 pending -> vanishing-point pending corrected, negative-space period->跨时期 + disclosure; 258 all L2, core+important 203 all L2, unwritten 0",
+      "new_sources": 0,
+      "spotcheck_policy_next_round": "10% (maintenance)",
+      "gaps": {
+        "methods_used": [
+          "B1",
+          "B2",
+          "B3",
+          "B4",
+          "B5",
+          "B6",
+          "B7",
+          "F"
+        ],
+        "B1_new_candidates": 0,
+        "B2_sparse_cells": 0,
+        "B3_dangling_refs": 0,
+        "B4_reader_questions_unanswered": 0,
+        "B5_pending_items": 216,
+        "B6_new_dynamics": 0,
+        "B7_unwritten_entries": 0
+      },
+      "zero_gap": true
     }
   ]
 }

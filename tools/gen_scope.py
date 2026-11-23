@@ -30,7 +30,7 @@ geometry-symmetry|几何与对称|理论|重要|跨时期|全球|S6
 visual-movement|视觉动势|理论|重要|跨时期|全球|S6
 leading-lines|引导线|理论|重要|跨时期|全球|S6
 figure-ground|图底关系|理论|重要|20世纪|全球|S6
-negative-space|负空间|理论|重要|20世纪|全球|S6,S4
+negative-space|负空间|理论|重要|跨时期|全球|S6,S4
 visual-center|视觉中心|理论|重要|跨时期|全球|S6
 balance|均衡|理论|核心|跨时期|全球|S6
 contrast-principle|对比|理论|重要|跨时期|全球|S6

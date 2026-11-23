@@ -33,7 +33,7 @@
 | visual-movement | 视觉动势 | 重要 | 跨时期 | 全球 | S6 |
 | leading-lines | 引导线 | 重要 | 跨时期 | 全球 | S6 |
 | figure-ground | 图底关系 | 重要 | 20世纪 | 全球 | S6 |
-| negative-space | 负空间 | 重要 | 20世纪 | 全球 | S6,S4 |
+| negative-space | 负空间 | 重要 | 跨时期 | 全球 | S6,S4 |
 | visual-center | 视觉中心 | 重要 | 跨时期 | 全球 | S6 |
 | balance | 均衡 | 核心 | 跨时期 | 全球 | S6 |
 | contrast-principle | 对比 | 重要 | 跨时期 | 全球 | S6 |
