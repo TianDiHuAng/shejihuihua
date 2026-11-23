@@ -1818,6 +1818,31 @@
         "B5_pending_items": 179,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 77,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 179,
+      "fixes": 0,
+      "pending_total": 179,
+      "check_result": "PASS all checks 0 errors; B1 no new core gaps (12 unused syllabi); B6 no dynamics; dead-link audit: 3 link_ok=false all confirmed 404 (wp-means-of-egress/wp-underground-space/artincontext-academic) -> keep false; health 0 dead/dup/orphan; source integrity 0 issues; remaining pending are honest eternal-boundary (classical-garden designers undatable / concept-correspondence); 258 all L2; 19/19 tests; 0 broken links",
+      "new_sources": 0,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B1",
+          "B5",
+          "B6",
+          "F"
+        ],
+        "B1_new_candidates": 0,
+        "B2_sparse_cells": 0,
+        "B5_pending_items": 179,
+        "B6_new_dynamics": 0,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }

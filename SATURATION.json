@@ -1305,6 +1305,22 @@
         "pending_items": 179
       },
       "note": "picturesque named Stourhead, kept pending, disclosure narrowed"
+    },
+    {
+      "round": 77,
+      "date": "2026-11-23",
+      "zero_gap": false,
+      "methods_used": [
+        "B1",
+        "B5",
+        "B6",
+        "F"
+      ],
+      "new_gaps": {
+        "B1_new_candidates": 0,
+        "pending_items": 179
+      },
+      "note": "B1/B6 no new gaps; remaining pending are honest boundary items"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true",
