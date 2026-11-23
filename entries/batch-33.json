@@ -17,20 +17,21 @@
       "sections": {
         "原理": "物体朝向光源的一面亮、背向的一面暗，中间以渐变过渡，视觉据此推断起伏。",
         "典型手法与适用条件": "先定主光方向，再铺大块明暗，最后在明暗交界处压实、向亮部渐淡。",
-        "实例": "名称：单光源石膏像的明暗写生（类型性描述）；地点与作者不适用。看暗部如何随形体转折而变。",
+        "实例": "名称：《以马忤斯的晚餐》（The Supper at Emmaus）；地点：英国伦敦国家美术馆（NG172）；作者：卡拉瓦乔；年份：1601 年。以强烈的明暗对比塑造人物与静物的体积。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "光向不清会显得平；暗部一味加深会丢失转折。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意图：光向、受光面与暗部的分布。",
-        "待核实": "部分表述为绘画教学通用概括，专门来源待补充；「光影塑形」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='110' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><ellipse cx='430' cy='210' rx='70' ry='110' fill='var(--panel)' stroke='var(--line)'/><path d='M 430 100 Q 430 210 430 320' stroke='var(--accent)' stroke-width='3'/><path d='M 430 100 Q 360 110 360 210 Q 360 310 430 320' fill='var(--muted)' fill-opacity='0.25'/><text x='40' y='40' fill='var(--ink)'>受光面—明暗交界—暗部</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-chiaroscuro",
-        "wp-sfumato"
+        "wp-sfumato",
+        "ng-supper-emmaus"
       ],
-      "needs_verification": true,
-      "pending_notes": "部分表述为绘画教学通用概括，专门来源待补充；「光影塑形」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "five-tones",
@@ -83,7 +84,7 @@
         "待核实": "暂无已知待核实项。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='120' y1='320' x2='660' y2='320' stroke='var(--ink)' stroke-width='2'/><circle cx='240' cy='110' r='28' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='262' y1='132' x2='480' y2='320' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='500' cy='315' rx='90' ry='14' fill='var(--muted)' fill-opacity='0.4'/><text x='40' y='40' fill='var(--ink)'>物体—光线—投影</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-chiaroscuro",
@@ -115,7 +116,7 @@
         "待核实": "部分表述为绘画教学通用概括，专门来源待补充；「高光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><ellipse cx='380' cy='230' rx='150' ry='110' fill='var(--panel)' stroke='var(--line)'/><circle cx='330' cy='180' r='16' fill='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>凸起处的高光点</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-chiaroscuro",
@@ -145,7 +146,7 @@
         "待核实": "部分表述为绘画教学通用概括，专门来源待补充；「反光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='180' y='120' width='200' height='200' fill='var(--muted)' fill-opacity='0.5'/><rect x='160' y='330' width='420' height='20' fill='var(--accent-soft)' stroke='var(--accent)'/><path d='M 400 330 Q 380 250 380 200' stroke='var(--muted)' stroke-dasharray='5 5' fill='none'/><text x='40' y='40' fill='var(--ink)'>暗部靠环境一侧的反光</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-chiaroscuro",
@@ -175,7 +176,7 @@
         "待核实": "部分表述为绘画教学通用概括，专门来源待补充；「明暗交界线」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='240' y='130' width='220' height='160' rx='6' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='400' y='130' width='60' height='160' fill='var(--ink)' fill-opacity='0.35'/><text x='40' y='40' fill='var(--ink)'>受光—交界线—暗部</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-chiaroscuro",
@@ -205,7 +206,7 @@
         "待核实": "「正面光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='380' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='180' width='120' height='140' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='380' y1='120' x2='380' y2='178' stroke='var(--accent)' stroke-width='3'/><text x='40' y='40' fill='var(--ink)'>光源与视线同向（正面）</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-architectural-lighting-design",
@@ -222,27 +223,27 @@
       "theme": "理论",
       "period": "跨时期",
       "region": "全球",
-      "definition": "侧面光从约九十度横向打来，凸处迎光、凹处落影，最能把表面质感拉出来。",
+      "definition": "侧光指光源位于被摄体一侧、从侧面照来的照明。",
       "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "明暗各半、戏剧性强，适合表现纹理与体积，暗部需补光。",
+      "overview": "侧光在一侧受光、另一侧落影，能凸显表面特征与质感，明暗对比强。",
       "related": [],
       "sections": {
-        "原理": "光线横向掠过表面，凸起迎光、凹陷背光，质感与起伏被放大。",
-        "典型手法与适用条件": "侧光下注意暗部补光比例，避免一半死黑。",
-        "实例": "名称：侧光下的砖墙质感（类型性描述）；地点与作者不适用。看灰缝的凹凸被拉出。",
+        "原理": "光线从侧面掠过表面：迎光面亮、背光侧落影，凸处迎光、凹陷背光，因而放大质感与起伏。",
+        "典型手法与适用条件": "侧光下注意暗部补光比例，避免一侧死黑；适合强调质感的肖像与静物。",
+        "实例": "名称：《63岁自画像》（Self Portrait at the Age of 63）；地点：英国伦敦国家美术馆（NG221）；作者：伦勃朗（Rembrandt）；年份：1669 年。面部一侧受光另一侧沉入阴影，以明暗对照塑造结构。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "暗部过重会失细节；需控制补光。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意图：光源来自一侧、明暗各半。",
-        "待核实": "「侧面光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "侧光概念由 StudioBinder 与 Wikipedia（伦勃朗光）双源直证；实例《63岁自画像》的伦勃朗式侧光为据其明暗对照特征的解读。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='300' y='120' width='160' height='180' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='80' y1='210' x2='290' y2='210' stroke='var(--accent)' stroke-width='3'/><polygon points='282,202 300,210 282,218' fill='var(--accent)'/><text x='90' y='180' fill='var(--ink)'>侧向光源</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
-        "wp-architectural-lighting-design",
-        "wp-daylighting-architecture"
+        "studiobinder-side-lighting",
+        "wp-rembrandt-lighting"
       ],
       "needs_verification": true,
-      "pending_notes": "「侧面光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "实例侧光为据伦勃朗光特征的解读；概念已双源。"
     },
     {
       "id": "back-light",
@@ -252,27 +253,28 @@
       "theme": "理论",
       "period": "跨时期",
       "region": "全球",
-      "definition": "逆光让光源躲在主体背后直射镜头，主体大半成影，边缘却镶出一条亮廓。",
+      "definition": "逆光指光源位于主体背后、朝向镜头的照明，主体因此变暗成剪影、边缘显出轮廓光。",
       "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "轮廓光与剪影感强烈，氛围突出，曝光控制不好主体易全黑。",
+      "overview": "光源在主体之后，主体大面积处于阴影，边缘被照亮形成轮廓；曝光不当主体会全黑。",
       "related": [],
       "sections": {
-        "原理": "光源在主体之后，主体大面积处于阴影，边缘被照亮形成轮廓光。",
+        "原理": "当主光位于主体背后并朝向相机，主体迎镜头一面落在背光中而变暗，其轮廓边缘被背后强光照亮，形成剪影与轮廓光。",
         "典型手法与适用条件": "逆光下以剪影或轮廓光造型，必要时对主体补光避免死黑。",
-        "实例": "名称：逆光的窗边人物剪影（类型性描述）；地点与作者不适用。看发丝与肩线的亮边。",
+        "实例": "名称：《被拖去解体的战舰无畏号》（The Fighting Temeraire）；地点：英国伦敦国家美术馆（NG524）；作者：J.M.W. 透纳（Turner）；年份：1839 年。以逆光夕阳与雾蓝对比表现暮色氛围（作品以“blazing sunset / glowing orange”直证）。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "曝光不当会主体全黑；眩光需控制。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意图：光源在主体背后。",
-        "待核实": "「逆光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "逆光概念由 Contre-jour 与 ExpertPhotography 双源直证；实例《无畏号》的夕阳逆光为据馆方“blazing sunset/glowing orange”解读，作品未直言“逆光”。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='580' cy='120' r='40' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='530' y='90' fill='var(--ink)'>光源在主体背后</text><ellipse cx='300' cy='230' rx='55' ry='110' fill='var(--muted)'/><path d='M 300 120 Q 250 120 245 210' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M 300 120 Q 350 120 355 210' fill='none' stroke='var(--accent)' stroke-width='4'/><text x='60' y='360' fill='var(--muted)'>主体成剪影、边缘亮线（轮廓光）</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
-        "wp-architectural-lighting-design",
-        "wp-daylighting-architecture"
+        "wp-contre-jour",
+        "expertphoto-backlight",
+        "ng-temeraire"
       ],
       "needs_verification": true,
-      "pending_notes": "「逆光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "实例“逆光”解读基于馆方夕阳/暖色描述；概念已双源。"
     },
     {
       "id": "top-light",
@@ -295,7 +297,7 @@
         "待核实": "「顶光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='380' cy='60' r='24' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='380' y1='84' x2='380' y2='180' stroke='var(--accent)' stroke-width='3'/><ellipse cx='380' cy='250' rx='100' ry='70' fill='var(--panel)' stroke='var(--line)'/><ellipse cx='380' cy='300' rx='100' ry='16' fill='var(--ink)' fill-opacity='0.25'/><text x='40' y='40' fill='var(--ink)'>光源自上而下</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-architectural-lighting-design",
@@ -325,7 +327,7 @@
         "待核实": "「配色方案」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='380' cy='200' r='120' fill='none' stroke='var(--accent)'/><circle cx='380' cy='80' r='28' fill='var(--accent-soft)' stroke='var(--muted)'/><circle cx='500' cy='260' r='28' fill='none' stroke='var(--muted)'/><circle cx='260' cy='260' r='28' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='180' y='150' width='180' height='120' fill='var(--accent)'/><rect x='360' y='150' width='100' height='120' fill='var(--accent)' fill-opacity='0.5'/><rect x='460' y='150' width='60' height='120' fill='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>主色—辅色—点缀（面积比）</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-color-theory",
@@ -355,7 +357,7 @@
         "待核实": "“自由/平等/博爱”三元映射仅单一来源逐字直证（第二源只给大革命象征）；作品四要素已双源。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='380' cy='200' r='120' fill='none' stroke='var(--accent)'/><circle cx='380' cy='80' r='28' fill='var(--accent-soft)' stroke='var(--muted)'/><circle cx='500' cy='260' r='28' fill='none' stroke='var(--muted)'/><circle cx='260' cy='260' r='28' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='280' cy='200' r='40' fill='var(--accent)'/><circle cx='380' cy='200' r='40' fill='var(--panel)' stroke='var(--line)'/><circle cx='480' cy='200' r='40' fill='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>色彩—文化联想</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-color-theory",

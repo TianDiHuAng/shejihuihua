@@ -1496,6 +1496,28 @@
         "B5_pending_items": 189,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 61,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 188,
+      "fixes": 5,
+      "pending_total": 188,
+      "check_result": "PASS all checks 0 errors; spotcheck back-light failed -> reworked with real back-light sources (Contre-jour+ExpertPhotography) + dedicated SVG; side-light reworked with real side-light sources (StudioBinder+Wikipedia Rembrandt lighting); light-shadow-modeling SVG dedicated; SYSTEMIC SVG dup fix: dissolved 6+5+2+2 entry groups sharing identical SVGs -> 0 duplicate groups library-wide; 258 all L2; 19/19 tests; 0 broken links",
+      "new_sources": 4,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "B7",
+          "F"
+        ],
+        "B5_pending_items": 188,
+        "B7_unwritten_entries": 0
+      },
+      "systemic_fix": "all identical SVG groups eliminated (validator could not detect SVG duplication; added manual dedup pass)"
     }
   ]
 }

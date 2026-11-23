@@ -5723,6 +5723,66 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-23，实抓 HTTP 200；赖特《气泵中的鸟实验》1768，单支烛光投射深沉戏剧性阴影"
+    },
+    {
+      "id": "ng-rembrandt-self63",
+      "title": "Self Portrait at the Age of 63 — National Gallery",
+      "author": "National Gallery",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.nationalgallery.org.uk/paintings/rembrandt-self-portrait-at-the-age-of-63",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；伦勃朗《63岁自画像》1669，面部受光、背景深影"
+    },
+    {
+      "id": "rijks-milkmaid",
+      "title": "The Milkmaid — Rijksmuseum",
+      "author": "Rijksmuseum",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.rijksmuseum.nl/en/collection/SK-A-2344",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；维米尔《倒牛奶的女仆》，光以点点色彩落在物体表面"
+    },
+    {
+      "id": "wp-contre-jour",
+      "title": "Contre-jour",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Contre-jour",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；逆光：光源在主体背后，产生背光、更强明暗对比、剪影与轮廓（经镜像核验）"
+    },
+    {
+      "id": "expertphoto-backlight",
+      "title": "Backlight Photography — ExpertPhotography",
+      "author": "ExpertPhotography",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://expertphotography.com/backlighting-photography/",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；逆光：主光在主体背后朝向相机，主体变暗形成剪影"
+    },
+    {
+      "id": "studiobinder-side-lighting",
+      "title": "What is Side Lighting in Photography — StudioBinder",
+      "author": "StudioBinder",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.studiobinder.com/blog/what-is-side-lighting/",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；侧光：光源从主体一侧照来，凸显特征与质感、在另一侧投下阴影"
     }
   ]
 }
