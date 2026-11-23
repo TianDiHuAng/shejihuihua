@@ -102,27 +102,29 @@
       "theme": "下沉空间",
       "period": "20世纪",
       "region": "全球",
-      "definition": "覆土建筑指部分或全部覆土、以土体保温隔热的建筑。",
+      "definition": "覆土建筑指部分墙体或屋顶被土体覆盖、融入坡地景观的建筑。",
       "time_or_place": "20世纪、全球（参见来源）。",
-      "overview": "它以土壤蓄热使室内温度平稳、并融入地形。",
+      "overview": "以坡地和植被屋面使体量嵌入地形，并通过开口把天然光引入下部展厅。",
       "related": [],
       "sections": {
-        "原理": "覆土建筑指部分或全部覆土、以土体保温隔热的建筑。它以土壤蓄热使室内温度平稳、并融入地形。",
+        "原理": "把建筑嵌入坡地、屋顶覆以草皮与苔藓，可减少对地形的割裂；天窗与侧开口把光线引入位于地坪以下的展厅。",
         "典型手法与适用条件": "屋面或侧墙覆土，结合防水与采光井。",
-        "实例": "名称：覆土建筑的典型场景（类型性描述）；地点与设计者不适用。",
+        "实例": "名称：莫斯高博物馆（Moesgaard Museum）；地点：丹麦奥胡斯南部；设计者：亨宁·拉森建筑事务所（Henning Larsen Architects）；年份：2014 年开馆（2009–2014 设计施工）。坡地覆土、草皮屋顶、自然光进入地下展厅。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "防水失效会渗漏；构造须专业。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：覆土建筑的要点。",
-        "待核实": "「覆土建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "“土体保温隔热的 Specific 热工机制”在引用来源中未逐字直证，属一般性说明；实例四要素已双源。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><path d=\"M 221 187 Q 283 149 81 347\" fill=\"none\" stroke=\"var(--muted)\"/><polyline points=\"274,228 302,196 104,340\" fill=\"none\" stroke=\"var(--accent)\"/><ellipse cx=\"327\" cy=\"269\" rx=\"37\" ry=\"333\" fill=\"none\" stroke=\"var(--muted)\"/><circle cx=\"380\" cy=\"100\" r=\"60\" fill=\"none\" stroke=\"var(--muted)\"/><text x='40' y='40' fill='var(--ink)'>覆土建筑</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='141' cy='149' r='4' fill='var(--muted)'/><circle cx='170' cy='180' r='4' fill='var(--muted)'/><circle cx='199' cy='211' r='4' fill='var(--muted)'/><circle cx='228' cy='242' r='4' fill='var(--muted)'/></svg>"
       ],
       "sources": [
         "wp-architecture",
-        "wp-sunken-courtyard"
+        "wp-sunken-courtyard",
+        "moesgaard-building",
+        "henning-moesgaard"
       ],
       "needs_verification": true,
-      "pending_notes": "「覆土建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "覆土热工机制缺直接来源，待补；实例已双源。"
     },
     {
       "id": "romanticism-style",

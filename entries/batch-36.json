@@ -77,20 +77,22 @@
       "sections": {
         "原理": "参观路径按展陈逻辑串联节点，控制节奏与停留，使观展成为连续叙事。",
         "典型手法与适用条件": "以入口—序厅—重点—结束组织，设停留点与分流支线。",
-        "实例": "名称：美术馆参观动线（类型性描述）；地点与设计者不适用。看展项如何被依次串联。",
+        "实例": "名称：卢浮宫金字塔—拿破仑大厅主入口；地点：法国巴黎卢浮宫；设计者：贝聿铭（I. M. Pei）；年份：1989 年。入口重组后管理内外参观流线并统合三翼。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "动线逆流与拥堵影响体验；需与疏散协调。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：参观路径串联展项。",
-        "待核实": "展陈动线与叙事的专门来源待补充，相关表述为一般性经验；实例为古根海姆螺旋坡道。具体设计者与年代亦待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polyline points='120,300 300,220 480,260 640,170' fill='none' stroke='var(--accent)' stroke-width='3'/><circle cx='300' cy='220' r='12' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='480' cy='260' r='12' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>参观动线</text><circle cx='140' cy='60' r='5' fill='var(--accent)'/></svg>"
       ],
       "sources": [
         "wp-wayfinding",
-        "guggenheim-visitor-guide"
+        "guggenheim-visitor-guide",
+        "louvre-pyramid-presse",
+        "britannica-louvre-pyramid"
       ],
-      "needs_verification": true,
-      "pending_notes": "展陈动线专门来源待补（一般性经验）；实例为古根海姆螺旋坡道；设计者年代待核实。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "loop-route",

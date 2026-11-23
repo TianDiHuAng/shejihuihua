@@ -107,20 +107,22 @@
       "sections": {
         "原理": "依石的瘦、透、漏、皱选石，按山势堆叠，模拟自然山岳的起伏与洞穴。",
         "典型手法与适用条件": "选石、立意、堆叠，结合植物与水形成山景。",
-        "实例": "名称：园林假山（类型性描述）；地点与设计者不适用。看石形与堆法如何造出峰壑。",
+        "实例": "名称：苏州狮子林湖石假山群；地点：中国江苏苏州园林路；设计者：天如禅师及弟子（无单一设计师）；年份：元至正二年（1342 年）。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "堆叠失当会松散危险；需结构安全。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：石峰与洞壑的堆叠。",
-        "待核实": "「叠石」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='90' width='600' height='230' fill='none' stroke='var(--line)'/><circle cx='240' cy='200' r='34' fill='var(--accent-soft)' stroke='var(--accent)'/><path d='M 360 260 Q 460 160 600 250' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>叠石</text></svg>"
       ],
       "sources": [
         "wp-chinese-garden",
-        "wp-garden-design"
+        "wp-garden-design",
+        "suzhou-lion-grove",
+        "unesco-suzhou"
       ],
-      "needs_verification": true,
-      "pending_notes": "「叠石」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "planting-design",
@@ -137,20 +139,22 @@
       "sections": {
         "原理": "按植物的高度、色相、花期与习性分层配置，形成四季可观的群落。",
         "典型手法与适用条件": "以上中下三层搭配乔灌草，考虑季相与维护。",
-        "实例": "名称：园林乔灌草分层配置（类型性描述）；地点与设计者不适用。看季相与层次的搭配。",
+        "实例": "名称：邱园大花境（Great Broad Walk Borders）；地点：英国伦敦邱园；设计者：威廉·内斯菲尔德（原始）、理查德·威尔福德（再设计）；年份：1840 年代。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "忽视习性与养护会导致成活率低；需专业选种。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：乔木、灌木、地被的分层。",
-        "待核实": "「植物配置」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='90' width='600' height='230' fill='none' stroke='var(--line)'/><circle cx='240' cy='200' r='34' fill='var(--accent-soft)' stroke='var(--accent)'/><path d='M 360 260 Q 460 160 600 250' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>植物配置</text></svg>"
       ],
       "sources": [
         "wp-garden-design",
-        "wp-landscape-architecture"
+        "wp-landscape-architecture",
+        "whj-kew-borders",
+        "dcms-kew-pdf"
       ],
-      "needs_verification": true,
-      "pending_notes": "「植物配置」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "garden-architecture",
@@ -197,20 +201,22 @@
       "sections": {
         "原理": "不同植物在不同季节呈现花、叶、果的变化，配合雨雪晴晦形成四时景致。",
         "典型手法与适用条件": "按季相选配花木，设观景点题名以点景。",
-        "实例": "名称：四季花木的季相配置（类型性描述）；地点与设计者不适用。看春夏秋冬的景色变化。",
+        "实例": "名称：桂离宫庭园；地点：日本京都西京区桂川西岸；设计者：智仁亲王、智忠亲王（皇室营建）；年份：1615 年起近 50 年。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "季相集中会他季萧条；需均衡配置。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：四时花木的季相更替。",
-        "待核实": "「四季造景」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='90' width='600' height='230' fill='none' stroke='var(--line)'/><circle cx='240' cy='200' r='34' fill='var(--accent-soft)' stroke='var(--accent)'/><path d='M 360 260 Q 460 160 600 250' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>四季造景</text></svg>"
       ],
       "sources": [
         "wp-chinese-garden",
-        "wp-garden-design"
+        "wp-garden-design",
+        "kunaicho-katsura",
+        "jnt-katsura"
       ],
-      "needs_verification": true,
-      "pending_notes": "「四季造景」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "sunken-garden",
@@ -227,20 +233,22 @@
       "sections": {
         "原理": "下沉庭院以低于周边地坪的围合形成相对安静的空间；挡土、排水与防潮的构造做法须按当地规范与专业设计确定。",
         "典型手法与适用条件": "以台阶或坡道连接地面，结合挡土墙、绿化与排水沟组织；适用于需要安静绿地的场地。",
-        "实例": "名称：城市下沉花园（类型性描述）；地点与设计者不适用。看高差、绿化与排水的组合。",
+        "实例": "名称：布查特花园下沉花园（The Sunken Garden）；地点：加拿大不列颠哥伦比亚省 Brentwood Bay；设计者：珍妮·布查特（Jennie Butchart）；年份：园区 1904 年创建、采石坑花园化节点约 1912 年。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "排水、防潮与挡土处理不当会积水返潮或失稳；须由专业人员按规范设计。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：下沉花园的剖面与排水。",
-        "待核实": "下沉庭院的专门权威来源待补充（现引条目为存根），本页构造内容为一般性工程说明；具体实例的设计者与年代亦待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='60' y1='150' x2='700' y2='150' stroke='var(--ink)' stroke-width='2'/><polyline points='160,150 320,300 540,300 540,150' fill='none' stroke='var(--accent)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>下沉花园</text></svg>"
       ],
       "sources": [
         "wp-sunken-courtyard",
-        "wp-garden-design"
+        "wp-garden-design",
+        "butchart-story",
+        "cib-butchart"
       ],
-      "needs_verification": true,
-      "pending_notes": "专门来源待补充；构造内容为一般性工程说明；实例待核实。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "semi-sunken-space",
@@ -257,20 +265,22 @@
       "sections": {
         "原理": "一侧下沉获得安静与私密，另一侧仍可开窗采光，兼顾两者。",
         "典型手法与适用条件": "沿坡地或错层布置，下沉侧设采光井，接地侧开窗。",
-        "实例": "名称：坡地半下沉住宅（类型性描述）；地点与设计者不适用。看两侧采光与私密的平衡。",
+        "实例": "名称：下沉住宅（Sunken House）；地点：英国伦敦哈克尼区 De Beauvoir Town；设计者：Adjaye Associates；年份：2007 年。场地挖至地下室标高，形成下沉庭院与主起居层。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "防潮与通风须专门处理；需按规范。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：半下沉空间的错层剖面。",
-        "待核实": "下沉/地下空间的专门权威来源偏少，构造做法为一般性工程说明，须按当地规范校核；「半下沉空间」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='60' y1='150' x2='700' y2='150' stroke='var(--ink)' stroke-width='2'/><polyline points='160,150 320,300 540,300 540,150' fill='none' stroke='var(--accent)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>半下沉空间</text></svg>"
       ],
       "sources": [
         "wp-architecture",
-        "wp-sunken-courtyard"
+        "wp-sunken-courtyard",
+        "adjaye-sunken-house",
+        "archdaily-sunken-house"
       ],
-      "needs_verification": true,
-      "pending_notes": "专门来源偏少、构造为一般性说明；「半下沉空间」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "sunken-atrium",
@@ -287,20 +297,22 @@
       "sections": {
         "原理": "中庭贯通地下多层并通过天窗或下沉庭院引入天然光，改善地下环境。",
         "典型手法与适用条件": "以天窗/下沉庭院采光，围绕中庭布置交通与公共功能。",
-        "实例": "名称：地下商业中庭（类型性描述）；地点与设计者不适用。看天窗如何把光引入地下。",
+        "实例": "名称：卢浮宫金字塔与拿破仑大厅（Pyramide / Hall Napoléon）；地点：法国巴黎卢浮宫拿破仑庭院；设计者：贝聿铭（I. M. Pei）；年份：1989 年 3 月 29 日启用。中央地下大厅直通博物馆三翼。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "采光不足会阴暗；排烟与疏散须按规范。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：地下中庭与天窗采光。",
-        "待核实": "下沉/地下空间的专门权威来源偏少，构造做法为一般性工程说明，须按当地规范校核；「地下中庭」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='60' y1='150' x2='700' y2='150' stroke='var(--ink)' stroke-width='2'/><polyline points='160,150 320,300 540,300 540,150' fill='none' stroke='var(--accent)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>地下中庭</text></svg>"
       ],
       "sources": [
         "wp-atrium-architecture",
-        "wp-sunken-courtyard"
+        "wp-sunken-courtyard",
+        "louvre-pyramid-symbol",
+        "pcf-grand-louvre"
       ],
-      "needs_verification": true,
-      "pending_notes": "专门来源偏少、构造为一般性说明；「地下中庭」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "material-color",
