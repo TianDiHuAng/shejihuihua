@@ -117,8 +117,8 @@
       "url": "https://en.wikipedia.org/wiki/Art_Nouveau",
       "url2": null,
       "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": false
+      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null；2026-11-23 复核 canonical 200 可达",
+      "link_ok": true
     },
     {
       "id": "wp-atrium-architecture",
@@ -669,8 +669,8 @@
       "url": "https://en.wikipedia.org/wiki/Indian_architecture",
       "url2": null,
       "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；若为消歧义页按实际标题记录；URL重定向，Indian architecture现标题为Architecture of India，已按实际h1核对；来源为百科条目，出版年记为null",
-      "link_ok": false
+      "note": "访问日期2026-11-22；页面h1核对；若为消歧义页按实际标题记录；URL重定向，Indian architecture现标题为Architecture of India，已按实际h1核对；来源为百科条目，出版年记为null；2026-11-23 复核 canonical 200 可达",
+      "link_ok": true
     },
     {
       "id": "wp-ink-wash-painting",
@@ -717,8 +717,8 @@
       "url": "https://en.wikipedia.org/wiki/Japanese_architecture",
       "url2": null,
       "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": false
+      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null；2026-11-23 复核 canonical 200 可达",
+      "link_ok": true
     },
     {
       "id": "wp-japonisme",
