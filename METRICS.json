@@ -1658,6 +1658,26 @@
         "B5_pending_items": 184,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 69,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 1,
+      "reviews": 184,
+      "fixes": 0,
+      "pending_total": 183,
+      "check_result": "PASS all checks 0 errors; spotcheck interior-exterior-transition ok -> upgraded (Loggia; wp-loggia + db-loggia dual platforms, open-sided/covered gallery verbatim); 258 all L2; 19/19 tests; 0 broken links",
+      "new_sources": 1,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "F"
+        ],
+        "B5_pending_items": 183,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }

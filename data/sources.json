@@ -5855,6 +5855,18 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-23，实抓 HTTP 200；四合院：四面建筑围合的庭院，沿南北/东西轴布局（经镜像核验）"
+    },
+    {
+      "id": "db-loggia",
+      "title": "Loggia — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Loggia",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；敞廊：一侧开放的带顶/拱廊画廊，常位于楼层"
     }
   ]
 }
