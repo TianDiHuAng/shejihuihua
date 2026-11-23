@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-23",
-  "total": 255,
+  "total": 258,
   "entries": [
     {
       "id": "perspective",
@@ -37,8 +37,8 @@
       "region": "欧洲",
       "level": "L2",
       "status": "已写",
-      "source_count": 2,
-      "needs_verification_count": 1,
+      "source_count": 4,
+      "needs_verification_count": 0,
       "last_updated": "2026-11-23"
     },
     {
@@ -102,8 +102,8 @@
       "region": "欧洲",
       "level": "L2",
       "status": "已写",
-      "source_count": 2,
-      "needs_verification_count": 1,
+      "source_count": 4,
+      "needs_verification_count": 0,
       "last_updated": "2026-11-23"
     },
     {
@@ -2858,8 +2858,8 @@
       "region": "欧洲",
       "level": "L2",
       "status": "已写",
-      "source_count": 2,
-      "needs_verification_count": 1,
+      "source_count": 4,
+      "needs_verification_count": 0,
       "last_updated": "2026-11-23"
     },
     {
@@ -2871,8 +2871,8 @@
       "region": "全球",
       "level": "L2",
       "status": "已写",
-      "source_count": 2,
-      "needs_verification_count": 1,
+      "source_count": 4,
+      "needs_verification_count": 0,
       "last_updated": "2026-11-23"
     },
     {
@@ -3284,6 +3284,45 @@
       "theme": "风格",
       "tier": "重要",
       "period": "中世纪",
+      "region": "伊斯兰/南亚",
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "dikengyuan",
+      "title": "地坑院（下沉式窑院）",
+      "theme": "下沉空间",
+      "tier": "补充",
+      "period": "古代",
+      "region": "中国",
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "sasanian-architecture",
+      "title": "萨珊建筑",
+      "theme": "风格",
+      "tier": "重要",
+      "period": "古代",
+      "region": "伊斯兰/南亚",
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "ottoman-architecture",
+      "title": "奥斯曼建筑",
+      "theme": "风格",
+      "tier": "重要",
+      "period": "文艺复兴至19世纪",
       "region": "伊斯兰/南亚",
       "level": "L2",
       "status": "已写",

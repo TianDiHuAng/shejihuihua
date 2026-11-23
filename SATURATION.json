@@ -887,6 +887,24 @@
         "unwritten_entries": 0
       },
       "note": "resumed expansion: 4 new entries fill 4 sparse cells; 6 named-instance upgrades"
+    },
+    {
+      "round": 47,
+      "date": "2026-11-23",
+      "zero_gap": false,
+      "methods_used": [
+        "B1",
+        "B2",
+        "B5",
+        "B7"
+      ],
+      "new_gaps": {
+        "B1_new_candidates": 3,
+        "sparse_cells": 0,
+        "pending_items": 216,
+        "unwritten_entries": 0
+      },
+      "note": "sparse cells filled to 0; 4 named instances"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true",

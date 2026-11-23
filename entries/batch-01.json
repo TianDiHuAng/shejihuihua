@@ -244,17 +244,19 @@
       ],
       "sources": [
         "wp-perspective-graphical",
-        "wp-de-pictura"
+        "wp-de-pictura",
+        "cenacolo-history",
+        "italia-lastsupper"
       ],
-      "needs_verification": true,
-      "pending_notes": "「一点透视」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "一点透视把一组平行于视线的线汇聚到画面单一主灭点，正对视线的立面保持不动形。",
         "典型手法与适用条件": "以视平线与主灭点作图，适用于走廊、街景与正对观察者的室内。",
-        "实例": "名称：正对式室内透视（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《最后的晚餐》（The Last Supper）；地点：意大利米兰圣玛利亚感恩修道院餐厅；设计者：列奥纳多·达·芬奇（Leonardo da Vinci）；年份：约 1495–1498 年。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "偏离主灭点会造成正立面变形；画面尺寸影响透视观感。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：单一主灭点与汇聚线。",
-        "待核实": "具体作品的设计者与年代待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='80' width='520' height='240' fill='none' stroke='var(--line)'/><line x1='60' y1='200' x2='700' y2='200' stroke='var(--accent)' stroke-width='2'/><circle cx='380' cy='200' r='6' fill='var(--accent)'/><line x1='120' y1='80' x2='380' y2='200' stroke='var(--muted)'/><line x1='120' y1='320' x2='380' y2='200' stroke='var(--muted)'/><line x1='640' y1='80' x2='380' y2='200' stroke='var(--muted)'/><line x1='640' y1='320' x2='380' y2='200' stroke='var(--muted)'/><text x='80' y='188' fill='var(--ink)'>视平线</text><text x='392' y='192' fill='var(--ink)'>主灭点</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -372,17 +374,19 @@
       ],
       "sources": [
         "wp-perspective-graphical",
-        "wp-leonardo-da-vinci"
+        "wp-leonardo-da-vinci",
+        "pinacotecabrera-christ",
+        "artchive-mantegna"
       ],
-      "needs_verification": true,
-      "pending_notes": "「缩短法」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "形体正面朝向观者时，它在画面上的长度会被压缩，这种透视现象叫缩短法。",
         "典型手法与适用条件": "画伸向镜头的手臂、指向观者的器物时要按比例压缩，否则显得僵硬。",
-        "实例": "名称：人物手臂前伸的短缩处理（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《哀悼基督》（Lamentation over the Dead Christ）；地点：意大利米兰布雷拉美术馆；设计者：安德烈亚·曼特尼亚（Andrea Mantegna）；年份：约 1480–1490 年（各家标年 1480/1483/1490 并列）。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "压缩过头会让四肢比例怪诞；须与全身透视关系协调。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：朝向观者的一侧被压扁。",
-        "待核实": "范例作品及其作者、年代待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 240 160 Q 380 120 520 160 L 520 240 Q 380 280 240 240 Z' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='240' y1='200' x2='520' y2='200' stroke='var(--muted)'/><text x='280' y='120' fill='var(--ink)'>朝向观者的一侧被压缩</text><text x='300' y='390' fill='var(--muted)'>示意图，非施工图</text></svg>"

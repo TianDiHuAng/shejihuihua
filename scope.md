@@ -5,9 +5,9 @@
 第 7 轮候选直接以 data/sources.json 的来源 id 标注（详见 research/gaps-external-round06.md）。
 每条标注层级与来源编号。
 
-总计 255 条：理论 128、风格 64、造景 19、
-动线 13、下沉空间 12、材料 19。
-层级分布：核心 50、重要 151、补充 54。
+总计 258 条：理论 128、风格 66、造景 19、
+动线 13、下沉空间 13、材料 19。
+层级分布：核心 50、重要 153、补充 55。
 
 ## 理论（128 条）
 
@@ -142,7 +142,7 @@
 | academic-art-theory | 学院派理论与素描教学 | 重要 | 文艺复兴至19世纪 | 全球 | wp-academic-art,artincontext-academic |
 | classical-order | 古典柱式 | 重要 | 古代 | 欧洲 | wp-classical-order,designingbuildings-classical |
 
-## 风格（64 条）
+## 风格（66 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -210,6 +210,8 @@
 | mexican-baroque | 墨西哥巴洛克（新西班牙巴洛克） | 补充 | 文艺复兴至19世纪 | 美洲 | wp-new-spanish-baroque,designingbuildings-baroque |
 | mughal-architecture | 莫卧儿建筑 | 重要 | 文艺复兴至19世纪 | 伊斯兰/南亚 | wp-mughal-architecture,designingbuildings-taj-mahal |
 | early-islamic-architecture | 早期伊斯兰建筑 | 重要 | 中世纪 | 伊斯兰/南亚 | wp-umayyad-architecture,artincontext-islamic-art |
+| sasanian-architecture | 萨珊建筑 | 重要 | 古代 | 伊斯兰/南亚 | wp-sasanian-architecture,artincontext-persian-art |
+| ottoman-architecture | 奥斯曼建筑 | 重要 | 文艺复兴至19世纪 | 伊斯兰/南亚 | wp-ottoman-architecture,artincontext-islamic-architecture |
 
 ## 造景（19 条）
 
@@ -253,7 +255,7 @@
 | exit-sign | 疏散标识（安全出口标识） | 补充 | 20世纪 | 全球 | wp-exit-sign,ecfr-1910-37 |
 | imperial-axial-route | 宫廷中轴仪礼动线 | 重要 | 古代 | 中国 | wp-forbidden-city,designingbuildings-forbidden-city |
 
-## 下沉空间（12 条）
+## 下沉空间（13 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -269,6 +271,7 @@
 | damp-proofing | 防潮 | 核心 | 20世纪 | 全球 | S1 |
 | safety-guarding | 安全防护 | 核心 | 20世纪 | 全球 | S1 |
 | sunken-accessibility | 下沉空间无障碍 | 核心 | 20世纪 | 全球 | S1 |
+| dikengyuan | 地坑院（下沉式窑院） | 补充 | 古代 | 中国 | wp-yaodong,smx-shanzhou-dikengyuan |
 
 ## 材料（19 条）
 

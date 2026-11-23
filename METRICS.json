@@ -1184,6 +1184,31 @@
         "B5_pending_items": 219,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 47,
+      "date": "2026-11-23",
+      "new_entries": 3,
+      "upgrades": 4,
+      "reviews": 217,
+      "fixes": 5,
+      "pending_total": 216,
+      "check_result": "PASS all checks 0 errors; spotcheck 2 pending -> disclosures/instances fixed; B1 filled remaining 3 sparse cells (dikengyuan/sasanian/ottoman) -> SPARSE CELLS = 0; 4 entries named instances (Palazzo del Te/Palais Garnier/Last Supper/Lamentation); 258 entries all L2; 14/14; 0 broken links",
+      "new_sources": 13,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B1",
+          "B2",
+          "B5",
+          "B7"
+        ],
+        "B1_new_candidates": 3,
+        "B2_sparse_cells": 0,
+        "B5_pending_items": 217,
+        "B7_unwritten_entries": 0
+      },
+      "milestone": "all coverage cells now >=2 entries (sparse=0)"
     }
   ]
 }

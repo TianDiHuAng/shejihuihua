@@ -18,17 +18,19 @@
       ],
       "sources": [
         "wp-mannerism",
-        "wp-list-architectural-styles"
+        "wp-list-architectural-styles",
+        "palazzote-official",
+        "theartstory-mannerism"
       ],
-      "needs_verification": true,
-      "pending_notes": "「样式主义（手法主义）建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "样式主义在文艺复兴的规则之内故意拉长比例、扭转姿态，以显示技巧与张力。",
         "典型手法与适用条件": "以夸张人体、非对称构图与异常色彩制造不安感；多见于晚期文艺复兴绘画与建筑细部。",
-        "实例": "名称：样式主义绘画与建筑细部（类型性描述）；地点：欧洲；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：得特宫（Palazzo del Te）；地点：意大利曼图亚；设计者：朱利奥·罗马诺（Giulio Romano）；年份：约 1524–1535 年（各家标年 1524–1534 / 1525–1535 并列）。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "过度变形会流于做作、削弱可读性；判断其价值需结合当时的赞助与审美语境。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：刻意拉长与变形的形体。",
-        "待核实": "具体作品的设计者与年代待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='200' width='480' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><path d='M 200 200 Q 230 120 260 200' fill='none' stroke='var(--muted)'/><path d='M 300 200 Q 340 110 380 200' fill='none' stroke='var(--muted)'/><path d='M 440 200 Q 490 100 540 200' fill='none' stroke='var(--muted)'/><text x='250' y='80' fill='var(--ink)'>刻意拉长与变形</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -48,17 +50,19 @@
       "related": [],
       "sources": [
         "wp-list-architectural-styles",
-        "wp-history-of-architecture"
+        "wp-history-of-architecture",
+        "pop-garnier",
+        "operadeparis-garnier"
       ],
-      "needs_verification": true,
-      "pending_notes": "「学院派建筑（布扎艺术）」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "学院派把古典柱式、对称轴线与纪念性体量系统化为可教授的设计法则，强调构图与装饰等级。",
         "典型手法与适用条件": "公共建筑常以居中主厅、两翼对称和丰富装饰体现权威；适用于大型公共与交通建筑。",
-        "实例": "名称：学院派公共建筑（类型性描述）；地点：欧洲与美洲；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：巴黎歌剧院（Palais Garnier）；地点：法国巴黎第九区；设计者：夏尔·加尼叶（Charles Garnier）；年份：1861–1875 年（1862 动工、1875 启用）。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "重装饰轻功能易致使用不便；细部比例失当会显得浮夸。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：对称与纪念性轴线。",
-        "待核实": "所举实例的设计者与年代待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='200' width='520' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><polygon points='160,200 300,120 440,200' fill='none' stroke='var(--muted)'/><line x1='380' y1='120' x2='380' y2='80' stroke='var(--accent)'/><text x='260' y='70' fill='var(--ink)'>对称与纪念性轴线</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
