@@ -5951,6 +5951,30 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-23，实抓 HTTP 200；梵高研究互补色：红与绿、黄与紫、蓝与橙相互增强"
+    },
+    {
+      "id": "gardenvisit-stourhead",
+      "title": "Stourhead Garden — Gardenvisit.com",
+      "author": "Gardenvisit.com",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.gardenvisit.com/gardens/stourhead_garden",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；斯托海德园林受 Claude Lorrain 影响，Henry Hoare II 造 'Claudian' 园林"
+    },
+    {
+      "id": "wp-stourhead",
+      "title": "Stourhead — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Stourhead",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；斯托海德：英式风景园，受 Claude Lorrain 画作启发（经镜像核验）"
     }
   ]
 }
