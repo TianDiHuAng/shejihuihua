@@ -1236,6 +1236,33 @@
         "B7_unwritten_entries": 0
       },
       "zero_gap": true
+    },
+    {
+      "round": 49,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 6,
+      "reviews": 216,
+      "fixes": 2,
+      "pending_total": 216,
+      "check_result": "PASS all checks 0 errors; B1/B6 no new gaps; 6 named instances (School of Athens/Mona Lisa/Colosseum/Ronchamp/Villa Rotonda/Ryoan-ji); spotcheck 2/2 qualified, brutalism umbrella source removed + atrium disclosure restored; 258 all L2; ZERO-GAP 2/3",
+      "new_sources": 12,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B1",
+          "B2",
+          "B5",
+          "B6",
+          "B7"
+        ],
+        "B1_new_candidates": 0,
+        "B2_sparse_cells": 0,
+        "B5_pending_items": 216,
+        "B6_new_dynamics": 0,
+        "B7_unwritten_entries": 0
+      },
+      "zero_gap": true
     }
   ]
 }
