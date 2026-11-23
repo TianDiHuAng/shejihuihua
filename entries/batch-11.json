@@ -18,17 +18,18 @@
       ],
       "sources": [
         "wp-placemaking",
-        "wp-urban-design"
+        "wp-urban-design",
+        "db-placemaking"
       ],
       "needs_verification": true,
-      "pending_notes": "「场所营造」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "PPS 创立年份单源（DB 未载），待补；其余两源。",
       "sections": {
         "原理": "场所营造以使用者参与和日常活动为核心，把公共空间从“建好”推向“被使用、被认同”。",
         "典型手法与适用条件": "通过社区共创、临时活动与渐进改造激活空间；适用于街区、广场与滨水地带。",
-        "实例": "名称：社区参与式公共空间更新（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：场所营造（Placemaking，以美国非营利组织 Project for Public Spaces, PPS 的实践为代表）；地点：美国（Practice 发源于美国）；组织者：Project for Public Spaces（PPS）及社区；年份：20 世纪后期。通过社区参与改造公共空间、营造场所感的实践。此处仅列名称、地点、组织者与年份信息，不复制图像。",
         "常见错误与限制": "忽视在地使用者会流于“设计师自嗨”；短期活动难转化为长期活力。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：居民活动填充公共空间。",
-        "待核实": "所举更新案例的设计团队与年份待核实。"
+        "待核实": "“1975 年由 Fred Kent 创立 PPS”仅 Wikipedia 单源（Designing Buildings 未载具体年份与创立地）；实例四要素已两源支撑，创立年份待补第二独立来源。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='220' width='600' height='110' fill='var(--accent-soft)' stroke='var(--line)'/><circle cx='200' cy='180' r='26' fill='none' stroke='var(--accent)'/><circle cx='300' cy='180' r='26' fill='none' stroke='var(--accent)'/><circle cx='400' cy='180' r='26' fill='none' stroke='var(--accent)'/><text x='150' y='130' fill='var(--ink)'>居民活动</text><text x='500' y='260' fill='var(--ink)'>公共空间</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"

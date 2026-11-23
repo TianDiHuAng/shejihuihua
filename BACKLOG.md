@@ -25,11 +25,11 @@
 
 执行顺序：每完成一批运行 check.py 并 commit；抽检 10%（至少 3 个）另起子任务。
 
-## 下一轮队列（第 72 轮，按优先级）
+## 下一轮队列（第 73 轮，按优先级）
 
-1. 继续为待核实重要条目补具名实例双源（当前 180），维持 10% 抽检。
-2. defensible-space-theory（Newman 1972《Defensible Space》）仅 Wikipedia 单平台，DB 404，暂保留待核实。
-3. B1/B6 判定。
+1. 继续为待核实重要条目补具名实例双源（当前 179），维持 10% 抽检。
+2. B1/B6 判定；无法双源者据实保留披露。
+3. 教训：补实例须核"该细节是否两源均覆盖"，避免错位引用/单源精确年（placemaking 案例）。
 
 ## 已完成/历史（维护模式说明保留）
 
@@ -108,3 +108,4 @@
 - 第 69 轮：interior-exterior-transition（室内外过渡）用敞廊 Loggia 实例并升级（wp-loggia + db-loggia 双独立平台）；258 条全 L2，来源 489，待核实 183
 - 第 70 轮：space-syntax（Hillier/Hanson《The Social Logic of Space》1984）与 pattern-language（Alexander《建筑模式语言》1977 253模式）补具名著作实例并升级（各双独立平台）；258 条全 L2，来源 491，待核实 181
 - 第 71 轮：biophilic-design（Wilson《Biophilia》1984 亲生命设计）补具名实例并升级（wp + Designing Buildings 双平台）；258 条全 L2，来源 492，待核实 180
+- 第 72 轮：placemaking 首升被抽检判不合格（“于纽约创立”错位引用+PPS 1975 单源），返工删错位、1975 标待核实、回退 nv；返工复检合格；258 条全 L2，来源 493，待核实 179

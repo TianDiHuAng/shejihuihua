@@ -13,7 +13,7 @@
 | 1 | 来源库 sources.json | 已完成 | data/sources.json（118 条，115 verified，link_ok 三态）、research/source_notes.md |
 | 2 | 校验器 tools/check.py | 已完成 | tools/check.py、tests/test_check.py（7/7 通过） |
 | 3 | 2 个 L2 样板 | 已完成 | entries/l2-samples.json（透视法、下沉庭院，含自绘 SVG） |
-| 4 | 条目累计 258 | 第 71 轮已完成 | 范围 258；已写 258（全部 L2）；来源 492；待核实 180 |
+| 4 | 条目累计 258 | 第 72 轮已完成 | 范围 258；已写 258（全部 L2）；来源 493；待核实 179 |
 | 5 | 总览页 / 索引 / 导航 / REPORT | 已完成 | site/（首页、40 条目页、索引、来源、覆盖报告）、REPORT.md |
 
 ## 本轮完成目标
@@ -119,3 +119,4 @@
 - 2026-11-23 19:4x 第 69 轮维护：interior-exterior-transition 用敞廊实例升级；258 条全 L2，来源 489，待核实 183。
 - 2026-11-23 19:5x 第 70 轮维护：space-syntax/pattern-language 著作实例升级；258 条全 L2，来源 491，待核实 181。
 - 2026-11-23 20:0x 第 71 轮维护：biophilic-design 升级；258 条全 L2，来源 492，待核实 180。
+- 2026-11-23 20:0x 第 72 轮维护：placemaking 错位引用修正+回退待核实（诚实标注 PPS 创立年份单源）；258 条全 L2，来源 493，待核实 179。

@@ -5903,6 +5903,18 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-23，实抓 HTTP 200；亲生命设计：Edward Wilson 1980s 普及 biophilia 概念"
+    },
+    {
+      "id": "db-placemaking",
+      "title": "Placemaking — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Placemaking",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；场所营造：PPS(Project for Public Spaces) 推动的社区空间实践"
     }
   ]
 }
