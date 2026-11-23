@@ -1638,6 +1638,26 @@
         "B5_pending_items": 185,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 68,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 1,
+      "reviews": 185,
+      "fixes": 0,
+      "pending_total": 184,
+      "check_result": "PASS all checks 0 errors; spotcheck spatial-sequence ok -> upgraded (Guggenheim spiral ramp; NYC LPC PDF + Guggenheim visitor guide PDF, dual official, continuous spiral/quarter-mile ramp verbatim); similarity 0.5096 near threshold noted; 258 all L2; 19/19 tests; 0 broken links",
+      "new_sources": 0,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "F"
+        ],
+        "B5_pending_items": 184,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }

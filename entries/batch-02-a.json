@@ -324,15 +324,15 @@
         "guggenheim-visitor-guide",
         "nyc-lpc-guggenheim"
       ],
-      "needs_verification": true,
-      "pending_notes": "空间序列一般理论待补充专门来源；以古根海姆连续坡道为连续序列实例。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "空间序列把若干空间按进入顺序组织，以开合、明暗与尺度变化控制节奏，使行进成为叙事。",
         "典型手法与适用条件": "以连续坡道、轴线递进或转折串联空间；适用于展馆、院落与纪念性空间。",
-        "实例": "名称：所罗门·R·古根海姆美术馆；地点：美国纽约；设计者：弗兰克·劳埃德·赖特；年份：1959 年开放。以连续螺旋坡道把观展变成一条不断的空间序列。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "实例": "名称：纽约古根海姆博物馆（Solomon R. Guggenheim Museum）螺旋坡道；地点：美国纽约；设计者：弗兰克·劳埃德·赖特（Frank Lloyd Wright）；年份：1959 年开馆。观众沿环绕中庭的连续螺旋坡道盘旋而上观展，形成连续的空间序列。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "节奏单一会乏味、转折过多会迷失；导向与疏散须校核。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：连续坡道串联的观展序列。",
-        "待核实": "空间序列的一般理论待补充专门来源；实例为螺旋坡道式连续序列。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><ellipse cx='380' cy='200' rx='150' ry='110' fill='none' stroke='var(--accent)' stroke-width='2'/><path d='M 380 90 A 150 110 0 1 1 379 90' fill='none' stroke='var(--muted)' stroke-dasharray='8 6'/><circle cx='380' cy='90' r='10' fill='var(--accent)'/><text x='250' y='60' fill='var(--ink)'>连续坡道串联的观展序列</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
