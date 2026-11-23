@@ -1227,6 +1227,19 @@
         "pending_items": 181
       },
       "note": "maintenance: space-syntax & pattern-language upgraded"
+    },
+    {
+      "round": 71,
+      "date": "2026-11-23",
+      "zero_gap": false,
+      "methods_used": [
+        "B5",
+        "F"
+      ],
+      "new_gaps": {
+        "pending_items": 180
+      },
+      "note": "maintenance: biophilic-design upgraded"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true",
