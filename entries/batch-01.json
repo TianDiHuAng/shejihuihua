@@ -494,17 +494,18 @@
       ],
       "sources": [
         "wp-rule-of-thirds",
-        "wp-composition-visual-arts"
+        "wp-composition-visual-arts",
+        "uni-visual-literacy"
       ],
       "needs_verification": true,
-      "pending_notes": "「三分法」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "仅单一机构来源（UNI）直证该作品的三分法运用；作品摄影者未署，待补第二独立来源。",
       "sections": {
         "原理": "三分法把画面横竖各三等分，主体置于交点或分割线上以获得偏离中心的均衡。",
         "典型手法与适用条件": "适用于摄影、绘画与界面布局的主体定位；可与引导线配合。",
-        "实例": "名称：三分法摄影构图（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：柏林奥林匹克体育场敬礼照片；地点：德国柏林；设计者：摄影者不详；年份：1938 年 5 月 14 日。运动员腰线与看台线落在画面水平三分线上。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "机械套用会导致构图僵硬；主体位置应结合视线方向调整。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：三分网格与交点主体。",
-        "待核实": "具体案例的设计者与年代待核实。"
+        "待核实": "仅单一机构来源（UNI）直证该作品的三分法运用；作品摄影者未署，待补第二独立来源。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='60' y='60' width='640' height='280' fill='none' stroke='var(--line)'/><line x1='273' y1='60' x2='273' y2='340' stroke='var(--muted)'/><line x1='486' y1='60' x2='486' y2='340' stroke='var(--muted)'/><line x1='60' y1='153' x2='700' y2='153' stroke='var(--muted)'/><line x1='60' y1='246' x2='700' y2='246' stroke='var(--muted)'/><circle cx='486' cy='153' r='16' fill='var(--accent)'/><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -526,17 +527,19 @@
       ],
       "sources": [
         "wp-composition-visual-arts",
-        "wp-negative-space"
+        "wp-negative-space",
+        "hermitage-redharmony",
+        "uen-matisse"
       ],
-      "needs_verification": true,
-      "pending_notes": "「简化」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "简化是删去次要信息、保留结构要点的手法，它让主体更易被识别而不是让画面变空。",
         "典型手法与适用条件": "合并相近色块、压缩多余细节；适用于信息密集的画面与界面。",
-        "实例": "名称：繁复场景的简化处理（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《红色和谐》（Harmony in Red）；地点：俄罗斯艾尔米塔什博物馆；设计者：亨利·马蒂斯；年份：1908 年。以平面化色块压缩三维空间。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "过度简化会丢失必要信息；简化不等于省略功能。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：繁复到简化的取舍。",
-        "待核实": "示例作品与作者年代待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='100' y='120' width='240' height='160' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='420' y='180' width='120' height='80' fill='none' stroke='var(--muted)'/><text x='150' y='100' fill='var(--ink)'>繁复</text><text x='440' y='160' fill='var(--ink)'>简化后</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -592,17 +595,19 @@
       ],
       "sources": [
         "wp-composition-visual-arts",
-        "getty-principles-design"
+        "getty-principles-design",
+        "britannica-schoolathens",
+        "grinnell-schoolathens"
       ],
       "needs_verification": true,
-      "pending_notes": "核心已补第二独立来源；具体实例的设计者与年代待补充独立来源。",
+      "pending_notes": "Britannica 该页自述为 AI 生成（官方发布）；Grinnell 的视线句述配对壁画，未误植。",
       "sections": {
         "原理": "画面借线条、明暗与形状的排列，牵引观者的视线沿一定路线移动，形成观看的“动势”。",
         "典型手法与适用条件": "用渐变的明暗或连续曲线引导由入口到重点；适合叙事性画面。",
-        "实例": "名称：叙事画面的视线引导（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《雅典学院》；地点：梵蒂冈签字厅；设计者：拉斐尔；年份：1509–1511 年。人物姿态引导视线汇聚于中央的柏拉图与亚里士多德。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "引导线互相冲突会让视线迷失；动势过强则喧宾夺主。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：视线由起点被引向终点。",
-        "待核实": "核心已补第二独立来源；具体实例的设计者与年代待补充独立来源。"
+        "待核实": "Britannica 该页自述为 AI 生成（官方发布）；Grinnell 的视线句述配对壁画，未误植。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 120 300 Q 300 160 420 240 T 650 140' fill='none' stroke='var(--accent)' stroke-width='3'/><polygon points='640,134 660,140 642,150' fill='var(--accent)'/><circle cx='120' cy='300' r='12' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='330' y='120' fill='var(--ink)'>视线由起点被引导至终点</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -624,17 +629,19 @@
       ],
       "sources": [
         "wp-composition-visual-arts",
-        "libretexts-leading-lines"
+        "libretexts-leading-lines",
+        "jstage-greatwave",
+        "conncoll-greatwave"
       ],
       "needs_verification": true,
-      "pending_notes": "核心已双源；具体实例的拍摄者与年代待核实。",
+      "pending_notes": "两源直证黄金矩形与中央锚点，但未逐字使用“引导线”；概念为归纳。",
       "sections": {
         "原理": "现实中或隐含的线条（道路、栏杆、光影边界）可把视线拉向主体，是构图的“指路牌”。",
         "典型手法与适用条件": "利用透视汇聚或重复排列的线条指向主体（道路、栏杆、光影边界为通用举例）；适用于风景与建筑摄影。",
-        "实例": "名称：道路汇聚式引导（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《神奈川冲浪里》；地点：日本神奈川外海；设计者：葛饰北斋；年份：约 1830–1832 年（Penn State OER 记 1831）。浪的曲线与斜向构成把视线引向富士山。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "线条指向画面外会带走注意；过多线条互相竞争。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：道路与栏杆汇聚于主体。",
-        "待核实": "核心已补第二独立来源；具体实例的拍摄者与年代待核实。"
+        "待核实": "两源直证黄金矩形与中央锚点，但未逐字使用“引导线”；概念为归纳。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='90' y1='330' x2='560' y2='200' stroke='var(--accent)' stroke-width='3'/><line x1='670' y1='330' x2='560' y2='200' stroke='var(--muted)'/><circle cx='560' cy='200' r='16' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='140' y='300' fill='var(--ink)'>道路/栏杆汇聚</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -656,17 +663,19 @@
       ],
       "sources": [
         "wp-figure-ground",
-        "wp-composition-visual-arts"
+        "wp-composition-visual-arts",
+        "uwpress-nolli",
+        "tudelft-figure-ground"
       ],
-      "needs_verification": true,
-      "pending_notes": "「图底关系」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "图底关系区分被注意的主体（图）与背景（底），两者边界与对比决定可读性。",
         "典型手法与适用条件": "以明度对比与轮廓清晰度强化图底分离；适用于平面与界面设计。",
-        "实例": "名称：图底对比练习（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：诺利地图（Pianta Grande di Roma）；地点：意大利罗马；设计者：詹巴蒂斯塔·诺利（Giambattista Nolli）；年份：1748 年。以黑白区分建成体与公共空地。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "图底对比不足会造成辨认困难；可读性需兼顾无障碍对比度。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：图与底的分离。",
-        "待核实": "具体案例的设计者与年代待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='100' width='600' height='200' fill='var(--accent-soft)' stroke='var(--line)'/><rect x='260' y='140' width='240' height='120' fill='var(--ink)'/><text x='330' y='205' fill='var(--panel)'>图</text><text x='120' y='130' fill='var(--ink)'>底</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -722,17 +731,19 @@
       ],
       "sources": [
         "wp-composition-visual-arts",
-        "wp-rule-of-thirds"
+        "wp-rule-of-thirds",
+        "britishmuseum-greatwave",
+        "christies-greatwave"
       ],
       "needs_verification": true,
-      "pending_notes": "「视觉中心」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "两源直证巨浪为焦点、富士山渺小，但未逐字使用“视觉中心”；概念为归纳。",
       "sections": {
         "原理": "视觉中心是画面中优先吸引注意的区域，可由位置、对比或指向线建立，未必在几何中点。",
         "典型手法与适用条件": "把主体放在三分点或对比最强处；适用于摄影、海报与界面首屏。",
-        "实例": "名称：三分点式视觉中心（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《神奈川冲浪里》；地点：日本神奈川外海（远眺富士山）；设计者：葛饰北斋；年份：约 1831 年。视觉中心落在前景巨浪最高点，而非画面几何中心。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "多个等强焦点会分散注意；主体贴边易被裁切。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：偏离中心的视觉焦点。",
-        "待核实": "示例作品与作者年代待核实。"
+        "待核实": "两源直证巨浪为焦点、富士山渺小，但未逐字使用“视觉中心”；概念为归纳。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='80' width='600' height='240' fill='none' stroke='var(--line)'/><circle cx='380' cy='200' r='26' fill='var(--accent)'/><circle cx='200' cy='140' r='14' fill='none' stroke='var(--muted)'/><circle cx='560' cy='260' r='14' fill='none' stroke='var(--muted)'/><text x='400' y='195' fill='var(--ink)'>视觉中心</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -822,17 +833,19 @@
       ],
       "sources": [
         "wp-composition-visual-arts",
-        "wp-visual-hierarchy"
+        "wp-visual-hierarchy",
+        "designmuseum-tube",
+        "tudelft-hierarchy"
       ],
-      "needs_verification": true,
-      "pending_notes": "「主次层级」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "层级通过大小、位置、明度与色彩的差异，建立“先看什么、后看什么”的次序。",
         "典型手法与适用条件": "用对比把主信息推到最前、次信息退后；适用于海报、页面与展陈。",
-        "实例": "名称：海报主次层级（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：伦敦地铁示意图（Tube map）；地点：英国伦敦；设计者：哈里·贝克（Harry Beck）；年份：1931 年设计、1933 年出版。以颜色区分线路、菱形标换乘、放大中心区建立信息层级。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "层级过多会相互打架；全靠放大易致杂乱。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：主、次、辅三级。",
-        "待核实": "示例海报的设计者与年代待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='150' y='110' width='220' height='70' fill='var(--accent)'/><rect x='400' y='150' width='150' height='50' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='400' y='220' width='120' height='40' fill='none' stroke='var(--muted)'/><text x='170' y='100' fill='var(--ink)'>主</text><text x='470' y='180' fill='var(--ink)'>次</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"

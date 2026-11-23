@@ -1335,6 +1335,26 @@
         "B5_pending_items": 213,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 53,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 213,
+      "fixes": 1,
+      "pending_total": 210,
+      "check_result": "PASS all checks 0 errors; spotcheck 2 ok/1 pending -> symmetry-layout nv restored + single-source disclosure; 8 entries named instances (Berlin 1938/Nolli map/Great Wave/Tube map/Rule of thirds/Great Wave/Matisse Harmony in Red/Raphael School of Athens/Forbidden City); 258 all L2; 14/14; 0 broken links",
+      "new_sources": 15,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "B7"
+        ],
+        "B5_pending_items": 210,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }
