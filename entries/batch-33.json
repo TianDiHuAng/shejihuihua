@@ -347,20 +347,22 @@
       "sections": {
         "原理": "色彩意义来自长期的文化约定与经验联想，具有地域与时代差异。",
         "典型手法与适用条件": "依题材与文化语境选色，避免跨文化误读。",
-        "实例": "名称：红在中国语境中的喜庆含义（类型性描述）；地点与作者不适用。对比其他文化中的红色联想。",
+        "实例": "名称：《自由引导人民》（Liberty Leading the People）；地点：法国巴黎卢浮宫；设计者：欧仁·德拉克洛瓦（Eugène Delacroix）；年份：1830 年。画中蓝白红三色旗象征自由、平等、博爱。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "脱离语境谈象征会牵强；跨文化易误读。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意图：色彩—文化联想的对应。",
-        "待核实": "「色彩象征」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "“自由/平等/博爱”三元映射仅单一来源逐字直证（第二源只给大革命象征）；作品四要素已双源。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='380' cy='200' r='120' fill='none' stroke='var(--accent)'/><circle cx='380' cy='80' r='28' fill='var(--accent-soft)' stroke='var(--muted)'/><circle cx='500' cy='260' r='28' fill='none' stroke='var(--muted)'/><circle cx='260' cy='260' r='28' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-color-theory",
-        "wp-theory-of-colours"
+        "wp-theory-of-colours",
+        "libretexts-romanticism",
+        "centv-liberty"
       ],
       "needs_verification": true,
-      "pending_notes": "「色彩象征」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "三色具体含义单源，待补第二独立机构来源。"
     }
   ]
 }

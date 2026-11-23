@@ -847,24 +847,26 @@
       "period": "跨时期",
       "region": "全球",
       "definition": "色彩借以区分种类的属性。",
-      "time_or_place": "跨时期、全球（参见来源）。",
+      "time_or_place": "1704 年《光学》、英国（参见来源）。",
       "overview": "色相是色彩循环秩序的基础，与明度、纯度共同描述颜色。",
       "related": [
         "value"
       ],
       "sources": [
         "wp-hue",
-        "wp-color-theory"
+        "wp-color-theory",
+        "royalsociety-colour-wheel",
+        "mollon-colour-science"
       ],
-      "needs_verification": true,
-      "pending_notes": "「色相」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "色相是色彩借以区分种类的属性，在色轮上按光谱顺序排列。",
         "典型手法与适用条件": "以邻近色相取得协调、以对比色相建立焦点；适用于配色与主题区分。",
-        "实例": "名称：色相环配色（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：牛顿色环图（Newton's colour wheel）；地点：英国伦敦（皇家学会藏品与研究）；设计者：艾萨克·牛顿（Isaac Newton）；年份：1704 年前后（《光学》时期）。以圆周排布七种光谱色表示色相。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "只看色相忽略明度会降低可读性；色相选择需兼顾色觉差异。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：色相序列。",
-        "待核实": "具体案例的设计者与年代待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='200' x2='680' y2='200' stroke='var(--line)'/><rect x='100' y='160' width='120' height='80' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='260' y='160' width='120' height='80' fill='none' stroke='var(--muted)'/><rect x='420' y='160' width='120' height='80' fill='none' stroke='var(--muted)'/><rect x='580' y='160' width='80' height='80' fill='var(--accent)'/><text x='150' y='140' fill='var(--ink)'>色相序列</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -886,17 +888,19 @@
       ],
       "sources": [
         "wp-colorfulness",
-        "wp-munsell-color-system"
+        "wp-munsell-color-system",
+        "hermitage-dance",
+        "libretexts-fauvism"
       ],
       "needs_verification": true,
-      "pending_notes": "「纯度」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "“高饱和”为对两源所述 pure vivid / stunning accord 的归纳，两源未逐字使用 saturation 一词。",
       "sections": {
         "原理": "纯度指色彩的鲜艳或灰浊程度；同一色相提高纯度会更抢眼，降低纯度则趋于安静沉稳。",
         "典型手法与适用条件": "主体用高纯度色、背景用低纯度色以拉开层次；室内大面积宜控纯度以免疲劳。",
-        "实例": "名称：高纯度点缀与低纯度背景的配色（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《舞蹈》（The Dance）；地点：俄罗斯圣彼得堡艾尔米塔什博物馆；设计者：亨利·马蒂斯（Henri Matisse）；年份：1909–1910 年。以红、蓝、绿的纯烈色彩体现高饱和。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "整面高纯度色久看易生视觉疲劳；纯度差异过小则主体难凸显。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：由高纯度到低纯度的推移。",
-        "待核实": "所举配色案例的设计者与年代待核实。"
+        "待核实": "“高饱和”为对两源所述 pure vivid / stunning accord 的归纳，两源未逐字使用 saturation 一词。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='90' y='150' width='120' height='100' fill='var(--accent)'/><rect x='230' y='150' width='120' height='100' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='370' y='150' width='120' height='100' fill='var(--panel)' stroke='var(--line)'/><text x='150' y='120' fill='var(--ink)'>高纯度→低纯度</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -918,17 +922,19 @@
       ],
       "sources": [
         "wp-primary-color",
-        "wp-color-wheel"
+        "wp-color-wheel",
+        "louvreabudhabi-mondrian",
+        "tate-mondrian"
       ],
       "needs_verification": true,
-      "pending_notes": "「三原色」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "第二源（Tate）配图为另一幅作品，仅说明蒙德里安一贯的原色用法；本幅三原色由阿布扎比卢浮宫单源直证。",
       "sections": {
         "原理": "原色是不能再由其他色混合得到、却能调配出其他色彩的基础色集合；光的三原色与颜料三原色并不相同。",
         "典型手法与适用条件": "调色与显示器分属加色与减色体系，选色前须先确认媒介。",
-        "实例": "名称：加色与减色三原色对照（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《蓝、红、黄、黑构成》；地点：阿布扎比卢浮宫；设计者：皮特·蒙德里安（Piet Mondrian）；年份：1922 年。以红黄蓝三原色与黑白作画。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "把屏幕三原色直接当作颜料配方会偏色；印刷还需考虑色域限制。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：三原色交叠区。",
-        "待核实": "示例所用色卡的出处待核实。"
+        "待核实": "第二源（Tate）配图为另一幅作品，仅说明蒙德里安一贯的原色用法；本幅三原色由阿布扎比卢浮宫单源直证。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='300' cy='190' r='70' fill='none' stroke='var(--accent)'/><circle cx='430' cy='190' r='70' fill='none' stroke='var(--muted)'/><circle cx='365' cy='300' r='70' fill='none' stroke='var(--muted)'/><text x='330' y='60' fill='var(--ink)'>三原色交叠</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -950,17 +956,19 @@
       ],
       "sources": [
         "wp-complementary-colors",
-        "wp-color-wheel"
+        "wp-color-wheel",
+        "webexhibits-vangogh-533",
+        "webexhibits-contrast"
       ],
       "needs_verification": true,
-      "pending_notes": "「互补色」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "两页均属 Webexhibits 同一机构，按单一来源计；作品要素与互补色论述待补第二独立机构来源。",
       "sections": {
         "原理": "互补色位于色轮相对位置，并置时形成强烈对比，可制造张力与焦点。",
         "典型手法与适用条件": "以互补色小面积点缀建立重点；适用于需要活力的画面与空间。",
-        "实例": "名称：互补配色（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《夜间咖啡馆》（The Night Café）；地点：美国纽黑文耶鲁大学美术馆；设计者：文森特·梵高（Vincent van Gogh）；年份：1888 年。梵高在书信中明言以红绿这对互补色表达激情。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "大面积等量互补会刺眼；应调节纯度与面积比例。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：色轮对侧的互补关系。",
-        "待核实": "具体案例的设计者与年代待核实。"
+        "待核实": "两页均属 Webexhibits 同一机构，按单一来源计；作品要素与互补色论述待补第二独立机构来源。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='380' cy='200' r='120' fill='none' stroke='var(--line)'/><circle cx='380' cy='80' r='30' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='380' cy='320' r='30' fill='none' stroke='var(--accent)'/><line x1='380' y1='110' x2='380' y2='290' stroke='var(--muted)'/><text x='400' y='80' fill='var(--ink)'>色 A</text><text x='400' y='330' fill='var(--ink)'>对侧补色</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -982,17 +990,19 @@
       ],
       "sources": [
         "wp-color-theory",
-        "wp-complementary-colors"
+        "wp-complementary-colors",
+        "webexhibits-vangogh-533",
+        "webexhibits-contrast"
       ],
       "needs_verification": true,
-      "pending_notes": "「色彩对比」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "两页同属 Webexhibits 单一机构，色彩对比直证仅一机构来源，待补第二独立机构来源。",
       "sections": {
         "原理": "色彩对比来自明度、色相与纯度的差异，对比度决定可读性与视觉冲击。",
         "典型手法与适用条件": "文字与背景保足明度差、重点用对比色提亮；须满足无障碍对比要求。",
-        "实例": "名称：图文高对比排版（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《夜间咖啡馆》（The Night Café）；地点：美国纽黑文耶鲁大学美术馆；设计者：文森特·梵高；年份：1888 年。以“最相异的红与绿”冲突并置制造色彩对比。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "低对比在弱光下难以辨认；大面积极端对比易刺眼。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：高明度差的文字与底色。",
-        "待核实": "示例版式的出处待核实。"
+        "待核实": "两页同属 Webexhibits 单一机构，色彩对比直证仅一机构来源，待补第二独立机构来源。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='130' width='200' height='120' fill='var(--ink)'/><rect x='420' y='130' width='200' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='200' y='110' fill='var(--ink)'>高明度对比</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -1012,17 +1022,18 @@
       "related": [],
       "sources": [
         "wp-color-theory",
-        "wp-theory-of-colours"
+        "wp-theory-of-colours",
+        "ng-temeraire"
       ],
       "needs_verification": true,
-      "pending_notes": "「冷暖色」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "暖→冷色列由馆方单源直证，待补第二独立机构来源。",
       "sections": {
         "原理": "人对色彩有冷暖的心理倾向：红橙偏暖、蓝青偏冷，可用于暗示光照与空间远近。",
         "典型手法与适用条件": "暖色前移、冷色后退，可用于强化纵深；也可调节室内情绪。",
-        "实例": "名称：冷暖对比制造空间层次（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《被拖去解体的战舰无畏号》（The Fighting Temeraire）；地点：英国伦敦国家美术馆（NG524）；设计者：J.M.W. 透纳（J. M. W. Turner）；年份：1839 年。夕阳下由暖色白橙黄褐渐入冷色蓝紫粉。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "冷暖判断受周围色影响而漂移；跨文化联想存在差异。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：暖色区与冷色区并置。",
-        "待核实": "所举案例的设计者与年代待核实。"
+        "待核实": "暖→冷色列由馆方单源直证，待补第二独立机构来源。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='150' width='280' height='100' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='400' y='150' width='280' height='100' fill='none' stroke='var(--muted)'/><text x='150' y='130' fill='var(--ink)'>暖色区</text><text x='470' y='130' fill='var(--ink)'>冷色区</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
