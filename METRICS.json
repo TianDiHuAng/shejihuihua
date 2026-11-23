@@ -1758,6 +1758,26 @@
         "B5_pending_items": 180,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 74,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 180,
+      "fixes": 2,
+      "pending_total": 180,
+      "check_result": "PASS all checks 0 errors; trompe-loeil instance changed from type to named Pozzo Apotheosis of St Ignatius (1685-1694, WGA corroborates author/date) but kept nv=true (technique description still single-source); 77 pending entries audited as already having 2+ platforms yet each retains specific honest nv reason (concept-correspondence/detail single-source/type-instance) -> NOT batch-upgraded to avoid error; 258 all L2; 19/19; 0 broken links",
+      "new_sources": 1,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "F"
+        ],
+        "B5_pending_items": 180,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }

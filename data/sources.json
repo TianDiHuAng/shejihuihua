@@ -5915,6 +5915,18 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-23，实抓 HTTP 200；场所营造：PPS(Project for Public Spaces) 推动的社区空间实践"
+    },
+    {
+      "id": "wga-pozzo",
+      "title": "Andrea Pozzo — Web Gallery of Art",
+      "author": "Web Gallery of Art",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.wga.hu/html_m/p/pozzo/index.html",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；波佐 1642–1709，罗马 Sant'Ignazio 壁画 1685–97"
     }
   ]
 }

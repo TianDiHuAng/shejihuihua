@@ -1266,6 +1266,19 @@
         "pending_items": 180
       },
       "note": "no honest upgrade available this round; sources for remaining abstract concepts single-platform"
+    },
+    {
+      "round": 74,
+      "date": "2026-11-23",
+      "zero_gap": false,
+      "methods_used": [
+        "B5",
+        "F"
+      ],
+      "new_gaps": {
+        "pending_items": 180
+      },
+      "note": "trompe-loeil named instance; 77 pending audited, none safely batch-upgradable"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true",
