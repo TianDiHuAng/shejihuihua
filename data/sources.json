@@ -993,8 +993,8 @@
       "url": "https://en.wikipedia.org/wiki/Plaza",
       "url2": null,
       "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；URL重定向，Plaza现标题为Town square，已按实际h1核对；来源为百科条目，出版年记为null",
-      "link_ok": false
+      "note": "访问日期2026-11-22；页面h1核对；URL重定向，Plaza现标题为Town square，已按实际h1核对；来源为百科条目，出版年记为null；2026-11-23 复探 canonical 200",
+      "link_ok": true
     },
     {
       "id": "wp-porch",
@@ -5819,6 +5819,18 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-23，实抓 HTTP 200；户外直接对景作画，与画室/academic 规则相对（经镜像核验）"
+    },
+    {
+      "id": "designingbuildings-form-function",
+      "title": "Form follows function — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Form_follows_function",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；形式追随功能源自沙利文，早期钢构高层建筑"
     }
   ]
 }

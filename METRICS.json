@@ -1578,6 +1578,26 @@
         "B5_pending_items": 188,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 65,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 1,
+      "reviews": 188,
+      "fixes": 2,
+      "pending_total": 187,
+      "check_result": "PASS all checks 0 errors; spotcheck form-follows-function ok; upgraded with named instance Wainwright Building 1891 (WP+DesigningBuildings); wp-plaza link_ok->true recheck 200; 258 all L2; 19/19 tests; 0 broken links",
+      "new_sources": 2,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "F"
+        ],
+        "B5_pending_items": 187,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }
