@@ -18,17 +18,19 @@
       ],
       "sources": [
         "wp-visual-perception",
-        "wp-gestalt-psychology"
+        "wp-gestalt-psychology",
+        "nba-rubin-vase",
+        "britannica-gestalt"
       ],
       "needs_verification": true,
-      "pending_notes": "「格式塔组织律」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "鲁宾花瓶由 Niels Bohr Archive 单源直证；Britannica 为格式塔组织原则概念背景源，非该图专页。",
       "sections": {
         "原理": "格式塔组织律说明视觉会把邻近、相似、连续、闭合的元素自动归组，整体先于局部被感知。",
         "典型手法与适用条件": "用间距、相似形与连续线引导分组，减少视觉杂乱；适用于版面与画面组织。",
-        "实例": "名称：基于邻近与相似的分组练习（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：鲁宾花瓶（Rubin's vase）；地点：丹麦哥本哈根；设计者：埃德加·鲁宾（Edgar Rubin）；年份：1915 年。图与底可互换，是格式塔组织律的经典图例。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "分组线索冲突会使读者误读结构；过度闭合可能掩盖真实边界。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：邻近元素被看成一组。",
-        "待核实": "示例版式的出处待核实。"
+        "待核实": "鲁宾花瓶由 Niels Bohr Archive 单源直证；Britannica 为格式塔组织原则概念背景源，非该图专页。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='220' cy='150' r='24' fill='none' stroke='var(--accent)'/><circle cx='280' cy='150' r='24' fill='none' stroke='var(--accent)'/><circle cx='340' cy='150' r='24' fill='none' stroke='var(--accent)'/><circle cx='520' cy='250' r='24' fill='none' stroke='var(--muted)'/><text x='200' y='100' fill='var(--ink)'>邻近即成组</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -50,17 +52,19 @@
       ],
       "sources": [
         "wp-interior-design",
-        "wp-color-psychology"
+        "wp-color-psychology",
+        "uhbw-hospital-mural",
+        "pmc-color-rooms"
       ],
       "needs_verification": true,
-      "pending_notes": "「色彩心理学」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "pending_notes": "该壁画报道为医院官方单源；PMC 随机对照研究为“色彩影响福祉”的机制证据，非该壁画专页。",
       "sections": {
         "原理": "色彩心理学研究色相与明度如何影响情绪、注意与行为，如暖色唤起活跃、冷色趋于平静。",
         "典型手法与适用条件": "按使用场景选择情绪基调，如餐饮偏暖、办公偏中性；可结合明度调节刺激强度。",
-        "实例": "名称：商业空间的色彩情绪设计（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：布里斯托尔皇家儿童医院采血室彩色壁画；地点：英国布里斯托尔；设计者：亚历克斯·雷（Alex Ray）；年份：2020 年。鲜艳色彩转移儿童对采血的焦虑。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "色彩联想受文化与个人经验影响，不可一概而论；强刺激色久处易疲劳。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：暖色活跃、冷色冷静。",
-        "待核实": "所举空间案例的设计者与年代待核实。"
+        "待核实": "该壁画报道为医院官方单源；PMC 随机对照研究为“色彩影响福祉”的机制证据，非该壁画专页。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='100' y='140' width='160' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='300' y='140' width='160' height='120' fill='none' stroke='var(--muted)'/><text x='130' y='120' fill='var(--ink)'>暖→活跃</text><text x='330' y='120' fill='var(--ink)'>冷→冷静</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -82,17 +86,19 @@
       ],
       "sources": [
         "wp-landscape-architecture",
-        "wp-environmental-psychology"
+        "wp-environmental-psychology",
+        "pps-whyte-plazas",
+        "mas-whyte-plazas"
       ],
-      "needs_verification": true,
-      "pending_notes": "「环境心理学」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "环境心理学研究人如何感知、使用并回应自然与建成环境，关注私密性、领域感与压力恢复。",
         "典型手法与适用条件": "通过空间层次、可控制感与自然元素提升舒适；适用于住区、办公与疗愈环境。",
-        "实例": "名称：疗愈性医疗环境设计（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：西格拉姆大厦广场／Whyte 街头生活项目；地点：美国纽约；研究者：威廉·H·怀特（William H. Whyte）；年份：1970 年代观察、1980 年发布。通过实地观察研究人在城市广场的行为。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "把个体偏好当作普遍规律会误判；研究结论多依赖具体情境。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：人与环境的相互作用。",
-        "待核实": "所举环境案例的设计者与年代待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='90' y='90' width='580' height='220' fill='none' stroke='var(--line)'/><circle cx='240' cy='200' r='34' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='280' y1='200' x2='560' y2='200' stroke='var(--muted)' stroke-width='2'/><text x='180' y='150' fill='var(--ink)'>人</text><text x='500' y='170' fill='var(--ink)'>环境</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"

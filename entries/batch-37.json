@@ -17,20 +17,22 @@
       "sections": {
         "原理": "中西色彩观比较对照中国画“随类赋彩”与西方条件色体系。东方重类别与意象设色，西方重光源下的条件色变化。",
         "典型手法与适用条件": "比较时看设色依据：一类归色，一随光变色。",
-        "实例": "名称：中西色彩观比较的典型场景（类型性描述）；地点与设计者不适用。",
+        "实例": "名称：《千里江山图》（王希孟，1113，北京故宫）与《日出·印象》（莫奈，1872，勒阿弗尔）；地点：中国／法国；设计者：王希孟、克劳德·莫奈；年份：1113 / 1872。前者在青绿中求变化，后者关注光色与色彩理论。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "以一方标准评判另一方会失真。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：中西色彩观比较的关系。",
-        "待核实": "「中西色彩观比较」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='100' y='110' width='300' height='150' fill='none' stroke='var(--accent)'/><line x1='90' y1='250' x2='640' y2='150' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>中西色彩观比较</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-chinese-painting",
-        "wp-color-theory"
+        "wp-color-theory",
+        "dpm-qianli",
+        "britannica-impression-sunrise"
       ],
-      "needs_verification": true,
-      "pending_notes": "「中西色彩观比较」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "monumental-scale",
@@ -47,20 +49,22 @@
       "sections": {
         "原理": "纪念性尺度指以超大尺度营造崇高与权威感的空间处理。它放大构件与体量，使人在其中显得渺小。",
         "典型手法与适用条件": "以超常层高、巨柱与宽阔台阶强化崇高感。",
-        "实例": "名称：纪念性大厅的超尺度柱廊（类型性描述）；地点与设计者不适用。人在其下显得渺小。",
+        "实例": "名称：华盛顿纪念碑（Washington Monument）；地点：美国华盛顿特区国家广场；设计者：罗伯特·米尔斯（Robert Mills）；年份：1848 年动工、1884 年建成。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "尺度失衡会压抑或空洞。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：超高柱廊与人的尺度对比。",
-        "待核实": "「纪念性尺度」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "高度两源不同（NPS 555 英尺、Britannica 554 英尺 7 英寸，2014 重算），设计者仅 Britannica 直证。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='281' cy='191' r='71' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='469' cy='210' r='41' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>纪念性尺度</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "libretexts-size-scale",
-        "archdaily-built-nature"
+        "archdaily-built-nature",
+        "nps-washington-monument",
+        "britannica-washington-monument"
       ],
       "needs_verification": true,
-      "pending_notes": "「纪念性尺度」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "高度两源不同（NPS 555 英尺、Britannica 554 英尺 7 英寸，2014 重算），设计者仅 Britannica 直证。"
     },
     {
       "id": "intimate-scale",
@@ -72,25 +76,27 @@
       "region": "全球",
       "definition": "亲切尺度指以接近人体与日常活动的尺寸营造亲近感。",
       "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "它以小尺度细部与柔和光线让人放松。",
+      "overview": "以二帖榻榻米与躙口（低头进入的小门）把尺度压到贴近身体，营造亲切感。",
       "related": [],
       "sections": {
-        "原理": "亲切尺度指以接近人体与日常活动的尺寸营造亲近感。它以小尺度细部与柔和光线让人放松。",
+        "原理": "把房间缩到人体尺度的低矮空间，以低门与窄面积让使用者自然放慢动作、感受亲近。",
         "典型手法与适用条件": "以低层高、小开间与温暖材料拉近距离。",
-        "实例": "名称：小尺度茶室的低层高空间（类型性描述）；地点与设计者不适用。坐姿视线低、距离近。",
+        "实例": "名称：待庵茶室；地点：日本京都府大山崎町妙喜庵内；设计者：相传为千利休；年份：天正 10 年（1582 年）。二帖榻榻米、设躙口，尺度极小。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "过小会局促；需与功能匹配。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：贴近人体的低层高与细部。",
-        "待核实": "「亲切尺度」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "设计者与年份为“相传”（表千家官方用 It is said），待补确证来源。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polygon points='182,300 380,122 578,300' fill='none' stroke='var(--accent)'/><line x1='140' y1='300' x2='620' y2='300' stroke='var(--ink)' stroke-width='2'/><text x='40' y='40' fill='var(--ink)'>亲切尺度</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-proportion-architecture",
-        "wp-architecture"
+        "wp-architecture",
+        "omotesenke-taian",
+        "kyoto-taian"
       ],
       "needs_verification": true,
-      "pending_notes": "「亲切尺度」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "设计者与年份为“相传”（表千家官方用 It is said），待补确证来源。"
     },
     {
       "id": "boundary",
@@ -723,20 +729,22 @@
       "sections": {
         "原理": "色调与明暗层次指以加白或加黑改变色彩明度的做法。加白得浅色（tint）、加黑得暗色（shade），构成层次。",
         "典型手法与适用条件": "以同一色相加白/加黑建立明度梯度。",
-        "实例": "名称：色调与明暗层次的典型场景（类型性描述）；地点与设计者不适用。",
+        "实例": "名称：《夜巡》（The Night Watch）；地点：荷兰阿姆斯特丹国立博物馆；设计者：伦勃朗（Rembrandt van Rijn）；年份：1642 年。以明暗层次塑造体积与焦点。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "过度加白会失饱和、加黑会失通透。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：色调与明暗层次的关系。",
-        "待核实": "「色调与明暗层次」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "两源用 chiaroscuro/投影，非逐字 tints and shades；概念对应为解读。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='150' y='130' width='128' height='140' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='157' width='140' height='110' fill='none' stroke='var(--muted)'/><rect x='500' y='131' width='100' height='160' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>色调与明暗层次</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-color-theory",
-        "wp-color-wheel"
+        "wp-color-wheel",
+        "rijks-nightwatch-things",
+        "britannica-nightwatch"
       ],
       "needs_verification": true,
-      "pending_notes": "「色调与明暗层次」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "两源用 chiaroscuro/投影，非逐字 tints and shades；概念对应为解读。"
     }
   ]
 }

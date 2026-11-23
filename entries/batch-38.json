@@ -17,20 +17,22 @@
       "sections": {
         "原理": "分离原色调色指以冷暖两套原色分别调色以扩大色域的做法。它用两组原色互补混色，减少色彩发灰。",
         "典型手法与适用条件": "以暖红/冷红、暖蓝/冷蓝等成对原色分别调色。",
-        "实例": "名称：分离原色调色的典型场景（类型性描述）；地点与设计者不适用。",
+        "实例": "名称：《夜间露天咖啡座》（Terrace of a Café at Night）；地点：荷兰奥特洛 Kröller-Müller 博物馆藏（绘于阿尔勒）；设计者：文森特·梵高；年份：1888 年 9 月。暖黄橙绿与深蓝对比。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "混色过多仍会发灰；需控比例。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：分离原色调色的要点。",
-        "待核实": "「分离原色调色」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "两源未用 split-complementary 字面术语，该配色结构归类为概念解读。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><circle cx=\"110\" cy=\"100\" r=\"30\" fill=\"none\" stroke=\"var(--muted)\"/><text x='40' y='40' fill='var(--ink)'>分离原色调色</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='90' cy='80' r='4' fill='var(--muted)'/></svg>"
       ],
       "sources": [
         "wp-color-theory",
-        "wp-primary-color"
+        "wp-primary-color",
+        "kroller-cafe-terrace",
+        "vangogh-colours"
       ],
       "needs_verification": true,
-      "pending_notes": "「分离原色调色」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "两源未用 split-complementary 字面术语，该配色结构归类为概念解读。"
     },
     {
       "id": "time-scenery",

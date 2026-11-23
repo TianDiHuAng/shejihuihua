@@ -1396,6 +1396,26 @@
         "B5_pending_items": 196,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 56,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 196,
+      "fixes": 2,
+      "pending_total": 194,
+      "check_result": "PASS all checks 0 errors; spotcheck 1 ok/2 pending -> intimate-scale unsourced overview rewritten + principle de-duplicated, environmental 设计者->研究者; 8 entries named instances (Rubin vase/hospital mural/Whyte plazas/Qianli vs Monet/Washington Monument/Taian/Night Watch/Cafe Terrace); 258 all L2; 14/14; 0 broken links",
+      "new_sources": 16,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "B7"
+        ],
+        "B5_pending_items": 194,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }
