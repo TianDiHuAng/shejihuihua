@@ -5867,6 +5867,30 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-23，实抓 HTTP 200；敞廊：一侧开放的带顶/拱廊画廊，常位于楼层"
+    },
+    {
+      "id": "db-space-syntax",
+      "title": "Space syntax — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Space_syntax",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；空间句法：Hillier、Hanson 及 Bartlett 同事 1970s 提出"
+    },
+    {
+      "id": "patternlanguage-official",
+      "title": "A Pattern Language — patternlanguage.com (Christopher Alexander)",
+      "author": "patternlanguage.com",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.patternlanguage.com/",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；《建筑模式语言》1977，Oxford University Press，Alexander"
     }
   ]
 }

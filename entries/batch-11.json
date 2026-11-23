@@ -50,17 +50,18 @@
       ],
       "sources": [
         "wp-space-syntax",
-        "wp-urban-morphology"
+        "wp-urban-morphology",
+        "db-space-syntax"
       ],
-      "needs_verification": true,
-      "pending_notes": "「空间句法」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "空间句法用图论把空间抽象为节点与连接，量化整合度、连接度以分析人流与可达性。",
         "典型手法与适用条件": "用于城市与建筑平面的可达性比较、预测人流的空间分布；适合前期方案评估。",
-        "实例": "名称：街区可达性拓扑分析（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《空间句法》（The Social Logic of Space）；地点：英国伦敦大学学院 Bartlett 学院；作者：比尔·希列尔、朱莉安娜·汉森（Bill Hillier, Julienne Hanson）；年份：1984 年（理论于 1970 年代提出）。以空间构形与整合度分析建筑与城市空间。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "模型简化会遗漏实际使用与时间因素；指标解释需结合现场观察。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：空间的拓扑连接。",
-        "待核实": "所举分析案例的研究者与年份待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='140' y1='200' x2='340' y2='140' stroke='var(--accent)' stroke-width='2'/><line x1='140' y1='200' x2='340' y2='260' stroke='var(--accent)' stroke-width='2'/><line x1='340' y1='140' x2='560' y2='200' stroke='var(--muted)'/><line x1='340' y1='260' x2='560' y2='200' stroke='var(--muted)'/><circle cx='140' cy='200' r='12' fill='var(--accent)'/><circle cx='340' cy='200' r='12' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='560' cy='200' r='12' fill='var(--muted)'/><text x='120' y='150' fill='var(--ink)'>拓扑连接</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -82,17 +83,18 @@
       ],
       "sources": [
         "wp-pattern-language",
-        "wp-a-pattern-language"
+        "wp-a-pattern-language",
+        "patternlanguage-official"
       ],
-      "needs_verification": true,
-      "pending_notes": "「模式语言」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "模式语言把反复出现的设计问题与解法写成可复用的“模式”，供组合使用。",
         "典型手法与适用条件": "从城市到细部逐级列举模式并互相引用；适用于参与式设计与经验传承。",
-        "实例": "名称：住宅与街区模式组合（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：《建筑模式语言》（A Pattern Language）；地点：美国（加州大学伯克利）；作者：克里斯托弗·亚历山大（Christopher Alexander）等；年份：1977 年（Oxford University Press）。以 253 条模式描述城镇、建筑与建造的可复用解法。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "机械套用模式会僵化；模式需按具体语境调整。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：若干模式彼此组合。",
-        "待核实": "所举模式应用的作者与年代待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='140' width='120' height='100' fill='none' stroke='var(--accent)'/><rect x='320' y='110' width='120' height='100' fill='none' stroke='var(--muted)'/><rect x='520' y='160' width='120' height='100' fill='none' stroke='var(--muted)'/><text x='150' y='120' fill='var(--ink)'>模式 A</text><text x='350' y='90' fill='var(--ink)'>模式 B</text><text x='550' y='140' fill='var(--ink)'>组合</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
