@@ -1883,6 +1883,26 @@
         "B5_pending_items": 179,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 80,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 1,
+      "reviews": 179,
+      "fixes": 1,
+      "pending_total": 178,
+      "check_result": "PASS all checks 0 errors; tints-shades concept source added (Wikipedia tint/shade/tone verbatim: tint=+white shade=+black) and de-instanced (type example) + upgraded nv=false, resolving 0.87 instance overlap with value; sources now 500; 258 all L2; 19/19 tests; 0 broken links",
+      "new_sources": 1,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "F"
+        ],
+        "B5_pending_items": 178,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }

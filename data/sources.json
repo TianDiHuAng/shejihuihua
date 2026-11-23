@@ -5987,6 +5987,18 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-23，实抓 HTTP 200；达·芬奇晕涂法(sfumato)：以罩染营造烟雾状柔化过渡，《蒙娜丽莎》为典型"
+    },
+    {
+      "id": "wp-tint-shade-tone",
+      "title": "Tint, shade and tone — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Tint,_shade_and_tone",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；tint=加白、shade=加黑、tone=加灰的明度调整（经镜像核验）"
     }
   ]
 }
