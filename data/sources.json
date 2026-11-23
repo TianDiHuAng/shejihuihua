@@ -5687,6 +5687,42 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-23，由核验子任务实抓 HTTP 200 并核对正文；纸本墨笔画，石不作皴、微着墨"
+    },
+    {
+      "id": "tate-chiaroscuro",
+      "title": "Chiaroscuro — Tate",
+      "author": "Tate",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.tate.org.uk/art/art-terms/c/chiaroscuro",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；明暗对照法：light-dark，光影的平衡与图案，即极端明暗对比"
+    },
+    {
+      "id": "ng-supper-emmaus",
+      "title": "The Supper at Emmaus — National Gallery",
+      "author": "National Gallery",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.nationalgallery.org.uk/paintings/michelangelo-merisi-da-caravaggio-the-supper-at-emmaus",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；卡拉瓦乔《以马忤斯的晚餐》1601，用明暗对照强化戏剧性、左侧强光"
+    },
+    {
+      "id": "ng-wright-airpump",
+      "title": "An Experiment on a Bird in the Air Pump — National Gallery",
+      "author": "National Gallery",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.nationalgallery.org.uk/paintings/joseph-wright-of-derby-an-experiment-on-a-bird-in-the-air-pump",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；赖特《气泵中的鸟实验》1768，单支烛光投射深沉戏剧性阴影"
     }
   ]
 }

@@ -77,20 +77,22 @@
       "sections": {
         "原理": "光沿直线传播，被物体遮挡处形成阴影；光源越远越接近平行光，投影边缘越硬。",
         "典型手法与适用条件": "依据光源方向确定投影落点，近处边缘实、远处边缘虚。",
-        "实例": "名称：静物在桌面上的投影（类型性描述）；地点与作者不适用。看投影如何暗示桌面与光源。",
+        "实例": "名称：《气泵中的鸟实验》（An Experiment on a Bird in the Air Pump）；地点：英国伦敦国家美术馆（NG725）；作者：约瑟夫·赖特（Joseph Wright of Derby）；年份：1768 年。以单支烛光在人物面部投下深沉、戏剧性的投影。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "投影方向与主光不一致会穿帮；投影过黑会失透明感。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意图：光源—物体—投影的几何关系。",
-        "待核实": "部分表述为绘画教学通用概括，专门来源待补充；「投影」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='150' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='176' y1='108' x2='480' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><ellipse cx='480' cy='250' rx='70' ry='50' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='120' y='60' fill='var(--ink)'>光源</text><text x='430' y='330' fill='var(--ink)'>形体与明暗</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-chiaroscuro",
-        "wp-tenebrism"
+        "wp-tenebrism",
+        "ng-wright-airpump",
+        "tate-chiaroscuro"
       ],
-      "needs_verification": true,
-      "pending_notes": "部分表述为绘画教学通用概括，专门来源待补充；「投影」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "highlight",

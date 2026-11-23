@@ -1476,6 +1476,26 @@
         "B5_pending_items": 191,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 60,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 2,
+      "reviews": 191,
+      "fixes": 0,
+      "pending_total": 189,
+      "check_result": "PASS all checks 0 errors; spotcheck 2/2 qualified -> both upgraded; chiaroscuro (Tate+NG Supper at Emmaus 1601), cast-shadow (NG Wright Air Pump 1768 single candle); 258 all L2; 19/19 tests; 0 broken links",
+      "new_sources": 3,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "B7"
+        ],
+        "B5_pending_items": 189,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }
