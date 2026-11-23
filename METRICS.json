@@ -1436,6 +1436,26 @@
         "B5_pending_items": 193,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 58,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 2,
+      "reviews": 193,
+      "fixes": 1,
+      "pending_total": 191,
+      "check_result": "PASS all checks 0 errors; spotcheck 3 pending correctly managed -> gongbi/xieyi upgraded (dual-source, dispute disclosed), qi-yun kept pending (concept not verbatim), xieyi SVG differentiated; 8 Chinese painting entries named instances (Luoshien/Maxia/Wangwei/Wudaozi/Xiaoxiang/Furong/Poshui/Kumu); 258 all L2; 19/19 tests; 0 broken links",
+      "new_sources": 16,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "B7"
+        ],
+        "B5_pending_items": 191,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }

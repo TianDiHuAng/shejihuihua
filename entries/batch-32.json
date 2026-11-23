@@ -17,20 +17,22 @@
       "sections": {
         "原理": "用笔的骨力来自控笔的稳定与节奏，笔线立得住，形体才有支撑。",
         "典型手法与适用条件": "以中锋、提按与顿挫控制笔线粗细与力度，使形体有骨架。",
-        "实例": "名称：以骨力笔线勾勒的衣纹人物（类型性描述）；地点与作者不适用。观者可留意线条提按顿挫如何撑起形体。",
+        "实例": "名称：吴道子《送子天王图》（传，宋摹；原作不存）；地点：原作已佚、传世为摹本；作者：相传吴道子（约 700–760）；年代：盛唐。笔法粗细转折、富有骨力。此处仅列名称、地点、作者与年代信息，不复制图像。",
         "常见错误与限制": "笔线软弱会使形体松散；用笔需与物象结构相符。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意图：中锋与提按形成的线质变化。",
-        "待核实": "「骨法用笔」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "吴道子无确切实存作品；实例为传本/摹本，已如实标注。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 140 300 Q 260 120 420 220 T 640 140' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M 160 320 Q 300 220 460 300' fill='none' stroke='var(--muted)'/><text x='250' y='90' fill='var(--ink)'>笔墨层次与气脉</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-six-principles-chinese-painting",
-        "wp-chinese-painting"
+        "wp-chinese-painting",
+        "britannica-wudaozi",
+        "chinaculture-wudaozi"
       ],
       "needs_verification": true,
-      "pending_notes": "「骨法用笔」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "吴道子无确切实存作品；实例为传本/摹本，已如实标注。"
     },
     {
       "id": "likeness-form",
@@ -137,20 +139,22 @@
       "sections": {
         "原理": "墨分五色靠水与墨的比例，层次在积染中显出远近。",
         "典型手法与适用条件": "以水的多少调出焦、浓、重、淡、清等墨阶，层层积染。",
-        "实例": "名称：以墨阶表现远山的写意山水（类型性描述）；地点与作者不适用。留意墨色由浓到清的过渡。",
+        "实例": "名称：苏轼《枯木怪石图》（《木石图》）；地点：原作于徐州萧县圣泉寺、现私人藏；作者：苏轼；年代：北宋约 11 世纪。以水墨纸本、笔墨无多见生趣。此处仅列名称、地点、作者与年代信息，不复制图像。",
         "常见错误与限制": "墨色过死会板滞；水分失控会洇散失形。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意图：焦浓重淡清五阶墨色。",
-        "待核实": "「水墨」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "现为私人藏、真迹存疑，两源部分同源，不表述为逐字双源印证。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 140 300 Q 260 120 420 220 T 640 140' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M 160 320 Q 300 220 460 300' fill='none' stroke='var(--muted)'/><text x='250' y='90' fill='var(--ink)'>笔墨层次与气脉</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-ink-wash-painting",
-        "wp-chinese-painting"
+        "wp-chinese-painting",
+        "sc-kumu",
+        "sansu-kumu"
       ],
       "needs_verification": true,
-      "pending_notes": "「水墨」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "现为私人藏、真迹存疑，两源部分同源，不表述为逐字双源印证。"
     },
     {
       "id": "cunfa",
@@ -167,20 +171,22 @@
       "sections": {
         "原理": "皴法是把山石质感翻译成笔触的语汇，须顺着结构走笔。",
         "典型手法与适用条件": "以披麻、斧劈等笔法依山石结构层叠皴擦。",
-        "实例": "名称：以披麻皴表现土坡的山水局部（类型性描述）；地点与作者不适用。观察笔触与山石走向的关系。",
+        "实例": "名称：董源《潇湘图》卷（披麻皴）；地点：北京故宫博物院藏；作者：旧题/传董源（？—962，五代南唐）；年代：五代约 10 世纪。山石坡脚用短披麻皴。此处仅列名称、地点、作者与年代信息，不复制图像。",
         "常见错误与限制": "皴法套用不当会与山形脱节；需随对象变化。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意图：皴笔顺山势层叠。",
-        "待核实": "「皴法」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "作者为旧题/传董源，并存《河伯娶妇图》异名，无绝对纪年。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 140 300 Q 260 120 420 220 T 640 140' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M 160 320 Q 300 220 460 300' fill='none' stroke='var(--muted)'/><text x='250' y='90' fill='var(--ink)'>笔墨层次与气脉</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-chinese-painting",
-        "wp-ink-wash-painting"
+        "wp-ink-wash-painting",
+        "dpm-xiaoxiang",
+        "people-xiaoxiang"
       ],
       "needs_verification": true,
-      "pending_notes": "「皴法」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "作者为旧题/传董源，并存《河伯娶妇图》异名，无绝对纪年。"
     },
     {
       "id": "gongbi",
@@ -197,20 +203,22 @@
       "sections": {
         "原理": "工笔以勾线立骨、罩染求润，耐心在遍数与色阶中体现。",
         "典型手法与适用条件": "先勾线定形，再以淡彩多次罩染，层层积色。",
-        "实例": "名称：层层罩染的花鸟工笔（类型性描述）；地点与作者不适用。看线描与多次罩染如何叠出柔和色阶。",
+        "实例": "名称：《芙蓉锦鸡图》轴；地点：北京故宫博物院藏；作者：（传）赵佶／画院画家御题画；年代：北宋 12 世纪初。以双钩重彩、工致细丽著称。此处仅列名称、地点、作者与年代信息，不复制图像。",
         "常见错误与限制": "过度描摹会僵硬；线色需协调统一。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意图：勾线后多次罩染的层次。",
-        "待核实": "「工笔」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "实例为传本、真迹归属有学术争议（已在实例中如实标注），不影响概念说明。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 140 300 Q 260 120 420 220 T 640 140' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M 160 320 Q 300 220 460 300' fill='none' stroke='var(--muted)'/><text x='250' y='90' fill='var(--ink)'>笔墨层次与气脉</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-chinese-painting",
-        "wp-ink-wash-painting"
+        "wp-ink-wash-painting",
+        "dpm-furong",
+        "people-furong"
       ],
-      "needs_verification": true,
-      "pending_notes": "「工笔」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "xieyi",
@@ -227,20 +235,22 @@
       "sections": {
         "原理": "写意以少胜多，笔势与留白共同完成形象，重神而非逐笔描摹。",
         "典型手法与适用条件": "以阔笔泼墨、一次成形，重气势与虚实。",
-        "实例": "名称：阔笔泼墨的写意花鸟（类型性描述）；地点与作者不适用。注意一次成形中的虚实取舍。",
+        "实例": "名称：梁楷《泼墨仙人图》；地点：国立故宫博物院（台北）藏；作者：传梁楷；年代：南宋约 13 世纪初。以减笔泼墨的大写意著称。此处仅列名称、地点、作者与年代信息，不复制图像。",
         "常见错误与限制": "笔墨失控会潦草；写意亦需结构支撑。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意图：阔笔一次成形的用笔轨迹。",
-        "待核实": "「写意」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "实例为传本、真迹归属有学术争议（已在实例中如实标注），不影响概念说明。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 140 300 Q 260 120 420 220 T 640 140' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M 160 320 Q 300 220 460 300' fill='none' stroke='var(--muted)'/><text x='250' y='90' fill='var(--ink)'>笔墨层次与气脉</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 140 300 Q 260 120 420 220 T 640 140' fill='none' stroke='var(--accent)' stroke-width='4'/><path d='M 160 320 Q 300 220 460 300' fill='none' stroke='var(--muted)'/><text x='250' y='90' fill='var(--ink)'>笔墨层次与气脉</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><path d='M 260 260 Q 380 120 500 260' fill='var(--accent-soft)' stroke='var(--accent)' stroke-width='6' fill-opacity='0.4'/></svg>"
       ],
       "sources": [
         "wp-chinese-painting",
-        "wp-ink-wash-painting"
+        "wp-ink-wash-painting",
+        "npm-poshui",
+        "rmzx-poshui"
       ],
-      "needs_verification": true,
-      "pending_notes": "「写意」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "xu-shi",
