@@ -1,0 +1,126 @@
+{
+  "unit_id": "batch-46",
+  "title": "第46轮稀疏格补条目",
+  "entries": [
+    {
+      "id": "imperial-axial-route",
+      "title": "宫廷中轴仪礼动线",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "动线",
+      "period": "古代",
+      "region": "中国",
+      "definition": "宫廷中轴仪礼动线指以南北中轴依次组织外朝典礼与内朝起居的行进序列。",
+      "time_or_place": "古代、中国（参见来源）。",
+      "overview": "外朝在南、内朝在北，沿中轴层层递进，以对称与门阙强化礼制秩序。",
+      "related": [],
+      "sections": {
+        "原理": "以中轴串联门、庭、殿，把“外朝理政—内朝起居”的功能与尊卑次序写进行进路线。",
+        "典型手法与适用条件": "沿中轴由南向北布置门阙、庭院与主殿，两侧对称配置廊庑。",
+        "实例": "名称：北京紫禁城南北中轴（Forbidden City）；地点：中国北京；设计者：明代营建（主持者不详）；年份：1406–1420 年营建。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "中轴过长会疲劳单调；需靠门庭变化分节奏。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：中轴由外朝向内朝的递进。",
+        "待核实": "紫禁城营建的具体主持者待补充独立来源；其余实例待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='380' y1='60' x2='380' y2='340' stroke='var(--accent)' stroke-dasharray='8 6'/><rect x='300' y='90' width='160' height='60' fill='none' stroke='var(--accent)'/><rect x='300' y='170' width='160' height='60' fill='none' stroke='var(--muted)'/><rect x='300' y='250' width='160' height='60' fill='none' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>宫廷中轴仪礼动线</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-forbidden-city",
+        "designingbuildings-forbidden-city"
+      ],
+      "needs_verification": true,
+      "pending_notes": "紫禁城营建主持者待补充；其余实例待核实。"
+    },
+    {
+      "id": "picturesque",
+      "title": "如画（Picturesque 美学）",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "理论",
+      "period": "跨时期",
+      "region": "欧洲",
+      "definition": "如画（Picturesque）是一种追求不规则、野趣与入画效果的风景审美趣味。",
+      "time_or_place": "跨时期、欧洲（参见来源）。",
+      "overview": "它介于优美与崇高之间，偏爱不规则、野趣与废墟点景。",
+      "related": [],
+      "sections": {
+        "原理": "把“像画一样”作为评判风景的标准，以不对称、变化与野趣唤起情感。",
+        "典型手法与适用条件": "以曲折路径、掩映植物与废墟点景经营入画构图。",
+        "实例": "名称：如画式风景园林（类型性描述）；地点与设计者不适用。看曲折与掩映如何入画。",
+        "常见错误与限制": "过度追求野趣会失可游性。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：如画的不规则与掩映。",
+        "待核实": "「如画（Picturesque 美学）」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 120 320 Q 260 150 420 260 T 660 180' fill='none' stroke='var(--accent)' stroke-width='3'/><circle cx='420' cy='260' r='26' fill='var(--accent-soft)' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>如画（Picturesque 美学）</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-picturesque",
+        "tate-picturesque"
+      ],
+      "needs_verification": true,
+      "pending_notes": "「如画（Picturesque 美学）」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+    },
+    {
+      "id": "mughal-architecture",
+      "title": "莫卧儿建筑",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "文艺复兴至19世纪",
+      "region": "伊斯兰/南亚",
+      "definition": "莫卧儿建筑是16–18世纪南亚莫卧儿帝国融合印度、波斯与伊斯兰语汇的建筑风格。",
+      "time_or_place": "16–18世纪、伊斯兰/南亚（参见来源）。",
+      "overview": "以穹顶、拱门、对称花园与精细石材镶嵌彰显帝国权力。",
+      "related": [],
+      "sections": {
+        "原理": "把中亚穹顶与波斯拱、印度石作与镶嵌工艺综合，以对称与尺度表达皇权。",
+        "典型手法与适用条件": "以集中式穹顶、伊万拱门、四分花园（charbagh）与石材镶嵌组织。",
+        "实例": "名称：泰姬陵（Taj Mahal）；地点：印度阿格拉；设计者：乌斯塔德·艾哈迈德·拉合里（Ustad Ahmad Lahauri，传统归于其主持）；年份：1632 年起建。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "装饰繁复成本高；需结构支撑。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：穹顶、拱门与对称花园。",
+        "待核实": "泰姬陵设计者的具体归属学界仍有讨论；其余实例与年代待补充。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='110' width='520' height='210' fill='none' stroke='var(--line)'/><path d='M 380 110 Q 300 60 220 110' fill='none' stroke='var(--accent)'/><line x1='120' y1='215' x2='640' y2='215' stroke='var(--muted)'/><line x1='380' y1='110' x2='380' y2='320' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>莫卧儿建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-mughal-architecture",
+        "designingbuildings-taj-mahal"
+      ],
+      "needs_verification": true,
+      "pending_notes": "泰姬陵设计者归属学界有讨论；其余实例待补充。"
+    },
+    {
+      "id": "early-islamic-architecture",
+      "title": "早期伊斯兰建筑",
+      "level": "L2",
+      "tier": "重要",
+      "theme": "风格",
+      "period": "中世纪",
+      "region": "伊斯兰/南亚",
+      "definition": "早期伊斯兰建筑指倭马亚时期形成的清真寺与圣所形制：方形平面、柱廊与穹顶。",
+      "time_or_place": "中世纪（倭马亚朝 661–750 年）、伊斯兰/南亚（参见来源）。",
+      "overview": "以方形礼拜殿与柱廊容纳信众，以穹顶标示神圣中心。",
+      "related": [],
+      "sections": {
+        "原理": "以宽大的柱廊礼拜殿满足集体礼拜，以穹顶与朝向（qibla）确立神圣方位。",
+        "典型手法与适用条件": "以方形平面、多柱廊礼拜殿与穹顶（如岩石圆顶）组织。",
+        "实例": "名称：岩石圆顶（Dome of the Rock）与大马士革大清真寺（Great Mosque of Damascus）；地点：耶路撒冷、大马士革；设计者：哈里发阿卜杜勒·马利克、瓦利德一世主持；年份：岩石圆顶约 691 年、大马士革清真寺约 705 年。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "常见错误与限制": "柱廊过密会影响视线；需结构协调。实际工程须按当地规范和专业设计人员的要求",
+        "一图": "见下方示意：方形柱廊与穹顶。",
+        "待核实": "“方形平面＋柱廊”形制主要依据单一权威来源（第二源对形制覆盖较薄），待补；具体年代细节亦待核实。"
+      },
+      "svg": [
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='150' width='480' height='160' fill='none' stroke='var(--accent)'/><circle cx='380' cy='150' r='56' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='180' y1='230' x2='580' y2='230' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>早期伊斯兰建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
+      ],
+      "sources": [
+        "wp-umayyad-architecture",
+        "artincontext-islamic-art"
+      ],
+      "needs_verification": true,
+      "pending_notes": "方形平面/柱廊形制单源（第二源较薄），待补第二独立来源。"
+    }
+  ]
+}

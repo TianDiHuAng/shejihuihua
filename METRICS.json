@@ -1160,6 +1160,30 @@
         "B7_unwritten_entries": 0
       },
       "zero_gap": true
+    },
+    {
+      "round": 46,
+      "date": "2026-11-23",
+      "new_entries": 4,
+      "upgrades": 6,
+      "reviews": 219,
+      "fixes": 8,
+      "pending_total": 217,
+      "check_result": "PASS all checks 0 errors; spotcheck 4/4 reviewed (3 ok, early-islamic pending->fixed period/instance/disclosure); B1 filled 4 of 5 sparse cells (imperial-axial-route/picturesque/mughal/early-islamic); 6 entries upgraded with named instances (Pantheon/Fallingwater/Pompidou/Seagram/Rietveld House/Neue Nationalgalerie); 255 entries all L2; 14/14; 0 broken links",
+      "new_sources": 19,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B1",
+          "B2",
+          "B5",
+          "B7"
+        ],
+        "B1_new_candidates": 4,
+        "B2_sparse_cells": 3,
+        "B5_pending_items": 219,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-23",
-  "total": 251,
+  "total": 255,
   "entries": [
     {
       "id": "perspective",
@@ -2130,8 +2130,8 @@
       "region": "欧洲",
       "level": "L2",
       "status": "已写",
-      "source_count": 2,
-      "needs_verification_count": 1,
+      "source_count": 4,
+      "needs_verification_count": 0,
       "last_updated": "2026-11-23"
     },
     {
@@ -2338,8 +2338,8 @@
       "region": "全球",
       "level": "L2",
       "status": "已写",
-      "source_count": 2,
-      "needs_verification_count": 1,
+      "source_count": 4,
+      "needs_verification_count": 0,
       "last_updated": "2026-11-23"
     },
     {
@@ -2364,8 +2364,8 @@
       "region": "欧洲",
       "level": "L2",
       "status": "已写",
-      "source_count": 2,
-      "needs_verification_count": 1,
+      "source_count": 4,
+      "needs_verification_count": 0,
       "last_updated": "2026-11-23"
     },
     {
@@ -2442,8 +2442,8 @@
       "region": "全球",
       "level": "L2",
       "status": "已写",
-      "source_count": 2,
-      "needs_verification_count": 1,
+      "source_count": 4,
+      "needs_verification_count": 0,
       "last_updated": "2026-11-23"
     },
     {
@@ -2455,8 +2455,8 @@
       "region": "全球",
       "level": "L2",
       "status": "已写",
-      "source_count": 2,
-      "needs_verification_count": 1,
+      "source_count": 4,
+      "needs_verification_count": 0,
       "last_updated": "2026-11-23"
     },
     {
@@ -2494,8 +2494,8 @@
       "region": "全球",
       "level": "L2",
       "status": "已写",
-      "source_count": 2,
-      "needs_verification_count": 1,
+      "source_count": 4,
+      "needs_verification_count": 0,
       "last_updated": "2026-11-23"
     },
     {
@@ -3233,6 +3233,58 @@
       "tier": "补充",
       "period": "文艺复兴至19世纪",
       "region": "欧洲",
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "imperial-axial-route",
+      "title": "宫廷中轴仪礼动线",
+      "theme": "动线",
+      "tier": "重要",
+      "period": "古代",
+      "region": "中国",
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "picturesque",
+      "title": "如画（Picturesque 美学）",
+      "theme": "理论",
+      "tier": "重要",
+      "period": "跨时期",
+      "region": "欧洲",
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "mughal-architecture",
+      "title": "莫卧儿建筑",
+      "theme": "风格",
+      "tier": "重要",
+      "period": "文艺复兴至19世纪",
+      "region": "伊斯兰/南亚",
+      "level": "L2",
+      "status": "已写",
+      "source_count": 2,
+      "needs_verification_count": 1,
+      "last_updated": "2026-11-23"
+    },
+    {
+      "id": "early-islamic-architecture",
+      "title": "早期伊斯兰建筑",
+      "theme": "风格",
+      "tier": "重要",
+      "period": "中世纪",
+      "region": "伊斯兰/南亚",
       "level": "L2",
       "status": "已写",
       "source_count": 2,

@@ -5,11 +5,11 @@
 第 7 轮候选直接以 data/sources.json 的来源 id 标注（详见 research/gaps-external-round06.md）。
 每条标注层级与来源编号。
 
-总计 251 条：理论 127、风格 62、造景 19、
-动线 12、下沉空间 12、材料 19。
-层级分布：核心 50、重要 147、补充 54。
+总计 255 条：理论 128、风格 64、造景 19、
+动线 13、下沉空间 12、材料 19。
+层级分布：核心 50、重要 151、补充 54。
 
-## 理论（127 条）
+## 理论（128 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -138,10 +138,11 @@
 | trompe-loeil | 错视画（Trompe-l'œil） | 重要 | 文艺复兴至19世纪 | 欧洲 | wp-trompe-loeil,artincontext-trompe |
 | hatching | 排线法（Hatching） | 重要 | 文艺复兴至19世纪 | 欧洲 | wp-hatching,artincontext-hatching |
 | stippling | 点描法（Stippling） | 补充 | 文艺复兴至19世纪 | 欧洲 | wp-stippling,artincontext-stippling |
+| picturesque | 如画（Picturesque 美学） | 重要 | 跨时期 | 欧洲 | wp-picturesque,tate-picturesque |
 | academic-art-theory | 学院派理论与素描教学 | 重要 | 文艺复兴至19世纪 | 全球 | wp-academic-art,artincontext-academic |
 | classical-order | 古典柱式 | 重要 | 古代 | 欧洲 | wp-classical-order,designingbuildings-classical |
 
-## 风格（62 条）
+## 风格（64 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -207,6 +208,8 @@
 | functionalism-architecture | 功能主义建筑 | 重要 | 20世纪 | 全球 | wp-functionalism-architecture,wp-form-follows-function |
 | tenebrism | 暗绘风格（暗色调主义） | 补充 | 文艺复兴至19世纪 | 欧洲 | wp-tenebrism,dailyart-tenebrism |
 | mexican-baroque | 墨西哥巴洛克（新西班牙巴洛克） | 补充 | 文艺复兴至19世纪 | 美洲 | wp-new-spanish-baroque,designingbuildings-baroque |
+| mughal-architecture | 莫卧儿建筑 | 重要 | 文艺复兴至19世纪 | 伊斯兰/南亚 | wp-mughal-architecture,designingbuildings-taj-mahal |
+| early-islamic-architecture | 早期伊斯兰建筑 | 重要 | 中世纪 | 伊斯兰/南亚 | wp-umayyad-architecture,artincontext-islamic-art |
 
 ## 造景（19 条）
 
@@ -232,7 +235,7 @@
 | hardscape-softscape | 硬质景观与软质景观 | 重要 | 跨时期 | 全球 | wp-landscape-architecture,wp-landscape-design |
 | plaza | 广场（城市广场） | 重要 | 跨时期 | 全球 | wp-town-square,pps-successful-place |
 
-## 动线（12 条）
+## 动线（13 条）
 
 | id | 名称 | 层级 | 时期 | 地区 | 来源 |
 | --- | --- | --- | --- | --- | --- |
@@ -248,6 +251,7 @@
 | radial-route | 放射式动线 | 补充 | 跨时期 | 全球 | S8 |
 | wayfinding | 导视与寻路 | 重要 | 跨时期 | 全球 | wp-graphic-design,wp-wayfinding |
 | exit-sign | 疏散标识（安全出口标识） | 补充 | 20世纪 | 全球 | wp-exit-sign,ecfr-1910-37 |
+| imperial-axial-route | 宫廷中轴仪礼动线 | 重要 | 古代 | 中国 | wp-forbidden-city,designingbuildings-forbidden-city |
 
 ## 下沉空间（12 条）
 

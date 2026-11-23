@@ -259,6 +259,10 @@ sfumato|渐隐法（Sfumato）|理论|重要|文艺复兴至19世纪|欧洲|wp-s
 trompe-loeil|错视画（Trompe-l'œil）|理论|重要|文艺复兴至19世纪|欧洲|wp-trompe-loeil,artincontext-trompe
 hatching|排线法（Hatching）|理论|重要|文艺复兴至19世纪|欧洲|wp-hatching,artincontext-hatching
 stippling|点描法（Stippling）|理论|补充|文艺复兴至19世纪|欧洲|wp-stippling,artincontext-stippling
+imperial-axial-route|宫廷中轴仪礼动线|动线|重要|古代|中国|wp-forbidden-city,designingbuildings-forbidden-city
+picturesque|如画（Picturesque 美学）|理论|重要|跨时期|欧洲|wp-picturesque,tate-picturesque
+mughal-architecture|莫卧儿建筑|风格|重要|文艺复兴至19世纪|伊斯兰/南亚|wp-mughal-architecture,designingbuildings-taj-mahal
+early-islamic-architecture|早期伊斯兰建筑|风格|重要|中世纪|伊斯兰/南亚|wp-umayyad-architecture,artincontext-islamic-art
 academic-art-theory|学院派理论与素描教学|理论|重要|文艺复兴至19世纪|全球|wp-academic-art,artincontext-academic
 classical-order|古典柱式|理论|重要|古代|欧洲|wp-classical-order,designingbuildings-classical
 """

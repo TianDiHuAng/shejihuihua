@@ -17,20 +17,22 @@
       "sections": {
         "原理": "拱券把受力转为压力、混凝土使大跨与厚墙可行，因而能建浴场、万神殿式的穹顶空间。",
         "典型手法与适用条件": "以半圆拱、交叉拱与穹顶组织空间，柱式用于立面划分。",
-        "实例": "名称：万神殿式穹顶建筑（类型性描述）；地点与设计者不适用。看穹顶与拱券如何形成大跨。",
+        "实例": "名称：万神殿（Pantheon）；地点：意大利罗马；设计者：建筑师佚名（哈德良时期重建）；年份：约 118–128 年（阿格里帕公元前 27 年始建）。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "忽视拱的侧推力会开裂；材料与抗震须按规范。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：拱券与穹顶的受力关系。",
-        "待核实": "「古罗马建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='120' y1='300' x2='640' y2='300' stroke='var(--ink)' stroke-width='3'/><line x1='200' y1='300' x2='200' y2='150' stroke='var(--accent)' stroke-width='14'/><line x1='330' y1='300' x2='330' y2='150' stroke='var(--accent)' stroke-width='14'/><line x1='460' y1='300' x2='460' y2='150' stroke='var(--accent)' stroke-width='14'/><polygon points='160,150 330,70 500,150' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='250' y='350' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>古罗马建筑</text></svg>"
       ],
       "sources": [
         "wp-roman-architecture",
-        "wp-classical-architecture"
+        "wp-classical-architecture",
+        "turismoroma-pantheon",
+        "history-pantheon"
       ],
-      "needs_verification": true,
-      "pending_notes": "「古罗马建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "romanesque",
@@ -207,20 +209,22 @@
       "sections": {
         "原理": "以框架结构释放墙体、以规则网格与通透玻璃表达现代性。",
         "典型手法与适用条件": "用规则柱网、玻璃幕墙与自由平面组织。",
-        "实例": "名称：国际风格办公楼（类型性描述）；地点与设计者不适用。看规则网格与玻璃立面。",
+        "实例": "名称：西格拉姆大厦（Seagram Building）；地点：美国纽约帕克大道 375 号；设计者：密斯·凡·德·罗与菲利普·约翰逊（Mies van der Rohe & Philip Johnson）；年份：1956–1958 年建成。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "忽视气候会能耗高；需结合遮阳。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：规则网格与通透立面。",
-        "待核实": "「国际风格」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='120' width='480' height='180' fill='none' stroke='var(--accent)'/><line x1='260' y1='120' x2='260' y2='300' stroke='var(--muted)'/><line x1='380' y1='120' x2='380' y2='300' stroke='var(--muted)'/><line x1='500' y1='120' x2='500' y2='300' stroke='var(--muted)'/><line x1='140' y1='200' x2='620' y2='200' stroke='var(--muted)'/><text x='250' y='350' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>国际风格</text></svg>"
       ],
       "sources": [
         "wp-international-style",
-        "wp-modern-architecture"
+        "wp-modern-architecture",
+        "nyclpc-seagram",
+        "docomomo-seagram"
       ],
-      "needs_verification": true,
-      "pending_notes": "「国际风格」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "organic-architecture",
@@ -237,20 +241,22 @@
       "sections": {
         "原理": "强调建筑像生物般与场地共生，空间流动、材料真实、形式顺应环境。",
         "典型手法与适用条件": "用流动平面、自然材料与融入地形的体量。",
-        "实例": "名称：有机建筑住宅（类型性描述）；地点与设计者不适用。看室内如何向景观延展。",
+        "实例": "名称：流水别墅（Fallingwater）；地点：美国宾夕法尼亚州熊奔溪；设计者：弗兰克·劳埃德·赖特（Frank Lloyd Wright）；年份：1935 年设计、1936–1939 年建成。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "形式自由带来造价与施工难题；需专业协同。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：体量与地形融合。",
-        "待核实": "「有机建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 220 300 L 220 180 Q 380 40 540 180 L 540 300' fill='none' stroke='var(--accent)' stroke-width='4'/><line x1='160' y1='300' x2='600' y2='300' stroke='var(--ink)' stroke-width='3'/><text x='250' y='350' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>有机建筑</text></svg>"
       ],
       "sources": [
         "wp-frank-lloyd-wright",
-        "wp-modern-architecture"
+        "wp-modern-architecture",
+        "flw-fallingwater",
+        "tclf-fallingwater"
       ],
-      "needs_verification": true,
-      "pending_notes": "「有机建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "de-stijl",
@@ -267,20 +273,22 @@
       "sections": {
         "原理": "以水平/垂直线与红黄蓝原色加黑白灰，追求普遍而理性的抽象秩序。",
         "典型手法与适用条件": "用网格、原色块与非对称平衡组织平面与立面。",
-        "实例": "名称：风格派式室内与绘画（类型性描述）；地点与设计者不适用。看原色块与网格的关系。",
+        "实例": "名称：施罗德住宅（Rietveld Schröder House）；地点：荷兰乌得勒支；设计者：赫里特·里特费尔德与特鲁斯·施罗德（Gerrit Rietveld & Truus Schröder）；年份：1924 年。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "严格抽象易冷硬；功能适配需调整。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：网格与原色块。",
-        "待核实": "风格核心特征主要依据单一权威条目（第二来源为泛论、未逐条互证）；「风格派」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='120' width='480' height='180' fill='none' stroke='var(--accent)'/><line x1='260' y1='120' x2='260' y2='300' stroke='var(--muted)'/><line x1='380' y1='120' x2='380' y2='300' stroke='var(--muted)'/><line x1='500' y1='120' x2='500' y2='300' stroke='var(--muted)'/><line x1='140' y1='200' x2='620' y2='200' stroke='var(--muted)'/><text x='250' y='350' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>风格派</text></svg>"
       ],
       "sources": [
         "wp-de-stijl",
-        "wp-architectural-style"
+        "wp-architectural-style",
+        "rietveld-house",
+        "iconichouses-rietveld"
       ],
-      "needs_verification": true,
-      "pending_notes": "风格核心特征主要依据单一权威条目（第二来源为泛论、未逐条互证）；「风格派」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "revival-gothic",

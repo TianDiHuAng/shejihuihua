@@ -1,6 +1,6 @@
 {
-  "SATURATED": true,
-  "consecutive_zero_gap_rounds": 3,
+  "SATURATED": false,
+  "consecutive_zero_gap_rounds": 0,
   "rounds": [
     {
       "round": 2,
@@ -854,9 +854,43 @@
         "unwritten_entries": 0
       },
       "note": "B1/B6 no new gaps 3rd consecutive; core+important all L2; unwritten 0 -> SATURATED=true"
+    },
+    {
+      "round": 46,
+      "date": "2026-11-23",
+      "zero_gap": false,
+      "methods_used": [
+        "B1",
+        "B2",
+        "B5",
+        "B7"
+      ],
+      "new_gaps": {
+        "note": "用户要求继续扩充，退出饱和"
+      },
+      "note": "exit saturation by user directive; resume expansion"
+    },
+    {
+      "round": 46,
+      "date": "2026-11-23",
+      "zero_gap": false,
+      "methods_used": [
+        "B1",
+        "B2",
+        "B5",
+        "B7"
+      ],
+      "new_gaps": {
+        "B1_new_candidates": 4,
+        "sparse_cells": 3,
+        "pending_items": 217,
+        "unwritten_entries": 0
+      },
+      "note": "resumed expansion: 4 new entries fill 4 sparse cells; 6 named-instance upgrades"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true",
   "saturated_at_round": 45,
-  "saturated_date": "2026-11-23"
+  "saturated_date": "2026-11-23",
+  "exit_reason": "2026-11-23 用户明确要求“继续扩充”，按协议退出饱和回到正常循环"
 }
