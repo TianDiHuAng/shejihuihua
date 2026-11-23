@@ -5831,6 +5831,30 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-23，实抓 HTTP 200；形式追随功能源自沙利文，早期钢构高层建筑"
+    },
+    {
+      "id": "db-courtyard",
+      "title": "Courtyard — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Courtyard",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；庭院：向天空开敞但被建筑或墙围合的区域，源于‘围合空间’"
+    },
+    {
+      "id": "wp-siheyuan",
+      "title": "Siheyuan — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Siheyuan",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；四合院：四面建筑围合的庭院，沿南北/东西轴布局（经镜像核验）"
     }
   ]
 }

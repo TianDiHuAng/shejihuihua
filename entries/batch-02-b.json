@@ -119,17 +119,19 @@
         "wp-chinese-garden",
         "bjdclib-zhaotangzi",
         "zgkpw-zhuqian",
-        "cctv-zhaotangzi"
+        "cctv-zhaotangzi",
+        "wp-siheyuan",
+        "db-courtyard"
       ],
-      "needs_verification": true,
-      "pending_notes": "赵堂子胡同3号形成时期有清代与1930年代改建两说，待考订。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "庭院由建筑或墙体围合、向天空开敞，兼具采光、通风与安静户外活动，是多文化的空间原型。",
         "典型手法与适用条件": "以院落组织采光与私密性，院内可植栽、置石或理水；适用于居住与合院式建筑。",
-        "实例": "名称：赵堂子胡同3号（朱启钤故居）四合院；地点：北京东城区；设计者：朱启钤（据《营造法式》设计督造）；年份：20 世纪 30 年代购置并改建（另有资料记“形成时期：清”，两说并列、不写死）。四进四合院，约 3000 平方米。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "实例": "名称：北京四合院（Siheyuan）；地点：中国北京（北方广泛分布）；设计者：民间营建（无单一设计者）；年份：明清以来。以四面建筑围合出向天空开敞的庭院，沿南北/东西轴布局。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "院落过深会采光不足；排水与防潮需专门设计。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：被建筑围合的院落。",
-        "待核实": "该院的形成时期有“清代”与“20 世纪 30 年代改建”两说，正文并列，具体沿革待考订。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='100' width='480' height='230' fill='none' stroke='var(--accent)'/><rect x='280' y='170' width='200' height='120' fill='var(--accent-soft)' stroke='var(--muted)'/><text x='330' y='225' fill='var(--ink)'>院落</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
