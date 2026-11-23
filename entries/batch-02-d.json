@@ -84,17 +84,19 @@
       ],
       "sources": [
         "wp-renaissance-architecture",
-        "wp-alberti"
+        "wp-alberti",
+        "britannica-florence-dome",
+        "firenze-heritage"
       ],
-      "needs_verification": true,
-      "pending_notes": "「文艺复兴建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
         "原理": "文艺复兴建筑以古典柱式、对称与几何比例表达理性与秩序。",
         "典型手法与适用条件": "以轴线对称组织立面，按柱式确定比例；适用于公共建筑与府邸。",
-        "实例": "名称：文艺复兴府邸与教堂（类型性描述）；地点：欧洲；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：佛罗伦萨大教堂穹顶（Santa Maria del Fiore）；地点：意大利佛罗伦萨；设计者：菲利波·布鲁内莱斯基（Filippo Brunelleschi）；年份：1420 年提出方案、1436 年完成。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "脱离结构比例照搬柱式会流于布景；材料尺寸按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方立面示意：对称与柱式节奏。",
-        "待核实": "具体建筑的设计者与年代待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='120' width='520' height='200' fill='none' stroke='var(--accent)' stroke-width='2'/><line x1='380' y1='120' x2='380' y2='320' stroke='var(--muted)'/><rect x='120' y='270' width='520' height='50' fill='var(--accent-soft)' stroke='var(--muted)'/><text x='330' y='100' fill='var(--ink)'>对称与柱式</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
