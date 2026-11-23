@@ -5975,6 +5975,18 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-23，实抓 HTTP 200；斯托海德：英式风景园，受 Claude Lorrain 画作启发（经镜像核验）"
+    },
+    {
+      "id": "louvre-explore-mona",
+      "title": "From the Mona Lisa to the Wedding Feast at Cana — Louvre",
+      "author": "Musée du Louvre",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.louvre.fr/en/explore/the-palace/from-the-mona-lisa-to-the-wedding-feast-at-cana",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；达·芬奇晕涂法(sfumato)：以罩染营造烟雾状柔化过渡，《蒙娜丽莎》为典型"
     }
   ]
 }

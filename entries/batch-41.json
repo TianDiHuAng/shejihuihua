@@ -17,20 +17,21 @@
       "sections": {
         "原理": "以多层薄涂让色与形的边界逐渐消失，视觉上模拟景深失焦，使形体仿佛融入空气。",
         "典型手法与适用条件": "以极薄的透明色层反复罩染、柔化轮廓与明暗交界。",
-        "实例": "名称：渐隐法的人物面部（类型性描述）；地点与设计者不适用。看轮廓如何在明暗中消融。",
+        "实例": "名称：《蒙娜丽莎》（Mona Lisa）；地点：法国巴黎卢浮宫；作者：列奥纳多·达·芬奇（Leonardo da Vinci）；年份：约 1503–1505 年（各家对创作年份记载约 1503–1513 不一）。以罩染（glazes）营造“烟雾状”柔化过渡的晕涂效果。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "过度柔化会失结构；需保留转折。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：柔和过渡消除硬边。",
-        "待核实": "「渐隐法（Sfumato）」的具体实例（作品、作者、年代）待补充独立来源。"
+        "待核实": "晕涂法技法与《蒙娜丽莎》为其典型由 Wikipedia 与卢浮宫官方双源直证；创作年份各家记载不一（约 1503–1513，多采 1503–1505），已并列。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><ellipse cx='300' cy='200' rx='120' ry='90' fill='var(--accent-soft)' stroke='var(--accent)'/><ellipse cx='460' cy='200' rx='120' ry='90' fill='var(--panel)' stroke='var(--line)'/><path d='M 380 120 Q 380 200 380 280' stroke='var(--muted)' fill='none'/><text x='40' y='40' fill='var(--ink)'>渐隐法（Sfumato）</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-sfumato",
-        "artincontext-sfumato"
+        "artincontext-sfumato",
+        "louvre-explore-mona"
       ],
       "needs_verification": true,
-      "pending_notes": "「渐隐法（Sfumato）」的具体实例（作品、作者、年代）待补充独立来源。"
+      "pending_notes": "创作年份各家不一（约 1503–1513）；技法与实例已双源。"
     },
     {
       "id": "trompe-loeil",
