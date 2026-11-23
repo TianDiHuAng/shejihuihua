@@ -3069,8 +3069,8 @@
       "url": "https://artincontext.org/academic-art/",
       "url2": null,
       "verified": true,
-      "link_ok": null,
-      "note": "访问于 2026-11-22，经 owiki 镜像/独立站点实抓核对标题与正文，canonical 直连待复；学院派重视素描/解剖/构图/完成度与题材等级"
+      "link_ok": false,
+      "note": "访问于 2026-11-22，经 owiki 镜像/独立站点实抓核对标题与正文，canonical 直连待复；学院派重视素描/解剖/构图/完成度与题材等级；2026-11-23 复核为 HTTP 404，canonical 待复"
     },
     {
       "id": "wp-classical-order",
@@ -5795,6 +5795,30 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-23，实抓 HTTP 200；正面光常见但使主体显平、几乎不投可见阴影（经镜像核验）"
+    },
+    {
+      "id": "tate-plein-air",
+      "title": "Plein air — Tate",
+      "author": "Tate",
+      "type": "官方机构",
+      "year": null,
+      "url": "https://www.tate.org.uk/art/art-terms/p/plein-air",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；外光派：户外作画，1860 年起对印象派至关重要"
+    },
+    {
+      "id": "wp-en-plein-air",
+      "title": "En plein air — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/En_plein_air",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；户外直接对景作画，与画室/academic 规则相对（经镜像核验）"
     }
   ]
 }

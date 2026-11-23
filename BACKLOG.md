@@ -25,10 +25,10 @@
 
 执行顺序：每完成一批运行 check.py 并 commit；抽检 10%（至少 3 个）另起子任务。
 
-## 下一轮队列（第 63 轮，按优先级）
+## 下一轮队列（第 64 轮，按优先级）
 
 1. 继续为待核实重要条目补具名实例双源（当前 188），维持 25% 抽检。
-2. 来源挂靠复核：wp-architectural-lighting-design 仍被 5 个批次引用，评估是否为错配需换。
+2. 复核/替换 artincontext-academic 等 canonical 死链；来源挂靠已确认 architectural-lighting 合法。
 3. B1/B6 判定；无法双源者据实保留披露。
 
 ## 已完成/历史（维护模式说明保留）
@@ -99,3 +99,4 @@
 - 第 60 轮：chiaroscuro（Tate+NG《以马忤斯的晚餐》1601）、cast-shadow（NG《气泵中的鸟实验》1768 单烛光投影）补具名实例并升级；抽检 2/2 合格；258 条全 L2，来源 477，待核实 189
 - 第 61 轮：back-light（Contre-jour+ExpertPhotography）、side-light（StudioBinder+Wikipedia 伦勃朗光）换真源重写并重绘专属 SVG；light-shadow-modeling 专属图；**系统修复**：解散 4 组共 15 条共用相同 SVG 的存量缺陷→全库 SVG 重复组 0；258 条全 L2，来源 482
 - 第 62 轮：front-light/top-light 移除建筑照明错配源（改 Wikipedia Lighting 直证并如实单源/一般性披露）；five-tones 标明教学通用术语；top-light 返工后复检合格；258 条全 L2，来源 483
+- 第 63 轮：plein-air（Tate+Wiki 双源）补具名实例；确认 wp-architectural-lighting-design 对采光/眩光类条目合法（非错配）；academic-art-theory 第二源 404 死链→回退待核实并披露、标记死链；258 条全 L2，来源 485

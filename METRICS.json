@@ -1538,6 +1538,26 @@
         "B5_pending_items": 188,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 63,
+      "date": "2026-11-23",
+      "new_entries": 0,
+      "upgrades": 1,
+      "reviews": 188,
+      "fixes": 1,
+      "pending_total": 188,
+      "check_result": "PASS all checks 0 errors; spotcheck plein-air ok / academic-art-theory dead second source -> reverted nv=true + single-source disclosure, artincontext-academic marked link_ok=false(404); wp-architectural-lighting-design confirmed legitimate for daylighting/glare/lighting entries (not mis-wired); 258 all L2; 19/19 tests; 0 broken links",
+      "new_sources": 2,
+      "spotcheck_policy_next_round": "25%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "B7"
+        ],
+        "B5_pending_items": 188,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }

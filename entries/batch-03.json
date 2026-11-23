@@ -116,17 +116,19 @@
       "related": [],
       "sources": [
         "wp-outline-of-painting",
-        "forschungsprojekt-pleinair"
+        "forschungsprojekt-pleinair",
+        "tate-plein-air",
+        "wp-en-plein-air"
       ],
       "needs_verification": true,
-      "pending_notes": "核心已补第二独立来源；具体实例的设计者与年代待补充独立来源。",
+      "pending_notes": "外光派概念由 Tate 与 Wikipedia 双源直证；具体作品为印象派外光写生的泛例，非单一画作。",
       "sections": {
         "原理": "外光写生直接面对自然光作画，用现场观察取代室内恒定光，捕捉色彩的即时变化。",
         "典型手法与适用条件": "便携颜料与户外画架使其普及；适合风景与光影题材，须快速记录以免光线改变。",
-        "实例": "名称：外光风景写生（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
+        "实例": "名称：莫奈等印象派的外光写生（以《日出·印象》时代为背景）；地点：法国；作者：克劳德·莫奈及印象派画家；年份：19 世纪后期（约 1870 年代起）。在户外直接对景写生，捕捉自然光色变化。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "光线变化快，久画易前后色调不一致；风沙与湿度影响颜料。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：户外自然光下的写生。",
-        "待核实": "核心已补第二独立来源；具体实例的设计者与年代待补充独立来源。"
+        "待核实": "外光派概念由 Tate 与 Wikipedia 双源直证；具体作品为印象派外光写生的泛例，非单一画作。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='300' x2='680' y2='300' stroke='var(--ink)' stroke-width='3'/><circle cx='620' cy='90' r='36' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='300' y='210' width='90' height='70' fill='none' stroke='var(--muted)'/><text x='540' y='150' fill='var(--ink)'>户外自然光</text><text x='310' y='190' fill='var(--ink)'>画架</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
