@@ -49,20 +49,22 @@
       "sections": {
         "原理": "形似是入门的门槛，先抓住对象比例与转折，再谈笔墨表现。",
         "典型手法与适用条件": "观察对象的比例与结构后落笔，先取大势再定细节。",
-        "实例": "名称：按对象比例写生的花鸟稿（类型性描述）；地点与作者不适用。重点在比例与结构的准确。",
+        "实例": "名称：顾恺之《洛神赋图》（宋摹本，注重人物形貌与神情的写照）；地点：北京故宫博物院藏；作者：顾恺之（约345–406）；年代：东晋（现存宋摹）。此处仅列名称、地点、作者与年代信息，不复制图像。",
         "常见错误与限制": "只求形似而失神会呆板；过分变形则失真。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意图：先取大势再定细节的写生顺序。",
-        "待核实": "「应物象形」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "两源直证作品形神写照；‘应物象形’为六法概念，作品为形似写照范例，属概念对应解读。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='150' width='160' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='150' width='160' height='120' fill='none' stroke='var(--muted)'/><rect x='520' y='150' width='120' height='120' fill='none' stroke='var(--muted)'/><text x='250' y='120' fill='var(--ink)'>主次与虚实布局</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><ellipse cx='300' cy='200' rx='90' ry='120' fill='none' stroke='var(--accent)'/><circle cx='270' cy='170' r='10' fill='var(--muted)'/><circle cx='330' cy='170' r='10' fill='var(--muted)'/><path d='M 270 250 Q 300 270 330 250' fill='none' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>依对象形貌写照</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-six-principles-chinese-painting",
-        "wp-chinese-painting"
+        "wp-chinese-painting",
+        "dpm-luoshenfu",
+        "chinaculture-luoshenfu"
       ],
       "needs_verification": true,
-      "pending_notes": "「应物象形」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "两源直证作品形神写照；‘应物象形’为六法概念，作品为形似写照范例，属概念对应解读。"
     },
     {
       "id": "color-according-type",
@@ -79,20 +81,21 @@
       "sections": {
         "原理": "不追条件色，而按物象类别归并主色，以平面色块取得装饰性统一。",
         "典型手法与适用条件": "按物象类别确定主色，以平涂与渲染表现色块。",
-        "实例": "名称：按类别设色的花鸟册页（类型性描述）；地点与作者不适用。看色块如何依物类归并。",
+        "实例": "名称：《千里江山图》（青绿设色，按物类施彩）；地点：北京故宫博物院藏；作者：王希孟；年代：北宋政和三年（1113）。此处仅列名称、地点、作者与年代信息，不复制图像。",
         "常见错误与限制": "设色过艳会压过笔墨；色彩需与意境协调。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意图：按物类归并的色块分布。",
-        "待核实": "「随类赋彩」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "《千里江山图》青绿设色由故宫源单源直证（实例实质单源，待补第二独立机构来源）；“随类赋彩”为六法概念，属对应解读。"
       },
       "svg": [
-        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='150' width='160' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='150' width='160' height='120' fill='none' stroke='var(--muted)'/><rect x='520' y='150' width='120' height='120' fill='none' stroke='var(--muted)'/><text x='250' y='120' fill='var(--ink)'>主次与虚实布局</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
+        "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='120' width='120' height='160' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='300' y='140' width='120' height='140' fill='none' stroke='var(--muted)'/><rect x='460' y='120' width='120' height='160' fill='var(--accent)' fill-opacity='0.3' stroke='var(--accent)'/><text x='40' y='40' fill='var(--ink)'>按物类分区施色</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-six-principles-chinese-painting",
-        "wp-chinese-painting"
+        "wp-chinese-painting",
+        "dpm-qianli"
       ],
       "needs_verification": true,
-      "pending_notes": "「随类赋彩」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "实例实质单源（缺第二独立机构来源）；概念属对应解读。"
     },
     {
       "id": "transmission-copy",
@@ -109,20 +112,22 @@
       "sections": {
         "原理": "临摹是习画路径，先求形准，再体会上笔顺序与用意。",
         "典型手法与适用条件": "对临、背临与摹写结合，先得其形再求其神。",
-        "实例": "名称：临摹前人名作的习作（类型性描述）；地点与作者不适用。比较对临与背临的差异。",
+        "实例": "名称：顾恺之《洛神赋图》宋摹本（传移模写的典型案例）；地点：北京故宫博物院藏；作者：原作顾恺之、现存宋人摹本；年代：东晋原作／宋代摹本。此处仅列名称、地点、作者与年代信息，不复制图像。",
         "常见错误与限制": "一味复制会失去创造；临摹须理解而非描抄。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意图：对临—背临—摹写的递进。",
-        "待核实": "「传移模写」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "宋摹本为‘传移模写’的实例，摹本属性由两源直证；概念属对应解读。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='150' width='160' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='150' width='160' height='120' fill='none' stroke='var(--muted)'/><rect x='520' y='150' width='120' height='120' fill='none' stroke='var(--muted)'/><text x='250' y='120' fill='var(--ink)'>主次与虚实布局</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-six-principles-chinese-painting",
-        "wp-chinese-painting"
+        "wp-chinese-painting",
+        "dpm-luoshenfu",
+        "chinaculture-luoshenfu"
       ],
       "needs_verification": true,
-      "pending_notes": "「传移模写」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "宋摹本为‘传移模写’的实例，摹本属性由两源直证；概念属对应解读。"
     },
     {
       "id": "ink-wash",
