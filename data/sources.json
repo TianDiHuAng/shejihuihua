@@ -5783,6 +5783,18 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-23，实抓 HTTP 200；侧光：光源从主体一侧照来，凸显特征与质感、在另一侧投下阴影"
+    },
+    {
+      "id": "wp-lighting-front",
+      "title": "Lighting (Front lighting) — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Lighting",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-23，实抓 HTTP 200；正面光常见但使主体显平、几乎不投可见阴影（经镜像核验）"
     }
   ]
 }

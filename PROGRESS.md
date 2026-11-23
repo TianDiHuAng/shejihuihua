@@ -13,7 +13,7 @@
 | 1 | 来源库 sources.json | 已完成 | data/sources.json（118 条，115 verified，link_ok 三态）、research/source_notes.md |
 | 2 | 校验器 tools/check.py | 已完成 | tools/check.py、tests/test_check.py（7/7 通过） |
 | 3 | 2 个 L2 样板 | 已完成 | entries/l2-samples.json（透视法、下沉庭院，含自绘 SVG） |
-| 4 | 条目累计 258 | 第 61 轮已完成 | 范围 258；已写 258（全部 L2）；来源 482；待核实 188；SVG 重复组 0 |
+| 4 | 条目累计 258 | 第 62 轮已完成 | 范围 258；已写 258（全部 L2）；来源 483；待核实 188 |
 | 5 | 总览页 / 索引 / 导航 / REPORT | 已完成 | site/（首页、40 条目页、索引、来源、覆盖报告）、REPORT.md |
 
 ## 本轮完成目标
@@ -109,3 +109,4 @@
 - 2026-11-23 18:3x 第 59 轮维护：4 条六法组补具名实例；抽检后修随类赋彩不相关源+单源披露、换图；258 条全 L2，来源 474，待核实 191。
 - 2026-11-23 18:4x 第 60 轮维护：chiaroscuro/cast-shadow 补具名实例并升级（NG实抓核验）；抽检 2/2 合格；258 条全 L2，来源 477，待核实 189。
 - 2026-11-23 18:5x 第 61 轮维护：back-light/side-light 换真源重写+专属SVG；light-shadow-modeling 专属图；系统去重全库SVG（0 重复组）；258 条全 L2，来源 482，待核实 188。
+- 2026-11-23 19:1x 第 62 轮维护：front-light/top-light 移除建筑照明错配源（Wikipedia Lighting 直证+单源披露）、five-tones 标教学术语；top-light 返工复检合格；258 条全 L2，来源 483，待核实 188。

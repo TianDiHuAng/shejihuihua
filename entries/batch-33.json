@@ -41,17 +41,17 @@
       "theme": "理论",
       "period": "文艺复兴至19世纪",
       "region": "欧洲",
-      "definition": "明暗五调子指高光、亮部、明暗交界线、反光与投影五个明暗层次。",
+      "definition": "明暗五调子是绘画教学中把连续明暗归纳为高光、亮部、明暗交界线、反光、投影五档的经验分档。",
       "time_or_place": "文艺复兴至19世纪、欧洲（参见来源）。",
       "overview": "把连续明暗归纳为五档，便于观察与表现立体。",
       "related": [],
       "sections": {
-        "原理": "五调子是对连续明暗的简化分区，帮助稳定地判断亮暗关系而非逐点描摹。",
+        "原理": "在明暗对照基础上，把受光到背光的连续过渡归纳为五个可辨层次，便于观察与表现体积（教学通用表述）。",
         "典型手法与适用条件": "依次找出高光与投影，再定交界线，最后补亮部与反光，形成完整循环。",
         "实例": "名称：球体五调子练习（类型性描述）；地点与作者不适用。观察交界线最实处与反光的最亮处。",
         "常见错误与限制": "机械分档会板滞；五调子需服从整体光感。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意图：由高光到投影的五档。",
-        "待核实": "五调子的分档为绘画教学通用表述，专门权威来源待补充；「明暗五调子」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "“五调子”分档为素描/绘画教学通用术语，专门权威来源未逐字列举此五档；明暗对照概念有来源支撑。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='160' width='90' height='100' fill='var(--panel)' stroke='var(--line)'/><rect x='210' y='160' width='90' height='100' fill='var(--accent-soft)' stroke='var(--line)'/><rect x='300' y='160' width='90' height='100' fill='var(--muted)'/><rect x='390' y='160' width='90' height='100' fill='var(--accent)'/><rect x='480' y='160' width='90' height='100' fill='var(--ink)'/><text x='150' y='130' fill='var(--ink)'>高光·亮部·交界·反光·投影</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -61,7 +61,7 @@
         "wp-rembrandt-lighting"
       ],
       "needs_verification": true,
-      "pending_notes": "五调子的分档为绘画教学通用表述，专门权威来源待补充；「明暗五调子」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "五调子分档为教学通用术语，专门来源待补。"
     },
     {
       "id": "cast-shadow",
@@ -203,17 +203,17 @@
         "实例": "名称：正面补光的证件照式人像（类型性描述）；地点与作者不适用。看鼻影几乎消失。",
         "常见错误与限制": "全正面光会扁平呆板；易在背景留下硬影。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意图：光源与视线同向。",
-        "待核实": "「正面光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "正面光“使主体显平、少阴影”由 Wikipedia Lighting 单源直证（第二独立专源不可得）；本页其余为一般性说明。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='380' cy='90' r='26' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='320' y='180' width='120' height='140' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='380' y1='120' x2='380' y2='178' stroke='var(--accent)' stroke-width='3'/><text x='40' y='40' fill='var(--ink)'>光源与视线同向（正面）</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
-        "wp-architectural-lighting-design",
-        "wp-daylighting-architecture"
+        "wp-lighting-front",
+        "wp-chiaroscuro"
       ],
       "needs_verification": true,
-      "pending_notes": "「正面光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "正面光概念单源（第二独立专源不可得）；其余为一般性说明。"
     },
     {
       "id": "side-light",
@@ -284,27 +284,26 @@
       "theme": "理论",
       "period": "跨时期",
       "region": "全球",
-      "definition": "顶光自头顶垂落，眼窝、鼻下与下颌依次落影，光线秩序自上而下。",
+      "definition": "顶光（下射光）指光源在天花或正上方、向下照射的照明（一般性说明）。",
       "time_or_place": "跨时期、全球（参见来源）。",
       "overview": "肃穆或压抑，适合展厅与戏剧场景；人像顶光需补光修饰。",
       "related": [],
       "sections": {
-        "原理": "光源自上而下，凸出部位受光、凹处落影，形成由上而下的明暗秩序。",
+        "原理": "灯具位于天花或正上方向下投光，是办公与住宅最常用的布光方式；自上而下的光会在凸处受光、凹陷落影（一般性说明）。",
         "典型手法与适用条件": "顶光适合展厅与戏剧性场景，人像需谨慎补光修饰眼窝阴影。",
         "实例": "名称：天窗下的展厅顶光（类型性描述）；地点与作者不适用。看展台由上而下的照度梯度。",
         "常见错误与限制": "人像顶光易显憔悴；需补光。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意图：光源自上而下。",
-        "待核实": "「顶光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "顶光/下射光\"自上而下、最常用\"由 Wikipedia Lighting 单源直证（第二独立专源不可得）；明暗秩序与具体实例为一般性说明，待核实。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><circle cx='380' cy='60' r='24' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='380' y1='84' x2='380' y2='180' stroke='var(--accent)' stroke-width='3'/><ellipse cx='380' cy='250' rx='100' ry='70' fill='var(--panel)' stroke='var(--line)'/><ellipse cx='380' cy='300' rx='100' ry='16' fill='var(--ink)' fill-opacity='0.25'/><text x='40' y='40' fill='var(--ink)'>光源自上而下</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
-        "wp-architectural-lighting-design",
-        "wp-daylighting-architecture"
+        "wp-lighting-front"
       ],
       "needs_verification": true,
-      "pending_notes": "「顶光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "顶光概念单源（第二独立专源不可得）；其余为一般性说明。"
     },
     {
       "id": "color-scheme",
