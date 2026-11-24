@@ -1,18 +1,6 @@
 {
   "sources": [
     {
-      "id": "unesco-suzhou-gardens",
-      "title": "Classical Gardens of Suzhou",
-      "author": "UNESCO World Heritage Centre",
-      "type": "官方机构",
-      "year": null,
-      "url": "https://whc.unesco.org/en/list/813/",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；UNESCO世界遗产名录第813号，页面标题核对；出版年记为null（名录页无单一出版年）",
-      "link_ok": true
-    },
-    {
       "id": "wp-aerial-perspective",
       "title": "Aerial perspective",
       "author": "Wikipedia",
@@ -43,18 +31,6 @@
       "type": "权威百科",
       "year": null,
       "url": "https://en.wikipedia.org/wiki/Ancient_Greek_architecture",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-andrea-palladio",
-      "title": "Andrea Palladio",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Andrea_Palladio",
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
@@ -157,18 +133,6 @@
       "link_ok": true
     },
     {
-      "id": "wp-beaux-arts-architecture",
-      "title": "Beaux-Arts architecture",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Beaux-Arts_architecture",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
       "id": "wp-borrowed-scenery",
       "title": "Borrowed scenery",
       "author": "Wikipedia",
@@ -229,18 +193,6 @@
       "link_ok": true
     },
     {
-      "id": "wp-caravaggio",
-      "title": "Caravaggio",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Caravaggio",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
       "id": "wp-chiaroscuro",
       "title": "Chiaroscuro",
       "author": "Wikipedia",
@@ -295,18 +247,6 @@
       "type": "权威百科",
       "year": null,
       "url": "https://en.wikipedia.org/wiki/Classical_architecture",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-classical-gardens-suzhou",
-      "title": "Classical Gardens of Suzhou",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Classical_Gardens_of_Suzhou",
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
@@ -385,18 +325,6 @@
       "link_ok": true
     },
     {
-      "id": "wp-cross-ventilation",
-      "title": "Cross ventilation",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Cross_ventilation",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
       "id": "wp-curvilinear-perspective",
       "title": "Curvilinear perspective",
       "author": "Wikipedia",
@@ -406,30 +334,6 @@
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-daylighting",
-      "title": "Daylighting",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Daylighting",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-de-architectura",
-      "title": "De architectura",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/De_architectura",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；原典介绍页；来源为百科条目，出版年记为null",
       "link_ok": true
     },
     {
@@ -457,18 +361,6 @@
       "link_ok": true
     },
     {
-      "id": "wp-dong-qichang",
-      "title": "Dong Qichang",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Dong_Qichang",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
       "id": "wp-exit-sign",
       "title": "Exit sign",
       "author": "Wikipedia",
@@ -478,18 +370,6 @@
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；动线与疏散；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-feng-shui",
-      "title": "Feng shui",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Feng_shui",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
       "link_ok": true
     },
     {
@@ -577,18 +457,6 @@
       "link_ok": true
     },
     {
-      "id": "wp-hiroshige",
-      "title": "Hiroshige",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Hiroshige",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
       "id": "wp-history-of-architecture",
       "title": "History of architecture",
       "author": "Wikipedia",
@@ -601,60 +469,12 @@
       "link_ok": true
     },
     {
-      "id": "wp-hokusai",
-      "title": "Hokusai",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Hokusai",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
       "id": "wp-hue",
       "title": "Hue",
       "author": "Wikipedia",
       "type": "权威百科",
       "year": null,
       "url": "https://en.wikipedia.org/wiki/Hue",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-humble-administrators-garden",
-      "title": "Humble Administrator's Garden",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Humble_Administrator%27s_Garden",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-i-m-pei",
-      "title": "I. M. Pei",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/I._M._Pei",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-impressionism",
-      "title": "Impressionism",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Impressionism",
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
@@ -721,18 +541,6 @@
       "link_ok": true
     },
     {
-      "id": "wp-japonisme",
-      "title": "Japonisme",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Japonisme",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
       "id": "wp-korean-architecture",
       "title": "Korean architecture",
       "author": "Wikipedia",
@@ -769,18 +577,6 @@
       "link_ok": true
     },
     {
-      "id": "wp-leading-line",
-      "title": "Leading lines",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Leading_line",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
       "id": "wp-leonardo-da-vinci",
       "title": "Leonardo da Vinci",
       "author": "Wikipedia",
@@ -790,18 +586,6 @@
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-linear-perspective",
-      "title": "Linear perspective",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Linear_perspective",
-      "url2": null,
-      "verified": false,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null；核验失败：HTTP 200；页面标题与预期不符",
       "link_ok": true
     },
     {
@@ -817,60 +601,12 @@
       "link_ok": true
     },
     {
-      "id": "wp-master-of-nets-garden",
-      "title": "Master of the Nets Garden",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Master_of_the_Nets_Garden",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；经API确认正确标题含 the；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-means-of-egress",
-      "title": "Means of egress",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Means_of_egress",
-      "url2": null,
-      "verified": false,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null；核验失败：HTTP 404；页面标题与预期不符",
-      "link_ok": false
-    },
-    {
-      "id": "wp-mies-van-der-rohe",
-      "title": "Ludwig Mies van der Rohe",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
       "id": "wp-modern-architecture",
       "title": "Modern architecture",
       "author": "Wikipedia",
       "type": "权威百科",
       "year": null,
       "url": "https://en.wikipedia.org/wiki/Modern_architecture",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-mogao-caves",
-      "title": "Mogao Caves",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Mogao_Caves",
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
@@ -925,30 +661,6 @@
       "link_ok": true
     },
     {
-      "id": "wp-orientalism",
-      "title": "Orientalism",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Orientalism",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-passive-cooling",
-      "title": "Passive cooling",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Passive_cooling",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
       "id": "wp-passive-solar-building-design",
       "title": "Passive solar building design",
       "author": "Wikipedia",
@@ -967,42 +679,6 @@
       "type": "权威百科",
       "year": null,
       "url": "https://en.wikipedia.org/wiki/Perspective_(graphical)",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-piero-della-francesca",
-      "title": "Piero della Francesca",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Piero_della_Francesca",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-plaza",
-      "title": "Town square",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Plaza",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；URL重定向，Plaza现标题为Town square，已按实际h1核对；来源为百科条目，出版年记为null；2026-11-23 复探 canonical 200",
-      "link_ok": true
-    },
-    {
-      "id": "wp-porch",
-      "title": "Porch",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Porch",
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
@@ -1045,18 +721,6 @@
       "link_ok": true
     },
     {
-      "id": "wp-rembrandt",
-      "title": "Rembrandt",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Rembrandt",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
       "id": "wp-renaissance-architecture",
       "title": "Renaissance architecture",
       "author": "Wikipedia",
@@ -1075,18 +739,6 @@
       "type": "权威百科",
       "year": null,
       "url": "https://en.wikipedia.org/wiki/Reverse_perspective",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-rgb-color-model",
-      "title": "RGB color model",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/RGB_color_model",
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
@@ -1177,18 +829,6 @@
       "link_ok": true
     },
     {
-      "id": "wp-summer-palace",
-      "title": "Summer Palace",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Summer_Palace",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
       "id": "wp-sunken-courtyard",
       "title": "Sunken courtyard",
       "author": "Wikipedia",
@@ -1261,30 +901,6 @@
       "link_ok": true
     },
     {
-      "id": "wp-ukiyo-e",
-      "title": "Ukiyo-e",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Ukiyo-e",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-underground-space",
-      "title": "Underground space",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Underground_space",
-      "url2": null,
-      "verified": false,
-      "note": "访问日期2026-11-22；页面h1核对；若不存在按失败记录；来源为百科条目，出版年记为null；核验失败：HTTP 404；页面标题与预期不符",
-      "link_ok": false
-    },
-    {
       "id": "wp-vanishing-point",
       "title": "Vanishing point",
       "author": "Wikipedia",
@@ -1333,30 +949,6 @@
       "link_ok": true
     },
     {
-      "id": "wp-victorian-architecture",
-      "title": "Victorian architecture",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Victorian_architecture",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-vitruvius",
-      "title": "Vitruvius",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Vitruvius",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
       "id": "wp-wayfinding",
       "title": "Wayfinding",
       "author": "Wikipedia",
@@ -1369,30 +961,6 @@
       "link_ok": true
     },
     {
-      "id": "wp-western-painting",
-      "title": "Western painting",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Western_painting",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-xie-he",
-      "title": "Xie He",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Xie_He",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；六法作者；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
       "id": "wp-yaodong",
       "title": "Yaodong",
       "author": "Wikipedia",
@@ -1402,18 +970,6 @@
       "url2": null,
       "verified": true,
       "note": "访问日期2026-11-22；页面h1核对；下沉/地下空间实例；来源为百科条目，出版年记为null",
-      "link_ok": true
-    },
-    {
-      "id": "wp-yu-garden",
-      "title": "Yu Garden",
-      "author": "Wikipedia",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Yu_Garden",
-      "url2": null,
-      "verified": true,
-      "note": "访问日期2026-11-22；页面h1核对；来源为百科条目，出版年记为null",
       "link_ok": true
     },
     {
@@ -1691,30 +1247,6 @@
       "verified": true,
       "link_ok": true,
       "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；硬质与软质景观分类；百科条目无固定出版年"
-    },
-    {
-      "id": "wp-graphic-design",
-      "title": "Graphic design",
-      "author": "Wikipedia contributors",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Graphic_design",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；环境图形与导视；百科条目无固定出版年"
-    },
-    {
-      "id": "wp-lighting-design",
-      "title": "Lighting design",
-      "author": "Wikipedia contributors",
-      "type": "权威百科",
-      "year": null,
-      "url": "https://en.wikipedia.org/wiki/Lighting_design",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "标题与机构已核对，HTTP 200，访问于 2026-11-22；照明设计上位概念；百科条目无固定出版年"
     },
     {
       "id": "wp-place-attachment",
@@ -2329,42 +1861,6 @@
       "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载体育馆建设与投用信息（转南都）"
     },
     {
-      "id": "iea-pbc-xining",
-      "title": "Retrofit of office lighting, People's Bank of China Xining — IEA SHC Task 61",
-      "author": "IEA SHC",
-      "type": "学术著作",
-      "year": null,
-      "url": "https://ww.iea-shc.org/Data/Sites/1/publications/CN-Peoples-Bank-of-China.pdf",
-      "url2": null,
-      "verified": true,
-      "link_ok": null,
-      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载西宁中支办公楼照明改造，照度475lx、UGR 8–19"
-    },
-    {
-      "id": "elicht-pbc-xining",
-      "title": "中国人民银行西宁中心支行照明改造 — 云知光",
-      "author": "云知光",
-      "type": "官方机构",
-      "year": null,
-      "url": "https://www.elicht.com/view/101733.html",
-      "url2": null,
-      "verified": true,
-      "link_ok": null,
-      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载该办公楼照明改造案例"
-    },
-    {
-      "id": "heuvan-pbc-xining",
-      "title": "中国人民银行西宁中心支行照明案例 — 恒亦明",
-      "author": "恒亦明",
-      "type": "官方机构",
-      "year": null,
-      "url": "http://www.heuvan.com/news_details.aspx?id=54",
-      "url2": null,
-      "verified": true,
-      "link_ok": null,
-      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对正文；记载该办公楼照明案例"
-    },
-    {
       "id": "ytsjk-sysu-drainage",
       "title": "中山大学体育馆排水及管线综合设计分析 — 《给水排水》胡雪利",
       "author": "胡雪利 / 给水排水",
@@ -2711,18 +2207,6 @@
       "verified": true,
       "link_ok": null,
       "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对标题/正文；城市广场定义"
-    },
-    {
-      "id": "pps-successful-place",
-      "title": "What Makes a Successful Place? — Project for Public Spaces",
-      "author": "Wikipedia/机构",
-      "type": "官方机构",
-      "year": null,
-      "url": "https://www.pps.org/article/grplacefeat",
-      "url2": null,
-      "verified": true,
-      "link_ok": null,
-      "note": "访问于 2026-11-22，由核验子任务实抓 HTTP 200 并核对标题/正文；优秀公共空间作为城市客厅"
     },
     {
       "id": "designingbuildings-atrium",
@@ -5725,30 +5209,6 @@
       "note": "访问于 2026-11-23，实抓 HTTP 200；赖特《气泵中的鸟实验》1768，单支烛光投射深沉戏剧性阴影"
     },
     {
-      "id": "ng-rembrandt-self63",
-      "title": "Self Portrait at the Age of 63 — National Gallery",
-      "author": "National Gallery",
-      "type": "官方机构",
-      "year": null,
-      "url": "https://www.nationalgallery.org.uk/paintings/rembrandt-self-portrait-at-the-age-of-63",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "访问于 2026-11-23，实抓 HTTP 200；伦勃朗《63岁自画像》1669，面部受光、背景深影"
-    },
-    {
-      "id": "rijks-milkmaid",
-      "title": "The Milkmaid — Rijksmuseum",
-      "author": "Rijksmuseum",
-      "type": "官方机构",
-      "year": null,
-      "url": "https://www.rijksmuseum.nl/en/collection/SK-A-2344",
-      "url2": null,
-      "verified": true,
-      "link_ok": true,
-      "note": "访问于 2026-11-23，实抓 HTTP 200；维米尔《倒牛奶的女仆》，光以点点色彩落在物体表面"
-    },
-    {
       "id": "wp-contre-jour",
       "title": "Contre-jour",
       "author": "Wikipedia",
@@ -6131,6 +5591,18 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-24，实抓 HTTP 200；防潮指对墙与地面施加的湿度控制，防上升潮/渗透潮（薄膜、表面涂层等）"
+    },
+    {
+      "id": "db-glare",
+      "title": "Glare in buildings — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Glare",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；眩光：光线过亮或与周围对比过强时产生的不适"
     }
   ]
 }

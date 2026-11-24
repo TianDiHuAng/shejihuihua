@@ -139,3 +139,4 @@
 - 第 97 轮：earth-sheltered(去单源保温claim)、exit-sign(概念双源、去无源年代claim+修time_or_place)升级；258 条全 L2，来源 509，待核实 159
 - 第 98 轮：light-well 补 db-light-well 第二平台(天井引天然光)、去单源热压claim、类型性实例，升级；258 条全 L2，来源 510，待核实 158
 - 第 99 轮：damp-proofing 补 db-damp-proofing 第二平台(湿度控制/薄膜)、类型性实例、措辞收窄双源化，升级；258 条全 L2，来源 511，待核实 157
+- 第 100 轮：glare 补 db-glare 第二平台、def/原理去重、类型性实例升级；清理全库 45 个孤儿来源(512→467)；258 条全 L2，待核实 156
