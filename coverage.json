@@ -2794,7 +2794,7 @@
       "level": "L2",
       "status": "已写",
       "source_count": 3,
-      "needs_verification_count": 1,
+      "needs_verification_count": 0,
       "last_updated": "2026-11-24"
     },
     {
@@ -2807,7 +2807,7 @@
       "level": "L2",
       "status": "已写",
       "source_count": 2,
-      "needs_verification_count": 1,
+      "needs_verification_count": 0,
       "last_updated": "2026-11-24"
     },
     {

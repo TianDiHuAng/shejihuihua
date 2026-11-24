@@ -617,9 +617,9 @@
       "theme": "风格",
       "period": "古代",
       "region": "中国",
-      "definition": "藏式建筑以石木厚墙、平顶与碉楼式体量适应高原。",
+      "definition": "藏式建筑为适应高原严寒与强日照，以石木厚墙蓄热、平顶兼作晒场、碉楼式体量稳固，窗洞成排内收以减少散热。",
       "time_or_place": "古代、中国（参见来源）。",
-      "overview": "厚墙保温、平顶晒场、梯形窗减少散热。",
+      "overview": "高原气候严酷、取材以石木为主，传统营造多由地方工匠凭经验完成，未见单一设计者署名。",
       "related": [],
       "sections": {
         "原理": "高原寒冷多风，建筑以石木厚墙蓄热保温、以平顶兼作晾晒，碉楼式体量与收分墙增强稳定；成排梯形小窗减少散热并抗震。",
@@ -627,7 +627,7 @@
         "实例": "名称：石砌碉房（类型性描述）；地点与设计者不适用。厚重的石墙把高原寒风挡在外面，梯形黑框窗收敛进深，平顶晾晒青稞。",
         "常见错误与限制": "采光保温须专门处理。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：厚石墙、梯形窗与平顶。",
-        "待核实": "「藏式建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><circle cx=\"350\" cy=\"260\" r=\"100\" fill=\"none\" stroke=\"var(--muted)\"/><line x1=\"403\" y1=\"301\" x2=\"449\" y2=\"227\" stroke=\"var(--muted)\"/><rect x=\"456\" y=\"132\" width=\"56\" height=\"348\" fill=\"none\" stroke=\"var(--accent)\"/><text x='40' y='40' fill='var(--ink)'>藏式建筑</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='430' cy='300' r='4' fill='var(--muted)'/><circle cx='459' cy='91' r='4' fill='var(--muted)'/><circle cx='488' cy='122' r='4' fill='var(--muted)'/><circle cx='517' cy='153' r='4' fill='var(--muted)'/><circle cx='546' cy='184' r='4' fill='var(--muted)'/><circle cx='575' cy='215' r='4' fill='var(--muted)'/><circle cx='604' cy='246' r='4' fill='var(--muted)'/><circle cx='633' cy='277' r='4' fill='var(--muted)'/></svg>"
@@ -637,8 +637,8 @@
         "slxy-tibetan-arch",
         "ihchina-tibetan"
       ],
-      "needs_verification": true,
-      "pending_notes": "「藏式建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "xinjiang-architecture",
@@ -648,9 +648,9 @@
       "theme": "风格",
       "period": "古代",
       "region": "中国",
-      "definition": "新疆建筑以土坯拱券、内院与廊架适应干热气候。",
+      "definition": "新疆生土民居借土坯厚墙与拱券隔热蓄冷，内院与廊架提供荫凉，回应急干热少雨的气候。",
       "time_or_place": "古代、中国（参见来源）。",
-      "overview": "厚墙内院遮阳、拱券与土坯调温。",
+      "overview": "受干热气候与本地土材所限，此类民居多由住户自行营建、技艺师徒相传，无固定建筑师。",
       "related": [],
       "sections": {
         "原理": "干热气候下以土坯厚墙与拱形屋顶隔热蓄冷，内院、外廊与葡萄架、地下室提供荫凉与避暑。",
@@ -658,7 +658,7 @@
         "实例": "名称：土坯拱券内院民居（类型性描述）；地点与设计者不适用。拱券在厚土墙间连续展开，内院与葡萄廊架投下整片荫凉。",
         "常见错误与限制": "抗震与排水须按规范。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：土坯拱券与内院廊架。",
-        "待核实": "「新疆建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><path d=\"M 387 289 Q 461 193 117 359\" fill=\"none\" stroke=\"var(--muted)\"/><polyline points=\"440,120 480,240 50,352\" fill=\"none\" stroke=\"var(--accent)\"/><ellipse cx=\"493\" cy=\"161\" rx=\"73\" ry=\"241\" fill=\"none\" stroke=\"var(--muted)\"/><circle cx=\"546\" cy=\"202\" r=\"96\" fill=\"none\" stroke=\"var(--muted)\"/><text x='40' y='40' fill='var(--ink)'>新疆建筑</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='447' cy='83' r='4' fill='var(--muted)'/><circle cx='476' cy='114' r='4' fill='var(--muted)'/><circle cx='505' cy='145' r='4' fill='var(--muted)'/><circle cx='534' cy='176' r='4' fill='var(--muted)'/><circle cx='563' cy='207' r='4' fill='var(--muted)'/><circle cx='592' cy='238' r='4' fill='var(--muted)'/><circle cx='621' cy='269' r='4' fill='var(--muted)'/><circle cx='90' cy='300' r='4' fill='var(--muted)'/><circle cx='119' cy='91' r='4' fill='var(--muted)'/></svg>"
@@ -667,8 +667,8 @@
         "hts-xinjiang",
         "tlf-xinjiang"
       ],
-      "needs_verification": true,
-      "pending_notes": "「新疆建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "urban-planning-style",

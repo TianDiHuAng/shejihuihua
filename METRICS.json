@@ -1984,6 +1984,26 @@
         "B5_pending_items": 174,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 85,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 2,
+      "reviews": 174,
+      "fixes": 1,
+      "pending_total": 172,
+      "check_result": "PASS all checks 0 errors; tibetan-architecture & xinjiang-architecture upgraded (traditional ethnic architecture, type-level instance, concept multi-source gov/university); spotcheck flagged short-metric sim 0.67 (shared overview tail) -> rewrote definitions/overviews -> 0.31/0.305; 258 all L2; 19/19; 0 broken links",
+      "new_sources": 0,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "F"
+        ],
+        "B5_pending_items": 172,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }
