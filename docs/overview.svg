@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 700" width="960" height="700" font-family="Segoe UI,Microsoft YaHei,sans-serif">
+<rect width="100%" height="100%" fill="#faf7f2"/>
+<text x="40" y="54" font-size="26" font-weight="700" fill="#2b2118">绘画理论与建筑空间设计 · 知识库概览</text>
+<text x="40" y="80" font-size="13" fill="#7a6a58">数据来自 entries/*.json 与 data/sources.json · 258 条全部为 L2</text>
+<rect x="40" y="104" width="205" height="84" rx="10" fill="#fff" stroke="#e6dccb"/>
+<text x="58" y="150" font-size="34" font-weight="700" fill="#8c5a2b">258</text>
+<text x="58" y="172" font-size="13" fill="#7a6a58">范围/已写条目</text>
+<rect x="265" y="104" width="205" height="84" rx="10" fill="#fff" stroke="#e6dccb"/>
+<text x="283" y="150" font-size="34" font-weight="700" fill="#3e6b5a">500</text>
+<text x="283" y="172" font-size="13" fill="#7a6a58">来源总数</text>
+<rect x="490" y="104" width="205" height="84" rx="10" fill="#fff" stroke="#e6dccb"/>
+<text x="508" y="150" font-size="34" font-weight="700" fill="#2f5d8a">499</text>
+<text x="508" y="172" font-size="13" fill="#7a6a58">已核验来源</text>
+<rect x="715" y="104" width="205" height="84" rx="10" fill="#fff" stroke="#e6dccb"/>
+<text x="733" y="150" font-size="34" font-weight="700" fill="#b0562f">137</text>
+<text x="733" y="172" font-size="13" fill="#7a6a58">待核实条目</text>
+<text x="40" y="226" font-size="16" font-weight="600" fill="#2b2118">按主题</text>
+<text x="40" y="256" font-size="13" fill="#4a3b2c">理论</text>
+<rect x="150" y="242" width="250" height="18" rx="4" fill="#8c5a2b" opacity="0.85"/>
+<text x="408" y="256" font-size="12" fill="#7a6a58">128</text>
+<text x="40" y="286" font-size="13" fill="#4a3b2c">风格</text>
+<rect x="150" y="272" width="128" height="18" rx="4" fill="#8c5a2b" opacity="0.85"/>
+<text x="286" y="286" font-size="12" fill="#7a6a58">66</text>
+<text x="40" y="316" font-size="13" fill="#4a3b2c">造景</text>
+<rect x="150" y="302" width="37" height="18" rx="4" fill="#8c5a2b" opacity="0.85"/>
+<text x="195" y="316" font-size="12" fill="#7a6a58">19</text>
+<text x="40" y="346" font-size="13" fill="#4a3b2c">材料</text>
+<rect x="150" y="332" width="37" height="18" rx="4" fill="#8c5a2b" opacity="0.85"/>
+<text x="195" y="346" font-size="12" fill="#7a6a58">19</text>
+<text x="40" y="376" font-size="13" fill="#4a3b2c">动线</text>
+<rect x="150" y="362" width="25" height="18" rx="4" fill="#8c5a2b" opacity="0.85"/>
+<text x="183" y="376" font-size="12" fill="#7a6a58">13</text>
+<text x="40" y="406" font-size="13" fill="#4a3b2c">下沉空间</text>
+<rect x="150" y="392" width="25" height="18" rx="4" fill="#8c5a2b" opacity="0.85"/>
+<text x="183" y="406" font-size="12" fill="#7a6a58">13</text>
+<text x="500" y="226" font-size="16" font-weight="600" fill="#2b2118">按时期</text>
+<text x="500" y="256" font-size="13" fill="#4a3b2c">跨时期</text>
+<rect x="610" y="242" width="250" height="18" rx="4" fill="#3e6b5a" opacity="0.85"/>
+<text x="868" y="256" font-size="12" fill="#7a6a58">101</text>
+<text x="500" y="286" font-size="13" fill="#4a3b2c">20世纪</text>
+<rect x="610" y="272" width="143" height="18" rx="4" fill="#3e6b5a" opacity="0.85"/>
+<text x="761" y="286" font-size="12" fill="#7a6a58">58</text>
+<text x="500" y="316" font-size="13" fill="#4a3b2c">古代</text>
+<rect x="610" y="302" width="133" height="18" rx="4" fill="#3e6b5a" opacity="0.85"/>
+<text x="751" y="316" font-size="12" fill="#7a6a58">54</text>
+<text x="500" y="346" font-size="13" fill="#4a3b2c">文艺复兴至19世纪</text>
+<rect x="610" y="332" width="84" height="18" rx="4" fill="#3e6b5a" opacity="0.85"/>
+<text x="702" y="346" font-size="12" fill="#7a6a58">34</text>
+<text x="500" y="376" font-size="13" fill="#4a3b2c">当代</text>
+<rect x="610" y="362" width="14" height="18" rx="4" fill="#3e6b5a" opacity="0.85"/>
+<text x="632" y="376" font-size="12" fill="#7a6a58">6</text>
+<text x="500" y="406" font-size="13" fill="#4a3b2c">中世纪</text>
+<rect x="610" y="392" width="12" height="18" rx="4" fill="#3e6b5a" opacity="0.85"/>
+<text x="630" y="406" font-size="12" fill="#7a6a58">5</text>
+<text x="40" y="446" font-size="16" font-weight="600" fill="#2b2118">按地区</text>
+<text x="40" y="476" font-size="13" fill="#4a3b2c">全球</text>
+<rect x="150" y="462" width="250" height="18" rx="4" fill="#2f5d8a" opacity="0.85"/>
+<text x="408" y="476" font-size="12" fill="#7a6a58">151</text>
+<text x="40" y="506" font-size="13" fill="#4a3b2c">中国</text>
+<rect x="150" y="492" width="79" height="18" rx="4" fill="#2f5d8a" opacity="0.85"/>
+<text x="237" y="506" font-size="12" fill="#7a6a58">48</text>
+<text x="40" y="536" font-size="13" fill="#4a3b2c">欧洲</text>
+<rect x="150" y="522" width="72" height="18" rx="4" fill="#2f5d8a" opacity="0.85"/>
+<text x="230" y="536" font-size="12" fill="#7a6a58">44</text>
+<text x="40" y="566" font-size="13" fill="#4a3b2c">伊斯兰/南亚</text>
+<rect x="150" y="552" width="9" height="18" rx="4" fill="#2f5d8a" opacity="0.85"/>
+<text x="167" y="566" font-size="12" fill="#7a6a58">6</text>
+<text x="40" y="596" font-size="13" fill="#4a3b2c">东亚</text>
+<rect x="150" y="582" width="8" height="18" rx="4" fill="#2f5d8a" opacity="0.85"/>
+<text x="166" y="596" font-size="12" fill="#7a6a58">5</text>
+<text x="40" y="626" font-size="13" fill="#4a3b2c">美洲</text>
+<rect x="150" y="612" width="6" height="18" rx="4" fill="#2f5d8a" opacity="0.85"/>
+<text x="164" y="626" font-size="12" fill="#7a6a58">4</text>
+<text x="500" y="446" font-size="16" font-weight="600" fill="#2b2118">按重要度</text>
+<text x="500" y="476" font-size="13" fill="#4a3b2c">重要</text>
+<rect x="610" y="462" width="250" height="18" rx="4" fill="#b0562f" opacity="0.85"/>
+<text x="868" y="476" font-size="12" fill="#7a6a58">153</text>
+<text x="500" y="506" font-size="13" fill="#4a3b2c">补充</text>
+<rect x="610" y="492" width="89" height="18" rx="4" fill="#b0562f" opacity="0.85"/>
+<text x="707" y="506" font-size="12" fill="#7a6a58">55</text>
+<text x="500" y="536" font-size="13" fill="#4a3b2c">核心</text>
+<rect x="610" y="522" width="81" height="18" rx="4" fill="#b0562f" opacity="0.85"/>
+<text x="699" y="536" font-size="12" fill="#7a6a58">50</text>
+<text x="40" y="684" font-size="12" fill="#9a8a76">图示由 tools 数据统计自动生成；示意图，非施工图。</text>
+</svg>
