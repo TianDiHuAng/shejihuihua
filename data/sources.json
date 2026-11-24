@@ -6119,6 +6119,18 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-24，实抓 HTTP 200；天井/采光井：把天然光引入建筑内部空间"
+    },
+    {
+      "id": "db-damp-proofing",
+      "title": "Damp proofing buildings — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Damp_proofing",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；防潮指对墙与地面施加的湿度控制，防上升潮/渗透潮（薄膜、表面涂层等）"
     }
   ]
 }
