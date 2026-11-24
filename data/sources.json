@@ -5807,6 +5807,18 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-24，实抓 HTTP 200；园林/公园亭榭：可开放、供遮荫休憩与装饰性点景的建筑"
+    },
+    {
+      "id": "artincontext-golden-ratio",
+      "title": "Golden Ratio in Art — Art in Context",
+      "author": "Art in Context",
+      "type": "艺术教育",
+      "year": null,
+      "url": "https://artincontext.org/golden-ratio/",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；黄金比=1:1.618（Phi），用于画面比例与和谐"
     }
   ]
 }
