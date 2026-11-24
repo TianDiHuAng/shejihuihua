@@ -112,17 +112,18 @@
         "实例": "名称：岩石圆顶（Dome of the Rock）与大马士革大清真寺（Great Mosque of Damascus）；地点：耶路撒冷、大马士革；设计者：哈里发阿卜杜勒·马利克、瓦利德一世主持；年份：岩石圆顶约 691 年、大马士革清真寺约 705 年。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "柱廊过密会影响视线；需结构协调。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：方形柱廊与穹顶。",
-        "待核实": "“方形平面＋柱廊”形制主要依据单一权威来源（第二源对形制覆盖较薄），待补；具体年代细节亦待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='150' width='480' height='160' fill='none' stroke='var(--accent)'/><circle cx='380' cy='150' r='56' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='180' y1='230' x2='580' y2='230' stroke='var(--muted)'/><text x='40' y='40' fill='var(--ink)'>早期伊斯兰建筑</text><text x='300' y='385' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-umayyad-architecture",
-        "artincontext-islamic-art"
+        "artincontext-islamic-art",
+        "artincontext-islamic-architecture"
       ],
-      "needs_verification": true,
-      "pending_notes": "方形平面/柱廊形制单源（第二源较薄），待补第二独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     }
   ]
 }
