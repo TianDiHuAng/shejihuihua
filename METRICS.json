@@ -2504,6 +2504,31 @@
         "B5_pending_items": 139,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 111,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 139,
+      "fixes": 0,
+      "pending_total": 139,
+      "check_result": "PASS all checks 0 errors; B1 no new gaps (10 unused syllabi); B6 no dynamics; health broken=0/dead=1/dup=0/orphan=0; gap empty=0/sparse=0/dangling=0/core_l1=0; 258 all L2; sources 484; 19/19; 0 broken links",
+      "new_sources": 0,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B1",
+          "B5",
+          "B6",
+          "F"
+        ],
+        "B1_new_candidates": 0,
+        "B2_sparse_cells": 0,
+        "B5_pending_items": 139,
+        "B6_new_dynamics": 0,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }
