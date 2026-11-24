@@ -126,3 +126,4 @@
 - 第 84 轮：vernacular-architecture(乡土建筑)补 DB+Art in Context 概念三源、类型性实例、升级；258 条全 L2，来源 506，待核实 174
 - 第 85 轮：tibetan-architecture/xinjiang-architecture 传统民族建筑类型性实例升级；抽检发现两条 overview 雷同(短口径0.67)→重写差异化至0.31；258 条全 L2，来源 506，待核实 172
 - 第 86 轮：rock-garden/time-scenery 升级；系统修复 27 处 SVG 严格越界(钳制入760x400)→全库严格越界=0；258 条全 L2，来源 506，待核实 170
+- 第 87 轮：leaked-scenery 升级(去无关源)；opposed-scenery/korean-architecture 经抽检判概念单源/超源→回退待核实并修正措辞；258 条全 L2，来源 506，待核实 169

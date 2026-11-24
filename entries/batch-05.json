@@ -10,30 +10,29 @@
       "theme": "造景",
       "period": "古代",
       "region": "中国",
-      "definition": "漏景是通过缝隙或稀疏遮挡让景物片段显现的造景手法。",
+      "definition": "漏景是借漏窗、花墙或稀疏枝叶让景物片段若隐若现的造园手法。",
       "time_or_place": "古代中国（参见来源）。",
-      "overview": "与一次性揭示不同，漏景让景物在移动中被断续看到，形成节奏。",
+      "overview": "漏景不一次揭示全貌，而让景物随步移时断时续地显现，形成含蓄节奏；此类手法为传统经验、无单一设计者。",
       "related": [
         "added-scenery"
       ],
       "sections": {
         "原理": "视线通过花墙、枝隙或格栅被切分，景物以片段形式进入感知，激发补完联想。",
         "典型手法与适用条件": "在游线旁设置透空隔断或疏植，适用于希望保持空间连续但又避免一览无余的路径。",
-        "实例": "名称：苏州古典园林漏窗；地点：中国苏州；设计者：待核实；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "实例": "名称：古典园林的漏窗漏景（类型性，传统造园无单一设计者）；地点：中国江南古典园林。透过漏窗花纹隐约得见园景。此处仅列说明，不复制图像。",
         "常见错误与限制": "缝隙过密会造成视觉噪声；遮挡构件应兼顾结构与通行安全。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：园内视线经洞口片段望向园外景物。",
-        "待核实": "漏景术语与机制已有专门来源；具体实例的设计者与年代待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='60' y='90' width='240' height='220' fill='none' stroke='var(--accent)'/><rect x='330' y='130' width='24' height='180' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='460' cy='210' r='70' fill='none' stroke='var(--muted)'/><line x1='170' y1='210' x2='455' y2='210' stroke='var(--accent)' stroke-width='2'/><text x='90' y='75' fill='var(--ink)'>园内</text><text x='415' y='130' fill='var(--ink)'>园外景物</text><text x='320' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-chinese-garden",
-        "wp-garden-design",
         "peopleapp-zaoyuan-2"
       ],
-      "needs_verification": true,
-      "pending_notes": "漏景具体实例的设计者与年代待核实。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "huizhou-style",
