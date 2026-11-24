@@ -2304,6 +2304,26 @@
         "B5_pending_items": 156,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 101,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 2,
+      "reviews": 156,
+      "fixes": 1,
+      "pending_total": 154,
+      "check_result": "PASS all checks 0 errors; skylight & stack-ventilation upgraded (db-skylight/db-stack-ventilation second platform, type-level instances); skylight \"uniform\" softened + def/principle dedup (0.42->0.27) + punctuation; spotcheck 2/2 qualified; sources 469; 258 all L2; 19/19; 0 broken links",
+      "new_sources": 2,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "F"
+        ],
+        "B5_pending_items": 154,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }
