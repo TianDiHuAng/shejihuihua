@@ -136,3 +136,4 @@
 - 第 94 轮：three-point-perspective 试升被抽检判 wp-quaglio 为 NDB 译本(同源)→回退待核实并注断代；258 条全 L2，来源 509，待核实 163（无净变）
 - 第 95 轮：parametric-architecture 补盖达尔·阿利耶夫中心实例(ArchDaily+TheArtStory 双独立出版方)，升级；258 条全 L2，来源 509，待核实 162
 - 第 96 轮：atrium-architecture 重定义为"贯通多层+天窗采光"(双源核心)、移除单源通风机理，升级；258 条全 L2，来源 509，待核实 161
+- 第 97 轮：earth-sheltered(去单源保温claim)、exit-sign(概念双源、去无源年代claim+修time_or_place)升级；258 条全 L2，来源 509，待核实 159

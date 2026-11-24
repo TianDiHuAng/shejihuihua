@@ -1570,6 +1570,19 @@
         "pending_items": 161
       },
       "note": "atrium-architecture upgraded, ventilation claim removed"
+    },
+    {
+      "round": 97,
+      "date": "2026-11-24",
+      "zero_gap": false,
+      "methods_used": [
+        "B5",
+        "F"
+      ],
+      "new_gaps": {
+        "pending_items": 159
+      },
+      "note": "earth-sheltered & exit-sign upgraded (stale pending removed)"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true",
