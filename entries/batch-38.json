@@ -136,27 +136,29 @@
       "theme": "风格",
       "period": "文艺复兴至19世纪",
       "region": "欧洲",
-      "definition": "浪漫主义建筑偏爱如画轮廓与异域联想，借历史与自然唤起情感。",
+      "definition": "浪漫主义建筑偏爱如画轮廓与历史联想，借哥特等历史母题与自然唤起情感。",
       "time_or_place": "18–19世纪、欧洲（参见来源）。",
       "overview": "它反叛新古典的冷静秩序，追求不规则、戏剧化的轮廓。",
       "related": [],
       "sections": {
         "原理": "浪漫主义以情感、想象与自然崇高对抗新古典的理性秩序，哥特复兴与如画趣味是其建筑表现。",
         "典型手法与适用条件": "以哥特母题、如画轮廓与不规则体量唤起历史与自然联想。",
-        "实例": "名称：如画的哥特式宅邸（类型性描述）；地点与设计者不适用。看轮廓的高低错落。",
+        "实例": "名称：新天鹅堡（Neuschwanstein Castle）；地点：德国巴伐利亚；委托者：巴伐利亚国王路德维希二世（Ludwig II）；年份：1869 年动工。被视为“城堡浪漫主义”的典型。此处仅列名称、地点、委托者与年份信息，不复制图像。",
         "常见错误与限制": "拼贴失当会杂乱。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：不规则如画轮廓。",
-        "待核实": "「浪漫主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><circle cx=\"258\" cy=\"216\" r=\"98\" fill=\"none\" stroke=\"var(--muted)\"/><line x1=\"311\" y1=\"257\" x2=\"333\" y2=\"209\" stroke=\"var(--muted)\"/><rect x=\"364\" y=\"298\" width=\"54\" height=\"102\" fill=\"none\" stroke=\"var(--accent)\"/><path d=\"M 417 129 Q 371 113 77 315\" fill=\"none\" stroke=\"var(--muted)\"/><polyline points=\"470,170 390,160 100,378\" fill=\"none\" stroke=\"var(--accent)\"/><text x='40' y='40' fill='var(--ink)'>浪漫主义建筑</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='158' cy='172' r='4' fill='var(--muted)'/><circle cx='187' cy='203' r='4' fill='var(--muted)'/><circle cx='216' cy='234' r='4' fill='var(--muted)'/><circle cx='245' cy='265' r='4' fill='var(--muted)'/><circle cx='274' cy='296' r='4' fill='var(--muted)'/></svg>"
       ],
       "sources": [
         "henryford-gothic-revival",
-        "libretexts-romanticism"
+        "libretexts-romanticism",
+        "wp-neuschwanstein",
+        "db-neuschwanstein"
       ],
-      "needs_verification": true,
-      "pending_notes": "「浪漫主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "futurism-style",

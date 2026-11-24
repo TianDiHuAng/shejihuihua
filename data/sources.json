@@ -6083,6 +6083,30 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-24，实抓 HTTP 200；广场定义：连接街道网络的公共开敞空间，可从建筑前庭到城市大广场，由建筑围合"
+    },
+    {
+      "id": "wp-neuschwanstein",
+      "title": "Neuschwanstein Castle — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Neuschwanstein_Castle",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；新天鹅堡：城堡浪漫主义，路德维希二世，1869 动工（经镜像核验）"
+    },
+    {
+      "id": "db-neuschwanstein",
+      "title": "Neuschwanstein Castle — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Neuschwanstein_Castle",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；新天鹅堡：浪漫主义典范，路德维希二世 1869 起建"
     }
   ]
 }
