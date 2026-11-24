@@ -23,17 +23,16 @@
         "实例": "名称：佛罗伦萨美术学院（Accademia delle Arti del Disegno）；地点：意大利佛罗伦萨；创立：科西莫一世·德·美第奇赞助、乔治·瓦萨里参与（1563 年）；年份：1563 年。欧洲最早的美术学院之一，奠定学院派体系与题材等级。此处仅列名称、地点、作者与年份信息，不复制图像。",
         "常见错误与限制": "过度规范会压抑个性与创新；题材等级观念带有时代偏见。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：学院规范与素描训练。",
-        "待核实": "1563 佛罗伦萨首创美术学院等核心史实由 Wikipedia 单源直证（artincontext 第二源现 HTTP 404 待复）；具体创始人与年代细节待补第二独立源。"
+        "待核实": "“1563 佛罗伦萨首创美术学院”等核心史实现仅 Wikipedia 单源直证；原第二源 Art in Context 页面 HTTP 404 已移出来源库，待补第二独立来源。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='120' width='520' height='200' fill='none' stroke='var(--accent)'/><line x1='200' y1='160' x2='560' y2='160' stroke='var(--muted)'/><line x1='200' y1='200' x2='560' y2='200' stroke='var(--muted)'/><line x1='200' y1='240' x2='560' y2='240' stroke='var(--muted)'/><text x='250' y='90' fill='var(--ink)'>素描、比例与题材等级的学院规范</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
-        "wp-academic-art",
-        "artincontext-academic"
+        "wp-academic-art"
       ],
       "needs_verification": true,
-      "pending_notes": "核心史实单源（第二源 404 待复）；创始人/年代待补。"
+      "pending_notes": "核心史实现单源（Wikipedia）；原第二源失效已移除。"
     },
     {
       "id": "classical-order",

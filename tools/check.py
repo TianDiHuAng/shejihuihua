@@ -129,6 +129,21 @@ def validate_sources(root: Path) -> tuple[list[str], dict]:
                 errors.append(f"来源 {sid} verified=true 但 URL 非法")
             if not str(src.get("note", "")).strip():
                 errors.append(f"来源 {sid} verified=true 但缺少核验说明")
+            if src.get("link_ok") is False:
+                errors.append(f"来源 {sid} verified=true 但 link_ok=false（死链不得标已核验）")
+    # URL 唯一性：同 URL 多登记须在 note 中显式披露"[B4]"，否则视为重复来源
+    from urllib.parse import urlsplit
+    by_url = {}
+    for src in data["sources"]:
+        url = str(src.get("url", "") or "").strip()
+        if not url:
+            continue
+        parts = urlsplit(url)
+        key = (parts.netloc, parts.path, parts.query)
+        by_url.setdefault(key, []).append(src)
+    for (netloc, path, query), group in by_url.items():
+        if len(group) > 1 and not all("[B4]" in str(s.get("note", "")) for s in group):
+            errors.append(f"重复 URL（未披露 [B4]）: {netloc}{path}?{query} -> {[s['id'] for s in group]}")
     return errors, sources
 
 

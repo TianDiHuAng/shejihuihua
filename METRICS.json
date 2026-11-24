@@ -2568,6 +2568,26 @@
         "B5_pending_items": 138
       },
       "phase": "继续完成项目"
+    },
+    {
+      "round": 114,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 258,
+      "fixes": 4,
+      "pending_total": 138,
+      "check_result": "PASS all checks 0 errors; B4 found 4 source inconsistencies (merged vangogh-colours->vgm-colours; artincontext-academic verified=false+removed from entry; louvre/tudelft duplicate URLs harmonized with [B4] disclosure); check.py added 2 source rules + 4 unit tests (23/23); 258 all L2; sources 483; 0 broken links",
+      "new_sources": 0,
+      "gaps": {
+        "methods_used": [
+          "B4",
+          "B5",
+          "F"
+        ],
+        "B5_pending_items": 138
+      },
+      "phase": "继续完成项目"
     }
   ]
 }

@@ -1795,6 +1795,21 @@
         "pending_items": 138
       },
       "note": "timeline added; L3 pilot reverted; SATURATION reconciled"
+    },
+    {
+      "round": 114,
+      "date": "2026-11-24",
+      "zero_gap": false,
+      "methods_used": [
+        "B4",
+        "B5",
+        "F"
+      ],
+      "new_gaps": {
+        "pending_items": 138,
+        "source_inconsistencies": 4
+      },
+      "note": "B4 fixed 4 source inconsistencies; check.py hardened"
     }
   ],
   "definition": "当连续 3 轮缺口发现零缺口、且所有重要条目达到 L2，可置 SATURATED=true；当前仍有 138 条诚实边界待核实，故为 false。",

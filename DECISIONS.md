@@ -35,3 +35,8 @@
 
 ## D19 SATURATION 状态校正
 - 复核发现 `SATURATION.json` 顶层 `SATURATED=true` 与实测（待核实 138>0、仍有诚实边界未清）矛盾，且为上一目标期结束时的残值。已校正为 `false`、`consecutive_zero_gap_rounds=0`，避免误导为“项目完全无缺口”。
+
+## D20 B4 跨页一致性修复与来源校验加固
+- B4 核验发现 4 处：`vangogh-colours` 与 `vgm-colours` 同 URL 且元数据全同 → 合并（引用改指 vgm-colours）；`artincontext-academic` verified=true 但 HTTP 404 → verified=false，并从 academic-art-theory 移除引用（该条仍 nv=true，单源披露）；`louvre-monalisa`/`louvre-explore-mona` 与 `tudelft-figure-ground`/`tudelft-hierarchy` 两组同 URL 但服务不同条目 → 保留双登记、统一 link_ok、note 显式 `[B4]` 披露同页关系。
+- tools/check.py 新增两条来源规则：verified=true 禁止 link_ok=false；同 URL（含 query）多登记必须在 note 含 `[B4]`。配套 tests/test_source_consistency.py 4 项测试（终态 23/23）。
+- 依据：AUTONOMOUS.md 第三节 B4「全站数据互相矛盾」、质量闸优先；可逆：撤销 sources.json 合并与 check.py 两规则即可。
