@@ -1425,8 +1425,8 @@
       "url": "https://en.wikipedia.org/wiki/Urban_design",
       "url2": null,
       "verified": true,
-      "link_ok": null,
-      "note": "访问于 2026-11-22，经 Wikipedia 镜像 owiki.org 实抓核对标题与首句定义 + web_search 佐证条目存在；canonical en.wikipedia.org 直连因网络限制待复；城市设计与公共空间；百科条目无固定出版年"
+      "link_ok": true,
+      "note": "访问于 2026-11-22，经 Wikipedia 镜像 owiki.org 实抓核对标题与首句定义 + web_search 佐证条目存在；canonical en.wikipedia.org 直连因网络限制待复；城市设计与公共空间；百科条目无固定出版年；2026-11-24 复抓 HTTP 200 并核对正文"
     },
     {
       "id": "wp-a-pattern-language",
@@ -1485,8 +1485,8 @@
       "url": "https://en.wikipedia.org/wiki/Urban_morphology",
       "url2": null,
       "verified": true,
-      "link_ok": null,
-      "note": "访问于 2026-11-22，经 Wikipedia 镜像 owiki.org 实抓核对标题与首句定义 + web_search 佐证条目存在；canonical en.wikipedia.org 直连因网络限制待复；城市形态学；百科条目无固定出版年"
+      "link_ok": true,
+      "note": "访问于 2026-11-22，经 Wikipedia 镜像 owiki.org 实抓核对标题与首句定义 + web_search 佐证条目存在；canonical en.wikipedia.org 直连因网络限制待复；城市形态学；百科条目无固定出版年；2026-11-24 复抓 HTTP 200 并核对正文"
     },
     {
       "id": "stiftung-bauhaus-dessau",
@@ -5819,6 +5819,186 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-24，实抓 HTTP 200；黄金比=1:1.618（Phi），用于画面比例与和谐"
+    },
+    {
+      "id": "wp-humble-admin-garden",
+      "title": "Humble Administrator's Garden — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Humble_Administrator%27s_Garden",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200 并核对正文；明代园林、王献臣、联合国教科文组织1997年列入苏州古典园林"
+    },
+    {
+      "id": "wp-architecture-of-brazil",
+      "title": "Architecture of Brazil — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_Brazil",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200 并核对正文；Niemeyer 1941年起以贝洛奥里藏特潘普利亚建筑群开启独立执业，曾在 Lúcio Costa 处工作；巴西利亚黎明宫"
+    },
+    {
+      "id": "wp-architecture-of-mexico",
+      "title": "Architecture of Mexico — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_Mexico",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200 并核对正文；O'Gorman 为 Rivera 与 Kahlo 设计的圣天使工作室（1931–32）；UNAM 大学城1950年起建；Candela、Barragán"
+    },
+    {
+      "id": "wp-futurist-architecture",
+      "title": "Futurist architecture — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Futurist_architecture",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200 并核对正文；20世纪初意大利建筑风格，以长而动感的线条暗示速度；Marinetti 1909年发表《未来主义宣言》；图注 Sant'Elia《新城市》透视图1914"
+    },
+    {
+      "id": "wp-expressionist-architecture",
+      "title": "Expressionist architecture — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Expressionist_architecture",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200 并核对正文；图注：爱因斯坦塔（波茨坦，1919–1922，Mendelsohn）；歌德馆（Dornach，1924–28，Steiner）；Taut 玻璃展亭（科隆德意志制造联盟展，1914）"
+    },
+    {
+      "id": "wp-structuralism-architecture",
+      "title": "Structuralism (architecture) — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Structuralism_(architecture)",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200 并核对正文；图注：阿姆斯特丹孤儿院（van Eyck，1960）；Apeldoorn Centraal Beheer 办公楼（Hertzberger，1972）；van Eyck 1959年提出“数的美学”"
+    },
+    {
+      "id": "wp-qiao-family-compound",
+      "title": "Qiao Family Compound — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Qiao_Family_Compound",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200 并核对正文；山西祁县乔家大院，位于平遥东北约30公里；1756年（乾隆朝）始建，18世纪内建成；占地9000平方米、313间房；《大红灯笼高高挂》主要取景地"
+    },
+    {
+      "id": "wp-pingyao",
+      "title": "Pingyao — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Pingyao",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200 并核对正文；平遥古城，山西；城墙建于1370年（洪武三年）；1997年列入世界遗产；保存明清城市格局"
+    },
+    {
+      "id": "wp-architecture-of-africa",
+      "title": "Architecture of Africa — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_Africa",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200 并核对正文；列举杰内大清真寺（马里）、廷巴克图桑科雷清真寺（泥筑于木构上）、拉利贝拉岩凿教堂；材料含茅草、木、泥、泥砖、夯土与石，因地区而异"
+    },
+    {
+      "id": "wp-spanish-colonial-architecture",
+      "title": "Spanish colonial architecture — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Spanish_colonial_architecture",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200 并核对正文；墨西哥城殖民大教堂；16世纪《西印度法》规定新殖民聚落布局；哈瓦那、圣胡安、卡塔赫纳、科罗列入世界遗产；巴洛克装饰自西班牙输入"
+    },
+    {
+      "id": "wp-hokkien-architecture",
+      "title": "Hokkien architecture — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Hokkien_architecture",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200 并核对正文；闽南人主要分布于福建、台湾、新加坡；燕尾脊在非福佬汉人建筑中罕见、在闽台很常见；图注：漳州南山寺大雄宝殿、嘉义奉天宫（妈祖庙）"
+    },
+    {
+      "id": "wp-kaiping-diaolou",
+      "title": "Kaiping Diaolou and Villages — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Kaiping_Diaolou_and_Villages",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200 并核对正文；开平碉楼：曾逾3000座，今存约1800座，多已废弃；2007年列入世界遗产（编号1112）；题图：锦江里村瑞石楼"
+    },
+    {
+      "id": "wp-architecture-of-indonesia",
+      "title": "Architecture of Indonesia — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_Indonesia",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200 并核对正文；婆罗浮屠由夏连特拉王朝于公元750–850年间建造；普兰班南建筑群在日惹附近；早期南岛民族高脚木构长屋，如巴塔克与托拉查传统住宅"
+    },
+    {
+      "id": "wp-architecture-of-cambodia",
+      "title": "Architecture of Cambodia — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Architecture_of_Cambodia",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200 并核对正文；高棉住宅通常以高脚架空至多三米以防年度洪水；陡坡茅草屋顶出挑；吴哥窟与巴戎寺为高棉建筑代表"
+    },
+    {
+      "id": "wp-stilt-house",
+      "title": "Stilt house — Wikipedia",
+      "author": "Wikipedia",
+      "type": "权威百科",
+      "year": null,
+      "url": "https://en.wikipedia.org/wiki/Stilt_house",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200 并核对正文；高脚屋主要用于防洪与防害虫；架空下方遮荫空间常用于劳作；菲律宾、马来西亚、印度尼西亚、新加坡有水上高脚屋"
     }
   ]
 }

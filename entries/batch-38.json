@@ -175,20 +175,21 @@
       "sections": {
         "原理": "以斜面、流线与对机器的想象表现速度，多为纸上的构想。",
         "典型手法与适用条件": "用斜面、动势线条与新材料的想象性表达。",
-        "实例": "名称：动势的城市构想图（类型性描述）；地点与设计者不适用。看斜面如何制造速度感。",
+        "实例": "名称：《新城市》（La Città Nuova）透视图；设计者：安东尼奥·圣埃利亚（Sant'Elia）；年份：1914（来源页面图注）。据来源页面，未来主义建筑是20世纪初诞生于意大利的建筑形式，以长而动感的线条暗示速度与动势；该运动由诗人马里内蒂（Marinetti）1909年发表的《未来主义宣言》发起。此处不复制图像。",
         "常见错误与限制": "多为构想，落地困难。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：斜面与动势线条。",
-        "待核实": "「未来主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "该透视图是否落地建成、斜面的具体处理，本轮来源页面未核对，待补充独立来源核实。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><path d=\"M 295 245 Q 345 175 115 325\" fill=\"none\" stroke=\"var(--muted)\"/><polyline points=\"348,286 364,222 48,318\" fill=\"none\" stroke=\"var(--accent)\"/><ellipse cx=\"401\" cy=\"117\" rx=\"71\" ry=\"197\" fill=\"none\" stroke=\"var(--muted)\"/><circle cx=\"454\" cy=\"158\" r=\"94\" fill=\"none\" stroke=\"var(--muted)\"/><line x1=\"507\" y1=\"199\" x2=\"421\" y2=\"173\" stroke=\"var(--muted)\"/><rect x=\"560\" y=\"240\" width=\"50\" height=\"160\" fill=\"none\" stroke=\"var(--accent)\"/><text x='40' y='40' fill='var(--ink)'>未来主义建筑</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='175' cy='195' r='4' fill='var(--muted)'/><circle cx='204' cy='226' r='4' fill='var(--muted)'/><circle cx='233' cy='257' r='4' fill='var(--muted)'/><circle cx='262' cy='288' r='4' fill='var(--muted)'/><circle cx='291' cy='319' r='4' fill='var(--muted)'/><circle cx='320' cy='110' r='4' fill='var(--muted)'/></svg>"
       ],
       "sources": [
         "wp-architectural-style",
-        "wp-modern-architecture"
+        "wp-modern-architecture",
+        "wp-futurist-architecture"
       ],
       "needs_verification": true,
-      "pending_notes": "「未来主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "已补具名实例（圣埃利亚《新城市》透视图1914；马里内蒂宣言1909；来源页面正文已核对）；落地与否待补独立来源。"
     },
     {
       "id": "expressionism-style",
@@ -205,20 +206,21 @@
       "sections": {
         "原理": "以非几何的流塑形体与砖砌肌理把内心情绪外化为建筑。",
         "典型手法与适用条件": "以扭曲、流塑的体量与砖砌细部表达情绪。",
-        "实例": "名称：流塑体量的砖砌塔楼（类型性描述）；地点与设计者不适用。看形体如何扭曲。",
+        "实例": "名称：爱因斯坦塔（Einstein Tower）；地点：德国波茨坦；设计者：埃里希·门德尔松（Erich Mendelsohn）；年份：1919–1922。另有：歌德堂（Goetheanum），瑞士多尔纳赫，鲁道夫·施泰纳设计，1924–28；布鲁诺·陶特（Bruno Taut）的玻璃展亭，1914年科隆德意志制造联盟展览（以上均据来源页面图注）。此处不复制图像。",
         "常见错误与限制": "形式自由带来结构与造价挑战。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：扭曲流塑的体量。",
-        "待核实": "「表现主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "“砖砌肌理”“流塑体量”与上述具体建筑的对应关系，本轮来源页面图注未明述，待补充独立来源核实。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><circle cx=\"332\" cy=\"274\" r=\"42\" fill=\"none\" stroke=\"var(--muted)\"/><line x1=\"385\" y1=\"105\" x2=\"395\" y2=\"235\" stroke=\"var(--muted)\"/><rect x=\"438\" y=\"146\" width=\"88\" height=\"254\" fill=\"none\" stroke=\"var(--accent)\"/><path d=\"M 491 187 Q 433 139 111 363\" fill=\"none\" stroke=\"var(--muted)\"/><polyline points=\"544,228 452,186 44,356\" fill=\"none\" stroke=\"var(--accent)\"/><ellipse cx=\"597\" cy=\"269\" rx=\"67\" ry=\"131\" fill=\"none\" stroke=\"var(--muted)\"/><circle cx=\"150\" cy=\"100\" r=\"90\" fill=\"none\" stroke=\"var(--muted)\"/><text x='40' y='40' fill='var(--ink)'>表现主义建筑</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='192' cy='218' r='4' fill='var(--muted)'/><circle cx='221' cy='249' r='4' fill='var(--muted)'/><circle cx='250' cy='280' r='4' fill='var(--muted)'/><circle cx='279' cy='311' r='4' fill='var(--muted)'/><circle cx='308' cy='102' r='4' fill='var(--muted)'/><circle cx='337' cy='133' r='4' fill='var(--muted)'/><circle cx='366' cy='164' r='4' fill='var(--muted)'/></svg>"
       ],
       "sources": [
         "wp-architectural-style",
-        "wp-modern-architecture"
+        "wp-modern-architecture",
+        "wp-expressionist-architecture"
       ],
       "needs_verification": true,
-      "pending_notes": "「表现主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "已补具名实例（爱因斯坦塔1919–1922；歌德堂1924–28；陶特玻璃展亭1914；来源页面图注已核对）；砖砌肌理与具体建筑的对应待补独立来源。"
     },
     {
       "id": "structuralism",
@@ -235,20 +237,21 @@
       "sections": {
         "原理": "结构主义建筑以可生长、可组合的结构单元组织空间。它以模数单元与网格形成可扩展的秩序。",
         "典型手法与适用条件": "以重复单元与网格按规则组合成整体。",
-        "实例": "名称：结构主义建筑的典型场景（类型性描述）；地点与设计者不适用。",
+        "实例": "名称：阿姆斯特丹孤儿院（Orphanage in Amsterdam，“荷兰结构主义”）；设计者：阿尔多·范艾克（Aldo van Eyck）；年份：1960（来源页面图注）。另有：阿珀尔多伦的中央保险公司办公楼（Centraal Beheer），赫尔曼·赫茨贝格尔（Herman Hertzberger）设计，1972。据来源页面，范艾克于1959年提出“数的美学”（Aesthetics of Number），可与细胞组织类比。此处不复制图像。",
         "常见错误与限制": "过度统一会单调。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：结构主义建筑的要点。",
-        "待核实": "「结构主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "“模数单元与网格”在上述具体建筑中的体现，本轮来源页面未核对，待补充独立来源核实。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><path d=\"M 369 303 Q 407 201 59 373\" fill=\"none\" stroke=\"var(--muted)\"/><polyline points=\"422,134 426,248 82,366\" fill=\"none\" stroke=\"var(--accent)\"/><ellipse cx=\"475\" cy=\"175\" rx=\"105\" ry=\"225\" fill=\"none\" stroke=\"var(--muted)\"/><circle cx=\"528\" cy=\"216\" r=\"38\" fill=\"none\" stroke=\"var(--muted)\"/><line x1=\"581\" y1=\"257\" x2=\"483\" y2=\"199\" stroke=\"var(--muted)\"/><rect x=\"134\" y=\"298\" width=\"84\" height=\"102\" fill=\"none\" stroke=\"var(--accent)\"/><path d=\"M 187 129 Q 521 293 107 331\" fill=\"none\" stroke=\"var(--muted)\"/><polyline points=\"240,170 540,150 40,324\" fill=\"none\" stroke=\"var(--accent)\"/><text x='40' y='40' fill='var(--ink)'>结构主义建筑</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='209' cy='241' r='4' fill='var(--muted)'/><circle cx='238' cy='272' r='4' fill='var(--muted)'/><circle cx='267' cy='303' r='4' fill='var(--muted)'/><circle cx='296' cy='94' r='4' fill='var(--muted)'/><circle cx='325' cy='125' r='4' fill='var(--muted)'/><circle cx='354' cy='156' r='4' fill='var(--muted)'/><circle cx='383' cy='187' r='4' fill='var(--muted)'/><circle cx='412' cy='218' r='4' fill='var(--muted)'/></svg>"
       ],
       "sources": [
         "wp-architectural-style",
-        "wp-modern-architecture"
+        "wp-modern-architecture",
+        "wp-structuralism-architecture"
       ],
       "needs_verification": true,
-      "pending_notes": "「结构主义建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "已补具名实例（范艾克阿姆斯特丹孤儿院1960；赫茨贝格尔Centraal Beheer 1972；来源页面图注已核对）；模数单元与网格的具体体现待补独立来源。"
     },
     {
       "id": "korean-architecture",
@@ -296,20 +299,23 @@
       "sections": {
         "原理": "把居住面抬离潮湿地面，用大出檐与通透围护换取通风与遮阳。",
         "典型手法与适用条件": "以高脚、深檐、通透墙体组织通风防潮。",
-        "实例": "名称：湄南河畔的高脚木屋（类型性描述）；地点与设计者不适用。雨季洪水从架空的楼板下流过，深檐把烈日挡在墙外，穿堂风带走湿气。",
+        "实例": "名称：婆罗浮屠（Borobudur），印度尼西亚爪哇；夏连特拉王朝（Sailendra）于公元750–850年间建造（据来源页面）。另有：日惹附近的普兰班南建筑群（Prambanan），页面称其为爪哇最大、最精美的印度教建筑；巴塔克（Batak）传统住宅与托拉查（Toraja）传统屋（Tongkonan），为高脚木构长屋、屋顶陡坡、山花厚重。柬埔寨：据来源页面，高棉住宅通常以高脚架空至多三米以防年度洪水，陡坡茅草屋顶出挑于墙外；吴哥窟与巴戎寺为高棉建筑代表。高脚屋主要用于防洪与防害虫，架空下方的遮荫空间常用于劳作（Stilt house页面）。此处不复制图像。",
         "常见错误与限制": "忽视湿热会导致霉变。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：架空楼板、深檐与对流通风。",
-        "待核实": "「东南亚建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "原条目所述“湄南河畔高脚木屋、深檐挡日、穿堂风带走湿气”，本轮来源页面未核对到对应表述，待补充独立来源核实；婆罗浮屠与普兰班南属宗教建筑，与高脚住屋不属同一类，示例仅分别说明区域建筑的两类代表。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><path d=\"M 443 151 Q 469 227 93 351\" fill=\"none\" stroke=\"var(--muted)\"/><text x='40' y='40' fill='var(--ink)'>东南亚建筑</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='243' cy='287' r='4' fill='var(--muted)'/><circle cx='272' cy='318' r='4' fill='var(--muted)'/><circle cx='301' cy='109' r='4' fill='var(--muted)'/><circle cx='330' cy='140' r='4' fill='var(--muted)'/><circle cx='359' cy='171' r='4' fill='var(--muted)'/><circle cx='388' cy='202' r='4' fill='var(--muted)'/><circle cx='417' cy='233' r='4' fill='var(--muted)'/><circle cx='446' cy='264' r='4' fill='var(--muted)'/><circle cx='475' cy='295' r='4' fill='var(--muted)'/><circle cx='504' cy='86' r='4' fill='var(--muted)'/></svg>"
       ],
       "sources": [
         "wp-architectural-style",
-        "wp-vernacular-architecture"
+        "wp-vernacular-architecture",
+        "wp-architecture-of-indonesia",
+        "wp-architecture-of-cambodia",
+        "wp-stilt-house"
       ],
       "needs_verification": true,
-      "pending_notes": "「东南亚建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "已补具名实例（婆罗浮屠750–850年；普兰班南；巴塔克与托拉查高脚长屋；高棉住宅架空至三米；来源页面正文已核对）；湄南河畔住屋与深檐通风待补独立来源。"
     },
     {
       "id": "african-architecture",
@@ -326,20 +332,21 @@
       "sections": {
         "原理": "就地取材，用土、草、木的构造回应当地气候与生活方式。",
         "典型手法与适用条件": "以夯土墙、茅草顶与本地材料建造，依气候组织遮阳与通风。",
-        "实例": "名称：夯土与茅草的聚落屋（类型性描述）；地点与设计者不适用。看土墙与草顶。",
+        "实例": "名称：杰内大清真寺（Great Mosque of Djenné），马里（来源页面列为非洲建筑代表之一）；桑科雷清真寺（Sankore Mosque），廷巴克图，来源页面称其以泥筑于木构之上，风格与杰内大清真寺相近。另有：埃塞俄比亚拉利贝拉（Lalibela）的岩凿教堂，来源页面称整座教堂由整块岩石凿出。据来源页面，非洲建筑使用茅草、木、泥、泥砖、夯土与石等材料，选材因地区而异（北非多用石与夯土）。此处不复制图像。",
         "常见错误与限制": "直接移植会破坏地域性。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：夯土墙体与茅草顶。",
-        "待核实": "非洲建筑的专门来源有限（第二源为泛论）；具体实例的设计者与年代待核实。"
+        "待核实": "杰内大清真寺与桑科雷清真寺的建造年代与设计者，本轮来源页面未核对，待补充独立来源核实；“夯土墙与茅草顶”组合对应的具体地区亦待补。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><circle cx=\"480\" cy=\"180\" r=\"110\" fill=\"none\" stroke=\"var(--muted)\"/><line x1=\"533\" y1=\"221\" x2=\"519\" y2=\"287\" stroke=\"var(--muted)\"/><text x='40' y='40' fill='var(--ink)'>非洲建筑</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='260' cy='310' r='4' fill='var(--muted)'/><circle cx='289' cy='101' r='4' fill='var(--muted)'/><circle cx='318' cy='132' r='4' fill='var(--muted)'/><circle cx='347' cy='163' r='4' fill='var(--muted)'/><circle cx='376' cy='194' r='4' fill='var(--muted)'/><circle cx='405' cy='225' r='4' fill='var(--muted)'/><circle cx='434' cy='256' r='4' fill='var(--muted)'/><circle cx='463' cy='287' r='4' fill='var(--muted)'/><circle cx='492' cy='318' r='4' fill='var(--muted)'/><circle cx='521' cy='109' r='4' fill='var(--muted)'/><circle cx='550' cy='140' r='4' fill='var(--muted)'/></svg>"
       ],
       "sources": [
         "wp-architectural-style",
-        "wp-vernacular-architecture"
+        "wp-vernacular-architecture",
+        "wp-architecture-of-africa"
       ],
       "needs_verification": true,
-      "pending_notes": "专门来源有限（第二源泛论）；实例待核实。"
+      "pending_notes": "已补具名实例（杰内大清真寺、桑科雷清真寺、拉利贝拉岩凿教堂；来源页面正文已核对）；年代与设计者待补独立来源。"
     },
     {
       "id": "latin-american-colonial",
@@ -356,20 +363,21 @@
       "sections": {
         "原理": "殖民者带来巴洛克语汇，本地工匠以本土材料与装饰手法重释，形成混融风格。",
         "典型手法与适用条件": "以巴洛克立面、繁复装饰与本地材料建造教堂与公共建筑。",
-        "实例": "名称：拉美殖民建筑的典型场景（类型性描述）；地点与设计者不适用。",
+        "实例": "名称：墨西哥城殖民大教堂（Metropolitan Cathedral of Mexico City，来源页面图注称“colonial Cathedral of Mexico City”）。另据来源页面：16世纪《西印度法》（Laws of the Indies）规定了美洲新殖民聚落的布局；古巴哈瓦那、波多黎各圣胡安、哥伦比亚卡塔赫纳、委内瑞拉科罗等殖民城市列入世界遗产；巴洛克装饰自西班牙输入，墨西哥为新西班牙中心。此处不复制图像。",
         "常见错误与限制": "装饰堆砌会失整体。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：拉美殖民建筑的要点。",
-        "待核实": "第二来源为泛论、未逐条互证；具体实例的设计者与年代待核实。"
+        "待核实": "墨西哥城大教堂的建造年代与设计者，本轮来源页面未核对，待补充独立来源核实；“本地工匠以本土材料重释”的表述亦待补。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><path d=\"M 517 209 Q 531 253 37 329\" fill=\"none\" stroke=\"var(--muted)\"/><polyline points=\"570,250 550,110 60,322\" fill=\"none\" stroke=\"var(--accent)\"/><ellipse cx=\"123\" cy=\"291\" rx=\"83\" ry=\"109\" fill=\"none\" stroke=\"var(--muted)\"/><text x='40' y='40' fill='var(--ink)'>拉美殖民建筑</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='277' cy='93' r='4' fill='var(--muted)'/><circle cx='306' cy='124' r='4' fill='var(--muted)'/><circle cx='335' cy='155' r='4' fill='var(--muted)'/><circle cx='364' cy='186' r='4' fill='var(--muted)'/><circle cx='393' cy='217' r='4' fill='var(--muted)'/><circle cx='422' cy='248' r='4' fill='var(--muted)'/><circle cx='451' cy='279' r='4' fill='var(--muted)'/><circle cx='480' cy='310' r='4' fill='var(--muted)'/><circle cx='509' cy='101' r='4' fill='var(--muted)'/><circle cx='538' cy='132' r='4' fill='var(--muted)'/><circle cx='567' cy='163' r='4' fill='var(--muted)'/><circle cx='596' cy='194' r='4' fill='var(--muted)'/></svg>"
       ],
       "sources": [
         "wp-architectural-style",
-        "wp-history-of-architecture"
+        "wp-history-of-architecture",
+        "wp-spanish-colonial-architecture"
       ],
       "needs_verification": true,
-      "pending_notes": "第二来源泛论；实例待核实。"
+      "pending_notes": "已补具名实例（墨西哥城殖民大教堂；《西印度法》；世界遗产城市；来源页面正文已核对）；大教堂年代与设计者、本地工匠重释待补独立来源。"
     },
     {
       "id": "brazilian-modernism",
@@ -386,20 +394,21 @@
       "sections": {
         "原理": "曲线混凝土塑形、遮阳板（brise-soleil）控光，使现代结构与热带气候结合。",
         "典型手法与适用条件": "以曲线混凝土、遮阳板与开放平面组织。",
-        "实例": "名称：热带住宅的曲线雨篷（类型性描述）；地点与设计者不适用。自由曲线的混凝土雨篷向外舒展，竖片遮阳随日照角度旋转。",
+        "实例": "名称：潘普利亚建筑群（Pampulha Architectural Complex）；地点：巴西贝洛奥里藏特；设计者：奥斯卡·尼迈耶（Oscar Niemeyer）；年份：1941年起（来源页面称尼迈耶于1941年以该建筑群开启独立执业，此前曾在现代主义建筑师卢西奥·科斯塔处工作）。另见巴西利亚的黎明宫（Palácio da Alvorada，尼迈耶作品，列为国家历史遗产）。据来源页面，尼迈耶由此形成其标志性设计特征之一（页面所述）。此处不复制图像。",
         "常见错误与限制": "忽视遮阳会过热。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：曲线雨篷与可调遮阳竖片。",
-        "待核实": "「巴西现代主义」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "曲线混凝土与遮阳板（brise-soleil）的具体对应建筑及其做法，本轮来源页面未核对到明确表述，待补充独立来源核实；各建筑的具体建成年份亦待补。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><circle cx=\"554\" cy=\"238\" r=\"54\" fill=\"none\" stroke=\"var(--muted)\"/><line x1=\"607\" y1=\"279\" x2=\"201\" y2=\"123\" stroke=\"var(--muted)\"/><rect x=\"160\" y=\"110\" width=\"100\" height=\"290\" fill=\"none\" stroke=\"var(--accent)\"/><path d=\"M 213 151 Q 239 217 33 367\" fill=\"none\" stroke=\"var(--muted)\"/><text x='40' y='40' fill='var(--ink)'>巴西现代主义</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='294' cy='116' r='4' fill='var(--muted)'/><circle cx='323' cy='147' r='4' fill='var(--muted)'/><circle cx='352' cy='178' r='4' fill='var(--muted)'/><circle cx='381' cy='209' r='4' fill='var(--muted)'/><circle cx='410' cy='240' r='4' fill='var(--muted)'/><circle cx='439' cy='271' r='4' fill='var(--muted)'/><circle cx='468' cy='302' r='4' fill='var(--muted)'/><circle cx='497' cy='93' r='4' fill='var(--muted)'/><circle cx='526' cy='124' r='4' fill='var(--muted)'/><circle cx='555' cy='155' r='4' fill='var(--muted)'/><circle cx='584' cy='186' r='4' fill='var(--muted)'/><circle cx='613' cy='217' r='4' fill='var(--muted)'/><circle cx='642' cy='248' r='4' fill='var(--muted)'/></svg>"
       ],
       "sources": [
         "wp-modern-architecture",
-        "wp-architectural-style"
+        "wp-architectural-style",
+        "wp-architecture-of-brazil"
       ],
       "needs_verification": true,
-      "pending_notes": "「巴西现代主义」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "已补具名实例（潘普利亚建筑群，尼迈耶，贝洛奥里藏特，1941年起；来源页面正文已核对）；遮阳板与曲线混凝土的对应关系待补独立来源。"
     },
     {
       "id": "mexican-modernism",
@@ -416,20 +425,21 @@
       "sections": {
         "原理": "以厚重混凝土体量承载壁画与色彩，把现代结构当作公共表达的画布。",
         "典型手法与适用条件": "以混凝土体量结合壁画与地域色彩。",
-        "实例": "名称：壁画混凝土公共建筑（类型性描述）；地点与设计者不适用。粗粝的混凝土墙面被巨幅壁画覆盖，体量在广场上投下浓重阴影。",
+        "实例": "名称：胡安·奥戈尔曼（Juan O'Gorman）为迭戈·里维拉与弗里达·卡罗设计的工作室；地点：墨西哥城圣天使（San Angel）；年份：1931–32（来源页面称其为墨西哥前卫建筑的优秀范例）。另有：墨西哥国立自治大学（UNAM）大学城（Ciudad Universitaria），1950年起建于墨西哥城郊外；据来源页面，该项目由卡洛斯·拉索、恩里克·德尔莫拉尔和马里奥·帕尼主持，新校园把墨西哥壁画家的艺术融入建筑，始于里维拉的浮雕；页面图注给出其中央图书馆为1954年。另提到费利克斯·坎德拉（Félix Candela）设计的表现主义教堂“奇迹圣母堂”，以及路易斯·巴拉甘（Luis Barragán）为页面所称最著名的建筑师之一。此处不复制图像。",
         "常见错误与限制": "形式与功能脱节会失当。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：混凝土体量与其上的壁画。",
-        "待核实": "「墨西哥现代主义」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "“厚重混凝土体量承载壁画”作为该风格总体特征的表述，来源页面仅就大学城个别项目提及壁画融入建筑，待补充独立来源核实；中央图书馆立面壁画的设计者本轮未能核实，故不写；各建筑具体年份亦待补。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><path d=\"M 591 267 Q 213 279 71 377\" fill=\"none\" stroke=\"var(--muted)\"/><polyline points=\"144,308 232,136 94,370\" fill=\"none\" stroke=\"var(--accent)\"/><ellipse cx=\"197\" cy=\"139\" rx=\"117\" ry=\"219\" fill=\"none\" stroke=\"var(--muted)\"/><circle cx=\"250\" cy=\"180\" r=\"50\" fill=\"none\" stroke=\"var(--muted)\"/><line x1=\"303\" y1=\"221\" x2=\"289\" y2=\"277\" stroke=\"var(--muted)\"/><text x='40' y='40' fill='var(--ink)'>墨西哥现代主义</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='311' cy='139' r='4' fill='var(--muted)'/></svg>"
       ],
       "sources": [
         "wp-modern-architecture",
-        "wp-architectural-style"
+        "wp-architectural-style",
+        "wp-architecture-of-mexico"
       ],
       "needs_verification": true,
-      "pending_notes": "「墨西哥现代主义」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "已补具名实例（奥戈尔曼工作室1931–32；UNAM大学城1950年起，由拉索、德尔莫拉尔、帕尼主持；来源页面正文已核对）；中央图书馆立面设计者与风格总体概括待补独立来源。"
     },
     {
       "id": "shanxi-style",
@@ -446,20 +456,22 @@
       "sections": {
         "原理": "北方冬季寒冷，合院以围合挡风、以院落采光；商贾宅院用高大坚实的门楼彰显身份。",
         "典型手法与适用条件": "以合院围合、门楼与院落序列组织，兼顾御寒与礼制。",
-        "实例": "名称：晋商高墙窄院（类型性描述）；地点与设计者不适用。两进窄院夹在高厚砖墙之间，门楼砖雕在冬日斜阳里投下细密阴影。",
+        "实例": "名称：乔家大院（Qiao Family Compound，亦称在中堂、乔家大院）；地点：山西省晋中市祁县，位于平遥东北约30公里；年份：1756年（清乾隆朝）始建，18世纪内建成；规模：占地约9000平方米，313间房（以上据来源页面）。该院为合院式住宅，是张艺谋电影《大红灯笼高高挂》的主要取景地。另：平遥古城（山西）城墙建于1370年（明洪武三年），1997年列入联合国教科文组织世界遗产，页面称其保存了明清时期的城市格局与建筑。此处不复制图像。",
         "常见错误与限制": "采光与排水需按规范。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：狭长院落与高厚砖墙。",
-        "待核实": "晋商大院等具体实例的设计者与年代待补充独立来源。"
+        "待核实": "乔家大院的门楼、高墙与窄院形态，以及“御寒、礼制”的设计意图，本轮来源页面未核对到明确表述，待补充独立来源核实；设计者待补。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><circle cx=\"128\" cy=\"296\" r=\"88\" fill=\"none\" stroke=\"var(--muted)\"/><line x1=\"181\" y1=\"127\" x2=\"263\" y2=\"149\" stroke=\"var(--muted)\"/><rect x=\"234\" y=\"168\" width=\"44\" height=\"232\" fill=\"none\" stroke=\"var(--accent)\"/><path d=\"M 287 209 Q 301 243 67 345\" fill=\"none\" stroke=\"var(--muted)\"/><polyline points=\"340,250 320,290 90,338\" fill=\"none\" stroke=\"var(--accent)\"/><ellipse cx=\"393\" cy=\"291\" rx=\"113\" ry=\"109\" fill=\"none\" stroke=\"var(--muted)\"/><text x='40' y='40' fill='var(--ink)'>晋派建筑</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='328' cy='162' r='4' fill='var(--muted)'/><circle cx='357' cy='193' r='4' fill='var(--muted)'/></svg>"
       ],
       "sources": [
         "wp-chinese-architecture",
-        "wp-courtyard"
+        "wp-courtyard",
+        "wp-qiao-family-compound",
+        "wp-pingyao"
       ],
       "needs_verification": true,
-      "pending_notes": "具体实例（晋商大院等）的设计者与年代待补充独立来源。"
+      "pending_notes": "已补具名实例（乔家大院1756年始建、313间房；平遥古城墙1370年；来源页面正文已核对）；门楼高墙窄院的形态与设计意图待补独立来源。"
     },
     {
       "id": "lingnan-style",
@@ -476,20 +488,21 @@
       "sections": {
         "原理": "湿热气候需要通风降温，天井形成竖向气流，通透开敞的门窗促进穿堂风。",
         "典型手法与适用条件": "以天井、通透门窗与遮阳构造组织通风防潮。",
-        "实例": "名称：骑楼下的街屋（类型性描述）；地点与设计者不适用。二层出挑的骑楼在街道上连成遮阳长廊，天井把湿热空气从屋顶拔走。",
+        "实例": "名称：开平碉楼与村落（Kaiping Diaolou and Villages），广东开平；2007年列入联合国教科文组织世界遗产（编号1112）；来源页面题图为锦江里村及其瑞石楼（Ruishi Diaolou）。据来源页面，碉楼曾逾三千座，今存约1800座，多已废弃，散布于开平乡村，广东其他地区亦偶见。此处不复制图像。",
         "常见错误与限制": "防潮通风不当会霉变。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：骑楼长廊与拔风天井。",
-        "待核实": "骑楼、趟门等具体做法与实例的设计者、年代待补充独立来源。"
+        "待核实": "骑楼、天井、趟门等具体做法与本条目原述的对应，本轮来源页面未涉及，待补充独立来源核实；碉楼的建造年代与设计者亦待补。碉楼属岭南地区建筑，但是否代表“湿热气候下的通风做法”，来源未明述。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><path d=\"M 165 115 Q 275 115 105 355\" fill=\"none\" stroke=\"var(--muted)\"/><polyline points=\"218,156 294,162 38,348\" fill=\"none\" stroke=\"var(--accent)\"/><ellipse cx=\"271\" cy=\"197\" rx=\"61\" ry=\"203\" fill=\"none\" stroke=\"var(--muted)\"/><circle cx=\"324\" cy=\"238\" r=\"84\" fill=\"none\" stroke=\"var(--muted)\"/><line x1=\"377\" y1=\"279\" x2=\"351\" y2=\"113\" stroke=\"var(--muted)\"/><rect x=\"430\" y=\"110\" width=\"40\" height=\"290\" fill=\"none\" stroke=\"var(--accent)\"/><path d=\"M 483 151 Q 389 207 63 313\" fill=\"none\" stroke=\"var(--muted)\"/><text x='40' y='40' fill='var(--ink)'>岭南建筑</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='345' cy='185' r='4' fill='var(--muted)'/><circle cx='374' cy='216' r='4' fill='var(--muted)'/><circle cx='403' cy='247' r='4' fill='var(--muted)'/></svg>"
       ],
       "sources": [
         "wp-chinese-architecture",
-        "wp-courtyard"
+        "wp-courtyard",
+        "wp-kaiping-diaolou"
       ],
       "needs_verification": true,
-      "pending_notes": "骑楼/趟门等具体做法与实例待补充独立来源。"
+      "pending_notes": "已补具名实例（开平碉楼与村落，2007年列入世界遗产，约1800座现存；来源页面正文已核对）；骑楼与天井等通风做法待补独立来源。"
     },
     {
       "id": "hokkien-style",
@@ -506,20 +519,21 @@
       "sections": {
         "原理": "红砖白石相间、燕尾脊起翘，石雕木雕铺满细部，形成热烈的地域面貌。",
         "典型手法与适用条件": "以红砖白石、燕尾脊与石雕木雕装饰。",
-        "实例": "名称：红砖燕尾脊的祠堂（类型性描述）；地点与设计者不适用。看燕尾脊与红砖。",
+        "实例": "名称：漳州南山寺大雄宝殿（Mahavira Hall of Nanshan Temple），福建漳州；嘉义奉天宫（Fengtian Temple），台湾嘉义，为著名妈祖庙（以上据来源页面图注）。据来源页面，燕尾脊（燕尾脊，闽南语 ìnn-bé-tsiah）在非福佬汉人建筑中罕见，而在闽南与台湾十分常见；闽南人主要分布于福建、台湾与新加坡。此处不复制图像。",
         "常见错误与限制": "装饰过度会失结构逻辑。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：燕尾脊与红砖白石。",
-        "待核实": "「闽南建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "“红砖白石相间”与“石雕木雕铺满细部”，本轮来源页面未核对到对应表述，待补充独立来源核实；上述寺庙的建造年代亦待补。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><circle cx=\"202\" cy=\"144\" r=\"32\" fill=\"none\" stroke=\"var(--muted)\"/><line x1=\"255\" y1=\"185\" x2=\"325\" y2=\"175\" stroke=\"var(--muted)\"/><rect x=\"308\" y=\"226\" width=\"78\" height=\"174\" fill=\"none\" stroke=\"var(--accent)\"/><path d=\"M 361 267 Q 363 269 101 323\" fill=\"none\" stroke=\"var(--muted)\"/><polyline points=\"414,308 382,126 34,316\" fill=\"none\" stroke=\"var(--accent)\"/><ellipse cx=\"467\" cy=\"139\" rx=\"57\" ry=\"219\" fill=\"none\" stroke=\"var(--muted)\"/><circle cx=\"520\" cy=\"180\" r=\"80\" fill=\"none\" stroke=\"var(--muted)\"/><line x1=\"573\" y1=\"221\" x2=\"439\" y2=\"267\" stroke=\"var(--muted)\"/><text x='40' y='40' fill='var(--ink)'>闽南建筑</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='362' cy='208' r='4' fill='var(--muted)'/><circle cx='391' cy='239' r='4' fill='var(--muted)'/><circle cx='420' cy='270' r='4' fill='var(--muted)'/><circle cx='449' cy='301' r='4' fill='var(--muted)'/></svg>"
       ],
       "sources": [
         "wp-chinese-architecture",
-        "wp-vernacular-architecture"
+        "wp-vernacular-architecture",
+        "wp-hokkien-architecture"
       ],
       "needs_verification": true,
-      "pending_notes": "「闽南建筑」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "已补具名实例（漳州南山寺大雄宝殿、嘉义奉天宫；燕尾脊；来源页面正文已核对）；红砖白石与石雕木雕、建造年代待补独立来源。"
     },
     {
       "id": "hakka-style",
@@ -596,10 +610,10 @@
       "sections": {
         "原理": "窑洞是黄土高原上依土崖挖筑的拱形生土居所。它利用黄土保温、冬暖夏凉。",
         "典型手法与适用条件": "依崖挖拱、以土体保温并设炕采光。",
-        "实例": "名称：窑洞的典型场景（类型性描述）；地点与设计者不适用。",
+        "实例": "名称：山西灵石（Lingshi）某村的窑洞群（部分住人、部分养牲畜）；类型：靠崖式窑洞（依黄土坡崖缘开凿）与下沉式窑洞（地坑窑，地面下挖形成天井院，西部河南称“地坑院”）；代表城市：延安（来源页面称其为靠崖窑的典型例子）。规模与风险：据来源页面，21世纪初北方仍有约3000万至4000万人居住于窑洞；1556年陕西大地震中约10万人死亡，主要因大量窑洞坍塌。分布：甘肃、陕西、山西、河南及宁夏。设计者：民居，无单一设计者。此处不复制图像。",
         "常见错误与限制": "防水与结构失当有坍塌风险。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：窑洞的要点。",
-        "待核实": "「窑洞」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "“冬暖夏凉”的保温效果、“设炕采光”等做法，来源页面本轮未核对到对应表述，待补充独立来源核实；具体窑洞的建造年代亦待补。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><path d=\"M 313 231 Q 399 167 83 311\" fill=\"none\" stroke=\"var(--muted)\"/><polyline points=\"366,272 418,214 106,374\" fill=\"none\" stroke=\"var(--accent)\"/><text x='40' y='40' fill='var(--ink)'>窑洞</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='413' cy='277' r='4' fill='var(--muted)'/><circle cx='442' cy='308' r='4' fill='var(--muted)'/><circle cx='471' cy='99' r='4' fill='var(--muted)'/><circle cx='500' cy='130' r='4' fill='var(--muted)'/><circle cx='529' cy='161' r='4' fill='var(--muted)'/><circle cx='558' cy='192' r='4' fill='var(--muted)'/><circle cx='587' cy='223' r='4' fill='var(--muted)'/></svg>"
@@ -609,7 +623,7 @@
         "wp-chinese-architecture"
       ],
       "needs_verification": true,
-      "pending_notes": "「窑洞」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "已补具名地点与数据（灵石、延安、1556年陕西地震、3000万–4000万居住人口；来源页面正文已核对）；保温与炕的做法待补独立来源。"
     },
     {
       "id": "tibetan-architecture",
@@ -687,10 +701,10 @@
       "sections": {
         "原理": "城市把居住、工作、交通与游憩用地按关系布置，并用路网与开放空间把它们连成整体。",
         "典型手法与适用条件": "以用地划分、路网与公共空间系统组织城市结构与形态。",
-        "实例": "名称：城市规划的典型场景（类型性描述）；地点与设计者不适用。",
+        "实例": "名称：多个有名的城市设计实例，均据来源页面（Urban design）。巴西利亚（Brasília）的纪念轴线（Monumental Axis），由奥斯卡·尼迈耶与卢西奥·科斯塔设计；埃比尼泽·霍华德（Ebenezer Howard）1902年的田园城市图示，其田园城市模型最早在赫特福德郡的莱奇沃思（Letchworth）与韦林田园城（Welwyn Garden City）实践；页面图注还列有巴黎奥斯曼大道（Boulevard Haussmann，乔治-欧仁·奥斯曼）、维也纳环城大道（页面图注同归于奥斯曼名下）与巴斯的圆形广场（Circus，1768年建成）。此处不复制图像。",
         "常见错误与限制": "规划失当会拥堵或割裂。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：城市规划的要点。",
-        "待核实": "“功能分区（zoning）”等具体制度与实例的设计者、年代待补充独立来源。"
+        "待核实": "“功能分区（zoning）”等具体制度，及各案例的规划年代与规模，本轮来源页面未逐一核对，待补充独立来源；维也纳环城大道的设计者归属以页面图注为准，待独立核实。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><path d='M 110 320 Q 340 120 640 300' fill='none' stroke='var(--accent)'/><circle cx=\"424\" cy=\"108\" r=\"44\" fill=\"none\" stroke=\"var(--muted)\"/><line x1=\"477\" y1=\"149\" x2=\"511\" y2=\"253\" stroke=\"var(--muted)\"/><rect x=\"530\" y=\"190\" width=\"90\" height=\"210\" fill=\"none\" stroke=\"var(--accent)\"/><path d=\"M 583 231 Q 549 157 113 327\" fill=\"none\" stroke=\"var(--muted)\"/><polyline points=\"136,272 568,204 46,320\" fill=\"none\" stroke=\"var(--accent)\"/><text x='40' y='40' fill='var(--ink)'>城市规划</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text><circle cx='464' cy='106' r='4' fill='var(--muted)'/><circle cx='493' cy='137' r='4' fill='var(--muted)'/><circle cx='522' cy='168' r='4' fill='var(--muted)'/><circle cx='551' cy='199' r='4' fill='var(--muted)'/><circle cx='580' cy='230' r='4' fill='var(--muted)'/><circle cx='609' cy='261' r='4' fill='var(--muted)'/><circle cx='638' cy='292' r='4' fill='var(--muted)'/><circle cx='107' cy='83' r='4' fill='var(--muted)'/><circle cx='136' cy='114' r='4' fill='var(--muted)'/><circle cx='165' cy='145' r='4' fill='var(--muted)'/></svg>"
@@ -700,7 +714,7 @@
         "wp-urban-morphology"
       ],
       "needs_verification": true,
-      "pending_notes": "功能分区等具体制度与实例待补充独立来源。"
+      "pending_notes": "已补具名城市设计实例（巴西利亚纪念轴线；霍华德田园城市1902，莱奇沃思与韦林；奥斯曼大道；巴斯圆形广场1768；来源页面正文已核对）；功能分区制度与各案例年代待补独立来源。"
     },
     {
       "id": "raised-floor",

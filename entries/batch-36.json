@@ -109,20 +109,23 @@
       "sections": {
         "原理": "路径闭合成环，各景点沿环布置，游客单向或双向循环而不重复。",
         "典型手法与适用条件": "以环形主路串联景点，支线深入局部后回到主环。",
-        "实例": "名称：园林回游式主路（类型性描述）；地点与设计者不适用。看路径如何闭环。",
+        "实例": "名称：拙政园（Humble Administrator's Garden）；地点：江苏苏州；创建：明正德年间（1506–1521），王献臣所建（苏州市园林和绿化管理局页面载始建于1509年）；列入联合国教科文组织《世界遗产名录》“苏州古典园林”（1997年）。据来源所述，中国园林以曲折小径与曲廊连接厅堂亭榭，游人移步换景。此处仅作路径组织的实例，是否为首尾闭合的回游式主路，来源未明述。此处不复制图像。",
         "常见错误与限制": "环路过长会疲劳；需设休憩点。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：环形主路与支线。",
-        "待核实": "「回游式动线」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "拙政园主路是否构成首尾相接的回游环线，来源未明述，待补充独立来源核实。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><polyline points='120,300 300,220 480,260 640,170' fill='none' stroke='var(--accent)' stroke-width='3'/><circle cx='300' cy='220' r='12' fill='var(--accent-soft)' stroke='var(--accent)'/><circle cx='480' cy='260' r='12' fill='var(--accent-soft)' stroke='var(--accent)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>回游式动线</text><circle cx='190' cy='60' r='5' fill='var(--accent)'/></svg>"
       ],
       "sources": [
         "wp-chinese-garden",
-        "wp-wayfinding"
+        "wp-wayfinding",
+        "wp-humble-admin-garden",
+        "unesco-suzhou",
+        "suzhou-ylj-zhuozhengyuan"
       ],
       "needs_verification": true,
-      "pending_notes": "「回游式动线」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "已补具名实例（拙政园，明正德年间，苏州古典园林，来源页面正文已核对）；“回游闭环”这一点来源未明述，待补独立来源。"
     },
     {
       "id": "serial-route",
@@ -292,10 +295,10 @@
       "sections": {
         "原理": "中庭贯通多层形成竖向通道，热空气上升从顶部排出，低位补入新风。",
         "典型手法与适用条件": "中庭顶部设排风口、底部设进风口，结合可开启天窗。",
-        "实例": "名称：中庭热压通风（类型性描述）；地点与设计者不适用。看气流如何由下而上。",
+        "实例": "名称：古罗马住宅的中庭（atrium）；据来源页面（Atrium (architecture)），古罗马住宅中的中庭为室内提供采光与通风。现代中庭则多为数层高、带玻璃屋顶或大窗：上海金茂大厦内的上海金茂君悦大酒店（Grand Hyatt）设有32层高的中庭；拉斯维加斯卢克索酒店（Luxor Hotel）的中庭按体积为世界最大，约2900万立方英尺（82万立方米）。页面未说明这些中庭是否以热压或风压组织通风。此处不复制图像。",
         "常见错误与限制": "排烟与防火分隔须与通风协调；按规范。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：中庭竖向气流。",
-        "待核实": "「中庭通风」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "“中庭顶部排风、底部进风”的热压通风做法及其具体实例，本轮来源页面未核对到对应表述，待补充独立来源核实；上述现代中庭是否用于通风，页面未述。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='100' x2='680' y2='100' stroke='var(--ink)' stroke-width='3'/><line x1='80' y1='320' x2='680' y2='320' stroke='var(--ink)' stroke-width='3'/><rect x='240' y='100' width='18' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='258' y1='130' x2='520' y2='300' stroke='var(--accent)' stroke-width='2'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>中庭通风</text><circle cx='490' cy='60' r='5' fill='var(--accent)'/></svg>"
@@ -305,7 +308,7 @@
         "wp-ventilation-architecture"
       ],
       "needs_verification": true,
-      "pending_notes": "「中庭通风」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "已补具名中庭（古罗马住宅中庭采光通风；上海金茂君悦32层中庭；卢克索酒店中庭，来源页面正文已核对）；热压通风做法及实例待补独立来源。"
     },
     {
       "id": "visual-comfort",
