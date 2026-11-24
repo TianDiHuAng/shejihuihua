@@ -141,3 +141,4 @@
 - 第 99 轮：damp-proofing 补 db-damp-proofing 第二平台(湿度控制/薄膜)、类型性实例、措辞收窄双源化，升级；258 条全 L2，来源 511，待核实 157
 - 第 100 轮：glare 补 db-glare 第二平台、def/原理去重、类型性实例升级；清理全库 45 个孤儿来源(512→467)；258 条全 L2，待核实 156
 - 第 101 轮：skylight(DB Rooflight)、stack-ventilation(DB Stack effect)补第二平台、类型性实例升级；258 条全 L2，来源 469，待核实 154
+- 第 102 轮：material-durability(DB Durability)、mixed-mode-ventilation(DB Mixed-mode)补第二平台升级；修 def/原理重叠；258 条全 L2，来源 471，待核实 152

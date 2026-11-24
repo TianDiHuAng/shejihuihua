@@ -2324,6 +2324,26 @@
         "B5_pending_items": 154,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 102,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 2,
+      "reviews": 154,
+      "fixes": 1,
+      "pending_total": 152,
+      "check_result": "PASS all checks 0 errors; material-durability & mixed-mode-ventilation upgraded (db second platform, type-level instance); fixed mixed-mode def==principle (1.0->0.13) and material-durability overlap (0.64->0.30), added periods; spotcheck 2/2 qualified; sources 471; 258 all L2; 19/19; 0 broken links",
+      "new_sources": 2,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "F"
+        ],
+        "B5_pending_items": 152,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }

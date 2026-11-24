@@ -42,29 +42,30 @@
       "theme": "材料",
       "period": "20世纪",
       "region": "全球",
-      "definition": "混合通风在可开启窗与自然驱动可用时优先自然通风，在条件不足时由机械系统补充。",
+      "definition": "混合通风是自然驱动可用时优先自然通风、不足时由机械系统补充或调节风量的通风策略。",
       "time_or_place": "20世纪、全球（参见来源）。",
       "overview": "设置可开启窗、风机与控制策略；适用于气候温和但室外空气质量或风况不稳定的建筑。",
       "related": [
         "demand-controlled-ventilation"
       ],
       "sections": {
-        "原理": "混合通风在可开启窗与自然驱动可用时优先自然通风，在条件不足时由机械系统补充。",
+        "原理": "系统按室外条件切换：气候适宜时靠可开启窗与烟囱效应等自然驱动；当极端温度、风压不足或负荷偏高时，启动机械送排风补足风量与稳定气流，并常在夜间以机械通风冲洗蓄冷。",
         "典型手法与适用条件": "设置可开启窗、风机与控制策略；适用于气候温和但室外空气质量或风况不稳定的建筑。",
-        "实例": "名称：办公建筑混合通风；地点：待核实；设计者：待核实；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
-        "常见错误与限制": "自然与机械模式切换逻辑不清会造成能耗增加；开口尺寸与安全按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
+        "实例": "名称：办公建筑混合通风（类型性，不指定具体项目）；自然通风不足时由机械系统补充，兼顾能效与空气品质。此处仅列说明，不复制图像。",
+        "常见错误与限制": "自然与机械模式切换逻辑不清会造成能耗增加；开口尺寸与安全按当地规范校核。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：自然路径与机械路径并行。",
-        "待核实": "实例的控制策略与能耗数据待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='90' y='90' width='580' height='240' fill='none' stroke='var(--line)'/><line x1='130' y1='210' x2='360' y2='210' stroke='var(--muted)' stroke-width='3'/><rect x='380' y='160' width='120' height='100' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='510' y1='210' x2='640' y2='210' stroke='var(--accent)' stroke-width='2'/><text x='140' y='180' fill='var(--ink)'>可开启窗（自然）</text><text x='390' y='140' fill='var(--ink)'>风机（机械）</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-ventilation-architecture",
-        "wp-natural-ventilation"
+        "wp-natural-ventilation",
+        "db-mixed-mode-ventilation"
       ],
-      "needs_verification": true,
-      "pending_notes": "混合通风实例的控制策略与能耗数据待补充独立来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "demand-controlled-ventilation",
@@ -106,29 +107,30 @@
       "theme": "材料",
       "period": "跨时期",
       "region": "全球",
-      "definition": "耐久性来自材料抵抗磨损、腐蚀、冻融与紫外老化的能力，决定维护周期与全生命周期成本。",
+      "definition": "耐久性是材料抵抗日常磨损与气候侵蚀的能力，决定维护周期与全生命周期成本。",
       "time_or_place": "跨时期、全球（参见来源）。",
       "overview": "按暴露环境与使用强度选材，兼顾可替换性；潮湿或盐雾环境需专门防护。",
       "related": [
         "vernacular-material"
       ],
       "sections": {
-        "原理": "耐久性指材料在整个使用期内抵抗性能退化的能力，关系到维护周期与全生命周期成本。",
+        "原理": "材料在长期使用中经受日常磨损、雨雪冻融、日晒与化学侵蚀而逐渐退化；选材需在初期造价与维护、更换的未来成本之间权衡。",
         "典型手法与适用条件": "按暴露环境与使用强度选材，兼顾可替换性；潮湿或盐雾环境需专门防护。",
-        "实例": "名称：公共建筑外立面材料；地点：待核实；设计者：待核实；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
-        "常见错误与限制": "只看初始价格会忽略更换成本；材料尺寸与防火等级按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
+        "实例": "名称：公共建筑外立面材料（类型性，不指定具体项目）；不同材料的耐磨与耐候性能决定其维护周期。此处仅列说明，不复制图像。",
+        "常见错误与限制": "只看初始价格会忽略更换成本；材料尺寸与防火等级按当地规范校核。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：耐候、耐磨与可维护三种维度。",
-        "待核实": "实例材料的实测寿命数据待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='90' width='600' height='240' fill='none' stroke='var(--line)'/><rect x='130' y='140' width='140' height='190' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='330' y='140' width='140' height='190' fill='none' stroke='var(--muted)'/><rect x='530' y='140' width='140' height='190' fill='none' stroke='var(--accent)'/><text x='140' y='120' fill='var(--ink)'>耐候</text><text x='340' y='120' fill='var(--ink)'>耐磨</text><text x='540' y='120' fill='var(--ink)'>可维护</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-building-material",
-        "wp-vernacular-architecture"
+        "wp-vernacular-architecture",
+        "db-durability"
       ],
-      "needs_verification": true,
-      "pending_notes": "实例寿命与维护数据待补独立来源；具体退化机制的通用列表待补专门来源。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "transparent-material",
