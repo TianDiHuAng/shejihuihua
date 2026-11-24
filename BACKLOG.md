@@ -142,3 +142,4 @@
 - 第 100 轮：glare 补 db-glare 第二平台、def/原理去重、类型性实例升级；清理全库 45 个孤儿来源(512→467)；258 条全 L2，待核实 156
 - 第 101 轮：skylight(DB Rooflight)、stack-ventilation(DB Stack effect)补第二平台、类型性实例升级；258 条全 L2，来源 469，待核实 154
 - 第 102 轮：material-durability(DB Durability)、mixed-mode-ventilation(DB Mixed-mode)补第二平台升级；修 def/原理重叠；258 条全 L2，来源 471，待核实 152
+- 第 103 轮：wind-driven-ventilation(DB Ventilation)、transparent-material(DB Glass)、safety-guarding(DB Guardrail)补第二平台升级；修规范句；258 条全 L2，来源 474，待核实 149

@@ -5651,6 +5651,42 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-24，实抓 HTTP 200；混合通风：自然通风不足时以机械通风补充"
+    },
+    {
+      "id": "db-ventilation",
+      "title": "Ventilation — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Ventilation",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；自然通风可由风压(wind driven)或热压(buoyancy)驱动"
+    },
+    {
+      "id": "db-glass",
+      "title": "Glass for buildings — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Glass",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；玻璃可透明/半透明/着色/反射，视觉透明性可按需调整"
+    },
+    {
+      "id": "db-guardrail",
+      "title": "Guardrail — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Guardrail",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；护栏为纵向屏障，防止人跌落或越界"
     }
   ]
 }
