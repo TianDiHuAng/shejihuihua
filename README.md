@@ -15,7 +15,7 @@
 
 站点是纯静态页面（`site/`），只用相对链接，可直接发布到 GitHub Pages。
 
-- 在线地址（需在仓库 Settings → Pages 选择 `main` 分支 `/site` 目录后生效）：
+- 在线地址（需在仓库 Settings → Pages 把 Source 设为 **GitHub Actions**，由 `.github/workflows/pages.yml` 发布 `site/`）：
   <https://tiandihuang.github.io/shejihuihua/>
 - 本地离线浏览：用浏览器打开 `site/index.html` 即可。
 
