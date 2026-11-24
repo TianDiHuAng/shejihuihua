@@ -322,27 +322,28 @@
       "theme": "材料",
       "period": "跨时期",
       "region": "全球",
-      "definition": "材料色彩指材料本身的固有色及其对空间氛围的影响。",
+      "definition": "材料色彩指材料的固有色及其在光照条件下呈现的颜色，影响空间氛围。",
       "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "材料色与涂层色不同，受纹理与光照影响。",
+      "overview": "材料色与涂层色不同，受固有色与光照条件影响。",
       "related": [],
       "sections": {
-        "原理": "材料的呈现色受其固有颜色与光照条件影响：同一材料在不同光线下明度与冷暖会变化。",
+        "原理": "材料的呈现色由固有色与入射光条件决定：同一材料在不同光源与光线下明度与冷暖会变，故色彩需结合照明条件来评估。",
         "典型手法与适用条件": "依空间基调选择材料本色，尽量以材质自身颜色减少涂装，并以样板比对控制色差。",
-        "实例": "名称：清水混凝土的灰色基调（类型性描述）；地点与设计者不适用。看材质本色如何定调。",
+        "实例": "名称：清水混凝土的灰色基调（类型性，不指定具体项目）；以材质本色定调空间氛围。此处仅列说明，不复制图像。",
         "常见错误与限制": "忽略光照会色差失衡；需样板比对。实际工程须按当地规范和专业设计人员的要求",
-        "一图": "见下方示意：不同材料的固有色与质感。",
-        "待核实": "“表面纹理对色彩感知的影响”缺直接权威来源，属一般性经验说明；具体实例的设计者与年代待核实。"
+        "一图": "见下方示意：不同材料的固有色与光照效果。",
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='130' width='220' height='140' fill='var(--accent-soft)' stroke='var(--accent)'/><rect x='400' y='130' width='220' height='140' fill='none' stroke='var(--muted)'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>材料色彩</text></svg>"
       ],
       "sources": [
         "wp-color-theory",
-        "wp-building-material"
+        "wp-building-material",
+        "db-colour"
       ],
-      "needs_verification": true,
-      "pending_notes": "纹理—色彩感知关系缺直接来源（一般性说明）；实例待核实。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "structural-material",

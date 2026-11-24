@@ -5687,6 +5687,30 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-24，实抓 HTTP 200；护栏为纵向屏障，防止人跌落或越界"
+    },
+    {
+      "id": "db-daylight-factor",
+      "title": "The daylight factor — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Daylight_factor",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；采光系数DF以百分比表示，为室内天然光照度与室外无遮挡CIE标准全阴天照度之比"
+    },
+    {
+      "id": "db-colour",
+      "title": "Colour in the built environment — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Colour",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；色彩需有光方能被感知，不同光源产生不同光波组合（色彩为区别于形状/尺寸/表面质感等之外的感知）"
     }
   ]
 }
