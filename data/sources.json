@@ -5999,6 +5999,30 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-23，实抓 HTTP 200；tint=加白、shade=加黑、tone=加灰的明度调整（经镜像核验）"
+    },
+    {
+      "id": "db-parthenon",
+      "title": "Parthenon — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Parthenon",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "帕特农神庙为多立克柱式建筑的高峰；其八柱面（octastyle，前8柱、侧17柱）突破传统六柱式"
+    },
+    {
+      "id": "db-hagia-sophia",
+      "title": "Hagia Sophia — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Hagia_Sophia",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；圣索菲亚大教堂：穹顶为重大创新"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "total": 258,
   "entries": [
     {
@@ -13,7 +13,7 @@
       "status": "已写",
       "source_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "linear-perspective",
@@ -26,7 +26,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "one-point-perspective",
@@ -39,7 +39,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "two-point-perspective",
@@ -52,7 +52,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "three-point-perspective",
@@ -65,7 +65,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "curvilinear-perspective",
@@ -78,7 +78,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "aerial-perspective",
@@ -91,7 +91,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "foreshortening",
@@ -104,7 +104,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "vanishing-point",
@@ -117,7 +117,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "horizon-line",
@@ -130,7 +130,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "scattered-perspective",
@@ -143,7 +143,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "composition",
@@ -156,7 +156,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rule-of-thirds",
@@ -169,7 +169,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rule-of-odds",
@@ -182,7 +182,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rule-of-space",
@@ -195,7 +195,7 @@
       "status": "已写",
       "source_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "simplification",
@@ -208,7 +208,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "geometry-symmetry",
@@ -221,7 +221,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "visual-movement",
@@ -234,7 +234,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "leading-lines",
@@ -247,7 +247,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "figure-ground",
@@ -260,7 +260,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "negative-space",
@@ -273,7 +273,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "visual-center",
@@ -286,7 +286,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "balance",
@@ -299,7 +299,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "contrast-principle",
@@ -312,7 +312,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rhythm-repetition",
@@ -325,7 +325,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "hierarchy",
@@ -338,7 +338,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "proportion",
@@ -351,7 +351,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "golden-ratio",
@@ -364,7 +364,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "diagonal-composition",
@@ -377,7 +377,7 @@
       "status": "已写",
       "source_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "s-curve-composition",
@@ -390,7 +390,7 @@
       "status": "已写",
       "source_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "triangular-composition",
@@ -403,7 +403,7 @@
       "status": "已写",
       "source_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "framing-composition",
@@ -416,7 +416,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "color-theory",
@@ -429,7 +429,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "hue",
@@ -442,7 +442,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "value",
@@ -455,7 +455,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "saturation",
@@ -468,7 +468,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "primary-colors",
@@ -481,7 +481,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "complementary-colors",
@@ -494,7 +494,7 @@
       "status": "已写",
       "source_count": 6,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "color-contrast",
@@ -507,7 +507,7 @@
       "status": "已写",
       "source_count": 6,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "warm-cool",
@@ -520,7 +520,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "color-harmony",
@@ -533,7 +533,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "color-scheme",
@@ -546,7 +546,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "color-symbolism",
@@ -559,7 +559,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "tints-shades",
@@ -572,7 +572,7 @@
       "status": "已写",
       "source_count": 5,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "split-primary",
@@ -585,7 +585,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "chiaroscuro",
@@ -598,7 +598,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "light-shadow-modeling",
@@ -611,7 +611,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "five-tones",
@@ -624,7 +624,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "highlight",
@@ -637,7 +637,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "reflected-light",
@@ -650,7 +650,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "cast-shadow",
@@ -663,7 +663,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "core-shadow",
@@ -676,7 +676,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "front-light",
@@ -689,7 +689,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "side-light",
@@ -702,7 +702,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "back-light",
@@ -715,7 +715,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "top-light",
@@ -728,7 +728,7 @@
       "status": "已写",
       "source_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "six-principles",
@@ -741,7 +741,7 @@
       "status": "已写",
       "source_count": 5,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "qi-yun",
@@ -754,7 +754,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "bone-method",
@@ -767,7 +767,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "likeness-form",
@@ -780,7 +780,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "color-according-type",
@@ -793,7 +793,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "composition-placement",
@@ -806,7 +806,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "transmission-copy",
@@ -819,7 +819,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "liubai",
@@ -832,7 +832,7 @@
       "status": "已写",
       "source_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "ink-wash",
@@ -845,7 +845,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "cunfa",
@@ -858,7 +858,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "gongbi",
@@ -871,7 +871,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "xieyi",
@@ -884,7 +884,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "yijing",
@@ -897,7 +897,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "xu-shi",
@@ -910,7 +910,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "landscape-painting",
@@ -923,7 +923,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "east-west-perspective-compare",
@@ -936,7 +936,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "east-west-space-compare",
@@ -949,7 +949,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "east-west-color-compare",
@@ -962,7 +962,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "space-definition",
@@ -975,7 +975,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "place-spirit",
@@ -988,7 +988,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "spatial-perception",
@@ -1001,7 +1001,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "human-scale",
@@ -1014,7 +1014,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "monumental-scale",
@@ -1027,7 +1027,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "intimate-scale",
@@ -1040,7 +1040,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "spatial-sequence",
@@ -1053,7 +1053,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "axis",
@@ -1066,7 +1066,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "symmetry-layout",
@@ -1079,7 +1079,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "enclosure",
@@ -1092,7 +1092,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "openness",
@@ -1105,7 +1105,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "boundary",
@@ -1118,7 +1118,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "node-path",
@@ -1131,7 +1131,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "transition-space",
@@ -1144,7 +1144,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "gray-space",
@@ -1157,7 +1157,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "vestibule",
@@ -1170,7 +1170,7 @@
       "status": "已写",
       "source_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "corridor-space",
@@ -1183,7 +1183,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "functional-zoning",
@@ -1196,7 +1196,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "spatial-organization",
@@ -1209,7 +1209,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "interior-exterior-transition",
@@ -1222,7 +1222,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "eaves-space",
@@ -1235,7 +1235,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "raised-floor",
@@ -1248,7 +1248,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "courtyard",
@@ -1261,7 +1261,7 @@
       "status": "已写",
       "source_count": 7,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "opening-interface",
@@ -1274,7 +1274,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "interface-permeability",
@@ -1287,7 +1287,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "view-corridor",
@@ -1300,7 +1300,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "visual-comfort",
@@ -1313,7 +1313,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "thermal-comfort",
@@ -1326,7 +1326,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "acoustic-environment",
@@ -1339,7 +1339,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "universal-design",
@@ -1352,7 +1352,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "accessibility-design",
@@ -1365,7 +1365,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "sustainable-design",
@@ -1378,7 +1378,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "borrowed-scenery",
@@ -1391,7 +1391,7 @@
       "status": "已写",
       "source_count": 6,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "framed-scenery",
@@ -1404,7 +1404,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "opposed-scenery",
@@ -1417,7 +1417,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "screened-scenery",
@@ -1430,7 +1430,7 @@
       "status": "已写",
       "source_count": 1,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "winding-path",
@@ -1443,7 +1443,7 @@
       "status": "已写",
       "source_count": 6,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "tour-route",
@@ -1456,7 +1456,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "leaked-scenery",
@@ -1469,7 +1469,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "added-scenery",
@@ -1482,7 +1482,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "side-scenery",
@@ -1495,7 +1495,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "suppressed-scenery",
@@ -1508,7 +1508,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rockery",
@@ -1521,7 +1521,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "water-management",
@@ -1534,7 +1534,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "planting-design",
@@ -1547,7 +1547,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "garden-architecture",
@@ -1560,7 +1560,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "seasonal-scenery",
@@ -1573,7 +1573,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "time-scenery",
@@ -1586,7 +1586,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rock-garden",
@@ -1599,7 +1599,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "circulation",
@@ -1612,7 +1612,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "pedestrian-flow",
@@ -1625,7 +1625,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "vehicle-flow",
@@ -1638,7 +1638,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "people-vehicle-separation",
@@ -1651,7 +1651,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "visitor-route",
@@ -1664,7 +1664,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "service-route",
@@ -1677,7 +1677,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "evacuation-route",
@@ -1690,7 +1690,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "loop-route",
@@ -1703,7 +1703,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "serial-route",
@@ -1716,7 +1716,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "radial-route",
@@ -1729,7 +1729,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "sunken-courtyard",
@@ -1742,7 +1742,7 @@
       "status": "已写",
       "source_count": 8,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "sunken-plaza",
@@ -1755,7 +1755,7 @@
       "status": "已写",
       "source_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "sunken-garden",
@@ -1768,7 +1768,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "semi-sunken-space",
@@ -1781,7 +1781,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "earth-sheltered",
@@ -1794,7 +1794,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "light-well",
@@ -1807,7 +1807,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "sunken-atrium",
@@ -1820,7 +1820,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "level-change",
@@ -1833,7 +1833,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "drainage",
@@ -1846,7 +1846,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "damp-proofing",
@@ -1859,7 +1859,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "safety-guarding",
@@ -1872,7 +1872,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "sunken-accessibility",
@@ -1885,7 +1885,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "daylighting",
@@ -1898,7 +1898,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "side-window-daylight",
@@ -1911,7 +1911,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "skylight",
@@ -1924,7 +1924,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "daylight-factor",
@@ -1937,7 +1937,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "glare",
@@ -1950,7 +1950,7 @@
       "status": "已写",
       "source_count": 5,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "natural-ventilation",
@@ -1963,7 +1963,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "wind-driven-ventilation",
@@ -1976,7 +1976,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "stack-ventilation",
@@ -1989,7 +1989,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "atrium-ventilation",
@@ -2002,7 +2002,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "mixed-mode-ventilation",
@@ -2015,7 +2015,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "demand-controlled-ventilation",
@@ -2028,7 +2028,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "material-texture",
@@ -2041,7 +2041,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "material-color",
@@ -2054,7 +2054,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "material-durability",
@@ -2067,7 +2067,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "vernacular-material",
@@ -2080,7 +2080,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "transparent-material",
@@ -2093,7 +2093,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "structural-material",
@@ -2106,7 +2106,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "ancient-greek",
@@ -2119,7 +2119,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "ancient-roman",
@@ -2132,7 +2132,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "byzantine",
@@ -2145,7 +2145,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "romanesque",
@@ -2158,7 +2158,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "gothic",
@@ -2171,7 +2171,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "renaissance-style",
@@ -2184,7 +2184,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "baroque",
@@ -2197,7 +2197,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rococo",
@@ -2210,7 +2210,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "neoclassical",
@@ -2223,7 +2223,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "romanticism-style",
@@ -2236,7 +2236,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "eclecticism",
@@ -2249,7 +2249,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "revival-gothic",
@@ -2262,7 +2262,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "revival-renaissance",
@@ -2275,7 +2275,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "arts-crafts",
@@ -2288,7 +2288,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "art-nouveau",
@@ -2301,7 +2301,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "art-deco",
@@ -2314,7 +2314,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "modernism",
@@ -2327,7 +2327,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "international-style",
@@ -2340,7 +2340,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "bauhaus",
@@ -2353,7 +2353,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "de-stijl",
@@ -2366,7 +2366,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "constructivism",
@@ -2379,7 +2379,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "futurism-style",
@@ -2392,7 +2392,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "expressionism-style",
@@ -2405,7 +2405,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "brutalism",
@@ -2418,7 +2418,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "structuralism",
@@ -2431,7 +2431,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "organic-architecture",
@@ -2444,7 +2444,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "high-tech",
@@ -2457,7 +2457,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "postmodernism",
@@ -2470,7 +2470,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "deconstructivism",
@@ -2483,7 +2483,7 @@
       "status": "已写",
       "source_count": 6,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "minimalism-architecture",
@@ -2496,7 +2496,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "critical-regionalism",
@@ -2509,7 +2509,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "parametric-architecture",
@@ -2522,7 +2522,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "green-architecture",
@@ -2535,7 +2535,7 @@
       "status": "已写",
       "source_count": 6,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "sustainable-architecture",
@@ -2548,7 +2548,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "vernacular-architecture",
@@ -2561,7 +2561,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "chinese-architecture-style",
@@ -2574,7 +2574,7 @@
       "status": "已写",
       "source_count": 6,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "japanese-architecture",
@@ -2587,7 +2587,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "korean-architecture",
@@ -2600,7 +2600,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "islamic-architecture",
@@ -2613,7 +2613,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "indian-architecture",
@@ -2626,7 +2626,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "southeast-asian-architecture",
@@ -2639,7 +2639,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "african-architecture",
@@ -2652,7 +2652,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "latin-american-colonial",
@@ -2665,7 +2665,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "brazilian-modernism",
@@ -2678,7 +2678,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "mexican-modernism",
@@ -2691,7 +2691,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "huizhou-style",
@@ -2704,7 +2704,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "shanxi-style",
@@ -2717,7 +2717,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "lingnan-style",
@@ -2730,7 +2730,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "hokkien-style",
@@ -2743,7 +2743,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "hakka-style",
@@ -2756,7 +2756,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "gan-style",
@@ -2769,7 +2769,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "yaodong",
@@ -2782,7 +2782,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "tibetan-architecture",
@@ -2795,7 +2795,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "xinjiang-architecture",
@@ -2808,7 +2808,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "imperial-architecture",
@@ -2821,7 +2821,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "religious-architecture",
@@ -2832,9 +2832,9 @@
       "region": "全球",
       "level": "L2",
       "status": "已写",
-      "source_count": 2,
-      "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "source_count": 4,
+      "needs_verification_count": 0,
+      "last_updated": "2026-11-24"
     },
     {
       "id": "urban-planning-style",
@@ -2847,7 +2847,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "mannerism",
@@ -2860,7 +2860,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "beaux-arts",
@@ -2873,7 +2873,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "vitruvian-triad",
@@ -2886,7 +2886,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "plein-air",
@@ -2899,7 +2899,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "gestalt-organization-laws",
@@ -2912,7 +2912,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "color-psychology",
@@ -2925,7 +2925,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "environmental-psychology",
@@ -2938,7 +2938,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "hardscape-softscape",
@@ -2951,7 +2951,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "wayfinding",
@@ -2964,7 +2964,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "lighting-design",
@@ -2977,7 +2977,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "place-attachment",
@@ -2990,7 +2990,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "placemaking",
@@ -3003,7 +3003,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "space-syntax",
@@ -3016,7 +3016,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "pattern-language",
@@ -3029,7 +3029,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "form-follows-function",
@@ -3042,7 +3042,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "functionalism-architecture",
@@ -3055,7 +3055,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "biophilic-design",
@@ -3068,7 +3068,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 0,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "defensible-space-theory",
@@ -3081,7 +3081,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "rembrandt",
@@ -3094,7 +3094,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "tenebrism",
@@ -3107,7 +3107,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "plaza",
@@ -3120,7 +3120,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "atrium-architecture",
@@ -3133,7 +3133,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "exit-sign",
@@ -3146,7 +3146,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "mexican-baroque",
@@ -3159,7 +3159,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "metabolism",
@@ -3172,7 +3172,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "proxemics",
@@ -3185,7 +3185,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "sfumato",
@@ -3198,7 +3198,7 @@
       "status": "已写",
       "source_count": 3,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "trompe-loeil",
@@ -3211,7 +3211,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "hatching",
@@ -3224,7 +3224,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "stippling",
@@ -3237,7 +3237,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "imperial-axial-route",
@@ -3250,7 +3250,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "picturesque",
@@ -3263,7 +3263,7 @@
       "status": "已写",
       "source_count": 4,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "mughal-architecture",
@@ -3276,7 +3276,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "early-islamic-architecture",
@@ -3289,7 +3289,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "dikengyuan",
@@ -3302,7 +3302,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "sasanian-architecture",
@@ -3315,7 +3315,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "ottoman-architecture",
@@ -3328,7 +3328,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "academic-art-theory",
@@ -3341,7 +3341,7 @@
       "status": "已写",
       "source_count": 2,
       "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "last_updated": "2026-11-24"
     },
     {
       "id": "classical-order",
@@ -3352,9 +3352,9 @@
       "region": "欧洲",
       "level": "L2",
       "status": "已写",
-      "source_count": 2,
-      "needs_verification_count": 1,
-      "last_updated": "2026-11-23"
+      "source_count": 4,
+      "needs_verification_count": 0,
+      "last_updated": "2026-11-24"
     }
   ]
 }

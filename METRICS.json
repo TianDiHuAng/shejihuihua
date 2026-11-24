@@ -1924,6 +1924,26 @@
         ],
         "pending_items": 178
       }
+    },
+    {
+      "round": 82,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 2,
+      "reviews": 178,
+      "fixes": 5,
+      "pending_total": 176,
+      "check_result": "PASS all checks 0 errors; classical-order upgraded (Parthenon octastyle 8/17, fixed wrong 6/13) and religious-architecture upgraded (Hagia Sophia dome innovation, dropped single-source architects); fixed 3 high-similarity pairs (revival-gothic/revival-renaissance/gongbi/xieyi/eclecticism) -> full-metric pairs>0.54 = 0 library-wide; spotcheck 2/2 qualified; 258 all L2; 19/19; 0 broken links",
+      "new_sources": 4,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "F"
+        ],
+        "B5_pending_items": 176,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }
