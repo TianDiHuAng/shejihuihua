@@ -128,3 +128,4 @@
 - 第 86 轮：rock-garden/time-scenery 升级；系统修复 27 处 SVG 严格越界(钳制入760x400)→全库严格越界=0；258 条全 L2，来源 506，待核实 170
 - 第 87 轮：leaked-scenery 升级(去无关源)；opposed-scenery/korean-architecture 经抽检判概念单源/超源→回退待核实并修正措辞；258 条全 L2，来源 506，待核实 169
 - 第 88 轮：rule-of-odds/stippling 概念双直接源、类型性实例升级；258 条全 L2，来源 506，待核实 167
+- 第 89 轮：plaza 用 db-plaza(广场直接定义)替换泛援 pps，双源升级；去超源庆典措辞；258 条全 L2，来源 507，待核实 166
