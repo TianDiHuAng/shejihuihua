@@ -5759,6 +5759,30 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-24，实抓 HTTP 200；折衷主义：19–20世纪并采多种历史风格的建筑取向"
+    },
+    {
+      "id": "db-modernism",
+      "title": "Modernist architecture — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Modernism",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；现代主义：20世纪初兴起，Form follows function、以功能与简洁形式为核心"
+    },
+    {
+      "id": "db-thermal-comfort",
+      "title": "Thermal comfort in buildings — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Thermal_comfort",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；热舒适：人对热环境满意的状态，涉空气温度/速度/辐射温度/湿度及PMV-PPD"
     }
   ]
 }

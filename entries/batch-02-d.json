@@ -110,7 +110,7 @@
       "theme": "风格",
       "period": "20世纪",
       "region": "全球",
-      "definition": "以功能、结构与简洁形式为核心的建筑思潮。",
+      "definition": "现代主义是20世纪初兴起、以功能、结构与简洁形式为核心的建筑思潮。",
       "time_or_place": "20世纪、全球（参见来源）。",
       "overview": "现代主义反对历史样式复制，强调新材料、新结构与空间自由。",
       "related": [
@@ -120,17 +120,18 @@
         "wp-modern-architecture",
         "wp-le-corbusier",
         "stiftung-bauhaus-dessau",
-        "archdaily-bauhaus-dessau"
+        "archdaily-bauhaus-dessau",
+        "db-modernism"
       ],
-      "needs_verification": true,
-      "pending_notes": "现代主义风格定义依据单一权威来源；实例（包豪斯德绍校舍）三要素已双源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
-        "原理": "现代主义以功能、结构与新材料为基础，追求自由平面与简洁形式。",
+        "原理": "现代主义主张“形式追随功能”，以功能、结构与新材料为基础，追求自由平面、简洁体量与少装饰的立面。",
         "典型手法与适用条件": "用框架结构释放墙体，按功能组织空间；适用于大批量建造与城市住宅。",
         "实例": "名称：包豪斯德绍校舍（Bauhaus Dessau）；地点：德国德绍-罗斯劳；设计者：瓦尔特·格罗皮乌斯（Walter Gropius）；年份：1926 年建成并启用（施工约始于 1925 年，1926-12-04 启用）。此处仅列名称、地点、设计者与年份信息，不复制图像。",
-        "常见错误与限制": "忽视地域气候会造成不适；结构与保温构造按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
+        "常见错误与限制": "忽视地域气候会造成不适；结构与保温构造按当地规范校核。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方体量示意：自由平面与结构框架。",
-        "待核实": "现代主义风格定义依据单一权威来源；实例（包豪斯德绍校舍）三要素已双源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='140' y='110' width='480' height='210' fill='none' stroke='var(--accent)' stroke-width='2'/><rect x='180' y='150' width='120' height='170' fill='var(--accent-soft)' stroke='var(--muted)'/><rect x='380' y='150' width='200' height='80' fill='none' stroke='var(--muted)'/><text x='200' y='90' fill='var(--ink)'>自由平面与体量</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"

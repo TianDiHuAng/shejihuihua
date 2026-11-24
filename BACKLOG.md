@@ -146,3 +146,4 @@
 - 第 104 轮：daylight-factor(DB Daylight factor)、material-color(DB Colour)补第二平台升级；抽检抓 db-colour 误引，修正 note 并去无源"质感影响色彩"主张；258 条全 L2，来源 476，待核实 147
 - 第 105 轮：lighting-design(DB Artificial lighting)升级；side-window-daylight 试升被抽检判 db-window 过泛→回退；258 条全 L2，来源 478，待核实 146
 - 第 106 轮：vestibule(DB Lobby)、eclecticism(DB Eclecticism)补第二平台升级；修断代/句号；258 条全 L2，来源 480，待核实 144
+- 第 107 轮：modernism(DB Modernist architecture)、thermal-comfort(DB Thermal comfort)补第二平台升级；修年份/句号；258 条全 L2，来源 482，待核实 142
