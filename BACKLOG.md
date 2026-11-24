@@ -151,3 +151,4 @@
 - 第 109 轮：vehicle-flow/pedestrian-flow 试升被抽检判 db-traffic/db-pedestrian 仅通类术语→回退、移过泛源；258 条全 L2，来源 483，待核实 140（无净变）
 - 第 110 轮：revival-gothic 补 db-gothic-architecture(Gothic revival 专节+哥特特征)第二平台升级；258 条全 L2，来源 484，待核实 139
 - 第 111 轮：B1 无新缺口(10 份未用分类树)、B6 无动态；体检干净；258 条全 L2，来源 484，待核实 139
+- 第 112 轮（目标末轮）：garden-architecture 补 db-pavilion(园林亭榭专节)第二平台升级；全库终验 258 全 L2、来源 485 全 verified、待核实 138、最大全字段相似度 0.5316<0.54、0 断链、体检全绿；19/19 测试

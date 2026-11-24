@@ -2529,6 +2529,25 @@
         "B6_new_dynamics": 0,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 112,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 1,
+      "reviews": 139,
+      "fixes": 1,
+      "pending_total": 138,
+      "check_result": "FINAL: PASS all checks 0 errors; garden-architecture upgraded (db-pavilion garden-pavilion section); spotcheck qualified; FINAL VERIFICATION: 258 all L2, sources 485 all verified, pending 138, max full similarity 0.5316<0.54, 0 broken links, health broken=0/dead=1/dup=0/orphan=0, gap empty=0/sparse=0/dangling=0/core_l1=0; 19/19 tests",
+      "new_sources": 1,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "F"
+        ],
+        "B5_pending_items": 138
+      }
     }
   ]
 }
