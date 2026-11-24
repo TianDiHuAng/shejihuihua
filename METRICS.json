@@ -2004,6 +2004,26 @@
         "B5_pending_items": 172,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 86,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 2,
+      "reviews": 172,
+      "fixes": 18,
+      "pending_total": 170,
+      "check_result": "PASS all checks 0 errors; rock-garden & time-scenery upgraded (garden type/traditional technique, type-level instance, multi-source); spotcheck 2/2 qualified; systemic fix: clamped 27 strict out-of-bounds SVG rect/ellipse across 18 SVGs -> library-wide strict OOB = 0; 258 all L2; 19/19; 0 broken links",
+      "new_sources": 0,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "F"
+        ],
+        "B5_pending_items": 170,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }
