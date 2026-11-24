@@ -85,8 +85,8 @@
         "典型手法与适用条件": "以脚本或可视化编程驱动表皮、结构与布局；适用于需要批量变体与复杂几何的设计任务。",
         "常见错误与限制": "形式生成脱离建造条件会导致成本失控；结构尺寸与加工精度按当地规范校核。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方形状序列示意：参数变化驱动的连续变体。",
-        "实例": "名称：盖达尔·阿利耶夫中心（Heydar Aliyev Center）；地点：阿塞拜疆巴库；设计者：扎哈·哈迪德建筑事务所（Zaha Hadid Architects）；年份：2007–2012 年设计建造（2013 年开放，各家标年不一）。此处仅列名称、地点、设计者与年份信息，不复制图像。",
-        "待核实": "具体年份/设计者归属或同一作品第二独立来源待补充（现为单强源＋手法佐证）。"
+        "实例": "名称：盖达尔·阿利耶夫中心（Heydar Aliyev Center）；地点：阿塞拜疆巴库；设计者：扎哈·哈迪德建筑事务所（Zaha Hadid Architects）；年份：2007–2012 年设计建造（ArchDaily 记 2013 年）。以连续曲面体量体现参数化设计。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='80' y='80' width='600' height='240' fill='none' stroke='var(--line)'/><circle cx='220' cy='200' r='70' fill='none' stroke='var(--accent)'/><circle cx='330' cy='200' r='70' fill='none' stroke='var(--accent)'/><circle cx='440' cy='200' r='70' fill='none' stroke='var(--accent)'/><circle cx='550' cy='200' r='70' fill='none' stroke='var(--accent)'/><text x='200' y='100' fill='var(--ink)'>参数驱动的形状序列</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"
@@ -97,8 +97,8 @@
         "archdaily-heydar",
         "theartstory-hadid"
       ],
-      "needs_verification": true,
-      "pending_notes": "部分年份或第二独立来源待补充。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "place-spirit",

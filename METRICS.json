@@ -2184,6 +2184,26 @@
         "B5_pending_items": 163,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 95,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 1,
+      "reviews": 163,
+      "fixes": 0,
+      "pending_total": 162,
+      "check_result": "PASS all checks 0 errors; parametric-architecture upgraded (Heydar Aliyev Center; ArchDaily + TheArtStory dual INDEPENDENT publishers, different institutions, not translations; all 4 elements dual, Zaha/Parametricism confirmed); spotcheck qualified; 258 all L2; 19/19; 0 broken links",
+      "new_sources": 0,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "F"
+        ],
+        "B5_pending_items": 162,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }
