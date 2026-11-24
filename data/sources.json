@@ -5735,6 +5735,30 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-24，实抓 HTTP 200；人工照明：以灯具提供照度，与天然光配合"
+    },
+    {
+      "id": "db-vestibule",
+      "title": "Lobby / Vestibule — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Vestibule",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；门厅(lobby/vestibule)：主入口附近的过渡空间，用于出入、circulation 与缓冲"
+    },
+    {
+      "id": "db-eclecticism",
+      "title": "Eclecticism in architecture — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Eclecticism",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；折衷主义：19–20世纪并采多种历史风格的建筑取向"
     }
   ]
 }
