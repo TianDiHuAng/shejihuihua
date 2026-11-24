@@ -5783,6 +5783,18 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-24，实抓 HTTP 200；热舒适：人对热环境满意的状态，涉空气温度/速度/辐射温度/湿度及PMV-PPD"
+    },
+    {
+      "id": "artincontext-composition",
+      "title": "Composition in Art — Techniques for Creating Balanced Scenes — Art in Context",
+      "author": "Art in Context",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://artincontext.org/composition-in-art/",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；构图：以三分法、平衡、黄金比、视觉焦点等技术组织画面元素"
     }
   ]
 }
