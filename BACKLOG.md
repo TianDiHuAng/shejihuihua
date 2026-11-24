@@ -148,3 +148,4 @@
 - 第 106 轮：vestibule(DB Lobby)、eclecticism(DB Eclecticism)补第二平台升级；修断代/句号；258 条全 L2，来源 480，待核实 144
 - 第 107 轮：modernism(DB Modernist architecture)、thermal-comfort(DB Thermal comfort)补第二平台升级；修年份/句号；258 条全 L2，来源 482，待核实 142
 - 第 108 轮：composition、rule-of-thirds 补 artincontext-composition 第二平台、rule-of-thirds 类型性实例升级；258 条全 L2，来源 483，待核实 140
+- 第 109 轮：vehicle-flow/pedestrian-flow 试升被抽检判 db-traffic/db-pedestrian 仅通类术语→回退、移过泛源；258 条全 L2，来源 483，待核实 140（无净变）

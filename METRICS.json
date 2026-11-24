@@ -2464,6 +2464,26 @@
         "B5_pending_items": 140,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 109,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 0,
+      "reviews": 140,
+      "fixes": 0,
+      "pending_total": 140,
+      "check_result": "PASS all checks 0 errors; vehicle-flow & pedestrian-flow attempted but spotcheck found db-traffic/db-pedestrian only generic terms (no flow-organization definition) -> reverted nv=true, removed over-generic sources; no net change; 258 all L2; 19/19; 0 broken links",
+      "new_sources": 0,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "F"
+        ],
+        "B5_pending_items": 140,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }

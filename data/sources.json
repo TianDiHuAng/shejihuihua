@@ -5795,6 +5795,30 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-24，实抓 HTTP 200；构图：以三分法、平衡、黄金比、视觉焦点等技术组织画面元素"
+    },
+    {
+      "id": "db-traffic",
+      "title": "Traffic — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Traffic",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；交通：车辆沿道路/基础设施行驶所形成的流动"
+    },
+    {
+      "id": "db-pedestrian",
+      "title": "Pedestrian — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Pedestrian",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；步行者：步行或奔跑的人；pedestrianised 指步行化区域"
     }
   ]
 }
