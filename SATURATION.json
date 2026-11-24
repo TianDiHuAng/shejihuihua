@@ -1739,6 +1739,19 @@
         "pending_items": 140
       },
       "note": "vehicle/pedestrian reverted (generic DB sources)"
+    },
+    {
+      "round": 110,
+      "date": "2026-11-24",
+      "zero_gap": false,
+      "methods_used": [
+        "B5",
+        "F"
+      ],
+      "new_gaps": {
+        "pending_items": 139
+      },
+      "note": "revival-gothic upgraded (db Gothic revival section)"
     }
   ],
   "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true",
