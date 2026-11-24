@@ -123,3 +123,4 @@
 - 全程多次主动纠错（placemaking 错位、trompe/hatching 无源关联、sfumato/picturesque 年份归因等），坚持"无法双源据实保留披露、不降低标准"。
 - 第 82 轮（新目标期）：classical-order(帕特农 8/17 修正)、religious-architecture(圣索菲亚去单源设计者) 升级；修 3 对高相似；全库严口径 >0.54 对=0；258 条全 L2，来源 502，待核实 176
 - 第 83 轮：structural-material(埃菲尔铁塔·锻铁格构)升级；sasanian 实例塔克·基斯拉经抽检判实例单源+年代存争，回退待核实；258 条全 L2，来源 504，待核实 175
+- 第 84 轮：vernacular-architecture(乡土建筑)补 DB+Art in Context 概念三源、类型性实例、升级；258 条全 L2，来源 506，待核实 174

@@ -6047,6 +6047,30 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-24，实抓 HTTP 200；埃菲尔铁塔：露空格构锻铁设计，Gustave Eiffel 1889（约300钢工、200万铆钉）"
+    },
+    {
+      "id": "db-vernacular",
+      "title": "Vernacular architecture — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Vernacular_architecture",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；乡土建筑：因地制宜、就地取材、依气候与地方习俗建造"
+    },
+    {
+      "id": "artincontext-vernacular",
+      "title": "Vernacular Architecture — Art in Context",
+      "author": "Art in Context",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://artincontext.org/vernacular-architecture/",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；乡土建筑依地方需求、建材与习俗，独特于特定时期与地点"
     }
   ]
 }
