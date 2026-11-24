@@ -2104,6 +2104,26 @@
         "B5_pending_items": 165,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 91,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 1,
+      "reviews": 165,
+      "fixes": 1,
+      "pending_total": 164,
+      "check_result": "PASS all checks 0 errors; framed-scenery upgraded (concept dual-direct 中国园林博物馆+北京文物局, type-level instance); rewritten saturation def/overview -> value vs saturation short sim 0.544->0.409; library-wide all 3 similarity metrics >0.54 = 0 now; spotcheck 2/2 qualified; 258 all L2; 19/19; 0 broken links",
+      "new_sources": 0,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "F"
+        ],
+        "B5_pending_items": 164,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }
