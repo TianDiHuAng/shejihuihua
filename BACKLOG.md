@@ -133,3 +133,4 @@
 - 第 91 轮：framed-scenery(框景)概念双直接源升级；重写 saturation 定义使 value↔saturation 相似度0.544→0.409，全库三口径>0.54对=0；258 条全 L2，来源 509，待核实 164
 - 第 92 轮：mexican-baroque 试升被抽检判 DB 源过泛(非墨西哥专属)→回退待核实；258 条全 L2，来源 509，待核实 164（无净变）
 - 第 93 轮：early-islamic-architecture 补 artincontext-islamic-architecture 第二直接源(方形平面+hypostyle 逐字)，升级；258 条全 L2，来源 509，待核实 163
+- 第 94 轮：three-point-perspective 试升被抽检判 wp-quaglio 为 NDB 译本(同源)→回退待核实并注断代；258 条全 L2，来源 509，待核实 163（无净变）
