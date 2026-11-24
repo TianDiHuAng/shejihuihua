@@ -106,9 +106,9 @@
       "theme": "材料",
       "period": "跨时期",
       "region": "全球",
-      "definition": "建筑内部贯通多层、常覆以天窗的中央开敞空间。",
+      "definition": "中庭是建筑内部贯通多层、常覆以天窗的中央开敞空间。",
       "time_or_place": "跨时期、全球（参见来源）。",
-      "overview": "中庭把天然光与空气引入建筑深处，改善内部环境。",
+      "overview": "中庭把天然光引入建筑深处、形成共享的竖向核心，改善大进深空间的采光与环境。",
       "related": [
         "daylighting"
       ],
@@ -118,15 +118,15 @@
         "flw-guggenheim",
         "theartstory-wright"
       ],
-      "needs_verification": true,
-      "pending_notes": "中庭通风机制单源，待补；其余已双源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
-        "原理": "贯通多层的天窗空间让光线深入内部、并促进空气流动，是改善大进深空间环境的常用手段。",
+        "原理": "贯通多层的天窗空间让天然光深入建筑内部、辐照到下部楼层，形成明亮共享的竖向核心，是改善大进深空间采光的常用手段。",
         "典型手法与适用条件": "以天窗或侧高窗采光、结合排烟构造；适用于大进深公共建筑。",
         "实例": "名称：纽约古根海姆美术馆（Solomon R. Guggenheim Museum）；地点：美国纽约；设计者：弗兰克·劳埃德·赖特（Frank Lloyd Wright）；年份：1943 年委托、1959 年开馆。以螺旋坡道环绕顶部采光中庭。此处仅列名称、地点、设计者与年份信息，不复制图像。",
         "常见错误与限制": "玻璃顶易致眩光与过热；排烟与防火分隔须按规范设计。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：天窗采光的中庭。",
-        "待核实": "中庭“空气/通风”机制主要依据单一来源（另一源侧重消防竖向），待补第二机制源；其余实例已双源。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='100' y1='80' x2='660' y2='80' stroke='var(--ink)' stroke-width='3'/><rect x='280' y='80' width='200' height='250' fill='none' stroke='var(--accent)'/><line x1='380' y1='90' x2='380' y2='250' stroke='var(--muted)' stroke-dasharray='6 5'/><rect x='120' y='150' width='160' height='180' fill='none' stroke='var(--muted)'/><rect x='480' y='150' width='160' height='180' fill='none' stroke='var(--muted)'/><text x='320' y='60' fill='var(--ink)'>天窗采光的中庭</text><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text></svg>"
