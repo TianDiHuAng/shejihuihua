@@ -2044,6 +2044,26 @@
         "B5_pending_items": 169,
         "B7_unwritten_entries": 0
       }
+    },
+    {
+      "round": 88,
+      "date": "2026-11-24",
+      "new_entries": 0,
+      "upgrades": 2,
+      "reviews": 169,
+      "fixes": 1,
+      "pending_total": 167,
+      "check_result": "PASS all checks 0 errors; rule-of-odds & stippling upgraded (concept dual-direct, type-level instance, tints-shades precedent); spotcheck 2/2 qualified; 258 all L2; 19/19; 0 broken links",
+      "new_sources": 0,
+      "spotcheck_policy_next_round": "10%",
+      "gaps": {
+        "methods_used": [
+          "B5",
+          "F"
+        ],
+        "B5_pending_items": 167,
+        "B7_unwritten_entries": 0
+      }
     }
   ]
 }
