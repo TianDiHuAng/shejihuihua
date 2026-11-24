@@ -6107,6 +6107,18 @@
       "verified": true,
       "link_ok": true,
       "note": "访问于 2026-11-24，实抓 HTTP 200；新天鹅堡：浪漫主义典范，路德维希二世 1869 起建"
+    },
+    {
+      "id": "db-light-well",
+      "title": "Light well — Designing Buildings",
+      "author": "Designing Buildings",
+      "type": "学术著作",
+      "year": null,
+      "url": "https://www.designingbuildings.co.uk/wiki/Light_well",
+      "url2": null,
+      "verified": true,
+      "link_ok": true,
+      "note": "访问于 2026-11-24，实抓 HTTP 200；天井/采光井：把天然光引入建筑内部空间"
     }
   ]
 }

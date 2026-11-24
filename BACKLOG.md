@@ -137,3 +137,4 @@
 - 第 95 轮：parametric-architecture 补盖达尔·阿利耶夫中心实例(ArchDaily+TheArtStory 双独立出版方)，升级；258 条全 L2，来源 509，待核实 162
 - 第 96 轮：atrium-architecture 重定义为"贯通多层+天窗采光"(双源核心)、移除单源通风机理，升级；258 条全 L2，来源 509，待核实 161
 - 第 97 轮：earth-sheltered(去单源保温claim)、exit-sign(概念双源、去无源年代claim+修time_or_place)升级；258 条全 L2，来源 509，待核实 159
+- 第 98 轮：light-well 补 db-light-well 第二平台(天井引天然光)、去单源热压claim、类型性实例，升级；258 条全 L2，来源 510，待核实 158

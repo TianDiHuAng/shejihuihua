@@ -114,29 +114,30 @@
       "theme": "下沉空间",
       "period": "古代",
       "region": "中国",
-      "definition": "天井是以狭长开口把天然光引入建筑深处的院落式空间。",
+      "definition": "天井（采光井）是以狭长开口把天然光引入建筑深处的院落或井道式空间。",
       "time_or_place": "古代、中国（参见来源）。",
       "overview": "天井通过屋面开口改善内部采光与空气流动，是多种传统民居的空间原型。",
       "related": [
         "sunken-atrium"
       ],
       "sections": {
-        "原理": "天井以屋面开口把天然光引入进深较大的建筑，并借助开口促进空气流动；热压机制的具体贡献待核实。",
+        "原理": "天井借屋面或侧向开口把天然光引入进深较大的建筑内部，使深层空间获得日照与采光。",
         "典型手法与适用条件": "开口位置、比例与朝向决定光线分布，需结合当地气候与使用需求；构造做法因地域而异。",
-        "实例": "名称：传统民居天井；地点：待核实；设计者：不适用；年份：待核实。此处仅列名称、地点、设计者与年份信息，不复制图像。",
+        "实例": "名称：传统民居天井（类型性，不指定具体项目）；以狭长开口把天然光引入内院与各进房屋。此处仅列说明，不复制图像。",
         "常见错误与限制": "开口尺寸过小会采光不足；雨水倒灌与高空坠物需防护。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方剖面示意：屋面开口把光引入内部。",
-        "待核实": "热压机制的一般原理可参见自然通风相关条目；本条目尚缺具体天井实例的实测数据。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='90' x2='680' y2='90' stroke='var(--ink)' stroke-width='3'/><rect x='300' y='90' width='160' height='230' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='380' y1='100' x2='380' y2='260' stroke='var(--accent)' stroke-width='2'/><text x='100' y='70' fill='var(--ink)'>屋面</text><text x='325' y='345' fill='var(--ink)'>天井</text><text x='300' y='380' fill='var(--muted)'>示意图，非施工图</text></svg>"
       ],
       "sources": [
         "wp-lightwell",
-        "wp-courtyard"
+        "wp-courtyard",
+        "db-light-well"
       ],
-      "needs_verification": true,
-      "pending_notes": "具体天井实例的采光与通风实测数据待补充独立来源（机制层面可参见自然通风条目）。"
+      "needs_verification": false,
+      "pending_notes": ""
     },
     {
       "id": "glare",
