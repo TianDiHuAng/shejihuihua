@@ -62,6 +62,8 @@ python tools/healthcheck.py    # 体检：断链 / 孤儿 / 重复
 - `site/`：生成的静态站点（不要手改）
 - `docs/`：README 用的概览图（`overview.svg` / `overview.png`）
 - `PROGRESS.md` / `DECISIONS.md` / `REPORT.md`：进度、决策与报告
+- `SUMMARY.md`：项目总结（成果、架构、难点）
+- `HANDOVER.md`：交接文档（环境搭建、改动流程、常见坑、自检清单）
 
 ## 硬性规则
 
