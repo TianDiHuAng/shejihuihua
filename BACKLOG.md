@@ -144,3 +144,4 @@
 - 第 102 轮：material-durability(DB Durability)、mixed-mode-ventilation(DB Mixed-mode)补第二平台升级；修 def/原理重叠；258 条全 L2，来源 471，待核实 152
 - 第 103 轮：wind-driven-ventilation(DB Ventilation)、transparent-material(DB Glass)、safety-guarding(DB Guardrail)补第二平台升级；修规范句；258 条全 L2，来源 474，待核实 149
 - 第 104 轮：daylight-factor(DB Daylight factor)、material-color(DB Colour)补第二平台升级；抽检抓 db-colour 误引，修正 note 并去无源"质感影响色彩"主张；258 条全 L2，来源 476，待核实 147
+- 第 105 轮：lighting-design(DB Artificial lighting)升级；side-window-daylight 试升被抽检判 db-window 过泛→回退；258 条全 L2，来源 478，待核实 146

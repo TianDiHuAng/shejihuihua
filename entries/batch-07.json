@@ -180,17 +180,18 @@
       "related": [],
       "sources": [
         "wp-interior-design",
-        "wp-architectural-lighting-design"
+        "wp-architectural-lighting-design",
+        "db-artificial-lighting"
       ],
-      "needs_verification": true,
-      "pending_notes": "「照明设计」的具体实例（名称、地点、设计者、年代）待补充独立来源。",
+      "needs_verification": false,
+      "pending_notes": "",
       "sections": {
-        "原理": "照明设计统筹天然光与人工光，使照度、方向与色温服务于视觉任务、情绪与健康。",
+        "原理": "白天优先引入天然光、夜间或采光不足处由人工照明补足，按视觉任务与空间氛围分层布光，兼顾能效与舒适。",
         "典型手法与适用条件": "按任务分区布光，重点照明与基础照明分层；需兼顾眩光控制与节能。",
-        "实例": "名称：博物馆分层照明（类型性描述）；地点：不适用；设计者：不适用；年份：不适用。此处不复制图像。",
-        "常见错误与限制": "只堆亮度会眩光与过热；色温混用会破坏氛围，参数须按规范校核。实际工程须按当地规范和专业设计人员的要求",
+        "实例": "名称：博物馆分层照明（类型性，不指定具体项目）；以天然光与人工光分层配合，突出展品并保护展品。此处仅列说明，不复制图像。",
+        "常见错误与限制": "只堆亮度会眩光与过热；色温混用会破坏氛围，参数须按规范校核。实际工程须按当地规范和专业设计人员的要求。",
         "一图": "见下方示意：人工光与天然光并用。",
-        "待核实": "所举照明实例的设计者与参数待核实。"
+        "待核实": "暂无已知待核实项。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><rect x='120' y='110' width='520' height='210' fill='none' stroke='var(--line)'/><circle cx='200' cy='150' r='16' fill='var(--accent-soft)' stroke='var(--accent)'/><polygon points='200,166 160,300 240,300' fill='var(--accent-soft)' opacity='0.6'/><rect x='420' y='240' width='160' height='40' fill='none' stroke='var(--muted)'/><text x='300' y='90' fill='var(--ink)'>人工光与天然光并用</text><text x='300' y='370' fill='var(--muted)'>示意图，非施工图</text></svg>"

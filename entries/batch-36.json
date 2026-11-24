@@ -197,22 +197,23 @@
       "overview": "它是最常见的开窗方式，靠窗布置工作位更有利，进深大处则需辅助照明。",
       "related": [],
       "sections": {
-        "原理": "侧墙上开出的窗把日光斜向送进室内，窗附近最亮，往里逐级变弱，方向感很强。",
+        "原理": "光从外墙竖向窗洞侧面进入，靠窗处亮、随进深逐渐衰减、光线方向明显；布窗宜与房间进深和窗地比配合。",
         "典型手法与适用条件": "按窗地比与朝向在侧墙开窗，配合遮阳与导光板，把工作位尽量靠窗布置。",
-        "实例": "名称：教室侧窗采光（类型性描述）；地点与设计者不适用。看光线如何由窗向室内衰减。",
+        "实例": "名称：教室侧窗采光（类型性，不指定具体项目）；光线由侧面窗洞射入、向室内深处逐渐衰减。此处仅列说明，不复制图像。",
         "常见错误与限制": "进深过大处采光不足；需按规范核算。实际工程须按当地规范和专业设计人员的要求",
         "一图": "见下方示意：侧窗与室内进深。",
-        "待核实": "「侧窗采光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+        "待核实": "“侧窗靠窗亮、随进深衰减、方向明显”仅由 Wikipedia（Daylighting）单平台直证；db-window 仅泛述“窗开洞引天然光”，不述侧窗方向性与进深衰减，第二直接源待补；实例为类型性。"
       },
       "svg": [
         "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 760 400'><line x1='80' y1='100' x2='680' y2='100' stroke='var(--ink)' stroke-width='3'/><line x1='80' y1='320' x2='680' y2='320' stroke='var(--ink)' stroke-width='3'/><rect x='240' y='100' width='18' height='120' fill='var(--accent-soft)' stroke='var(--accent)'/><line x1='258' y1='130' x2='520' y2='300' stroke='var(--accent)' stroke-width='2'/><text x='300' y='375' fill='var(--muted)'>示意图，非施工图</text><text x='40' y='40' fill='var(--ink)'>侧窗采光</text><circle cx='340' cy='60' r='5' fill='var(--accent)'/></svg>"
       ],
       "sources": [
         "wp-daylighting-architecture",
-        "wp-architectural-lighting-design"
+        "wp-architectural-lighting-design",
+        "db-window"
       ],
       "needs_verification": true,
-      "pending_notes": "「侧窗采光」的具体实例（名称、地点、设计者、年代）待补充独立来源。"
+      "pending_notes": "侧窗方向性/进深衰减仅维基单平台；db-window 过泛。"
     },
     {
       "id": "skylight",
