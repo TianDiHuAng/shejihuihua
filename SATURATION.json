@@ -1,6 +1,6 @@
 {
-  "SATURATED": true,
-  "consecutive_zero_gap_rounds": 3,
+  "SATURATED": false,
+  "consecutive_zero_gap_rounds": 0,
   "rounds": [
     {
       "round": 2,
@@ -1781,10 +1781,24 @@
         "pending_items": 138
       },
       "note": "garden-architecture upgraded; goal-period final round"
+    },
+    {
+      "round": 113,
+      "date": "2026-11-24",
+      "zero_gap": false,
+      "methods_used": [
+        "B1",
+        "B5",
+        "F"
+      ],
+      "new_gaps": {
+        "pending_items": 138
+      },
+      "note": "timeline added; L3 pilot reverted; SATURATION reconciled"
     }
   ],
-  "definition": "连续 3 轮七种缺口发现均无新缺口，且核心与重要条目均已达到 L2，才写 SATURATED=true",
-  "saturated_at_round": 50,
-  "saturated_date": "2026-11-23",
-  "exit_reason": "2026-11-23 用户明确要求“继续扩充”，按协议退出饱和回到正常循环"
+  "definition": "当连续 3 轮缺口发现零缺口、且所有重要条目达到 L2，可置 SATURATED=true；当前仍有 138 条诚实边界待核实，故为 false。",
+  "saturated_at_round": null,
+  "saturated_date": null,
+  "exit_reason": "2026-11-24 新目标“继续完成项目”：复核发现待核实 138>0，重置 SATURATED=false，继续以诚实边界推进与 L3 深度。"
 }

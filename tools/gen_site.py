@@ -80,6 +80,7 @@ def nav(depth=0):
         (f"{prefix}indexes.html", "索引"),
         (f"{prefix}sources.html", "来源"),
         (f"{prefix}coverage.html", "覆盖报告"),
+        (f"{prefix}timeline.html", "时间线"),
     ]
     return "<nav>" + "".join(f'<a href="{h}">{t}</a>' for h, t in links) + "</nav>"
 
@@ -239,6 +240,30 @@ def render_coverage(coverage, entries):
     write_page("coverage.html", shell("覆盖报告", "\n".join(body)))
 
 
+def render_timeline(coverage, entries):
+    order = ["古代", "中世纪", "文艺复兴至19世纪", "20世纪", "当代", "跨时期"]
+    by_id = {e["id"]: e for e in entries}
+    rows = coverage["entries"]
+    grouped = {p: [] for p in order}
+    for r in rows:
+        per = r.get("period", "跨时期")
+        grouped.setdefault(per, []).append(r)
+    body = ["<h1>时间线</h1>", '<p class="lead">按时期浏览条目（时期为大类，同一条目可能跨时期）。</p>']
+    for per in order + [p for p in grouped if p not in order]:
+        items = grouped.get(per, [])
+        if not items:
+            continue
+        body.append(f'<h2>{esc(per)}</h2><ul>')
+        for r in sorted(items, key=lambda x: x["id"]):
+            e = by_id.get(r["id"])
+            if e and r["id"] in by_id:
+                body.append(f'<li><a href="entries/{esc(r["id"])}.html">{esc(r["title"])}</a> <span class="tag">{esc(r.get("theme",""))}</span> <span class="tag">{esc(r.get("region",""))}</span></li>')
+            else:
+                body.append(f'<li>{esc(r["title"])}（待写）</li>')
+        body.append("</ul>")
+    write_page("timeline.html", shell("时间线", "\n".join(body)))
+
+
 def main():
     coverage = load_json("coverage.json")
     sources = load_json("data/sources.json")["sources"]
@@ -260,6 +285,7 @@ def main():
     render_indexes(coverage, entries)
     render_sources(sources)
     render_coverage(coverage, entries)
+    render_timeline(coverage, entries)
     print(f"generated site/: {len(entries)} entries, {len(sources)} sources")
 
 
